@@ -14,7 +14,13 @@ https://qlobbidev.s.llnwi.net/bpk-tv/QPANACTV/hls/index.m3u8
 #EXTINF:0 type="estream" channelId="-6" name="PE: Exitosa Televisión" group="PERU" logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2021/01/LOGO-EXITOSA-ROJO.png" tvg-country="PE", Exitosa Televisión
 https://qlobbidev.s.llnwi.net/bpk-tv/QXITOQTV/hls/index.m3u8
 
-#EXTINF:0 type="estream" channelId="-7" name="PE: Televisión Nacional del Perú - Internacional" group="PERU" logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" tvg-country="PE", TV Perú Internacional
+#EXTINF:0 type="estream" channelId="-7" name="PE: Televisión Nacional del Perú" group="PERU" logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" tvg-country="PE", TV Perú
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TVPERU/10-40-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVPERU_stream_p5&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1205591609&_cdn_session=79311363&_cdn_timestamp=1631969890&_cdn_token=f917e338ca01ab3709a6c250758b329945a7835a
+
+#EXTINF:0 type="estream" channelId="-7.1" name="PE: Televisión Nacional del Perú - Noticias" group="PERU" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/220px-TV_Per%C3%BA_Noticias_-_2019_logo.png" tvg-country="PE", TV Perú Noticas
+https://cdnh71.iblups.com/hls/RMuwrdk7M9.m3u8
+
+#EXTINF:0 type="estream" channelId="-7.2" name="PE: Televisión Nacional del Perú - Internacional" group="PERU" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/250px-TV_Per%C3%BA_Internacional_2019_-_copia.png" tvg-country="PE", TV Perú Internacional
 https://qlobbidev.s.llnwi.net/bpk-tv/QTVPEMTV/hls/index.m3u8
 
 #EXTINF:0 type="estream" channelId="-8" name="PE: Andina Televisión Sur" group="PERU" logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/ATV_Sur_-_2018_logo_%28final%29.png" tvg-country="PE", ATV Sur
@@ -29,32 +35,62 @@ https://qlobbidev.s.llnwi.net/bpk-tv/QATVHRTV/hls/index.m3u8
 #EXTINF:0 type="estream" channelId="-11" name="PE: Willax Televisión" group="PERU" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Willax_Televisi%C3%B3n_2020.png/245px-Willax_Televisi%C3%B3n_2020.png" tvg-country="PE", Willax Televisión
 https://qlobbidev.s.llnwi.net/bpk-tv/QWLLABTV/hls/index.m3u8
 
-#EXTINF:0 type="estream" channelId="-12" name="PE: Canal Identidad Peruana" group="PERU" logo="https://www.canalipe.tv/sites/default/themes/concise_drupal/static/media/header/canalipe.svg" tvg-country="PE", IPE Televisión
+#EXTINF:0 type="estream" channelId="-12" name="PE: Canal Identidad Peruana" group="PERU" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/190px-Identidad_Peruana_ipe_2020.png" tvg-country="PE", IPE Televisión
 https://qlobbidev.s.llnwi.net/ipe/hls/OVJNKV4pSr.m3u8
 
 #EXTINF:0 type="estream" channelId="-13" name="PE: Global Televisión" group="PERU" logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Global_TV_2019.png" tvg-country="PE", Global Televisión
 https://qlobbidev.s.llnwi.net/bpk-tv/QGLOBAHTV/hls/index.m3u8
 
-#EXTINF:0 type="estream" channelId="-14" name="PE: BH TV Nuestro canal " group="PERU" logo="https://bhtv.pe/wp-content/uploads/2020/08/descarga-4.jpg" tvg-country="PE", BH Televisión
+#EXTINF:0 type="estream" channelId="-14" name="PE: Radio Selva Televisión Moyobamba" group="PERU" logo="https://scontent.ftru4-2.fna.fbcdn.net/v/t1.6435-9/49714045_292621958064415_3620408988144762880_n.png?_nc_cat=106&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeEJ9urAxKXLue99u18JERVtjqTxG77d3bmOpPEbvt3duTu6bSfI-WkNiD8tX2GTx50&_nc_ohc=qqq1Q95mQD0AX8444QA&_nc_ht=scontent.ftru4-2.fna&oh=f1937859dcd0a10232775a7c0ebcbf99&oe=616B7431" tvg-country="PE", Radio Selva Televisión
+https://live.obslivestream.com:1936/selvatv/ngrp:selvatv_all/playlist.m3u8
+
+#EXTINF:0 type="estream" channelId="-15" name="PE: CR Televisión Moyobamba" group="PERU" logo="https://crtv.pe/wp-content/uploads/2020/08/LOGO-CR.png" tvg-country="PE", CR Televisión
+https://live.obslivestream.com:1936/crtv/ngrp:crtv_all/playlist.m3u8
+
+#EXTINF:0 type="estream" channelId="-16" name="PE: BH TV Nuestro canal" group="PERU" logo="https://bhtv.pe/wp-content/uploads/2020/08/descarga-4.jpg" tvg-country="PE", BH Televisión
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/BHTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DBHTV_stream_v0&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1205591609&_cdn_session=79104739&_cdn_timestamp=1631913302&_cdn_token=c194b9db94656c5ae415710d4b1d0c456bcc9fa1
 
-#EXTINF:0 type="estream" channelId="-15" name="MX: Azteca Corazón" group="MEXICO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/200px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" tvg-country="MX", Azteca Corazón
+#EXTINF:0 type="estream" channelId="-17" name="PE: USMPTV" group="PERU" logo="https://usmptv.pe/wp-content/uploads/2018/02/logo-home.png" tvg-country="PE", USMP Televisión
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/USMPTV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUSMPTV_stream_61&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1205591609&_cdn_session=79313811&_cdn_timestamp=1631970724&_cdn_token=69021929990b0351f8f7559806f2e87c9ec1e680
+
+#EXTINF:0 type="estream" channelId="-18" name="MX: Azteca Corazón" group="MEXICO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/200px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" tvg-country="MX", Azteca Corazón
 https://qlobbidev.s.llnwi.net/bpk-tv/AZCORAZON/hls/index.m3u8
 
-#EXTINF:0 type="estream" channelId="-16" name="COL: RCN Novelas" group="COLOMBIA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/RCN_Novelas_logo.svg/165px-RCN_Novelas_logo.svg.png" tvg-country="COL", RCN Novelas
+#EXTINF:0 type="estream" channelId="-19" name="COL: RCN Novelas" group="COLOMBIA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/RCN_Novelas_logo.svg/165px-RCN_Novelas_logo.svg.png" tvg-country="COL", RCN Novelas
 https://qlobbidev.s.llnwi.net/bpk-tv/RCNNOVELAS/hls/index.m3u8
 
-#EXTINF:0 type="estream" channelId="-17" name="USA: Pasiones" group="ESTADOS UNIDOS" logo="https://latam.tvpasiones.com/wp-content/uploads/2017/06/pasiones-logo-white.png" tvg-country="USA", Pasiones
+#EXTINF:0 type="estream" channelId="-20" name="USA: Pasiones" group="ESTADOS UNIDOS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/220px-Pasiones_Tv_logo.svg.png" tvg-country="USA", Pasiones
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PASIONES/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPASIONES_stream_42&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1205591609&_cdn_session=79302547&_cdn_timestamp=1631966787&_cdn_token=ac3e969650bfad28f18016c00d9daee467ac8677
 
-#EXTINF:0 type="estream" channelId="-18" name="MX: Estrellas" group="MEXICO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/180px-Las_Estrellas.svg.png" tvg-country="MX", Canal de las Estrellas
+#EXTINF:0 type="estream" channelId="-21" name="TUR: Kanal D Drama" group="TURQUIA" logo="https://www.kanalddrama.com/assets/img/logo/logo.png" tvg-country="TUR", Kanal D Drama
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/KANALD/10-40-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DKANALD_stream_b7&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1205591609&_cdn_session=79310603&_cdn_timestamp=1631969627&_cdn_token=3c0b03a4762ff43b36a1966bf1ae7309c370f821
+
+#EXTINF:0 type="estream" channelId="-22" name="MX: Estrellas" group="MEXICO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/180px-Las_Estrellas.svg.png" tvg-country="MX", Canal de las Estrellas
 https://qlobbidev.s.llnwi.net/bpk-tv/ESTRELLAS/hls/index.m3u8
 
-#EXTINF:0 type="estream" channelId="-19" name="AL: DW" group="ALEMANIA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/125px-Deutsche_Welle_symbol_2012.svg.png" tvg-country="AL", DW Televisión
+#EXTINF:0 type="estream" channelId="-23" name="ES: Hola TV" group="ESPAÑA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/220px-%C2%A1HOLA%21TVlogo.jpg" tvg-country="ES", Hola Televisión
+https://mdstrm.com/live-stream-playlist/5b8ff7b9d78b521f2ea819d7.m3u8?access_token=DSTa8e7881c9f2118f08d2376239f3292d8
+
+#EXTINF:0 type="estream" channelId="-24" name="AL: DW" group="ALEMANIA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/125px-Deutsche_Welle_symbol_2012.svg.png" tvg-country="AL", DW Televisión
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:0 type="estream" channelId="-20" name="USA: Sony" group="ESTADOS UNIDOS" logo="https://la.sonychannel.com/sites/la.set/files/sony_channel_logo.png" tvg-country="US", Sony Televisión
+#EXTINF:0 type="estream" channelId="-25" name="USA: Sony" group="ESTADOS UNIDOS" logo="https://la.sonychannel.com/sites/la.set/files/sony_channel_logo.png" tvg-country="US", Sony Televisión
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/SONY/10-hls/storage-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONY_stream_ew&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1205591609&_cdn_session=79103443&_cdn_timestamp=1631913094&_cdn_token=4dcade5cf115eae8ea8f3beaabda86c176615968&duration=8700&start=1631838300
 
-#EXTINF:0 type="estream" channelId="-21" name="COL: Telenostalgia" group="COLOMBIA" logo="http://canaltelenostalgia.com/wp-content/uploads/2017/08/cropped-cropped-logo-TNL-2014.png" tvg-country="COL", Canal Telenostalgia
+#EXTINF:0 type="estream" channelId="-26" name="COL: Telenostalgia" group="COLOMBIA" logo="http://canaltelenostalgia.com/wp-content/uploads/2017/08/cropped-cropped-logo-TNL-2014.png" tvg-country="COL", Canal Telenostalgia
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TELENOSTALGIA/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELENOSTALGIA_stream_or&_cdn_hls_media=1&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1205591609&_cdn_session=79098643&_cdn_timestamp=1631912423&_cdn_token=9ff9a8ab55d877e76fbc49cbc8e7658381693b32
+
+#EXTINF:0 type="estream" channelId="-200" name="PE: Radio Latina Moyobamba" group="PERU" logo="http://www.radiolatinaperu.com/imagenes/Radio_Latina_FM_San_Matin_3545.jpg" tvg-country="PE", Radio Latina 90.1 FM
+http://server.sonandoahora.com:8016/;
+
+#EXTINF:0 type="estream" channelId="-201" name="PE: Radio Atmósfera - Moyobamba" group="PERU" logo="https://www.radioatmosfera.pe/wp-content/uploads/2021/04/cropped-logo.png" tvg-country="PE", Radio Atmósfera 92.3 FM
+https://eu2.serviaudio.com:10936/;
+
+#EXTINF:0 type="estream" channelId="-202" name="PE: Radio Interactiva - Moyobamba" group="PERU" logo="https://interactivaradio.com/wp-content/uploads/2020/06/logo-blanco-2.png" tvg-country="PE", Interactiva Radio 92.9 FM
+https://radio.livestreamingmundial.com/8070/stream
+
+#EXTINF:0 type="estream" channelId="-203" name="PE: Radio Selva - Moyobamba" group="PERU" logo="https://radioselvatv.pe/wp-content/uploads/2020/12/LOGO-web.png" tvg-country="PE", Radio Selva 93.7 FM
+https://radio.livestreamingmundial.com/8092/stream
+
+#EXTINF:0 type="estream" channelId="-204" name="PE: Radio Poder - Moyobamba" group="PERU" logo="https://www.radiopowertv.com/wp-content/uploads/2021/06/Radio-PowerCON-SOMBRA.png" tvg-country="PE", Radio Power
+https://dattavolt.com/8038/stream
