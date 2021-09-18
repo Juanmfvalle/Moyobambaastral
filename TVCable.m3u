@@ -41,32 +41,47 @@ https://qlobbidev.s.llnwi.net/ipe/hls/OVJNKV4pSr.m3u8
 #EXTINF:0 type="estream" channelId="13" name="PE: Global Televisión" group="PERU" logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Global_TV_2019.png" tvg-country="PE", Global Televisión
 https://qlobbidev.s.llnwi.net/bpk-tv/QGLOBAHTV/hls/index.m3u8
 
-#EXTINF:0 type="estream" channelId="14" name="PE: GORESAM TV" group="PERU" logo="https://scontent.flim6-2.fna.fbcdn.net/v/t39.30808-6/214612472_111202994571795_1260835455401495687_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEH8mnEtZznrb1eJ8aA7qhQkCaqk1zQUiSQJqqTXNBSJCMaqmf267S0SnIgOPhRTyg&_nc_ohc=KMINDFitqFkAX9eYBUq&_nc_ht=scontent.flim6-2.fna&oh=81b54bfbe35dec8e7e9c03ad86ce074f&oe=614AE2EE" tvg-country="PE", Gobierno Regional de San Martín Television
+#EXTINF:0 type="estream" channelId="14" name="PE: GORESAM TV; Moyobamba" group="PERU" logo="https://scontent.flim6-2.fna.fbcdn.net/v/t39.30808-6/214612472_111202994571795_1260835455401495687_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEH8mnEtZznrb1eJ8aA7qhQkCaqk1zQUiSQJqqTXNBSJCMaqmf267S0SnIgOPhRTyg&_nc_ohc=KMINDFitqFkAX9eYBUq&_nc_ht=scontent.flim6-2.fna&oh=81b54bfbe35dec8e7e9c03ad86ce074f&oe=614AE2EE" tvg-country="PE", Gobierno Regional de San Martín Television
 https://5ee0faac3bbae.streamlock.net/8074/8074/playlist.m3u8
 
-#EXTINF:0 type="estream" channelId="15" name="PE: Radio Selva Televisión; Moyobamba" group="PERU" logo="https://scontent.ftru4-2.fna.fbcdn.net/v/t1.6435-9/49714045_292621958064415_3620408988144762880_n.png?_nc_cat=106&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeEJ9urAxKXLue99u18JERVtjqTxG77d3bmOpPEbvt3duTu6bSfI-WkNiD8tX2GTx50&_nc_ohc=qqq1Q95mQD0AX8444QA&_nc_ht=scontent.ftru4-2.fna&oh=f1937859dcd0a10232775a7c0ebcbf99&oe=616B7431" tvg-country="PE", Radio Selva Televisión
+#EXTINF:0 type="estream" channelId="15" name="PE: Autentica TV; Moyobamba" group="PERU" logo="https://autenticatv.pe/wp-content/uploads/elementor/thumbs/logo-web-p0scrodaccuo3azseya6goo9amqk8hdut43cbpqb5s.png" tvg-country="PE", Autentica Television
+https://live.obslivestream.com:1936/autenticatv/ngrp:autenticatv_all/playlist.m3u8
+
+#EXTINF:0 type="estream" channelId="16" name="PE: Radio Selva Televisión; Moyobamba" group="PERU" logo="https://scontent.ftru4-2.fna.fbcdn.net/v/t1.6435-9/49714045_292621958064415_3620408988144762880_n.png?_nc_cat=106&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeEJ9urAxKXLue99u18JERVtjqTxG77d3bmOpPEbvt3duTu6bSfI-WkNiD8tX2GTx50&_nc_ohc=qqq1Q95mQD0AX8444QA&_nc_ht=scontent.ftru4-2.fna&oh=f1937859dcd0a10232775a7c0ebcbf99&oe=616B7431" tvg-country="PE", Radio Selva Televisión
 https://live.obslivestream.com:1936/selvatv/ngrp:selvatv_all/playlist.m3u8
 
-#EXTINF:0 type="estream" channelId="21" name="PE: Genios Televisión; Moyobamba" group="PERU" logo="https://geniostv.pe/wp-content/uploads/elementor/thumbs/logo1-owwv8s2bj3n5pt0mp3hyr19gl2fgmiryif81auhse8.png" tvg-country="PE", Genios Televisión
+#EXTINF:0 type="estream" channelId="17" name="PE: Genios Televisión; Moyobamba" group="PERU" logo="https://geniostv.pe/wp-content/uploads/elementor/thumbs/logo1-owwv8s2bj3n5pt0mp3hyr19gl2fgmiryif81auhse8.png" tvg-country="PE", Genios Televisión
 https://live.obslivestream.com:1936/geniostv/ngrp:geniostv_all/chunklist_w633993838_b461000.m3u8
 
-#EXTINF:0 type="estream" channelId="22" name="PE: Planeta Televisión; Moyobamba" group="PERU" logo="https://moyobamba.com/wp-content/uploads/2021/06/LOGO-PLANETA-HD.png" tvg-country="PE", Planeta Televisión
+#EXTINF:0 type="estream" channelId="18" name="PE: Planeta Televisión; Moyobamba" group="PERU" logo="https://moyobamba.com/wp-content/uploads/2021/06/LOGO-PLANETA-HD.png" tvg-country="PE", Planeta Televisión
 https://live.obslivestream.com:1936/planetatv/ngrp:planetatv_all/playlist.m3u8
 
-#EXTINF:0 type="estream" channelId="23" name="PE: CR Televisión; Moyobamba" group="PERU" logo="https://crtv.pe/wp-content/uploads/2020/08/LOGO-CR.png" tvg-country="PE", CR Televisión
+#EXTINF:0 type="estream" channelId="19" name="PE: CR Televisión; Moyobamba" group="PERU" logo="https://crtv.pe/wp-content/uploads/2020/08/LOGO-CR.png" tvg-country="PE", CR Televisión
 https://live.obslivestream.com:1936/crtv/ngrp:crtv_all/playlist.m3u8
 
-#EXTINF:0 type="estream" channelId="24" name="PE: OK Tv; Soritor" group="PERU" logo="https://playmax.tv/wp-content/uploads/2021/07/OKTVLOG.jpg" tvg-country="PE", OK Television
+#EXTINF:0 type="estream" channelId="20" name="PE: OK Tv" group="PERU" logo="https://playmax.tv/wp-content/uploads/2021/07/OKTVLOG.jpg" tvg-country="PE", OK Television; Soritor
 https://stmv.panel.grupolimalive.com/wesdey3/wesdey3/playlist.m3u8
 
-#EXTINF:0 type="estream" channelId="25" name="PE: Antares TV Moyobamba" group="PERU" logo="https://moyobamba.com/wp-content/uploads/2020/05/antarestv-mnc.png" tvg-country="PE", Antares Television; Moyobamba
+#EXTINF:0 type="estream" channelId="21" name="PE: Via Alto Mayo Televisión" group="PERU" logo="https://www.viaaltomayotv.com/panel/archivos-panel/logotipo/Logo-ii86i-1.png" tvg-country="PE", Via Alto Mayo Televisión; Rioja
+https://live.obslivestream.com:1936/viaaltomayo/ngrp:viaaltomayo_all/playlist.m3u8
+
+#EXTINF:0 type="estream" channelId="22" name="PE: Master Television" group="PERU" logo="https://scontent.ftru4-2.fna.fbcdn.net/v/t1.6435-9/28167333_148528182486613_3705061062677102592_n.png?_nc_cat=109&ccb=1-5&_nc_sid=174925&_nc_eui2=AeEnTW8q7r756M1tLV61xBlMMgh6AZFiYCgyCHoBkWJgKG40IkNWSyMF0Ov3hOKw6zI&_nc_ohc=Xv-tE8bD9bYAX8Etb9U&tn=wh1zeoKE4EbtGfG-&_nc_ht=scontent.ftru4-2.fna&oh=88572b1a29931d8dd9812c720cd5b27a&oe=616C1179" tvg-country="PE", Master Television
+https://tv.oyotunstream.com:1936/master/master/playlist.m3u8
+
+#EXTINF:0 type="estream" channelId="23" name="PE: Antares TV Moyobamba" group="PERU" logo="https://moyobamba.com/wp-content/uploads/2020/05/antarestv-mnc.png" tvg-country="PE", Antares Television; Moyobamba
 https://live.obslivestream.com:1936/cdeportivo/ngrp:cdeportivo_all/playlist.m3u8
 
-#EXTINF:0 type="estream" channelId="25.1" name="PE: Antares TV Tarapoto" group="PERU" logo="http://antarestvradio.com/images/logo.png" tvg-country="PE", Antares Television; Tarapoto
+#EXTINF:0 type="estream" channelId="23.1" name="PE: Antares TV Tarapoto" group="PERU" logo="http://antarestvradio.com/images/logo.png" tvg-country="PE", Antares Television; Tarapoto
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 
-#EXTINF:0 type="estream" channelId="26" name="PE: Via Alto Mayo Televisión" group="PERU" logo="https://www.viaaltomayotv.com/panel/archivos-panel/logotipo/Logo-ii86i-1.png" tvg-country="PE", Via Alto Mayo Televisión; Rioja
-https://live.obslivestream.com:1936/viaaltomayo/ngrp:viaaltomayo_all/playlist.m3u8
+#EXTINF:0 type="estream" channelId="24" name="PE: Vía Televisión" group="PERU" logo="https://scontent.ftru4-2.fna.fbcdn.net/v/t31.18172-1/cp0/c9.9.50.50a/p68x68/14991346_1230989473640632_3506190252092307348_o.png?_nc_cat=1&ccb=1-5&_nc_sid=dbb9e7&_nc_eui2=AeFbXl_rCaNnjsh0hnWt_YdMaCrnuyU0-rNoKue7JTT6syWr8Os3xBowZjpRpwrYWOs&_nc_ohc=qyToQHw5mHkAX_JjL2S&tn=wh1zeoKE4EbtGfG-&_nc_ht=scontent.ftru4-2.fna&edm=ALBQ-WsEAAAA&oh=1e9cf400e14e8f338350305f2a32c0fa&oe=616BF8A1" tvg-country="PE", Vía Televisión; Tarapoto
+https://5ee0faac3bbae.streamlock.net/viatv2021/viatv2021/playlist.m3u8
+
+#EXTINF:0 type="estream" channelId="25" name="PE: TV Tropical" group="PERU" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILk-jY1zv90_cln_aHQVRYRO2VEvi7tDWxSaym1za11jp-36P7vBbdIQKJbWOEj9Na4Y&usqp=CAU" tvg-country="PE", TV Tropical; Tarapoto
+https://5ee0faac3bbae.streamlock.net/raditropical/raditropical/playlist.m3u8
+
+#EXTINF:0 type="estream" channelId="26" name="PE: TV Tarapoto" group="PERU" logo="https://www.televisiontarapoto.pe/wp-content/uploads/2019/05/logo_tv_tarapoto.png" tvg-country="PE", TV Tarapoto
+https://5ee0faac3bbae.streamlock.net/televisiontpp/televisiontpp/playlist.m3u8
 
 #EXTINF:0 type="estream" channelId="27" name="MX: Azteca Corazón" group="MEXICO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/200px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" tvg-country="MX", Azteca Corazón
 https://qlobbidev.s.llnwi.net/bpk-tv/AZCORAZON/hls/index.m3u8
@@ -183,7 +198,7 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/MASCHIC/10-20-hls/live.m3u8?_
 https://qlobbidev.s.llnwi.net/bpk-tv/QGOURNTV/hls/index.m3u8
 
 #EXTINF:0 type="estream" channelId="72" name="COL: Telenostalgia" group="COLOMBIA" logo="http://canaltelenostalgia.com/wp-content/uploads/2017/08/cropped-cropped-logo-TNL-2014.png" tvg-country="COL", Canal Telenostalgia
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TELENOSTALGIA/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELENOSTALGIA_stream_or&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1205591609&_cdn_session=79399131&_cdn_timestamp=1631993292&_cdn_token=d4c45a7d8b315565b7d5edffab3030feaecda478
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TELENOSTALGIA/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELENOSTALGIA_stream_or&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1205591609&_cdn_session=79702683&_cdn_timestamp=1632074392&_cdn_token=1422c340a2a45acd743e4fb37127d89f391fd77d
 
 #EXTINF:0 type="estream" channelId="80" name="CA: Love Nature" group="CANADA" logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png" tvg-country="AL", Love Nature Televisión
 https://qlobbidev.s.llnwi.net/bpk-tv/LOVENATURE/hls/index.m3u8
