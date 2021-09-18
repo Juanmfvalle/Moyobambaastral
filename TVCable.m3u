@@ -1,101 +1,140 @@
 #EXTM3U
-#EXTINF:0 type="estream" channelId="-2" name="PE: Frecuencia Latina" group="PERU" logo="https://www.latina.pe/wp-content/themes/genesis-latina/img/latina_pe.png" tvg-country="PE", Latina Televisión
+#EXTINF:0 type="estream" channelId="2" name="PE: Frecuencia Latina" group="PERU" logo="https://www.latina.pe/wp-content/themes/genesis-latina/img/latina_pe.png" tvg-country="PE", Latina Televisión
 https://qlobbidev.s.llnwi.net/bpk-tv/QLATINOTV/hls/index.m3u8
 
-#EXTINF:0 type="estream" channelId="-3" name="PE: La Tele - Televisión" group="PERU" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/1920px-LaTele_Per%C3%BA_2018_Logo.png" tvg-country="PE", La Tele
+#EXTINF:0 type="estream" channelId="3" name="PE: La Tele - Televisión" group="PERU" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/1920px-LaTele_Per%C3%BA_2018_Logo.png" tvg-country="PE", La Tele
 https://qlobbidev.s.llnwi.net/bpk-tv/QLATELDTV/hls/index.m3u8
 
-#EXTINF:0 type="estream" channelId="-4" name="PE: América Televisión" group="PERU" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/150px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" tvg-country="PE", America Televisión
+#EXTINF:0 type="estream" channelId="4" name="PE: América Televisión" group="PERU" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/150px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" tvg-country="PE", America Televisión
 https://qlobbidev.s.llnwi.net/bpk-tv/QAMRCATV/hls/index.m3u8
 
-#EXTINF:0 type="estream" channelId="-5" name="PE: Panamericana Televisión" group="PERU" logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" tvg-country="PE", Panamericana Televisión
+#EXTINF:0 type="estream" channelId="5" name="PE: Panamericana Televisión" group="PERU" logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" tvg-country="PE", Panamericana Televisión
 https://qlobbidev.s.llnwi.net/bpk-tv/QPANACTV/hls/index.m3u8
 
-#EXTINF:0 type="estream" channelId="-6" name="PE: Exitosa Televisión" group="PERU" logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2021/01/LOGO-EXITOSA-ROJO.png" tvg-country="PE", Exitosa Televisión
+#EXTINF:0 type="estream" channelId="6" name="PE: Exitosa Televisión" group="PERU" logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2021/01/LOGO-EXITOSA-ROJO.png" tvg-country="PE", Exitosa Televisión
 https://qlobbidev.s.llnwi.net/bpk-tv/QXITOQTV/hls/index.m3u8
 
-#EXTINF:0 type="estream" channelId="-7" name="PE: Televisión Nacional del Perú" group="PERU" logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" tvg-country="PE", TV Perú
+#EXTINF:0 type="estream" channelId="7" name="PE: Televisión Nacional del Perú" group="PERU" logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" tvg-country="PE", TV Perú
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TVPERU/10-40-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVPERU_stream_p5&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1205591609&_cdn_session=79311363&_cdn_timestamp=1631969890&_cdn_token=f917e338ca01ab3709a6c250758b329945a7835a
 
-#EXTINF:0 type="estream" channelId="-7.1" name="PE: Televisión Nacional del Perú - Noticias" group="PERU" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/220px-TV_Per%C3%BA_Noticias_-_2019_logo.png" tvg-country="PE", TV Perú Noticas
+#EXTINF:0 type="estream" channelId="7.1" name="PE: Televisión Nacional del Perú - Noticias" group="PERU" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/220px-TV_Per%C3%BA_Noticias_-_2019_logo.png" tvg-country="PE", TV Perú Noticas
 https://cdnh71.iblups.com/hls/RMuwrdk7M9.m3u8
 
-#EXTINF:0 type="estream" channelId="-7.2" name="PE: Televisión Nacional del Perú - Internacional" group="PERU" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/250px-TV_Per%C3%BA_Internacional_2019_-_copia.png" tvg-country="PE", TV Perú Internacional
+#EXTINF:0 type="estream" channelId="7.2" name="PE: Televisión Nacional del Perú - Internacional" group="PERU" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/250px-TV_Per%C3%BA_Internacional_2019_-_copia.png" tvg-country="PE", TV Perú Internacional
 https://qlobbidev.s.llnwi.net/bpk-tv/QTVPEMTV/hls/index.m3u8
 
-#EXTINF:0 type="estream" channelId="-8" name="PE: Andina Televisión Sur" group="PERU" logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/ATV_Sur_-_2018_logo_%28final%29.png" tvg-country="PE", ATV Sur
+#EXTINF:0 type="estream" channelId="8" name="PE: Andina Televisión Sur" group="PERU" logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/ATV_Sur_-_2018_logo_%28final%29.png" tvg-country="PE", ATV Sur
 https://qlobbidev.s.llnwi.net/bpk-tv/QATVSRTV/hls/index.m3u8
 
-#EXTINF:0 type="estream" channelId="-9" name="PE: Andina Televisión" group="PERU" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" tvg-country="PE", ATV
+#EXTINF:0 type="estream" channelId="9" name="PE: Andina Televisión" group="PERU" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" tvg-country="PE", ATV
 https://qlobbidev.s.llnwi.net/bpk-tv/QATVSBTV/hls/index.m3u8
 
-#EXTINF:0 type="estream" channelId="-10" name="PE: Andina Televisión Plus" group="PERU" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/175px-ATV%2B_logo_2020.png" tvg-country="PE", ATV +
+#EXTINF:0 type="estream" channelId="10" name="PE: Andina Televisión Plus" group="PERU" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/175px-ATV%2B_logo_2020.png" tvg-country="PE", ATV +
 https://qlobbidev.s.llnwi.net/bpk-tv/QATVHRTV/hls/index.m3u8
 
-#EXTINF:0 type="estream" channelId="-11" name="PE: Willax Televisión" group="PERU" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Willax_Televisi%C3%B3n_2020.png/245px-Willax_Televisi%C3%B3n_2020.png" tvg-country="PE", Willax Televisión
+#EXTINF:0 type="estream" channelId="11" name="PE: Willax Televisión" group="PERU" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Willax_Televisi%C3%B3n_2020.png/245px-Willax_Televisi%C3%B3n_2020.png" tvg-country="PE", Willax Televisión
 https://qlobbidev.s.llnwi.net/bpk-tv/QWLLABTV/hls/index.m3u8
 
-#EXTINF:0 type="estream" channelId="-12" name="PE: Canal Identidad Peruana" group="PERU" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/190px-Identidad_Peruana_ipe_2020.png" tvg-country="PE", IPE Televisión
+#EXTINF:0 type="estream" channelId="12" name="PE: Canal Identidad Peruana" group="PERU" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/190px-Identidad_Peruana_ipe_2020.png" tvg-country="PE", IPE Televisión
 https://qlobbidev.s.llnwi.net/ipe/hls/OVJNKV4pSr.m3u8
 
-#EXTINF:0 type="estream" channelId="-13" name="PE: Global Televisión" group="PERU" logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Global_TV_2019.png" tvg-country="PE", Global Televisión
+#EXTINF:0 type="estream" channelId="13" name="PE: Global Televisión" group="PERU" logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Global_TV_2019.png" tvg-country="PE", Global Televisión
 https://qlobbidev.s.llnwi.net/bpk-tv/QGLOBAHTV/hls/index.m3u8
 
-#EXTINF:0 type="estream" channelId="-16" name="PE: Contacto Deportivo" group="PERU" logo="https://playmax.tv/wp-content/uploads/2020/10/contactodeportivo-logo.gif" tvg-country="PE", Contacto Deportivo Television
+#EXTINF:0 type="estream" channelId="16" name="PE: Contacto Deportivo TV; Moyobamba" group="PERU" logo="https://playmax.tv/wp-content/uploads/2020/10/contactodeportivo-logo.gif" tvg-country="PE", Contacto Deportivo Television
 https://live.obslivestream.com:1936/cdeportivo/ngrp:cdeportivo_all/playlist.m3u8
 
-#EXTINF:0 type="estream" channelId="-17" name="PE: Radio Selva Televisión Moyobamba" group="PERU" logo="https://scontent.ftru4-2.fna.fbcdn.net/v/t1.6435-9/49714045_292621958064415_3620408988144762880_n.png?_nc_cat=106&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeEJ9urAxKXLue99u18JERVtjqTxG77d3bmOpPEbvt3duTu6bSfI-WkNiD8tX2GTx50&_nc_ohc=qqq1Q95mQD0AX8444QA&_nc_ht=scontent.ftru4-2.fna&oh=f1937859dcd0a10232775a7c0ebcbf99&oe=616B7431" tvg-country="PE", Radio Selva Televisión
+#EXTINF:0 type="estream" channelId="17" name="PE: Radio Selva Televisión; Moyobamba" group="PERU" logo="https://scontent.ftru4-2.fna.fbcdn.net/v/t1.6435-9/49714045_292621958064415_3620408988144762880_n.png?_nc_cat=106&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeEJ9urAxKXLue99u18JERVtjqTxG77d3bmOpPEbvt3duTu6bSfI-WkNiD8tX2GTx50&_nc_ohc=qqq1Q95mQD0AX8444QA&_nc_ht=scontent.ftru4-2.fna&oh=f1937859dcd0a10232775a7c0ebcbf99&oe=616B7431" tvg-country="PE", Radio Selva Televisión
 https://live.obslivestream.com:1936/selvatv/ngrp:selvatv_all/playlist.m3u8
 
-#EXTINF:0 type="estream" channelId="-18" name="PE: OK Tv" group="PERU" logo="https://playmax.tv/wp-content/uploads/2021/07/OKTVLOG.jpg" tvg-country="PE", OK Television
-https://stmv.panel.grupolimalive.com/wesdey3/wesdey3/playlist.m3u8
-
-#EXTINF:0 type="estream" channelId="-21" name="PE: Genios Televisión Moyobamba" group="PERU" logo="https://geniostv.pe/wp-content/uploads/elementor/thumbs/logo1-owwv8s2bj3n5pt0mp3hyr19gl2fgmiryif81auhse8.png" tvg-country="PE", Genios Televisión
+#EXTINF:0 type="estream" channelId="21" name="PE: Genios Televisión; Moyobamba" group="PERU" logo="https://geniostv.pe/wp-content/uploads/elementor/thumbs/logo1-owwv8s2bj3n5pt0mp3hyr19gl2fgmiryif81auhse8.png" tvg-country="PE", Genios Televisión
 https://live.obslivestream.com:1936/geniostv/ngrp:geniostv_all/chunklist_w633993838_b461000.m3u8
 
-#EXTINF:0 type="estream" channelId="-22" name="PE: Planeta Televisión Moyobamba" group="PERU" logo="https://moyobamba.com/wp-content/uploads/2021/06/LOGO-PLANETA-HD.png" tvg-country="PE", Planeta Televisión
+#EXTINF:0 type="estream" channelId="22" name="PE: Planeta Televisión; Moyobamba" group="PERU" logo="https://moyobamba.com/wp-content/uploads/2021/06/LOGO-PLANETA-HD.png" tvg-country="PE", Planeta Televisión
 https://live.obslivestream.com:1936/planetatv/ngrp:planetatv_all/playlist.m3u8
 
-#EXTINF:0 type="estream" channelId="-23" name="PE: CR Televisión Moyobamba" group="PERU" logo="https://crtv.pe/wp-content/uploads/2020/08/LOGO-CR.png" tvg-country="PE", CR Televisión
+#EXTINF:0 type="estream" channelId="23" name="PE: CR Televisión; Moyobamba" group="PERU" logo="https://crtv.pe/wp-content/uploads/2020/08/LOGO-CR.png" tvg-country="PE", CR Televisión
 https://live.obslivestream.com:1936/crtv/ngrp:crtv_all/playlist.m3u8
 
-#EXTINF:0 type="estream" channelId="-30" name="PE: BH TV Nuestro canal" group="PERU" logo="https://bhtv.pe/wp-content/uploads/2020/08/descarga-4.jpg" tvg-country="PE", BH Televisión
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/BHTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DBHTV_stream_v0&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1205591609&_cdn_session=79104739&_cdn_timestamp=1631913302&_cdn_token=c194b9db94656c5ae415710d4b1d0c456bcc9fa1
+#EXTINF:0 type="estream" channelId="24" name="PE: OK Tv; Soritor" group="PERU" logo="https://playmax.tv/wp-content/uploads/2021/07/OKTVLOG.jpg" tvg-country="PE", OK Television
+https://stmv.panel.grupolimalive.com/wesdey3/wesdey3/playlist.m3u8
 
-#EXTINF:0 type="estream" channelId="-31" name="PE: USMPTV" group="PERU" logo="https://usmptv.pe/wp-content/uploads/2018/02/logo-home.png" tvg-country="PE", USMP Televisión
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/USMPTV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUSMPTV_stream_61&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1205591609&_cdn_session=79313811&_cdn_timestamp=1631970724&_cdn_token=69021929990b0351f8f7559806f2e87c9ec1e680
-
-#EXTINF:0 type="estream" channelId="-32" name="MX: Azteca Corazón" group="MEXICO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/200px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" tvg-country="MX", Azteca Corazón
+#EXTINF:0 type="estream" channelId="27" name="MX: Azteca Corazón" group="MEXICO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/200px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" tvg-country="MX", Azteca Corazón
 https://qlobbidev.s.llnwi.net/bpk-tv/AZCORAZON/hls/index.m3u8
 
-#EXTINF:0 type="estream" channelId="-33" name="COL: RCN Novelas" group="COLOMBIA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/RCN_Novelas_logo.svg/165px-RCN_Novelas_logo.svg.png" tvg-country="COL", RCN Novelas
+#EXTINF:0 type="estream" channelId="28" name="COL: RCN Novelas" group="COLOMBIA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/RCN_Novelas_logo.svg/165px-RCN_Novelas_logo.svg.png" tvg-country="COL", RCN Novelas
 https://qlobbidev.s.llnwi.net/bpk-tv/RCNNOVELAS/hls/index.m3u8
 
-#EXTINF:0 type="estream" channelId="-34" name="USA: Pasiones" group="ESTADOS UNIDOS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/220px-Pasiones_Tv_logo.svg.png" tvg-country="USA", Pasiones
+#EXTINF:0 type="estream" channelId="29" name="USA: Pasiones" group="ESTADOS UNIDOS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/220px-Pasiones_Tv_logo.svg.png" tvg-country="USA", Pasiones
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PASIONES/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPASIONES_stream_42&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1205591609&_cdn_session=79302547&_cdn_timestamp=1631966787&_cdn_token=ac3e969650bfad28f18016c00d9daee467ac8677
 
-#EXTINF:0 type="estream" channelId="-35" name="TUR: Kanal D Drama" group="TURQUIA" logo="https://www.kanalddrama.com/assets/img/logo/logo.png" tvg-country="TUR", Kanal D Drama
+#EXTINF:0 type="estream" channelId="30" name="TUR: Kanal D Drama" group="TURQUIA" logo="https://www.kanalddrama.com/assets/img/logo/logo.png" tvg-country="TUR", Kanal D Drama
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/KANALD/10-40-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DKANALD_stream_b7&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1205591609&_cdn_session=79310603&_cdn_timestamp=1631969627&_cdn_token=3c0b03a4762ff43b36a1966bf1ae7309c370f821
 
-#EXTINF:0 type="estream" channelId="-36" name="MX: Estrellas" group="MEXICO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/180px-Las_Estrellas.svg.png" tvg-country="MX", Canal de las Estrellas
-https://qlobbidev.s.llnwi.net/bpk-tv/ESTRELLAS/hls/index.m3u8
-
-#EXTINF:0 type="estream" channelId="-37" name="ES: Hola TV" group="ESPAÑA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/220px-%C2%A1HOLA%21TVlogo.jpg" tvg-country="ES", Hola Televisión
+#EXTINF:0 type="estream" channelId="31" name="ES: Hola TV" group="ESPAÑA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/220px-%C2%A1HOLA%21TVlogo.jpg" tvg-country="ES", Hola Televisión
 https://mdstrm.com/live-stream-playlist/5b8ff7b9d78b521f2ea819d7.m3u8?access_token=DSTa8e7881c9f2118f08d2376239f3292d8
 
-#EXTINF:0 type="estream" channelId="-38" name="AL: DW" group="ALEMANIA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/125px-Deutsche_Welle_symbol_2012.svg.png" tvg-country="AL", DW Televisión
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:0 type="estream" channelId="32" name="USA: Telemundo Internacional" group="ESTADOS UNIDOS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" tvg-country="USA", Telemundo Internacional
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TELEMUNDO/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEMUNDO_stream_fp&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1205591609&_cdn_session=79436627&_cdn_timestamp=1631999827&_cdn_token=1c2a30214a8352b43631c47604f152799e2126a5
 
-#EXTINF:0 type="estream" channelId="-39" name="USA: Sony" group="ESTADOS UNIDOS" logo="https://la.sonychannel.com/sites/la.set/files/sony_channel_logo.png" tvg-country="US", Sony Televisión
+#EXTINF:0 type="estream" channelId="33" name="MX: Estrellas" group="MEXICO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/180px-Las_Estrellas.svg.png" tvg-country="MX", Canal de las Estrellas
+https://qlobbidev.s.llnwi.net/bpk-tv/ESTRELLAS/hls/index.m3u8
+
+#EXTINF:0 type="estream" channelId="34" name="MX: Azteca Mundo" group="MEXICO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TV_Azteca_Mundo_logo.svg/200px-TV_Azteca_Mundo_logo.svg.png" tvg-country="MX", Azteca Mundo Televisión
+https://qlobbidev.s.llnwi.net/bpk-tv/AZMUNDO/hls/index.m3u8
+
+#EXTINF:0 type="estream" channelId="35" name="MX: Azteca Clic" group="MEXICO" logo="https://www.eluniversal.com.mx/sites/default/files/2016/11/09/ALFOMBRA-E13-EU101116-2_Drupal%20Main%20Image.var_1478751216.jpg" tvg-country="MX", Azteca Clic Televisión
+https://qlobbidev.s.llnwi.net/bpk-tv/AZLIC/hls/index.m3u8
+
+#EXTINF:0 type="estream" channelId="36" name="MX: Azteca Cinema" group="MEXICO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TV_Azteca_Cinema_logo.svg/245px-TV_Azteca_Cinema_logo.svg.png" tvg-country="MX", Azteca Cinema
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AZCINEMA/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZCINEMA_stream_eg&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1205591609&_cdn_session=79434411&_cdn_timestamp=1631999407&_cdn_token=40dbbed1fba6862eede511d9160aadb2bce924c1
+
+#EXTINF:0 type="estream" channelId="37" name="USA: Sony" group="ESTADOS UNIDOS" logo="https://la.sonychannel.com/sites/la.set/files/sony_channel_logo.png" tvg-country="US", Sony Televisión
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/SONY/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONY_stream_ew&_cdn_hls_media=1&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1205591609&_cdn_session=79400659&_cdn_timestamp=1631993496&_cdn_token=5814d043860f347833f2e60150cec81a1cb2d003
 
-#EXTINF:0 type="estream" channelId="-40" name="COL: Telenostalgia" group="COLOMBIA" logo="http://canaltelenostalgia.com/wp-content/uploads/2017/08/cropped-cropped-logo-TNL-2014.png" tvg-country="COL", Canal Telenostalgia
+#EXTINF:0 type="estream" channelId="38" name="USA: Warner Channel" group="ESTADOS UNIDOS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/125px-Warner2018LA.png" tvg-country="US", Warner Channel
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/WARNERCHANNEL/10-40-hls-vtt/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWARNERCHANNEL_stream_2g&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1205591609&_cdn_session=79440355&_cdn_timestamp=1632000503&_cdn_token=d3f1bb439a3139823f216512a13bea27b227030f
+
+#EXTINF:0 type="estream" channelId="39" name="USA: Star Channel" group="ESTADOS UNIDOS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" tvg-country="US", Star Channel
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/STARCHANNEL/10-40-hls-vtt/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXCHANNEL_stream_1f&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1205591609&_cdn_session=79442515&_cdn_timestamp=1632000787&_cdn_token=e9e8eed7b54a7d6772e5e67b67281aeb50575ef2
+
+#EXTINF:0 type="estream" channelId="40" name="USA: Star Life Channel" group="ESTADOS UNIDOS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1024px-Star_Life_2021.svg.png" tvg-country="US", Star Life Channel
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/STARLIFE/10-40-hls-vtt/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXLIFE_stream_w7&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1205591609&_cdn_session=79443667&_cdn_timestamp=1632000958&_cdn_token=90b3f1f488244089a707f1ccf56d75a3c9d3e322
+
+#EXTINF:0 type="estream" channelId="41" name="USA: FX Channel" group="ESTADOS UNIDOS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/120px-FX_International_logo.svg.png" tvg-country="US", FX
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FX/10-40-hls-vtt/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFX_stream_gv&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1205591609&_cdn_session=79445331&_cdn_timestamp=1632001166&_cdn_token=81078b09d99a822851ef40bb0bf0ca6ad33f750f
+
+#EXTINF:0 type="estream" channelId="42" name="USA: FXM Channel" group="ESTADOS UNIDOS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/130px-FX_Movies_logo.svg.png" tvg-country="US", FXM
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FXM/10-40-hls-vtt/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFXM_stream_p5&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1205591609&_cdn_session=79447227&_cdn_timestamp=1632001436&_cdn_token=c034416a16b79e26316aad4b67ad0e8b88287ca8
+
+#EXTINF:0 type="estream" channelId="43" name="USA: AXN Channel" group="ESTADOS UNIDOS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png" tvg-country="US", AXN
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AXN/10-40-hls-vtt/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAXN_stream_wo&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1205591609&_cdn_session=79449971&_cdn_timestamp=1632001610&_cdn_token=e3ef21ee9a659b9d7b7395da03df89ada8a74217
+
+#EXTINF:0 type="estream" channelId="44" name="USA: AXN Channel" group="ESTADOS UNIDOS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/167px-Universal_TV_logo.svg.png" tvg-country="US", Universal Channel
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/UNIVERSALCH/10-40-hls-vtt/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUNIVERSAL_stream_4o&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1205591609&_cdn_session=79453011&_cdn_timestamp=1632001860&_cdn_token=7b155f38c3e8127dd34d8b29ad5b9022c9d9e254
+
+#EXTINF:0 type="estream" channelId="60" name="AL: DW" group="ALEMANIA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/125px-Deutsche_Welle_symbol_2012.svg.png" tvg-country="AL", DW Televisión
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:0 type="estream" channelId="61" name="COL: Telenostalgia" group="COLOMBIA" logo="http://canaltelenostalgia.com/wp-content/uploads/2017/08/cropped-cropped-logo-TNL-2014.png" tvg-country="COL", Canal Telenostalgia
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TELENOSTALGIA/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELENOSTALGIA_stream_or&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1205591609&_cdn_session=79399131&_cdn_timestamp=1631993292&_cdn_token=d4c45a7d8b315565b7d5edffab3030feaecda478
 
-#EXTINF:0 type="estream" channelId="-200" name="PE: Radio Latina Moyobamba" group="PERU" logo="http://www.radiolatinaperu.com/imagenes/Radio_Latina_FM_San_Matin_3545.jpg" tvg-country="PE", Radio Latina 90.1 FM
+#EXTINF:0 type="estream" channelId="100" name="PE: BH TV Nuestro canal" group="PERU" logo="https://bhtv.pe/wp-content/uploads/2020/08/descarga-4.jpg" tvg-country="PE", BH Televisión
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/BHTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DBHTV_stream_v0&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1205591609&_cdn_session=79104739&_cdn_timestamp=1631913302&_cdn_token=c194b9db94656c5ae415710d4b1d0c456bcc9fa1
+
+#EXTINF:0 type="estream" channelId="101" name="PE: USMPTV" group="PERU" logo="https://usmptv.pe/wp-content/uploads/2018/02/logo-home.png" tvg-country="PE", USMP Televisión
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/USMPTV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUSMPTV_stream_61&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1205591609&_cdn_session=79313811&_cdn_timestamp=1631970724&_cdn_token=69021929990b0351f8f7559806f2e87c9ec1e680
+
+#EXTINF:0 type="estream" channelId="102" name="PE: Conectad2TV" group="PERU" logo="https://conecta2peru.com/wp-content/uploads/2020/04/logo.png" tvg-country="PE", Conectad2 Televisión
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/CONECTADA2/10-40-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCONECTADA2_stream_so&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1205591609&_cdn_session=79422403&_cdn_timestamp=1631997700&_cdn_token=2f143db0685fe792903b9bdd92f040138605527f
+
+#EXTINF:0 type="estream" channelId="103" name="PE: UCI Noticias TV" group="PERU" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/UCI_Un_Canal_Inteligente.jpg/600px-UCI_Un_Canal_Inteligente.jpg" tvg-country="PE", UCI Noticias Televisión
+https://qlobbidev.s.llnwi.net/uci/uci2/index.m3u8
+
+#EXTINF:0 type="estream" channelId="200" name="PE: Radio Latina Moyobamba" group="PERU" logo="http://www.radiolatinaperu.com/imagenes/Radio_Latina_FM_San_Matin_3545.jpg" tvg-country="PE", Radio Latina 90.1 FM
 http://server.sonandoahora.com:8016/;
 
-#EXTINF:0 type="estream" channelId="-201" name="PE: Radio Atmósfera - Moyobamba" group="PERU" logo="https://www.radioatmosfera.pe/wp-content/uploads/2021/04/cropped-logo.png" tvg-country="PE", Radio Atmósfera 92.3 FM
+#EXTINF:0 type="estream" channelId="201" name="PE: Radio Atmósfera - Moyobamba" group="PERU" logo="https://www.radioatmosfera.pe/wp-content/uploads/2021/04/cropped-logo.png" tvg-country="PE", Radio Atmósfera 92.3 FM
 https://eu2.serviaudio.com:10936/;
 
 #EXTINF:0 type="estream" channelId="-202" name="PE: Radio Interactiva - Moyobamba" group="PERU" logo="https://interactivaradio.com/wp-content/uploads/2020/06/logo-blanco-2.png" tvg-country="PE", Interactiva Radio 92.9 FM
