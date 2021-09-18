@@ -134,17 +134,23 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/CONECTADA2/10-40-hls/live.m3u
 #EXTINF:0 type="estream" channelId="103" name="PE: UCI Noticias TV" group="PERU" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/UCI_Un_Canal_Inteligente.jpg/600px-UCI_Un_Canal_Inteligente.jpg" tvg-country="PE", UCI Noticias Televisión
 https://qlobbidev.s.llnwi.net/uci/uci2/index.m3u8
 
-#EXTINF:0 type="estream" channelId="200" name="PE: Radio Latina Moyobamba" group="PERU" logo="http://www.radiolatinaperu.com/imagenes/Radio_Latina_FM_San_Matin_3545.jpg" tvg-country="PE", Radio Latina 90.1 FM
+#EXTINF:0 type="estream" channelId="103" name="PE: Best Cable TV" group="PERU" logo="https://bestcableperu.com.pe/img/logo/logo.png" tvg-country="PE", Best Cable Televisión
+https://tv.siete.us:19360/bestcable/bestcable/index.m3u8
+
+#EXTINF:0 type="estream" channelId="204" name="VE: Venevision" group="VENEZUELA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/90px-Logotipo_de_Venevisi%C3%B3n.svg.png" tvg-country="VE", Venevisión
+http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:0 type="estream" channelId="300" name="PE: Radio Latina Moyobamba" group="PERU" logo="http://www.radiolatinaperu.com/imagenes/Radio_Latina_FM_San_Matin_3545.jpg" tvg-country="PE", Radio Latina 90.1 FM
 http://server.sonandoahora.com:8016/;
 
-#EXTINF:0 type="estream" channelId="201" name="PE: Radio Atmósfera - Moyobamba" group="PERU" logo="https://www.radioatmosfera.pe/wp-content/uploads/2021/04/cropped-logo.png" tvg-country="PE", Radio Atmósfera 92.3 FM
+#EXTINF:0 type="estream" channelId="301" name="PE: Radio Atmósfera - Moyobamba" group="PERU" logo="https://www.radioatmosfera.pe/wp-content/uploads/2021/04/cropped-logo.png" tvg-country="PE", Radio Atmósfera 92.3 FM
 https://eu2.serviaudio.com:10936/;
 
-#EXTINF:0 type="estream" channelId="-202" name="PE: Radio Interactiva - Moyobamba" group="PERU" logo="https://interactivaradio.com/wp-content/uploads/2020/06/logo-blanco-2.png" tvg-country="PE", Interactiva Radio 92.9 FM
+#EXTINF:0 type="estream" channelId="-302" name="PE: Radio Interactiva - Moyobamba" group="PERU" logo="https://interactivaradio.com/wp-content/uploads/2020/06/logo-blanco-2.png" tvg-country="PE", Interactiva Radio 92.9 FM
 https://radio.livestreamingmundial.com/8070/stream
 
-#EXTINF:0 type="estream" channelId="-203" name="PE: Radio Selva - Moyobamba" group="PERU" logo="https://radioselvatv.pe/wp-content/uploads/2020/12/LOGO-web.png" tvg-country="PE", Radio Selva 93.7 FM
+#EXTINF:0 type="estream" channelId="-303" name="PE: Radio Selva - Moyobamba" group="PERU" logo="https://radioselvatv.pe/wp-content/uploads/2020/12/LOGO-web.png" tvg-country="PE", Radio Selva 93.7 FM
 https://radio.livestreamingmundial.com/8092/stream
 
-#EXTINF:0 type="estream" channelId="-204" name="PE: Radio Poder - Moyobamba" group="PERU" logo="https://www.radiopowertv.com/wp-content/uploads/2021/06/Radio-PowerCON-SOMBRA.png" tvg-country="PE", Radio Power
+#EXTINF:0 type="estream" channelId="-304" name="PE: Radio Poder - Moyobamba" group="PERU" logo="https://www.radiopowertv.com/wp-content/uploads/2021/06/Radio-PowerCON-SOMBRA.png" tvg-country="PE", Radio Power
 https://dattavolt.com/8038/stream
