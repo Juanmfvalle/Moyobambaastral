@@ -55,19 +55,25 @@ https://5ee0faac3bbae.streamlock.net/viatv2021/viatv2021/playlist.m3u8
 https://5ee0faac3bbae.streamlock.net/raditropical/raditropical/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | TV Tarapoto" tvg-name="PE | TV Tarapoto" channelId="26" tvg-logo="https://www.televisiontarapoto.pe/wp-content/uploads/2019/05/logo_tv_tarapoto.png" group-title="Tarapoto - Peru", TV Tarapoto
 https://5ee0faac3bbae.streamlock.net/televisiontpp/televisiontpp/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | Tpto Channel" tvg-name="PE | Tpto Channel" channelId="27" tvg-logo="https://www.tpto.org/assets/images/logosmal4.png" group-title="Tarapoto - Peru", Tarapoto Channel
+https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Millenium TV" tvg-name="PE | Millenium TV" channelId="27" tvg-logo="http://milleniumrtv.com/logo.png" group-title="Lamas - Peru", Millenium TV; Lamas
 https://5ee0faac3bbae.streamlock.net/millenium/millenium/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Radio Tv Juanjui" tvg-name="PE | Radio Tv Juanjui" channelId="28" tvg-logo="https://radiotvjuanjui.com/wp-content/uploads/2021/01/Siralogo.png" group-title="Juanjui - Peru", Radio TV Juanjui
 https://rtmp02.portalexpress.es/radiotvjuanjui/radiotvjuanjui/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Ribereña TV" tvg-name="PE | Ribereña TV" channelId="29" tvg-logo="https://riberenapucallpa.com/wp-content/uploads/2021/06/cropped-PUCALLPA-260.png" group-title="Regiones del Peru", Ribereña TV; Pucallpa
-https://inliveserver.com:1936/19020/19020/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Loreto TV" tvg-name="PE | Loreto TV" channelId="30" tvg-logo="https://scontent.ftru4-2.fna.fbcdn.net/v/t1.6435-9/92165115_3655755134498522_3111812666193084416_n.png?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeG9G4VST0rkDsTb7w890UBubqF2c7WmOVFuoXZztaY5UTmmZkqC6kPvE5mzO85MXP8&_nc_ohc=2tVhpd9IaIcAX-Kamwv&_nc_ht=scontent.ftru4-2.fna&oh=487749dfbae48599aae7961f81d23ebf&oe=616AACB4" group-title="Regiones del Peru", Loreto TV; Iquitos
+#EXTINF:-1 tvg-id="PE | Super Canal" tvg-name="PE | Super Canal" channelId="29" tvg-logo="http://www.supercanal.com.pe/wp-content/uploads/2020/10/favicon-super-2020.png" group-title="Regiones del Peru", Super Canal Televisión; Yurimaguas
+https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8
+#EXTINF:-1 tvg-id="PE | Uranio TV" tvg-name="PE | Uranio TV" channelId="30" tvg-logo="https://uraniotv.com/wp-content/uploads/2020/07/logo.png" group-title="Regiones del Peru", Uranio TV; Yurimaguas
+https://tv.siete.us/uraniotv/uraniotv/index.m3u8
+#EXTINF:-1 tvg-id="PE | Loreto TV" tvg-name="PE | Loreto TV" channelId="31" tvg-logo="https://scontent.ftru4-2.fna.fbcdn.net/v/t1.6435-9/92165115_3655755134498522_3111812666193084416_n.png?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeG9G4VST0rkDsTb7w890UBubqF2c7WmOVFuoXZztaY5UTmmZkqC6kPvE5mzO85MXP8&_nc_ohc=2tVhpd9IaIcAX-Kamwv&_nc_ht=scontent.ftru4-2.fna&oh=487749dfbae48599aae7961f81d23ebf&oe=616AACB4" group-title="Regiones del Peru", Loreto TV; Iquitos
 https://srv1.zcast.com.br/diego3282/diego3282/playlist.m3u8
-#EXTINF:-1 type="estream" channelId="31" name="MX: Azteca Corazón" group="MEXICO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/200px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" tvg-country="MX", Azteca Corazón
+#EXTINF:-1 tvg-id="PE | Ribereña TV" tvg-name="PE | Ribereña TV" channelId="32" tvg-logo="https://riberenapucallpa.com/wp-content/uploads/2021/06/cropped-PUCALLPA-260.png" group-title="Regiones del Peru", Ribereña TV; Pucallpa
+https://inliveserver.com:1936/19020/19020/playlist.m3u8
+#EXTINF:-1 type="estream" channelId="33" name="MX: Azteca Corazón" group="MEXICO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/200px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" tvg-country="MX", Azteca Corazón
 https://qlobbidev.s.llnwi.net/bpk-tv/AZCORAZON/hls/index.m3u8
-#EXTINF:-1 type="estream" channelId="32" name="COL: RCN Novelas" group="COLOMBIA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/RCN_Novelas_logo.svg/165px-RCN_Novelas_logo.svg.png" tvg-country="COL", RCN Novelas
+#EXTINF:-1 type="estream" channelId="34" name="COL: RCN Novelas" group="COLOMBIA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/RCN_Novelas_logo.svg/165px-RCN_Novelas_logo.svg.png" tvg-country="COL", RCN Novelas
 https://qlobbidev.s.llnwi.net/bpk-tv/RCNNOVELAS/hls/index.m3u8
-#EXTINF:-1 type="estream" channelId="33" name="USA: Pasiones" group="ESTADOS UNIDOS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/220px-Pasiones_Tv_logo.svg.png" tvg-country="USA", Pasiones
+#EXTINF:-1 type="estream" channelId="34" name="USA: Pasiones" group="ESTADOS UNIDOS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/220px-Pasiones_Tv_logo.svg.png" tvg-country="USA", Pasiones
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PASIONES/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPASIONES_stream_42&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1363493619&_cdn_session=79849571&_cdn_timestamp=1632115476&_cdn_token=aadd1207bb34171ac5249297dbc150139817c07d
 #EXTINF:-1 type="estream" channelId="34" name="TUR: Kanal D Drama" group="TURQUIA" logo="https://www.kanalddrama.com/assets/img/logo/logo.png" tvg-country="TUR", Kanal D Drama
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/KANALD/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DKANALD_stream_b7&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1363493619&_cdn_session=79849323&_cdn_timestamp=1632115239&_cdn_token=ec369fb56ac28c28d7c7584f5bb292f5d0b69966
