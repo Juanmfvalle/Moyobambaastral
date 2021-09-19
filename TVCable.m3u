@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:0 type="estream" channelId="2" name="PE: Frecuencia Latina" group="PERU" logo="https://www.latina.pe/wp-content/themes/genesis-latina/img/latina_pe.png" tvg-country="PE", Latina Televisión
+#EXTINF:-1 tvg-id="PE | Frecuencia Latina" tvg-name="PE | Frecuencia Latina" channelId="2" tvg-logo="https://www.latina.pe/wp-content/themes/genesis-latina/img/latina_pe.png" group-title="PERU", PE | Latina Televisión 
 https://qlobbidev.s.llnwi.net/bpk-tv/QLATINOTV/hls/index.m3u8
 
-#EXTINF:0 type="estream" channelId="3" name="PE: La Tele - Televisión" group="PERU" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/1920px-LaTele_Per%C3%BA_2018_Logo.png" tvg-country="PE", La Tele
+#EXTINF:-1 tvg-id="PE | La Tele" tvg-name="PE | La Tele" channelId="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/1920px-LaTele_Per%C3%BA_2018_Logo.png"  group-title="PERU", PE | La Tele
 https://qlobbidev.s.llnwi.net/bpk-tv/QLATELDTV/hls/index.m3u8
 
 #EXTINF:0 type="estream" channelId="4" name="PE: América Televisión" group="PERU" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/150px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" tvg-country="PE", America Televisión
