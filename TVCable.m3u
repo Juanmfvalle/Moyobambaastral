@@ -13,7 +13,7 @@ https://qlobbidev.s.llnwi.net/bpk-tv/QXITOQTV/hls/index.m3u8
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TVPERU/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVPERU_stream_p5&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1363493619&_cdn_session=79924883&_cdn_timestamp=1632142917&_cdn_token=061b00157722731a4ac00219101cfbc591c376a1
 #EXTINF:-1 tvg-id="PE | Television Nacional del Peru - Noticias" tvg-name="PE | Television Nacional del Peru - Noticias" channelId="7.1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/220px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="PERU", TV Peru Noticias
 https://cdnh71.iblups.com/hls/RMuwrdk7M9.m3u8
-#EXTINF:-1 tvg-id="PE | Television Nacional del Peru - Internacional" tvg-name="PE | Television Nacional del Peru - Internacional" channelId="7.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/250px-TV_Per%C3%BA_Internacional_2019_-_copia.png" group-title="PERU", TV Perú Internacional
+#EXTINF:-1 tvg-id="PE | Television Nacional del Peru - Internacional" tvg-name="PE | Television Nacional del Peru - Internacional" channelId="7.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/250px-TV_Per%C3%BA_Internacional_2019_-_copia.png" group-title="INTERNACIONALES", TV Perú Internacional
 https://qlobbidev.s.llnwi.net/bpk-tv/QTVPEMTV/hls/index.m3u8
 #EXTINF:-1 tvg-id="PE | Andina Television Sur" tvg-name="PE | Andina Television Sur" channelId="8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/ATV_Sur_-_2018_logo_%28final%29.png" group-title="PERU", ATV Sur
 https://qlobbidev.s.llnwi.net/bpk-tv/QATVSRTV/hls/index.m3u8
@@ -27,29 +27,29 @@ https://qlobbidev.s.llnwi.net/bpk-tv/QWLLABTV/hls/index.m3u8
 https://qlobbidev.s.llnwi.net/ipe/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-id="PE | Global Television" tvg-name="PE | Global Television" channelId="13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Global_TV_2019.png" group-title="PERU", Global Televisión
 https://qlobbidev.s.llnwi.net/bpk-tv/QGLOBAHTV/hls/index.m3u8
-#EXTINF:-1 tvg-id="PE | Gobierno Regional de San Martin TV" tvg-name="PE | Gobierno Regional de San Martin TV" channelId="14" tvg-logo="https://scontent.flim6-2.fna.fbcdn.net/v/t39.30808-6/214612472_111202994571795_1260835455401495687_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEH8mnEtZznrb1eJ8aA7qhQkCaqk1zQUiSQJqqTXNBSJCMaqmf267S0SnIgOPhRTyg&_nc_ohc=KMINDFitqFkAX9eYBUq&_nc_ht=scontent.flim6-2.fna&oh=81b54bfbe35dec8e7e9c03ad86ce074f&oe=614AE2EE" group-title="Moyobamba - Peru", Gobierno Regional de San Martín Televisión
+#EXTINF:-1 tvg-id="PE | Gobierno Regional de San Martin TV" tvg-name="PE | Gobierno Regional de San Martin TV" channelId="14" tvg-logo="https://scontent.flim6-2.fna.fbcdn.net/v/t39.30808-6/214612472_111202994571795_1260835455401495687_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEH8mnEtZznrb1eJ8aA7qhQkCaqk1zQUiSQJqqTXNBSJCMaqmf267S0SnIgOPhRTyg&_nc_ohc=KMINDFitqFkAX9eYBUq&_nc_ht=scontent.flim6-2.fna&oh=81b54bfbe35dec8e7e9c03ad86ce074f&oe=614AE2EE" group-title="LOCALES", Gobierno Regional de San Martín Televisión
 https://5ee0faac3bbae.streamlock.net/8074/8074/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Autentica TV" tvg-name="PE | Autentica TV" channelId="15" tvg-logo="https://autenticatv.pe/wp-content/uploads/elementor/thumbs/logo-web-p0scrodaccuo3azseya6goo9amqk8hdut43cbpqb5s.png" group-title="Moyobamba - Peru", Auténtica Televisión
+#EXTINF:-1 tvg-id="PE | Autentica TV" tvg-name="PE | Autentica TV" channelId="15" tvg-logo="https://autenticatv.pe/wp-content/uploads/elementor/thumbs/logo-web-p0scrodaccuo3azseya6goo9amqk8hdut43cbpqb5s.png" group-title="LOCALES", Auténtica Televisión
 https://live.obslivestream.com:1936/autenticatv/ngrp:autenticatv_all/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Radio Selva TV" tvg-name="PE | Radio Selva TV" channelId="16" tvg-logo="https://scontent.ftru4-2.fna.fbcdn.net/v/t1.6435-9/49714045_292621958064415_3620408988144762880_n.png?_nc_cat=106&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeEJ9urAxKXLue99u18JERVtjqTxG77d3bmOpPEbvt3duTu6bSfI-WkNiD8tX2GTx50&_nc_ohc=qqq1Q95mQD0AX8444QA&_nc_ht=scontent.ftru4-2.fna&oh=f1937859dcd0a10232775a7c0ebcbf99&oe=616B7431" group-title="Moyobamba - Peru", Radio Selva Televisión
+#EXTINF:-1 tvg-id="PE | Radio Selva TV" tvg-name="PE | Radio Selva TV" channelId="16" tvg-logo="https://scontent.ftru4-2.fna.fbcdn.net/v/t1.6435-9/49714045_292621958064415_3620408988144762880_n.png?_nc_cat=106&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeEJ9urAxKXLue99u18JERVtjqTxG77d3bmOpPEbvt3duTu6bSfI-WkNiD8tX2GTx50&_nc_ohc=qqq1Q95mQD0AX8444QA&_nc_ht=scontent.ftru4-2.fna&oh=f1937859dcd0a10232775a7c0ebcbf99&oe=616B7431" group-title="LOCALES", Radio Selva Televisión
 https://live.obslivestream.com:1936/selvatv/ngrp:selvatv_all/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Genios TV" tvg-name="PE | Genios TV" channelId="17" tvg-logo="https://geniostv.pe/wp-content/uploads/elementor/thumbs/logo1-owwv8s2bj3n5pt0mp3hyr19gl2fgmiryif81auhse8.png" group-title="Moyobamba - Peru", Genios Televisión
+#EXTINF:-1 tvg-id="PE | Genios TV" tvg-name="PE | Genios TV" channelId="17" tvg-logo="https://geniostv.pe/wp-content/uploads/elementor/thumbs/logo1-owwv8s2bj3n5pt0mp3hyr19gl2fgmiryif81auhse8.png" group-title="LOCALES", Genios Televisión
 https://live.obslivestream.com:1936/geniostv/ngrp:geniostv_all/chunklist_w633993838_b461000.m3u8
-#EXTINF:-1 tvg-id="PE | Planeta TV" tvg-name="PE | Planeta TV" channelId="18" tvg-logo="https://moyobamba.com/wp-content/uploads/2021/06/LOGO-PLANETA-HD.png" group-title="Moyobamba - Peru", Planeta Televisión
+#EXTINF:-1 tvg-id="PE | Planeta TV" tvg-name="PE | Planeta TV" channelId="18" tvg-logo="https://moyobamba.com/wp-content/uploads/2021/06/LOGO-PLANETA-HD.png" group-title="LOCALES", Planeta Televisión
 https://live.obslivestream.com:1936/planetatv/ngrp:planetatv_all/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | CR TV" tvg-name="PE | CR TV" channelId="19" tvg-logo="https://crtv.pe/wp-content/uploads/2020/08/LOGO-CR.png" group-title="Moyobamba - Peru", CR Televisión
+#EXTINF:-1 tvg-id="PE | CR TV" tvg-name="PE | CR TV" channelId="19" tvg-logo="https://crtv.pe/wp-content/uploads/2020/08/LOGO-CR.png" group-title="LOCALES", CR Televisión
 https://live.obslivestream.com:1936/crtv/ngrp:crtv_all/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Ok TV" tvg-name="PE | Ok TV" channelId="20" tvg-logo="https://playmax.tv/wp-content/uploads/2021/07/OKTVLOG.jpg" group-title="Soritor - Peru", OK Televisión
+#EXTINF:-1 tvg-id="PE | Ok TV" tvg-name="PE | Ok TV" channelId="20" tvg-logo="https://playmax.tv/wp-content/uploads/2021/07/OKTVLOG.jpg" group-title="PROVINCIALES", OK Televisión; Soritor
 https://stmv.panel.grupolimalive.com/wesdey3/wesdey3/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Via Alto Mayo TV" tvg-name="PE | Via Alto Mayo TV" channelId="21" tvg-logo="https://www.viaaltomayotv.com/panel/archivos-panel/logotipo/Logo-ii86i-1.png" group-title="Rioja - Peru", Via Alto Mayo Televisión
+#EXTINF:-1 tvg-id="PE | Via Alto Mayo TV" tvg-name="PE | Via Alto Mayo TV" channelId="21" tvg-logo="https://www.viaaltomayotv.com/panel/archivos-panel/logotipo/Logo-ii86i-1.png" group-title="PROVINCIALES", Via Alto Mayo Televisión
 https://live.obslivestream.com:1936/viaaltomayo/ngrp:viaaltomayo_all/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Master TV" tvg-name="PE | Master TV" channelId="22" tvg-logo="https://scontent.ftru4-2.fna.fbcdn.net/v/t1.6435-9/28167333_148528182486613_3705061062677102592_n.png?_nc_cat=109&ccb=1-5&_nc_sid=174925&_nc_eui2=AeEnTW8q7r756M1tLV61xBlMMgh6AZFiYCgyCHoBkWJgKG40IkNWSyMF0Ov3hOKw6zI&_nc_ohc=Xv-tE8bD9bYAX8Etb9U&tn=wh1zeoKE4EbtGfG-&_nc_ht=scontent.ftru4-2.fna&oh=88572b1a29931d8dd9812c720cd5b27a&oe=616C1179" group-title="Tarapoto - Peru", Master Televisión
+#EXTINF:-1 tvg-id="PE | Master TV" tvg-name="PE | Master TV" channelId="22" tvg-logo="https://scontent.ftru4-2.fna.fbcdn.net/v/t1.6435-9/28167333_148528182486613_3705061062677102592_n.png?_nc_cat=109&ccb=1-5&_nc_sid=174925&_nc_eui2=AeEnTW8q7r756M1tLV61xBlMMgh6AZFiYCgyCHoBkWJgKG40IkNWSyMF0Ov3hOKw6zI&_nc_ohc=Xv-tE8bD9bYAX8Etb9U&tn=wh1zeoKE4EbtGfG-&_nc_ht=scontent.ftru4-2.fna&oh=88572b1a29931d8dd9812c720cd5b27a&oe=616C1179" group-title="PROVINCIALES", Master Televisión
 https://tv.oyotunstream.com:1936/master/master/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Antares TV Moyobamba" tvg-name="PE | Antares TV Moyobamba" channelId="23" tvg-logo="https://moyobamba.com/wp-content/uploads/2020/05/antarestv-mnc.png" group-title="Moyobamba - Peru", Antares Televisión
+#EXTINF:-1 tvg-id="PE | Antares TV Moyobamba" tvg-name="PE | Antares TV Moyobamba" channelId="23" tvg-logo="https://moyobamba.com/wp-content/uploads/2020/05/antarestv-mnc.png" group-title="LOCALES", Antares Televisión
 https://live.obslivestream.com:1936/cdeportivo/ngrp:cdeportivo_all/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Antares TV Tarapoto" tvg-name="PE | Antares TV Tarapoto" channelId="23.1" tvg-logo="http://antarestvradio.com/images/logo.png" group-title="Tarapoto - Peru", Antares Televisión
+#EXTINF:-1 tvg-id="PE | Antares TV Tarapoto" tvg-name="PE | Antares TV Tarapoto" channelId="23.1" tvg-logo="http://antarestvradio.com/images/logo.png" group-title="PROVINCIALES", Antares Televisión; Tarapoto
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Via Television" tvg-name="PE | Via Television" channelId="24" tvg-logo="https://scontent.ftru4-2.fna.fbcdn.net/v/t31.18172-1/cp0/c9.9.50.50a/p68x68/14991346_1230989473640632_3506190252092307348_o.png?_nc_cat=1&ccb=1-5&_nc_sid=dbb9e7&_nc_eui2=AeFbXl_rCaNnjsh0hnWt_YdMaCrnuyU0-rNoKue7JTT6syWr8Os3xBowZjpRpwrYWOs&_nc_ohc=qyToQHw5mHkAX_JjL2S&tn=wh1zeoKE4EbtGfG-&_nc_ht=scontent.ftru4-2.fna&edm=ALBQ-WsEAAAA&oh=1e9cf400e14e8f338350305f2a32c0fa&oe=616BF8A1" group-title="Tarapoto - Peru", Vía Televisión; Tarapoto
+#EXTINF:-1 tvg-id="PE | Via Television" tvg-name="PE | Via Television" channelId="24" tvg-logo="https://scontent.ftru4-2.fna.fbcdn.net/v/t31.18172-1/cp0/c9.9.50.50a/p68x68/14991346_1230989473640632_3506190252092307348_o.png?_nc_cat=1&ccb=1-5&_nc_sid=dbb9e7&_nc_eui2=AeFbXl_rCaNnjsh0hnWt_YdMaCrnuyU0-rNoKue7JTT6syWr8Os3xBowZjpRpwrYWOs&_nc_ohc=qyToQHw5mHkAX_JjL2S&tn=wh1zeoKE4EbtGfG-&_nc_ht=scontent.ftru4-2.fna&edm=ALBQ-WsEAAAA&oh=1e9cf400e14e8f338350305f2a32c0fa&oe=616BF8A1" group-title="PROVINCIALES", Vía Televisión; Tarapoto
 https://5ee0faac3bbae.streamlock.net/viatv2021/viatv2021/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | TV Tropical" tvg-name="PE | TV Tropical" channelId="25" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILk-jY1zv90_cln_aHQVRYRO2VEvi7tDWxSaym1za11jp-36P7vBbdIQKJbWOEj9Na4Y&usqp=CAU" group-title="Tarapoto - Peru", TV Tropical; Tarapoto
 https://5ee0faac3bbae.streamlock.net/raditropical/raditropical/playlist.m3u8
@@ -57,17 +57,17 @@ https://5ee0faac3bbae.streamlock.net/raditropical/raditropical/playlist.m3u8
 https://5ee0faac3bbae.streamlock.net/televisiontpp/televisiontpp/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Tpto Channel" tvg-name="PE | Tpto Channel" channelId="27" tvg-logo="https://www.tpto.org/assets/images/logosmal4.png" group-title="Tarapoto - Peru", Tarapoto Channel
 https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Millenium TV" tvg-name="PE | Millenium TV" channelId="28" tvg-logo="http://milleniumrtv.com/logo.png" group-title="Lamas - Peru", Millenium TV; Lamas
+#EXTINF:-1 tvg-id="PE | Millenium TV" tvg-name="PE | Millenium TV" channelId="28" tvg-logo="http://milleniumrtv.com/logo.png" group-title="PROVINCIALES", Millenium TV; Lamas
 https://5ee0faac3bbae.streamlock.net/millenium/millenium/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Radio Tv Juanjui" tvg-name="PE | Radio Tv Juanjui" channelId="29" tvg-logo="https://radiotvjuanjui.com/wp-content/uploads/2021/01/Siralogo.png" group-title="Juanjui - Peru", Radio TV Juanjui
+#EXTINF:-1 tvg-id="PE | Radio Tv Juanjui" tvg-name="PE | Radio Tv Juanjui" channelId="29" tvg-logo="https://radiotvjuanjui.com/wp-content/uploads/2021/01/Siralogo.png" group-title="PROVINCIALES", Radio TV Juanjui
 https://rtmp02.portalexpress.es/radiotvjuanjui/radiotvjuanjui/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Super Canal" tvg-name="PE | Super Canal" channelId="30" tvg-logo="http://www.supercanal.com.pe/wp-content/uploads/2020/10/favicon-super-2020.png" group-title="Regiones del Peru", Super Canal Televisión; Yurimaguas
+#EXTINF:-1 tvg-id="PE | Super Canal" tvg-name="PE | Super Canal" channelId="30" tvg-logo="http://www.supercanal.com.pe/wp-content/uploads/2020/10/favicon-super-2020.png" group-title="REGIONALES", Super Canal Televisión; Yurimaguas
 https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8
-#EXTINF:-1 tvg-id="PE | Uranio TV" tvg-name="PE | Uranio TV" channelId="31" tvg-logo="https://uraniotv.com/wp-content/uploads/2020/07/logo.png" group-title="Regiones del Peru", Uranio TV; Yurimaguas
+#EXTINF:-1 tvg-id="PE | Uranio TV" tvg-name="PE | Uranio TV" channelId="31" tvg-logo="https://uraniotv.com/wp-content/uploads/2020/07/logo.png" group-title="REGIONALES", Uranio TV; Yurimaguas
 https://tv.siete.us/uraniotv/uraniotv/index.m3u8
-#EXTINF:-1 tvg-id="PE | Loreto TV" tvg-name="PE | Loreto TV" channelId="32" tvg-logo="https://scontent.ftru4-2.fna.fbcdn.net/v/t1.6435-9/92165115_3655755134498522_3111812666193084416_n.png?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeG9G4VST0rkDsTb7w890UBubqF2c7WmOVFuoXZztaY5UTmmZkqC6kPvE5mzO85MXP8&_nc_ohc=2tVhpd9IaIcAX-Kamwv&_nc_ht=scontent.ftru4-2.fna&oh=487749dfbae48599aae7961f81d23ebf&oe=616AACB4" group-title="Regiones del Peru", Loreto TV; Iquitos
+#EXTINF:-1 tvg-id="PE | Loreto TV" tvg-name="PE | Loreto TV" channelId="32" tvg-logo="https://scontent.ftru4-2.fna.fbcdn.net/v/t1.6435-9/92165115_3655755134498522_3111812666193084416_n.png?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeG9G4VST0rkDsTb7w890UBubqF2c7WmOVFuoXZztaY5UTmmZkqC6kPvE5mzO85MXP8&_nc_ohc=2tVhpd9IaIcAX-Kamwv&_nc_ht=scontent.ftru4-2.fna&oh=487749dfbae48599aae7961f81d23ebf&oe=616AACB4" group-title="REGIONALES", Loreto TV; Iquitos
 https://srv1.zcast.com.br/diego3282/diego3282/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Ribereña TV" tvg-name="PE | Ribereña TV" channelId="33" tvg-logo="https://riberenapucallpa.com/wp-content/uploads/2021/06/cropped-PUCALLPA-260.png" group-title="Regiones del Peru", Ribereña TV; Pucallpa
+#EXTINF:-1 tvg-id="PE | Ribereña TV" tvg-name="PE | Ribereña TV" channelId="33" tvg-logo="https://riberenapucallpa.com/wp-content/uploads/2021/06/cropped-PUCALLPA-260.png" group-title="REGIONALES", Ribereña TV; Pucallpa
 https://inliveserver.com:1936/19020/19020/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | Azteca Corazon" tvg-name="MX | Azteca Corazon" channelId="34" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/200px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="NOVELAS", Azteca Corazón
 https://qlobbidev.s.llnwi.net/bpk-tv/AZCORAZON/hls/index.m3u8
@@ -169,29 +169,29 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TELENOSTALGIA/10-20-hls/live.
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:amordiscos_all/playlist.m3u8
 #EXTINF:-1 type="estream" channelId="80" name="CA: Love Nature" group="CANADA" logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png" group-title="CIENCIA, CULTURA Y EDUCACION", Love Nature Televisión
 https://qlobbidev.s.llnwi.net/bpk-tv/LOVENATURE/hls/index.m3u8
-#EXTINF:-1 type="estream" channelId="81" name="PE: BH TV Nuestro canal" group="PERU" logo="https://bhtv.pe/wp-content/uploads/2020/08/descarga-4.jpg" group-title="Regiones del Peru", BH Televisión
+#EXTINF:-1 type="estream" channelId="81" name="PE: BH TV Nuestro canal" group="PERU" logo="https://bhtv.pe/wp-content/uploads/2020/08/descarga-4.jpg" group-title="REGIONALES", BH Televisión
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/BHTV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DBHTV_stream_v0&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1363493619&_cdn_session=79848803&_cdn_timestamp=1632114410&_cdn_token=a0555551b0e8bc671299781fe6246923cf1bb5ba
-#EXTINF:-1 type="estream" channelId="101" name="PE: USMPTV" group="PERU" logo="https://usmptv.pe/wp-content/uploads/2018/02/logo-home.png" group-title="Regiones del Peru", USMP Televisión
+#EXTINF:-1 type="estream" channelId="101" name="PE: USMPTV" group="PERU" logo="https://usmptv.pe/wp-content/uploads/2018/02/logo-home.png" group-title="REGIONALES", USMP Televisión
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/USMPTV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUSMPTV_stream_61&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1363493619&_cdn_session=79848899&_cdn_timestamp=1632114611&_cdn_token=d9493d31197c69669dd24b0af265c297134dc0a1
-#EXTINF:-1 type="estream" channelId="102" name="PE: Conectad2TV" group="PERU" logo="https://conecta2peru.com/wp-content/uploads/2020/04/logo.png" group-title="Regiones del Peru", Conectad2 Televisión
+#EXTINF:-1 type="estream" channelId="102" name="PE: Conectad2TV" group="PERU" logo="https://conecta2peru.com/wp-content/uploads/2020/04/logo.png" group-title="REGIONALES", Conectad2 Televisión
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/CONECTADA2/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCONECTADA2_stream_so&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1363493619&_cdn_session=79848939&_cdn_timestamp=1632114690&_cdn_token=788db2478abf093c9e71ce0900f156aaaf66bc0f
-#EXTINF:-1 type="estream" channelId="103" name="PE: UCI Noticias TV" group="PERU" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/UCI_Un_Canal_Inteligente.jpg/600px-UCI_Un_Canal_Inteligente.jpg" tvg-country="PE", UCI Noticias Televisión
+#EXTINF:-1 type="estream" channelId="103" name="PE: UCI Noticias TV" group="PERU" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/UCI_Un_Canal_Inteligente.jpg/600px-UCI_Un_Canal_Inteligente.jpg" group-title="REGIONALES", UCI Noticias Televisión
 https://qlobbidev.s.llnwi.net/uci/uci2/index.m3u8
-#EXTINF:-1 type="estream" channelId="103" name="PE: Best Cable TV" group="PERU" logo="https://bestcableperu.com.pe/img/logo/logo.png" group-title="Regiones del Peru", Best Cable Televisión
+#EXTINF:-1 type="estream" channelId="103" name="PE: Best Cable TV" group="PERU" logo="https://bestcableperu.com.pe/img/logo/logo.png" group-title="REGIONALES", Best Cable Televisión
 https://tv.siete.us:19360/bestcable/bestcable/index.m3u8
 #EXTINF:-1 type="estream" channelId="204" name="VE: Venevision" group="VENEZUELA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/90px-Logotipo_de_Venevisi%C3%B3n.svg.png" group-title="VENEZUELA", Venevisión
 http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 type="estream" channelId="205" name="VE: Televen" group="VENEZUELA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Televen_logo.PNG/150px-Televen_logo.PNG" group-title="VENEZUELA", Televen
 https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8?
-#EXTINF:-1 type="estream" channelId="300" name="PE: Radio Latina Moyobamba" group="PERU" logo="http://www.radiolatinaperu.com/imagenes/Radio_Latina_FM_San_Matin_3545.jpg" group-title="EMISORAS DEL ALTO MAYO", Radio Latina 90.1 FM
+#EXTINF:-1 type="estream" channelId="300" name="PE: Radio Latina Moyobamba" group="PERU" logo="http://www.radiolatinaperu.com/imagenes/Radio_Latina_FM_San_Matin_3545.jpg" group-title="EMISORAS LOCALES", Radio Latina 90.1 FM
 http://server.sonandoahora.com:8016/;
-#EXTINF:-1 type="estream" channelId="301" name="PE: Radio Atmósfera - Moyobamba" group="PERU" logo="https://www.radioatmosfera.pe/wp-content/uploads/2021/04/cropped-logo.png" group-title="EMISORAS DEL ALTO MAYO", Radio Atmósfera 92.3 FM
+#EXTINF:-1 type="estream" channelId="301" name="PE: Radio Atmósfera - Moyobamba" group="PERU" logo="https://www.radioatmosfera.pe/wp-content/uploads/2021/04/cropped-logo.png" group-title="EMISORAS LOCALES", Radio Atmósfera 92.3 FM
 https://eu2.serviaudio.com:10936/;
-#EXTINF:-1 type="estream" channelId="302" name="PE: Radio Interactiva - Moyobamba" group="PERU" logo="https://interactivaradio.com/wp-content/uploads/2020/06/logo-blanco-2.png" group-title="EMISORAS DEL ALTO MAYO", Interactiva Radio 92.9 FM
+#EXTINF:-1 type="estream" channelId="302" name="PE: Radio Interactiva - Moyobamba" group="PERU" logo="https://interactivaradio.com/wp-content/uploads/2020/06/logo-blanco-2.png" group-title="EMISORAS LOCALES", Interactiva Radio 92.9 FM
 https://radio.livestreamingmundial.com/8070/stream
-#EXTINF:-1 type="estream" channelId="303" name="PE: Radio Selva - Moyobamba" group="PERU" logo="https://radioselvatv.pe/wp-content/uploads/2020/12/LOGO-web.png" group-title="EMISORAS DEL ALTO MAYO", Radio Selva 93.7 FM
+#EXTINF:-1 type="estream" channelId="303" name="PE: Radio Selva - Moyobamba" group="PERU" logo="https://radioselvatv.pe/wp-content/uploads/2020/12/LOGO-web.png" group-title="EMISORAS LOCALES", Radio Selva 93.7 FM
 https://radio.livestreamingmundial.com/8092/stream
-#EXTINF:-1 type="estream" channelId="304" name="PE: Radio Poder - Moyobamba" group="PERU" logo="https://www.radiopowertv.com/wp-content/uploads/2021/06/Radio-PowerCON-SOMBRA.png" group-title="EMISORAS DEL ALTO MAYO", Radio Power
+#EXTINF:-1 type="estream" channelId="304" name="PE: Radio Poder - Moyobamba" group="PERU" logo="https://www.radiopowertv.com/wp-content/uploads/2021/06/Radio-PowerCON-SOMBRA.png" group-title="EMISORAS LOCALES", Radio Power
 https://dattavolt.com/8038/stream
-#EXTINF:-1 type="estream" channelId="305" name="PE: Via Alto Mayo Radio" group="PERU" logo="https://www.viaaltomayotv.com/img/logotipo_radioref.png" group-title="EMISORAS DEL ALTO MAYO", Via Alto Mayo Radio; Rioja
+#EXTINF:-1 type="estream" channelId="305" name="PE: Via Alto Mayo Radio" group="PERU" logo="https://www.viaaltomayotv.com/img/logotipo_radioref.png" group-title="EMISORAS PROVINCIALES", Via Alto Mayo Radio; Rioja
 https://sonic.whitelabelservers.co.uk:7016/;/live
