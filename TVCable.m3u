@@ -210,7 +210,7 @@ https://tv.siete.us:19360/bestcable/bestcable/index.m3u8
 #EXTINF:-1 tvg-id="VE | Venevision" tvg-name="VE | Venevision" channelId="103" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/90px-Logotipo_de_Venevisi%C3%B3n.svg.png" group-title="VENEZUELA", 103. Venevisión
 http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="VE | Televen" tvg-name="VE | Televen" channelId="104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Televen_logo.PNG/150px-Televen_logo.PNG" group-title="VENEZUELA", 104. Televen
-https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8?
+https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="GT | Teleonce" tvg-name="GT | Teleonce" channelId="105" tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-11-guatemala_m.png" group-title="GUATEMALA", 105. Teleonce
 https://gt.tunelive.net:3783/stream/play.m3u8
 #EXTINF:-1 tvg-id="GT | Trecevision" tvg-name="GT | Trecevision" channelId="106" tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-13-guatemala_m.png" group-title="GUATEMALA", 106. Trecevisión
