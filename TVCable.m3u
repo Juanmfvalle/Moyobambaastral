@@ -78,7 +78,7 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PASIONES/20-hls/live-media.m3
 #EXTINF:-1 tvg-id="TUR | Kanal D Drama" tvg-name="TUR | Kanal D Drama" channelId="37" tvg-logo="https://www.kanalddrama.com/assets/img/logo/logo.png" group-title="NOVELAS", 37. Kanal D Drama
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/KANALD/20-hls/storage-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DKANALD_stream_b7&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1363493619&_cdn_session=80187339&_cdn_timestamp=1632216104&_cdn_token=c6cc6e6893c5919c1c97c3de24f2d8f87f26df7c&duration=3900&start=1632142200
 #EXTINF:-1 tvg-id="MX | TL Novelas" tvg-name="MX | TL Novelas" channelId="38" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="NOVELAS", 38. TLNovelas
-https://lfesvtwttlfskdjj.wzcdn431.net:8443/hls/ouxh0x6d70uxb.m3u8?s=oSJM2W5WIYkKOhbIhbLJaQ&e=1632124978
+https://tunelive.net:3451/stream/play.m3u8
 #EXTINF:-1 tvg-id="MX | Las Estrellas" tvg-name="MX | Las Estrellas" channelId="39" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/180px-Las_Estrellas.svg.png" group-title="INTERNACIONALES", 39. Canal de las Estrellas
 https://qlobbidev.s.llnwi.net/bpk-tv/ESTRELLAS/hls/index.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" channelId="40" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", 40. Telemundo Internacional
@@ -201,8 +201,10 @@ https://tv.siete.us:19360/bestcable/bestcable/index.m3u8
 http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="VE | Televen" tvg-name="VE | Televen" channelId="99" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Televen_logo.PNG/150px-Televen_logo.PNG" group-title="VENEZUELA", 99. Televen
 https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8?
-#EXTINF:-1 tvg-id="PY | Telefuturo" tvg-name="PY | Telefuturo" channelId="100" tvg-logo="https://telefuturo.com.py/wp-content/themes/telefuturo/img/logo-telefuturo.png" group-title="PARAGUAY", 100. Telefuturo
-https://rds3.desdeparaguay.net/telefuturo/telefuturo_int_baja/playlist.m3u8?k=8eea4837ed7eb0c5b91362317fc18ba08086f8d539713d31f50cbca701a0e9b4&exp=1632125804
+#EXTINF:-1 tvg-id="GT | Teleonce" tvg-name="GT | Teleonce" channelId="100" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/11_de_guatemala-mediano.png" group-title="GUATEMALA", 100. Teleonce
+https://gt.tunelive.net:3783/stream/play.m3u8
+#EXTINF:-1 tvg-id="GT | Trecevision" tvg-name="GT | Trecevision" channelId="101" tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-13-guatemala_m.png" group-title="GUATEMALA", 101. Trecevisión
+https://gt.tunelive.net:3419/stream/play.m3u8
 #EXTINF:-1 tvg-id="PE | Radio Latina" tvg-name="PE | Radio Latina" channelId="101" tvg-logo="http://www.radiolatinaperu.com/imagenes/Radio_Latina_FM_San_Matin_3545.jpg" group-title="EMISORAS LOCALES", 101. Radio Latina 90.1 FM
 http://server.sonandoahora.com:8016/;
 #EXTINF:-1 tvg-id="PE | Radio Atmosfera" tvg-name="PE | Radio Atmosfera" channelId="102" tvg-logo="https://www.radioatmosfera.pe/wp-content/uploads/2021/04/cropped-logo.png" group-title="EMISORAS LOCALES", 102. Radio Atmósfera 92.3 FM
