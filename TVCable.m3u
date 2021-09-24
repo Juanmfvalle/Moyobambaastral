@@ -209,35 +209,43 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TELENOSTALGIA/20-hls/live-med
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:amordiscos_all/playlist.m3u8
 #EXTINF:-1 tvg-id="CA | Love Nature" tvg-name="CA | Love Nature" channelId="102" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png" group-title="CULTURA Y EDUCACION", Love Nature Televisión
 https://qlobbidev.s.llnwi.net/bpk-tv/LOVENATURE/hls/index.m3u8
-#EXTINF:-1 tvg-id="PE | Bh TV" tvg-name="PE | Bh TV" channelId="103" tvg-logo="https://bhtv.pe/wp-content/uploads/2020/08/descarga-4.jpg" group-title="REGIONALES", BH Televisión
+#EXTINF:-1 tvg-id="GT | Aviva TV" tvg-name="GT | Aviva TV" channelId="103" tvg-logo="https://www.avivamiento.tv/wp-content/uploads/2019/11/cropped-Logo-1.png" group-title="RELIGIOSOS", Aviva Televisión
+https://5bff1bf18a887.streamlock.net/avivamientotv/avivamientotv/playlist.m3u8
+#EXTINF:-1 tvg-id="MX | Maria Vision TV" tvg-name="MX | Maria Vision TV" channelId="104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Maria-vision.jpg" group-title="RELIGIOSOS", María Visión Televisión
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | Bh TV" tvg-name="PE | Bh TV" channelId="105" tvg-logo="https://bhtv.pe/wp-content/uploads/2020/08/descarga-4.jpg" group-title="REGIONALES", BH Televisión
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/BHTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DBHTV_stream_v0&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1205591609&_cdn_session=81213227&_cdn_timestamp=1632502758&_cdn_token=fa3c8bb00c107d3df4e673f8616a13938f98989c
-#EXTINF:-1 tvg-id="PE | USMP TV" tvg-name="PE | USMPTV TV" channelId="104" tvg-logo="https://usmptv.pe/wp-content/uploads/2018/02/logo-home.png" group-title="REGIONALES", USMP Televisión
+#EXTINF:-1 tvg-id="PE | USMP TV" tvg-name="PE | USMPTV TV" channelId="106" tvg-logo="https://usmptv.pe/wp-content/uploads/2018/02/logo-home.png" group-title="REGIONALES", USMP Televisión
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/USMPTV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUSMPTV_stream_61&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1363493619&_cdn_session=81123435&_cdn_timestamp=1632474602&_cdn_token=67b7076f8f1ce697a24a7d945b380192bacb3c5a
-#EXTINF:-1 tvg-id="PE | Conectad2" tvg-name="PE | Conectad2" channelId="105" tvg-logo="https://conecta2peru.com/wp-content/uploads/2020/04/logo.png" group-title="REGIONALES", Conectad2 Televisión
+#EXTINF:-1 tvg-id="PE | Conectad2" tvg-name="PE | Conectad2" channelId="107" tvg-logo="https://conecta2peru.com/wp-content/uploads/2020/04/logo.png" group-title="REGIONALES", Conectad2 Televisión
 https://mediastreamm.com:3528/live/conect2tvlive.m3u8
-#EXTINF:-1 tvg-id="PE | UCI Noticias" tvg-name="PE | UCI Noticias" channelId="106" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/UCI_Un_Canal_Inteligente.jpg/600px-UCI_Un_Canal_Inteligente.jpg" group-title="REGIONALES", UCI Noticias Televisión
+#EXTINF:-1 tvg-id="PE | UCI Noticias" tvg-name="PE | UCI Noticias" channelId="108" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/UCI_Un_Canal_Inteligente.jpg/600px-UCI_Un_Canal_Inteligente.jpg" group-title="REGIONALES", UCI Noticias Televisión
 https://qlobbidev.s.llnwi.net/uci/uci2/index.m3u8
-#EXTINF:-1 tvg-id="PE | Best Cable TV" tvg-name="PE | Best Cable TV" channelId="107" tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png" group-title="REGIONALES", Best Cable Televisión
+#EXTINF:-1 tvg-id="PE | Best Cable TV" tvg-name="PE | Best Cable TV" channelId="109" tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png" group-title="REGIONALES", Best Cable Televisión
 https://tv.siete.us:19360/bestcable/bestcable/index.m3u8
-#EXTINF:-1 tvg-id="VE | Venevision" tvg-name="VE | Venevision" channelId="108" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/90px-Logotipo_de_Venevisi%C3%B3n.svg.png" group-title="VENEZUELA", Venevisión
+#EXTINF:-1 tvg-id="VE | Venevision" tvg-name="VE | Venevision" channelId="110" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/90px-Logotipo_de_Venevisi%C3%B3n.svg.png" group-title="VENEZUELA", Venevisión
 http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="VE | Televen" tvg-name="VE | Televen" channelId="109" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Televen_logo.PNG/150px-Televen_logo.PNG" group-title="VENEZUELA", Televen
+#EXTINF:-1 tvg-id="VE | Televen" tvg-name="VE | Televen" channelId="111" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Televen_logo.PNG/150px-Televen_logo.PNG" group-title="VENEZUELA", Televen
 https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="GT | Teleonce" tvg-name="GT | Teleonce" channelId="110" tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-11-guatemala_m.png" group-title="GUATEMALA", Teleonce
+#EXTINF:-1 tvg-id="GT | Teleonce" tvg-name="GT | Teleonce" channelId="112" tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-11-guatemala_m.png" group-title="GUATEMALA", Teleonce
 https://gt.tunelive.net:3783/stream/play.m3u8
-#EXTINF:-1 tvg-id="GT | Trecevision" tvg-name="GT | Trecevision" channelId="111" tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-13-guatemala_m.png" group-title="GUATEMALA", Trecevisión
+#EXTINF:-1 tvg-id="GT | Trecevision" tvg-name="GT | Trecevision" channelId="113" tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-13-guatemala_m.png" group-title="GUATEMALA", Trecevisión
 https://gt.tunelive.net:3419/stream/play.m3u8
-#EXTINF:-1 tvg-id="EC | Telerama" tvg-name="EC | Telerama" channelId="112" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_Telerama.png/250px-Logo_Telerama.png" group-title="ECUADOR", Telerama
+#EXTINF:-1 tvg-id="EC | Telerama" tvg-name="EC | Telerama" channelId="114" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_Telerama.png/250px-Logo_Telerama.png" group-title="ECUADOR", Telerama
 http://181.175.114.83:8080/livestream/stream.m3u8
-#EXTINF:-1 tvg-id="PE | Radio Latina" tvg-name="PE | Radio Latina" channelId="113" tvg-logo="http://www.radiolatinaperu.com/imagenes/Radio_Latina_FM_San_Matin_3545.jpg" group-title="EMISORAS LOCALES", Radio Latina 90.1 FM
+#EXTINF:-1 tvg-id="BR | Rede TV" tvg-name="BR | Rede TV" channelId="115" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/89/Logotipo_da_RedeTV%21.png/200px-Logotipo_da_RedeTV%21.png" group-title="BRASIL", Rede TV
+https://livefocamundo.com:8081/tvjsid/index.m3u8
+#EXTINF:-1 tvg-id="PE | Radio Latina" tvg-name="PE | Radio Latina" channelId="116" tvg-logo="http://www.radiolatinaperu.com/imagenes/Radio_Latina_FM_San_Matin_3545.jpg" group-title="EMISORAS LOCALES", Radio Latina 90.1 FM
 http://server.sonandoahora.com:8016/;
-#EXTINF:-1 tvg-id="PE | Radio Atmosfera" tvg-name="PE | Radio Atmosfera" channelId="114" tvg-logo="https://www.radioatmosfera.pe/wp-content/uploads/2021/04/cropped-logo.png" group-title="EMISORAS LOCALES", Radio Atmósfera 92.3 FM
+#EXTINF:-1 tvg-id="PE | Radio Atmosfera" tvg-name="PE | Radio Atmosfera" channelId="117" tvg-logo="https://www.radioatmosfera.pe/wp-content/uploads/2021/04/cropped-logo.png" group-title="EMISORAS LOCALES", Radio Atmósfera 92.3 FM
 https://eu2.serviaudio.com:10936/;
-#EXTINF:-1 tvg-id="PE | Radio Interactiva" tvg-name="PE | Radio Interactiva" channelId="115" tvg-logo="https://interactivaradio.com/wp-content/uploads/2020/06/logo-blanco-2.png" group-title="EMISORAS LOCALES", Interactiva Radio 92.9 FM
+#EXTINF:-1 tvg-id="PE | Radio Interactiva" tvg-name="PE | Radio Interactiva" channelId="118" tvg-logo="https://interactivaradio.com/wp-content/uploads/2020/06/logo-blanco-2.png" group-title="EMISORAS LOCALES", Interactiva Radio 92.9 FM
 https://radio.livestreamingmundial.com/8070/stream
-#EXTINF:-1 tvg-id="PE | Radio Selva" tvg-name="PE | Radio Selva" channelId="116" tvg-logo="https://radioselvatv.pe/wp-content/uploads/2020/12/LOGO-web.png" group-title="EMISORAS LOCALES", Radio Selva 93.7 FM
+#EXTINF:-1 tvg-id="PE | Radio Selva" tvg-name="PE | Radio Selva" channelId="119" tvg-logo="https://radioselvatv.pe/wp-content/uploads/2020/12/LOGO-web.png" group-title="EMISORAS LOCALES", Radio Selva 93.7 FM
 https://radio.livestreamingmundial.com/8092/stream
-#EXTINF:-1 tvg-id="PE | Radio Power" tvg-name="PE | Radio Power" channelId="117" tvg-logo="https://www.radiopowertv.com/wp-content/uploads/2021/06/Radio-PowerCON-SOMBRA.png" group-title="EMISORAS LOCALES", Radio Power
+#EXTINF:-1 tvg-id="PE | Radio Power" tvg-name="PE | Radio Power" channelId="120" tvg-logo="https://www.radiopowertv.com/wp-content/uploads/2021/06/Radio-PowerCON-SOMBRA.png" group-title="EMISORAS LOCALES", Radio Power
 https://dattavolt.com/8038/stream
-#EXTINF:-1 tvg-id="PE | Radio Via Alto Mayo" tvg-name="PE | Radio Via Alto Mayo" channelId="118" tvg-logo="https://www.viaaltomayotv.com/img/logotipo_radioref.png" group-title="EMISORAS PROVINCIALES", Radio Vía Alto Mayo; Rioja
+#EXTINF:-1 tvg-id="PE | Radio Via Alto Mayo" tvg-name="PE | Radio Via Alto Mayo" channelId="121" tvg-logo="https://www.viaaltomayotv.com/img/logotipo_radioref.png" group-title="EMISORAS PROVINCIALES", Radio Vía Alto Mayo; Rioja
 https://sonic.whitelabelservers.co.uk:7016/;/live
+#EXTINF:-1 tvg-id="PE | Radio La Luz" tvg-name="PE | Radio La Luz" channelId="122" tvg-logo="http://radiolaluz.com/wp-content/themes/laluz/images/logo_rad.png" group-title="EMISORAS NACIONALES", Radio La Luz
+http://radio.transmite.pe:9310/stream?icy=http
