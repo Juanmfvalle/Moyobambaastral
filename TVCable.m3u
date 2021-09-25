@@ -100,15 +100,15 @@ https://qlobbidev.s.llnwi.net/bpk-tv/AZMUNDO/hls/index.m3u8
 #EXTINF:-1 tvg-id="MX | Azteca Clic" tvg-name="MX | Azteca Clic" channelId="47" tvg-logo="https://www.eluniversal.com.mx/sites/default/files/2016/11/09/ALFOMBRA-E13-EU101116-2_Drupal%20Main%20Image.var_1478751216.jpg" group-title="ESTILOS DE VIDA", Azteca Clic Televisión
 https://qlobbidev.s.llnwi.net/bpk-tv/AZLIC/hls/index.m3u8
 #EXTINF:-1 tvg-id="MX | Azteca Cinema" tvg-name="MX | Azteca Cinema" channelId="48" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TV_Azteca_Cinema_logo.svg/245px-TV_Azteca_Cinema_logo.svg.png" group-title="PELICULAS Y SERIES", Azteca Cinema
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AZCINEMA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZCINEMA_stream_eg&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D305999423&_cdn_session=81509851&_cdn_timestamp=1632562942&_cdn_token=92bbadab2d5f234f006c2cc3677678ed8a0c60d5
+https://qlobbidev.s.llnwi.net/bpk-tv/AZCINEMA/hls/index.m3u8
 #EXTINF:-1 tvg-id="USA | Sony" tvg-name="USA | Sony" channelId="49" tvg-logo="https://la.sonychannel.com/sites/la.set/files/sony_channel_logo.png" group-title="PELICULAS Y SERIES", Sony Televisión
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/SONY/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONY_stream_ew&_cdn_hls_media=1&_cdn_meta=userID%3D1829852807%2CdeviceID%3D305999423&_cdn_session=81505363&_cdn_timestamp=1632562526&_cdn_token=1c5b2a5629eba128dbb7cc7b08b9427761c9096e
 #EXTINF:-1 tvg-id="USA | Warner Channel" tvg-name="USA | Warner Channel" channelId="50" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/125px-Warner2018LA.png" group-title="PELICULAS Y SERIES", Warner Channel
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/WARNERCHANNEL/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWARNERCHANNEL_stream_2g&_cdn_hls_media=1&_cdn_meta=userID%3D1829852807%2CdeviceID%3D305999423&_cdn_session=81521355&_cdn_timestamp=1632563905&_cdn_token=01b4e4e25135e8ffbefe4b51f928acef2e8703aa
 #EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" channelId="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="PELICULAS Y SERIES", Star Channel
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/STARCHANNEL/10-20-hls-vtt/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXCHANNEL_stream_1f&_cdn_meta=userID%3D1829852807%2CdeviceID%3D305999423&_cdn_session=81524019&_cdn_timestamp=1632563964&_cdn_token=0f40fb177f64d00089f7f27aa3c15e67c6fa4910
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/STARCHANNEL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXCHANNEL_stream_1f&_cdn_hls_media=2&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1205591609&_cdn_session=81709123&_cdn_timestamp=1632608674&_cdn_token=53fc75c16916b92cb8f648bc8bf21294785772b8
 #EXTINF:-1 tvg-id="USA | Star Life" tvg-name="USA | Star Life" channelId="52" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1024px-Star_Life_2021.svg.png" group-title="ESTILOS DE VIDA", Star Life Channel
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/STARLIFE/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXLIFE_stream_w7&_cdn_hls_media=1&_cdn_meta=userID%3D1829852807%2CdeviceID%3D305999423&_cdn_session=81524227&_cdn_timestamp=1632564001&_cdn_token=425400875de0b05a5d20bcf0e16728623a358995
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/STARLIFE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXLIFE_stream_w7&_cdn_hls_media=2&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1205591609&_cdn_session=81709931&_cdn_timestamp=1632608877&_cdn_token=88c65d623f88d1ceb1adc5a72a9b9796378a8bc7
 #EXTINF:-1 tvg-id="USA | FX" tvg-name="USA | FX" channelId="53" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/120px-FX_International_logo.svg.png" group-title="PELICULAS Y SERIES", FX
 https://qlobbidev.s.llnwi.net/bpk-tv/FX/hls/index.m3u8
 #EXTINF:-1 tvg-id="USA | FXM" tvg-name="USA | FXM" channelId="54" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/130px-FX_Movies_logo.svg.png" group-title="PELICULAS Y SERIES", FXM
@@ -146,7 +146,7 @@ https://tunelive.net:3244/stream/play.m3u8
 #EXTINF:-1 tvg-id="USA | Eurochannel" tvg-name="USA | Eurochannel" channelId="70" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Eurochannel.png/150px-Logo_Eurochannel.png" group-title="PELICULAS Y SERIES", Eurochannel
 https://qlobbidev.s.llnwi.net/bpk-tv/EUROCHANNEL/hls/index.m3u8
 #EXTINF:-1 tvg-id="USA | Europa Europa" tvg-name="USA | Europa Europa" channelId="71" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/EUROPAEUROPALOGO2016.png/120px-EUROPAEUROPALOGO2016.png" group-title="PELICULAS Y SERIES", Europa Europa
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/EUROPAEUROPA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DEUROPAEUROPA_stream_gf&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D305999423&_cdn_session=81530059&_cdn_timestamp=1632564299&_cdn_token=2689b8ab2d71c0a3638bdbe9777bc5c1337a12d0
+https://qlobbidev.s.llnwi.net/bpk-tv/EUROPA/hls/index.m3u8
 #EXTINF:-1 tvg-id="USA | AMC" tvg-name="USA | AMC" channelId="72" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/150px-AMC_logo_2019.svg.png" group-title="PELICULAS Y SERIES", AMC
 https://qlobbidev.s.llnwi.net/bpk-tv/AMC/hls/index.m3u8
 #EXTINF:-1 tvg-id="USA | Film & Arts" tvg-name="USA | Film & Arts" channelId="73" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Film%26Arts2016.png/200px-Film%26Arts2016.png" group-title="PELICULAS Y SERIES", Film & Arts
@@ -237,7 +237,7 @@ https://gt.tunelive.net:3783/stream/play.m3u8
 https://gt.tunelive.net:3419/stream/play.m3u8
 #EXTINF:-1 tvg-id="EC | Telerama" tvg-name="EC | Telerama" channelId="116" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_Telerama.png/250px-Logo_Telerama.png" group-title="ECUADOR", Telerama
 http://181.175.114.83:8080/livestream/stream.m3u8
-#EXTINF:-1 tvg-id="CO | RCN Nuestra tele" tvg-name="CO | RCN Nuestra tele" channelId="117" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/140px-Canal_RCN_logo.svg.png" group-title="NOVELAS", Canal RCN
+#EXTINF:-1 tvg-id="CO | RCN Nuestra tele" tvg-name="CO | RCN Nuestra tele" channelId="117" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/140px-Canal_RCN_logo.svg.png" group-title="COLOMBIA", Canal RCN
 https://qlobbidev.s.llnwi.net/bpk-tv/RCN/hls/index.m3u8
 #EXTINF:-1 tvg-id="BR | Rede TV" tvg-name="BR | Rede TV" channelId="118" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/89/Logotipo_da_RedeTV%21.png/200px-Logotipo_da_RedeTV%21.png" group-title="BRASIL", Rede TV
 https://livefocamundo.com:8081/tvjsid/index.m3u8
