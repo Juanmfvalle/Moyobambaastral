@@ -577,15 +577,15 @@ http://iax.infomagia.com:8000/;
 https://securestream.conectarhosting.com:8136/live
 #EXTINF:-1 tvg-id="PE | Radio Milenia" tvg-name="PE | Radio Milenia" channelId="285" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/milenia-lima.png" group-title="EMISORAS NACIONALES", Radio Milenia | 1530 AM
 https://radio.pjcks.com/8020/stream
-#EXTINF:-1 tvg-id="PE | Radio Bethel" tvg-name="PE | Radio Bethel" channelId="286" tvg-logo="" group-title="EMISORAS NACIONALES", Radio Bethel | 1570 AM
+#EXTINF:-1 tvg-id="PE | Radio Bethel" tvg-name="PE | Radio Bethel" channelId="286" tvg-logo="https://bethelradio.fm/images/logo-bethel.svg" group-title="EMISORAS NACIONALES", Radio Bethel | 1570 AM
 https://tampa.audio-stream.com/proxy/bethelra?mp=/stream
-#EXTINF:-1 tvg-id="PE | Red de Difusión Bíblica" tvg-name="PE | Red de Difusión Bíblica" channelId="287" tvg-logo="https://bbn1.bbnradio.org/spanish/wp-content/uploads/sites/5/2020/12/50thLogoSP.png" group-title="EMISORAS INTERNACIONALES", Bible Broadcasting Network Radio
-https://audio-edge-es6pf.mia.g.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f
-#EXTINF:-1 tvg-id="PE | Radio Cumbia Mix" tvg-name="PE | Radio Cumbia Mix" channelId="265" tvg-logo="https://radiocumbiamix.com/img/logo_3.png" group-title="EMISORAS NACIONALES", Radio Cumbia Mix
+#EXTINF:-1 tvg-id="PE | Radio Cumbia Mix" tvg-name="PE | Radio Cumbia Mix" channelId="287" tvg-logo="https://radiocumbiamix.com/img/logo_3.png" group-title="EMISORAS NACIONALES", Radio Cumbia Mix
 https://streaming.gometri.com/stream/8017/stream
-#EXTINF:-1 tvg-id="PE | Radio Besame" tvg-name="PE | Radio Besame" channelId="266" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/besame.png" group-title="EMISORAS NACIONALES", Radio Bésame
+#EXTINF:-1 tvg-id="PE | Radio Besame" tvg-name="PE | Radio Besame" channelId="288" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/besame.png" group-title="EMISORAS NACIONALES", Radio Bésame
 http://167.114.118.120:7450/
-#EXTINF:-1 tvg-id="PE | Radio Z" tvg-name="PE | Radio Z" channelId="267" tvg-logo="http://i0.wp.com/www.radioz.pe/wp-content/uploads/2017/12/LOGO-EFECTO.png" group-title="EMISORAS NACIONALES", Radio Z Rock & Pop
+#EXTINF:-1 tvg-id="PE | Radio Z" tvg-name="PE | Radio Z" channelId="289" tvg-logo="http://i0.wp.com/www.radioz.pe/wp-content/uploads/2017/12/LOGO-EFECTO.png" group-title="EMISORAS NACIONALES", Radio Z Rock & Pop
 http://167.114.118.120:7440
-#EXTINF:-1 tvg-id="ES | NSE Radio América" tvg-name="ES | NSE Radio América" channelId="279" tvg-logo="https://public-rf-upload.minhawebradio.net/166842/cover/73f0ce5e8eab2e197fc683cb50d7b20b.jpg" group-title="EMISORAS INTERNACIONALES", NSE (Nuestra Señora del Encuentro con Dios) Radio América
+#EXTINF:-1 tvg-id="ES | NSE Radio América" tvg-name="ES | NSE Radio América" channelId="290" tvg-logo="https://public-rf-upload.minhawebradio.net/166842/cover/73f0ce5e8eab2e197fc683cb50d7b20b.jpg" group-title="EMISORAS INTERNACIONALES", NSE (Nuestra Señora del Encuentro con Dios) Radio América
 https://mpc.mediacp.eu:8520/stream
+#EXTINF:-1 tvg-id="PE | Red de Difusión Bíblica" tvg-name="PE | Red de Difusión Bíblica" channelId="291" tvg-logo="https://bbn1.bbnradio.org/spanish/wp-content/uploads/sites/5/2020/12/50thLogoSP.png" group-title="EMISORAS INTERNACIONALES", Bible Broadcasting Network Radio
+https://audio-edge-es6pf.mia.g.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f
