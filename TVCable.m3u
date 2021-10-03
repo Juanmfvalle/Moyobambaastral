@@ -29,7 +29,7 @@ https://qlobbidev.s.llnwi.net/bpk-tv/QWLLABTV/hls/index.m3u8
 https://qlobbidev.s.llnwi.net/ipe/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-id="PE | Global Television" tvg-name="PE | Global Television" channelId="13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Global_TV_2019.png" group-title="PERU", Global Televisión
 https://qlobbidev.s.llnwi.net/bpk-tv/QGLOBAHTV/hls/index.m3u8
-#EXTINF:-1 tvg-id="PE | Gobierno Regional de San Martin TV" tvg-name="PE | Gobierno Regional de San Martin TV" channelId="14" tvg-logo="https://scontent.flim6-2.fna.fbcdn.net/v/t39.30808-6/214612472_111202994571795_1260835455401495687_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEH8mnEtZznrb1eJ8aA7qhQkCaqk1zQUiSQJqqTXNBSJCMaqmf267S0SnIgOPhRTyg&_nc_ohc=KMINDFitqFkAX9eYBUq&_nc_ht=scontent.flim6-2.fna&oh=81b54bfbe35dec8e7e9c03ad86ce074f&oe=614AE2EE" group-title="LOCALES", Gobierno Regional de San Martín Televisión
+#EXTINF:-1 tvg-id="PE | Gobierno Regional de San Martin TV" tvg-name="PE | Gobierno Regional de San Martin TV" channelId="14" tvg-logo="https://scontent.ftru4-2.fna.fbcdn.net/v/t39.30808-6/214612472_111202994571795_1260835455401495687_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGmfpKChopq3-uDHmR0sZD6kCaqk1zQUiSQJqqTXNBSJHvUAxxYndsQPaO56W1_sXs&_nc_ohc=apMK1kWH6J4AX-eQcNP&_nc_ht=scontent.ftru4-2.fna&oh=51dfa537adfebb2e2de865b26fd77aa8&oe=615CAF2E" group-title="LOCALES", Gobierno Regional de San Martín Televisión
 https://video.obslivestream.com/gtv/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="PE | Autentica TV" tvg-name="PE | Autentica TV" channelId="15" tvg-logo="https://autenticatv.pe/wp-content/uploads/elementor/thumbs/logo-web-p0scrodaccuo3azseya6goo9amqk8hdut43cbpqb5s.png" group-title="LOCALES", Auténtica Televisión
 https://live.obslivestream.com/autenticatvmux/index.m3u8
@@ -78,7 +78,7 @@ https://qlobbidev.s.llnwi.net/bpk-tv/AZCORAZON/hls/index.m3u8
 #EXTINF:-1 tvg-id="CO | RCN Novelas" tvg-name="CO | RCN Novelas" channelId="36" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/RCN_Novelas_logo.svg/165px-RCN_Novelas_logo.svg.png" group-title="NOVELAS", RCN Novelas
 https://qlobbidev.s.llnwi.net/bpk-tv/RCNNOVELAS/hls/index.m3u8
 #EXTINF:-1 tvg-id="USA | Pasiones" tvg-name="USA | Pasiones" channelId="37" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/220px-Pasiones_Tv_logo.svg.png" group-title="NOVELAS", Pasiones Latinoamérica
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PASIONES/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPASIONES_stream_42&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1205591609&_cdn_session=83702363&_cdn_timestamp=1633206159&_cdn_token=74ead0120751b5339e856d9f9a7e72b35c657d2f
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PASIONES/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPASIONES_stream_42&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1205591609&_cdn_session=83993971&_cdn_timestamp=1633300599&_cdn_token=cec47aff3ff3cc4357031c505b14ececd0784ef0
 #EXTINF:-1 tvg-id="USA | Pasiones" tvg-name="USA | Pasiones" channelId="37.1" tvg-logo="https://us.tvpasiones.com/wp-content/uploads/2017/06/logo_pasiones.png" group-title="NOVELAS", Pasiones USA
 https://tunelive.net:3087/stream/play.m3u8
 #EXTINF:-1 tvg-id="TUR | Kanal D Drama" tvg-name="TUR | Kanal D Drama" channelId="38" tvg-logo="https://www.kanalddrama.com/assets/img/logo/logo.png" group-title="NOVELAS", Kanal D Drama
@@ -90,7 +90,7 @@ https://tunelive.net:3835/stream/play.m3u8
 #EXTINF:-1 tvg-id="MX | Las Estrellas" tvg-name="MX | Las Estrellas" channelId="41" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/180px-Las_Estrellas.svg.png" group-title="INTERNACIONALES", Canal de las Estrellas
 https://qlobbidev.s.llnwi.net/bpk-tv/ESTRELLAS/hls/index.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" channelId="42" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", Telemundo Internacional
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TELEMUNDO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEMUNDO_stream_fp&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1205591609&_cdn_session=83703731&_cdn_timestamp=1633206379&_cdn_token=23faee9a95eb0fb6f5d5fb6fef038d22424577a6
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TELEMUNDO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEMUNDO_stream_fp&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1205591609&_cdn_session=83994347&_cdn_timestamp=1633300691&_cdn_token=0013e8d8ee63bf3eb725d114fc7a2230751f06cc
 #EXTINF:-1 tvg-id="USA | Galavision" tvg-name="USA | Galavision" channelId="43" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/160px-Galavision_Logo_2013.svg.png" group-title="INTERNACIONALES", Galavisión
 https://tunelive.net:3370/stream/play.m3u8
 #EXTINF:-1 tvg-id="USA | Unimas" tvg-name="USA | Unimas" channelId="44" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/100px-Logo_UniM%C3%A1s.svg.png" group-title="INTERNACIONALES", Unimás
@@ -336,9 +336,9 @@ http://nicatv.rylco.com:8075/live/0013/index.m3u8
 #EXTINF:-1 tvg-id="AR | Canal Luz" tvg-name="AR | Canal Luz" channelId="164" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Canal_Luz_actual.png/125px-Canal_Luz_actual.png" group-title="RELIGIOSOS", Canal Luz
 https://qlobbidev.s.llnwi.net/canalluz/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="PE | Bethel Television" tvg-name="PE | Bethel Television" channelId="165" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/BethelTV1998.png/revision/latest?cb=20210326224941&path-prefix=es" group-title="RELIGIOSOS", Bethel Televisión
-https://ott.streann.com/loadbalancer/services/v1/channels-secure/5e0689c82cdcb4fdbcd79151/playlist.m3u8?access_token=b732311e-e743-4f6c-a79c-e8099f4be9bd&device-id=GYx58fzZ5wCKENg1dLA3jgDoev5hQdTHvlVKaEha59rMOnL5A7&device-type=web&device-name=web&doNotUseRedirect=false&start-index=0&time-zone=(hora%20est%C3%A1ndar%20de%20Per%C3%BA),hora%20est%C3%A1ndar%20de%20Per%C3%BA&dvrTime=3600
+https://ott.streann.com/loadbalancer/services/v1/channels-secure/5e0689c82cdcb4fdbcd79151/playlist.m3u8?access_token=3180d8b8-6773-45f1-8713-058eb0d86faa&device-id=LSZ4b1ALbOo2zEjy1OFojr53mm6em7Rlw5fFsoNTvzR7IBgvPa&device-type=web&device-name=web&doNotUseRedirect=false&start-index=0&time-zone=(hora%20est%C3%A1ndar%20de%20Per%C3%BA),hora%20est%C3%A1ndar%20de%20Per%C3%BA&dvrTime=3600
 #EXTINF:-1 tvg-id="PE | Bethel Television Plus" tvg-name="PE | Bethel Television Plus" channelId="166" tvg-logo="https://streann.akamaized.net/upload2/1582907702290.png" group-title="RELIGIOSOS", Bethel Televisión +
-https://ott.streann.com/loadbalancer/services/v1/channels-secure/5e068c682cdcf6f83b7a15a7/playlist.m3u8?access_token=fab34d5d-e311-4550-933b-6b305d81f79e&device-id=GYx58fzZ5wCKENg1dLA3jgDoev5hQdTHvlVKaEha59rMOnL5A7&device-type=web&device-name=web&doNotUseRedirect=false&start-index=0&time-zone=(hora%20est%C3%A1ndar%20de%20Per%C3%BA),hora%20est%C3%A1ndar%20de%20Per%C3%BA&dvrTime=3600
+https://ott.streann.com/loadbalancer/services/v1/channels-secure/5e068c682cdcf6f83b7a15a7/playlist.m3u8?access_token=37743fa0-502d-48ac-86a8-5e79bba91e7c&device-id=LSZ4b1ALbOo2zEjy1OFojr53mm6em7Rlw5fFsoNTvzR7IBgvPa&device-type=web&device-name=web&doNotUseRedirect=false&start-index=0&time-zone=(hora%20est%C3%A1ndar%20de%20Per%C3%BA),hora%20est%C3%A1ndar%20de%20Per%C3%BA&dvrTime=3600
 #EXTINF:-1 tvg-id="CL | Nuevo Tiempo" tvg-name="CL | Nuevo Tiempo" channelId="167" tvg-logo="https://www.nuevotiempo.org/wp-content/uploads/sites/6/2020/03/logo-teste-novo-tempo-02-ES.png" group-title="RELIGIOSOS", Nuevo Tiempo
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BR | Nuevo Tiempo" tvg-name="BR | Nuevo Tiempo" channelId="168" tvg-logo="https://www.nuevotiempo.org/wp-content/uploads/sites/6/2020/03/logo-teste-novo-tempo-02-ES.png" group-title="RELIGIOSOS", Nuevo Tiempo Brasil
@@ -391,7 +391,7 @@ https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TVCHILE/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVCHILE_stream_w4&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1205591609&_cdn_session=83720899&_cdn_timestamp=1633209614&_cdn_token=6d96c8d01573bb3276c770a66171386621f840e3
 #EXTINF:-1 tvg-id="AR | Telefe" tvg-name="AR | Telefe" channelId="192" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/150px-Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA", Telefe
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TELEFE/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEFE_stream_te&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1205591609&_cdn_session=83721091&_cdn_timestamp=1633209651&_cdn_token=2f1ba8becad5d050ccb499e2cf96e9511129d28a
-#EXTINF:-1 tvg-id="AR | El Trece" tvg-name="AR | El Trece" channelId="193" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/120px-Logo_de_eltrece_lanzado_en_2016.png" group-title="INTERNACIONALES", El Trece
+#EXTINF:-1 tvg-id="AR | El Trece" tvg-name="AR | El Trece" channelId="193" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/120px-Logo_de_eltrece_lanzado_en_2016.png" group-title="ARGENTINA", El Trece
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TRECEARGENTINA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRECEARGENTINA_stream_e4&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1205591609&_cdn_session=83721419&_cdn_timestamp=1633209686&_cdn_token=82d675220c76e79165016cec95b5aa1e8656bea3
 #EXTINF:-1 tvg-id="UR | UCL TV" tvg-name="UR | UCL TV" channelId="194" tvg-logo="https://www.ucltelevision.com/wp-content/uploads/2021/04/cropped-Logo-UCL-TV-LATAM-horizontal-132x65.png" group-title="URUGUAY", Un Canal Latinoamericano TV
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
@@ -523,21 +523,69 @@ https://us-b4-p-e-xy7-audio.cdn.mdstrm.com/live-audio-aw/5fab0687bcd6c2389ee9480
 http://c22.radioboss.fm:8100/stream
 #EXTINF:-1 tvg-id="PE | Radio Unión" tvg-name="PE | Radio Unión" channelId="258" tvg-logo="https://radiounion.pe/imgs/radio_union_peru.png" group-title="EMISORAS NACIONALES", Radio Unión | 103.3 FM y 880 AM
 https://tupanel.info:9180/stream
-#EXTINF:-1 tvg-id="PE | Radiomar" tvg-name="PE | Radiomar" channelId="259" tvg-logo="https://radiomar.pe/assets/images/logo-radiomar.png" group-title="EMISORAS NACIONALES", Radiomar | 106.3 FM
+#EXTINF:-1 tvg-id="PE | Radio Nacional" tvg-name="PE | Radio Nacional" channelId="259" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Logo_radio_nacional_per%C3%B9_2019.png/225px-Logo_radio_nacional_per%C3%B9_2019.png" group-title="EMISORAS NACIONALES", Radio Nacional del Perú | 103.9 FM
+https://cdnh4.iblups.com/hls/OisZOgZAOB.m3u8
+#EXTINF:-1 tvg-id="PE | Radio América" tvg-name="PE | Radio América" channelId="260" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Radio_Am%C3%A9rica_Per%C3%BA_2021.png/250px-Radio_Am%C3%A9rica_Per%C3%BA_2021.png" group-title="EMISORAS NACIONALES", Radio América | 104.7 FM
+https://us-b4-p-e-az1-audio.cdn.mdstrm.com/live-audio-aw/60bfd82b9488941e9d86eb1d/playlist.m3u8?listeningSessionID=610b02265491ed33_5095064_JWHZuyST__000000fXF80&downloadSessionID=0&aid=5b8ea6f89ff52d0770a144c4&dnt=true&uid=C3a7PpdAuZC3sabLt30lYaR3f8eZ4Cmi&sid=f4NVxxmkXM6KenMeijGVsNiVwI6CxHYV&pid=854oDUAuA7P1Pl52reJvUVfoPl9DW1R5&ref=radioamerica.pe&es=us-b4-p-e-az1-audio.cdn.mdstrm.com&ote=1633292624028&ot=EXOmIajvFbQUSjAENBQzDg&proto=https&pz=us&cP=128000&awCollectionId=5b8ea6f89ff52d0770a144c4&liveId=60bfd82b9488941e9d86eb1d&referer=https%3A%2F%2Fradioamerica.pe%2F&propertyName=appName&propertyType=web-app&propertyVersion=v0.0.169
+#EXTINF:-1 tvg-id="PE | Radio Fiesta" tvg-name="PE | Radio Fiesta" channelId="261" tvg-logo="https://cdn-planetaradios.com/imgio/fiesta_xx14144ss.jpg" group-title="EMISORAS NACIONALES", Radio Fiesta | 105.5 FM
+https://node-09.zeno.fm/qwg4g355668uv?rj-ttl=5&rj-tok=AAABfEK6x9IAMeLk8ZmKEGLjzw
+#EXTINF:-1 tvg-id="PE | Radiomar" tvg-name="PE | Radiomar" channelId="262" tvg-logo="https://radiomar.pe/assets/images/logo-radiomar.png" group-title="EMISORAS NACIONALES", Radiomar | 106.3 FM
 http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MAR_SC
-#EXTINF:-1 tvg-id="PE | Radio Nueva Q" tvg-name="PE | Radio Nueva Q" channelId="260" tvg-logo="https://radionuevaq.pe/assets/images/logo-nueva-q.png" group-title="EMISORAS NACIONALES", Radio Nueva Q | 107.1 FM
+#EXTINF:-1 tvg-id="PE | Radio Nueva Q" tvg-name="PE | Radio Nueva Q" channelId="263" tvg-logo="https://radionuevaq.pe/assets/images/logo-nueva-q.png" group-title="EMISORAS NACIONALES", Radio Nueva Q | 107.1 FM
 http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_NQ_SC
-#EXTINF:-1 tvg-id="PE | Radio Planeta" tvg-name="PE | Radio Planeta" channelId="261" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Planeta_2012.png/225px-Planeta_2012.png" group-title="EMISORAS NACIONALES", Radio Planeta | 107.7 FM
+#EXTINF:-1 tvg-id="PE | Radio Planeta" tvg-name="PE | Radio Planeta" channelId="264" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Planeta_2012.png/225px-Planeta_2012.png" group-title="EMISORAS NACIONALES", Radio Planeta | 107.7 FM
 http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_PLA_SC
-#EXTINF:-1 tvg-id="PE | Radio Incasat" tvg-name="PE | Radio Incasat" channelId="262" tvg-logo="http://www.radioinca.com.pe/build/images/logo-inca.png" group-title="EMISORAS NACIONALES", Radio Incasat | 540 AM
+#EXTINF:-1 tvg-id="PE | Radio Incasat" tvg-name="PE | Radio Incasat" channelId="265" tvg-logo="http://www.radioinca.com.pe/build/images/logo-inca.png" group-title="EMISORAS NACIONALES", Radio Incasat | 540 AM
 https://19813.live.streamtheworld.com/CRP_INC_SC?csegid=20001&dist=20001&ttag=20001
-#EXTINF:-1 tvg-id="PE | Radio Bienestar" tvg-name="PE | Radio Bienestar" channelId="263" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/bienestar.png" group-title="EMISORAS NACIONALES", Radio Bienestar | 760 AM
+#EXTINF:-1 tvg-id="PE | Radio Oriente" tvg-name="PE | Radio Oriente" channelId="266" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/oriente-lima.png" group-title="EMISORAS NACIONALES", Radio Oriente | 560 AM
+http://radio.radiotel.net:9312/stream/1/
+#EXTINF:-1 tvg-id="PE | Radio María del Perú" tvg-name="PE | Radio María del Perú" channelId="267" tvg-logo="https://www.radiomariaperu.org/wp-content/uploads/2018/06/LogoPE.jpg" group-title="EMISORAS NACIONALES", Radio María del Perú | 580 AM
+http://dreamsiteradiocp4.com:8020/
+#EXTINF:-1 tvg-id="PE | Radio Cordillera" tvg-name="PE | Radio Cordillera" channelId="268" tvg-logo="http://www.radiocordillera600am.com.pe/images/logo.jpg" group-title="EMISORAS NACIONALES", Radio Cordillera | 600 AM
+https://node-24.zeno.fm/nn01m46fwa0uv?rj-ttl=5&rj-tok=AAABfELK4c0Aa33jK9pWPQhzfA
+#EXTINF:-1 tvg-id="PE | Radio Ovación" tvg-name="PE | Radio Ovación" channelId="269" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRCUwSBmmkrj2dk2DZ_2nhJOeBJ18WczbN-r-tetw=s900-c-k-c0x00ffffff-no-rj" group-title="EMISORAS NACIONALES", Radio Ovación| 620 AM
+https://5c3fb01839654.streamlock.net:1963/ipradioovacion1/liveovacion1radio/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | Radio Integridad" tvg-name="PE | Radio Integridad" channelId="270" tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/1/25521.v9.png" group-title="EMISORAS NACIONALES", Red Radio Integridad | 700 AM
+https://dattavolt.com/8164/stream
+#EXTINF:-1 tvg-id="PE | Radio Bienestar" tvg-name="PE | Radio Bienestar" channelId="271" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/bienestar.png" group-title="EMISORAS NACIONALES", Radio Bienestar | 760 AM
 https://17963.live.streamtheworld.com/BIENESTAR_SC?csegid=20001&dist=20001&ttag=20001
-#EXTINF:-1 tvg-id="PE | Radio La Luz" tvg-name="PE | Radio La Luz" channelId="264" tvg-logo="http://radiolaluz.com/wp-content/themes/laluz/images/logo_rad.png" group-title="EMISORAS NACIONALES", Radio La Luz | 1080 AM
+#EXTINF:-1 tvg-id="PE | Radio Victoria" tvg-name="PE | Radio Victoria" channelId="272" tvg-logo="http://www.radiovictoria.com.pe/imgs/logo_4.png" group-title="EMISORAS NACIONALES", Radio Victoria | 780 AM
+http://65.60.45.74:8156/;
+#EXTINF:-1 tvg-id="PE | Radio Libertad" tvg-name="PE | Radio Libertad" channelId="273" tvg-logo="https://www.radiolibertad.com.pe/wp-content/uploads/elementor/thumbs/logo-oy9txjgucti7d3xei4rmxj5yy0mtuy7dinuop8vrv4.jpg" group-title="EMISORAS NACIONALES", Radio Libertad | 820 AM
+https://radio.pjcks.com/9972/stream
+#EXTINF:-1 tvg-id="PE | Radio Latina" tvg-name="PE | Radio Latina" channelId="274" tvg-logo="http://www.radiolatina.com.pe/admin/assets/img/logo.png" group-title="EMISORAS NACIONALES", Radio Latina | 990 AM
+http://server07.srvsh.com.br:8016/;
+#EXTINF:-1 tvg-id="PE | Radio Cielo" tvg-name="PE | Radio Cielo" channelId="275" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/cielo-lima.png" group-title="EMISORAS NACIONALES", Radio Cielo | 1010 AM
+https://serverssl.innovatestream.pe:8080/http://167.114.118.120:7342/;
+#EXTINF:-1 tvg-id="PE | Radio Metropolitana" tvg-name="PE | Radio Metropolitana" channelId="276" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/metropolitana-lima.png" group-title="EMISORAS NACIONALES", Radio Metropolitana | 1040 AM
+http://www.turadio.pro:8130/stream/1/
+#EXTINF:-1 tvg-id="PE | Radio Éxito" tvg-name="PE | Radio Éxito" channelId="277" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/DVUYtwjYv9.jpg" group-title="EMISORAS NACIONALES", Radio Éxito | 1060 AM
+http://67.212.179.138:7200/;stream/1
+#EXTINF:-1 tvg-id="PE | Radio La Luz" tvg-name="PE | Radio La Luz" channelId="278" tvg-logo="http://radiolaluz.com/wp-content/themes/laluz/images/logo_rad.png" group-title="EMISORAS NACIONALES", Radio La Luz | 1080 AM
 http://radio.transmite.pe:9310/stream?icy=http
+#EXTINF:-1 tvg-id="PE | NSE Radio" tvg-name="PE | NSE Radio" channelId="279" tvg-logo="https://2.bp.blogspot.com/-lMCriJJNr24/XcmPLZk2CmI/AAAAAAAAOdk/qp5TOY47OXAnjhO7QZilSDgZFAlq3KlsgCLcBGAsYHQ/s200/nsearequipa.jpg" group-title="EMISORAS NACIONALES", NSE (Nuestra Señora del Encuentro con Dios) Radio | 1180 AM
+https://mpc.mediacp.eu/stream/nseradio
+#EXTINF:-1 tvg-id="PE | Radio Comas" tvg-name="PE | Radio Comas" channelId="280" tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/9/25939.v12.png" group-title="EMISORAS NACIONALES", Radio Comas | 1300 AM
+http://65.60.2.26:8046/;
+#EXTINF:-1 tvg-id="PE | Radio La Crónica" tvg-name="PE | Radio La Crónica" channelId="281" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_radio_la_cronica_per%C3%B9_2019.png/225px-Logo_radio_la_cronica_per%C3%B9_2019.png" group-title="EMISORAS NACIONALES", Radio La Crónica | 1320 AM
+https://cdnh4.iblups.com/hls/3KBokMgDQi.m3u8
+#EXTINF:-1 tvg-id="PE | Radio Nuevo Tiempo" tvg-name="PE | Radio Nuevo Tiempo" channelId="282" tvg-logo="https://api.raddios.com/api/radios/723/image/miniaturamovil?2020-04-20%2010:38:56" group-title="EMISORAS NACIONALES", Radio Nuevo Tiempo | 1380 AM
+https://stream.live.novotempo.com/radio/smil:rntLimaPE.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | Radio Callao" tvg-name="PE | Radio Callao" channelId="283" tvg-logo="http://www.radiocallao.com/rcallao.jpg" group-title="EMISORAS NACIONALES", Radio Callao | 1400 AM
+http://iax.infomagia.com:8000/;
+#EXTINF:-1 tvg-id="PE | Radio Santa Rosa" tvg-name="PE | Radio Santa Rosa" channelId="284" tvg-logo="https://radiosantarosa.com.pe/wp-content/uploads/2019/02/c52.png" group-title="EMISORAS NACIONALES", Radio Santa Rosa | 1500 AM
+https://securestream.conectarhosting.com:8136/live
+#EXTINF:-1 tvg-id="PE | Radio Milenia" tvg-name="PE | Radio Milenia" channelId="285" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/milenia-lima.png" group-title="EMISORAS NACIONALES", Radio Milenia | 1530 AM
+https://radio.pjcks.com/8020/stream
+#EXTINF:-1 tvg-id="PE | Radio Bethel" tvg-name="PE | Radio Bethel" channelId="286" tvg-logo="" group-title="EMISORAS NACIONALES", Radio Bethel | 1570 AM
+https://tampa.audio-stream.com/proxy/bethelra?mp=/stream
+#EXTINF:-1 tvg-id="PE | Red de Difusión Bíblica" tvg-name="PE | Red de Difusión Bíblica" channelId="287" tvg-logo="https://bbn1.bbnradio.org/spanish/wp-content/uploads/sites/5/2020/12/50thLogoSP.png" group-title="EMISORAS INTERNACIONALES", Bible Broadcasting Network Radio
+https://audio-edge-es6pf.mia.g.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f
 #EXTINF:-1 tvg-id="PE | Radio Cumbia Mix" tvg-name="PE | Radio Cumbia Mix" channelId="265" tvg-logo="https://radiocumbiamix.com/img/logo_3.png" group-title="EMISORAS NACIONALES", Radio Cumbia Mix
 https://streaming.gometri.com/stream/8017/stream
 #EXTINF:-1 tvg-id="PE | Radio Besame" tvg-name="PE | Radio Besame" channelId="266" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/besame.png" group-title="EMISORAS NACIONALES", Radio Bésame
 http://167.114.118.120:7450/
 #EXTINF:-1 tvg-id="PE | Radio Z" tvg-name="PE | Radio Z" channelId="267" tvg-logo="http://i0.wp.com/www.radioz.pe/wp-content/uploads/2017/12/LOGO-EFECTO.png" group-title="EMISORAS NACIONALES", Radio Z Rock & Pop
 http://167.114.118.120:7440
+#EXTINF:-1 tvg-id="ES | NSE Radio América" tvg-name="ES | NSE Radio América" channelId="279" tvg-logo="https://public-rf-upload.minhawebradio.net/166842/cover/73f0ce5e8eab2e197fc683cb50d7b20b.jpg" group-title="EMISORAS INTERNACIONALES", NSE (Nuestra Señora del Encuentro con Dios) Radio América
+https://mpc.mediacp.eu:8520/stream
