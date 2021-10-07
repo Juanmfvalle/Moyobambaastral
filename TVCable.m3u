@@ -345,8 +345,8 @@ https://mediastreamm.com:3149/live/jn19tvlive.m3u8
 http://nicatv.rylco.com:8075/live/0013/index.m3u8
 #EXTINF:-1 tvg-id="AR | Canal Luz" tvg-name="AR | Canal Luz" channelId="169" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Canal_Luz_actual.png/125px-Canal_Luz_actual.png" group-title="RELIGIOSOS", Canal Luz
 https://qlobbidev.s.llnwi.net/canalluz/hls/stream/index.m3u8
-#EXTINF:-1 tvg-id="PE | Bethel Television" tvg-name="PE | Bethel Television" channelId="170" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/BethelTV1998.png/revision/latest?cb=20210326224941&path-prefix=es" group-title="RELIGIOSOS", Bethel Televisión
-https://ott.streann.com/loadbalancer/services/v1/channels-secure/5e0689c82cdcb4fdbcd79151/playlist.m3u8?access_token=df8cc0bc-4c94-43b1-a161-63bac468e417&device-id=XOnEFhxlsuVp2ht57V68qos5IN5tUstF54wK0WaNangGu5tMOo&device-type=web&device-name=web&doNotUseRedirect=false&start-index=0&time-zone=(hora%20est%C3%A1ndar%20de%20Per%C3%BA),hora%20est%C3%A1ndar%20de%20Per%C3%BA&dvrTime=3600
+#EXTINF:-1 tvg-id="CO | CMB Televisión" tvg-name="CO | CMB Televisión" channelId="170" tvg-logo="https://www.cmbcolombia.tv/vistas/paginas/images/logo.png" group-title="RELIGIOSOS", Centro Misionero Bethesda Televisión
+https://liveingesta118.cdnmedia.tv/bethesdalive/smil:live.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 tvg-id="GT | TV Plenitud canal 54" tvg-name="GT | TV Plenitud canal 54" channelId="171" tvg-logo="https://yt3.ggpht.com/i5QAcRAww3UIAwQmS9DmpwJKspgoHhtLr8ymo_XM7Dyjaolmd3xO-pBc7IZflWwCKemw_Y_roA=s88-c-k-c0x00ffffff-no-rj" group-title="RELIGIOSOS", TV Plenitud
 https://stream.oursnetworktv.com/latin/PlenitudGtm/media_w577479030_1253.m3u8
 #EXTINF:-1 tvg-id="CL | Nuevo Tiempo" tvg-name="CL | Nuevo Tiempo" channelId="172" tvg-logo="https://www.nuevotiempo.org/wp-content/uploads/sites/6/2020/03/logo-teste-novo-tempo-02-ES.png" group-title="RELIGIOSOS", Nuevo Tiempo
@@ -526,7 +526,7 @@ https://gt.tunelive.net:3191/stream/play.m3u8
 #EXTINF:-1 tvg-id="GT | TN 23" tvg-name="GT | TN 23" channelId="259" tvg-logo="https://www.chapintv.com/wp-content/uploads/2020/10/tn23-logo-sin-fondo.png" group-title="GUATEMALA", TN 23
 https://gt.tunelive.net:3939/stream/play.m3u8
 #EXTINF:-1 tvg-id="GT | Guatevision" tvg-name="GT | Guatevision" channelId="260" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Guatevisionlogo.JPG/200px-Guatevisionlogo.JPG" group-title="GUATEMALA", Guatevisión
-https://streannlive-lh.akamaihd.net/i/guatevision_1@870649/index_1_av-p.m3u8?sd=10&set-segment-duration=smoothest&rebase=on&hdntl=exp=1633670217~acl=*~data=hdntl~hmac=9de655ab450d89359affc2bb6a9777c75cb0afbc33ca1addb67978cecf868040
+https://ott.streann.com/loadbalancer/services/web-players/channels-reseller-secure/5d6821172cdced7698d5a329/194674fd-bbad-4ba5-9466-094ba965685f/oc0ik1uepk6sbfmm28ja1k9171/5d6800532cdcba6e1f5d535d/playlist.m3u8?date=1633617516999&device-type=web&device-name=web&device-os=web&device-id=I76vxScSnMLpgDJyxx6Zv2YsjybMmJBXF5ixw5W23nuVTTXeqR
 #EXTINF:-1 tvg-id="GT | Canal Antigua" tvg-name="GT | Canal Antigua" channelId="261" tvg-logo="https://i2.wp.com/canalantigua.tv/wp-content/uploads/2020/12/cropped-cropped-544-x-180-logo-300x99-1.png?fit=300%2C99&ssl=1" group-title="GUATEMALA", Canal Antigua
 http://51.161.12.229:1935/CanalAntigua/myStream/chunklist_w1313531480.m3u8
 #EXTINF:-1 tvg-id="GT | Canal CXN" tvg-name="GT | Canal CXN" channelId="262" tvg-logo="https://canalcxn.dvsnetwork.net/wp-content/themes/canalcxn/dist/images/canalcxn-logo.png?x78391" group-title="GUATEMALA", Canal CXN
