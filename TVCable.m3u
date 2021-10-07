@@ -346,7 +346,7 @@ http://nicatv.rylco.com:8075/live/0013/index.m3u8
 #EXTINF:-1 tvg-id="AR | Canal Luz" tvg-name="AR | Canal Luz" channelId="169" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Canal_Luz_actual.png/125px-Canal_Luz_actual.png" group-title="RELIGIOSOS", Canal Luz
 https://qlobbidev.s.llnwi.net/canalluz/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="PE | Bethel Television" tvg-name="PE | Bethel Television" channelId="170" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/BethelTV1998.png/revision/latest?cb=20210326224941&path-prefix=es" group-title="RELIGIOSOS", Bethel Televisión
-https://ott.streann.com/loadbalancer/services/v1/channels-secure/5e0689c82cdcb4fdbcd79151/playlist.m3u8?access_token=2c2054c1-3d18-43a9-9c73-76718a81b5af&device-id=GYx58fzZ5wCKENg1dLA3jgDoev5hQdTHvlVKaEha59rMOnL5A7&device-type=web&device-name=web&doNotUseRedirect=false&start-index=0&time-zone=(hora%20est%C3%A1ndar%20de%20Per%C3%BA),hora%20est%C3%A1ndar%20de%20Per%C3%BA&dvrTime=3600
+https://ott.streann.com/loadbalancer/services/v1/channels-secure/5e0689c82cdcb4fdbcd79151/playlist.m3u8?access_token=df8cc0bc-4c94-43b1-a161-63bac468e417&device-id=XOnEFhxlsuVp2ht57V68qos5IN5tUstF54wK0WaNangGu5tMOo&device-type=web&device-name=web&doNotUseRedirect=false&start-index=0&time-zone=(hora%20est%C3%A1ndar%20de%20Per%C3%BA),hora%20est%C3%A1ndar%20de%20Per%C3%BA&dvrTime=3600
 #EXTINF:-1 tvg-id="GT | TV Plenitud canal 54" tvg-name="GT | TV Plenitud canal 54" channelId="171" tvg-logo="https://yt3.ggpht.com/i5QAcRAww3UIAwQmS9DmpwJKspgoHhtLr8ymo_XM7Dyjaolmd3xO-pBc7IZflWwCKemw_Y_roA=s88-c-k-c0x00ffffff-no-rj" group-title="RELIGIOSOS", TV Plenitud
 https://stream.oursnetworktv.com/latin/PlenitudGtm/media_w577479030_1253.m3u8
 #EXTINF:-1 tvg-id="CL | Nuevo Tiempo" tvg-name="CL | Nuevo Tiempo" channelId="172" tvg-logo="https://www.nuevotiempo.org/wp-content/uploads/sites/6/2020/03/logo-teste-novo-tempo-02-ES.png" group-title="RELIGIOSOS", Nuevo Tiempo
@@ -442,7 +442,7 @@ https://rds3.desdeparaguay.net/npy/npy_int_baja/chunklist_w1801795099.m3u8?k=b03
 #EXTINF:-1 tvg-id="PY | Unicanal" tvg-name="PY | Unicanal" channelId="217" tvg-logo="http://www.unicanal.com.py/public/img/LogoUnicanal452x70.png" group-title="PARAGUAY", Unicanal
 http://45.55.127.106/live/unicanal_mid.m3u8
 #EXTINF:-1 tvg-id="PY | Telefuturo" tvg-name="PY | Telefuturo" channelId="218" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Telefuturo2017.png/180px-Telefuturo2017.png" group-title="PARAGUAY", Telefuturo
-https://rds3.desdeparaguay.net/telefuturo/telefuturo_int_baja/chunklist_w244640041.m3u8?k=785453e753c0b85787748d5b6676ed891196442d33e0cf60cea675b476f66990&exp=1633596130
+https://rds3.desdeparaguay.net/telefuturo/telefuturo_int_baja/chunklist_w1012249182.m3u8?k=4d7e54c5f9c47fecc0e9280935ac29d6efd9cbcf70250b16d687d6f63dddff6f&exp=1633616482
 #EXTINF:-1 tvg-id="PY | SNT" tvg-name="PY | SNT" channelId="219" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/SNT_LOGO.jpg/220px-SNT_LOGO.jpg" group-title="PARAGUAY", Sistema Nacional de Televisión
 https://py-snt-snt-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjMzNjczMTAzLCJzZXNzaW9uIjoiMTgxLjE3Ni4xMjguOTgiLCJ3aGl0ZWxpc3QiOlsiMTgxLjE3Ni4xMjguOTgiXX0sInNpZ25hdHVyZSI6IjMzZTFlMWVmMTc1NTAzODQ3ZjdjZGJlZDU5N2IwMGM2Mjk0OTVjMDQifQ==
 #EXTINF:-1 tvg-id="PY | C9N" tvg-name="PY | C9N" channelId="220" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Canal_9_Noticias.jpg/125px-Canal_9_Noticias.jpg" group-title="PARAGUAY", Canal 9 Noticias
