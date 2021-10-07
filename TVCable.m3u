@@ -380,7 +380,7 @@ https://qlobbidev.s.llnwi.net/telesur3/hls/moquegua.m3u8
 #EXTINF:-1 tvg-id="EC | Teleamazonas" tvg-name="EC | Teleamazonas" channelId="186" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/150px-Teleamazonas_Logo.png" group-title="ECUADOR", Teleamazonas
 https://vps-c97214f4.vps.ovh.net/hls/ecutv2.m3u8
 #EXTINF:-1 tvg-id="EC | Televicentro" tvg-name="EC | Televicentro" channelId="187" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/TVCEC.png/150px-TVCEC.png" group-title="ECUADOR", TVC
-https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjMzNjE2NDczLCJzZXNzaW9uIjoiMTgxLjE3Ni4xMjguODkiLCJ3aGl0ZWxpc3QiOlsiMTgxLjE3Ni4xMjguODkiXX0sInNpZ25hdHVyZSI6ImFmNGM3NjIyMGNkNzEwY2JhNDVkNzM5YzFhZGRhZDFmZGNjNWQzOGUifQ%3D%3D
+https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjMzNzA5NDMyLCJzZXNzaW9uIjoiMTgxLjE3Ni4xMjguOTEiLCJ3aGl0ZWxpc3QiOlsiMTgxLjE3Ni4xMjguOTEiXX0sInNpZ25hdHVyZSI6Ijk0MjVjMDdhZGQwZGM1Y2JmYTZiZGM5YTE3MDQ2NTBhZTkzYzY1YWEifQ==
 #EXTINF:-1 tvg-id="EC | Ecuador TV" tvg-name="EC | Ecuador TV" channelId="188" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/150px-EcuadorTV_logo.png" group-title="ECUADOR", Ecuador TV
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ECUADORTV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DECUADORTV_stream_wj&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1727400741&_cdn_session=85073227&_cdn_timestamp=1633667573&_cdn_token=5416c9dd774aaef05548b7935a676a66e9825fb4
 #EXTINF:-1 tvg-id="EC | Ecuavisa" tvg-name="EC | Ecuavisa" channelId="189" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/200px-Logo_Ecuavisa.svg.png" group-title="ECUADOR", Ecuavisa
@@ -438,11 +438,11 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TRECEARGENTINA/20-hls/live-me
 #EXTINF:-1 tvg-id="UR | UCL TV" tvg-name="UR | UCL TV" channelId="215" tvg-logo="https://www.ucltelevision.com/wp-content/uploads/2021/04/cropped-Logo-UCL-TV-LATAM-horizontal-132x65.png" group-title="URUGUAY", Un Canal Latinoamericano TV
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 tvg-id="PY | NPY TV" tvg-name="PY | NPY TV" channelId="216" tvg-logo="https://npy.com.py/wp-content/uploads/2019/07/cropped-logodos-1.png" group-title="PARAGUAY", Noticias PY
-https://rds3.desdeparaguay.net/npy/npy_int_baja/chunklist_w1801795099.m3u8?k=b03ff7f5c60c2ae34f0fdd158bf714a5c8de790f3525b593a1079a6cea552ddb&exp=1633587105
+https://rds3.desdeparaguay.net/npy/npy_int_baja/playlist.m3u8?k=0fe37509a2cd1c8ae6dafa23f76c685797114e06bd95f1102259efc2dca92d8d&exp=1633623638
 #EXTINF:-1 tvg-id="PY | Unicanal" tvg-name="PY | Unicanal" channelId="217" tvg-logo="http://www.unicanal.com.py/public/img/LogoUnicanal452x70.png" group-title="PARAGUAY", Unicanal
 http://45.55.127.106/live/unicanal_mid.m3u8
 #EXTINF:-1 tvg-id="PY | Telefuturo" tvg-name="PY | Telefuturo" channelId="218" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Telefuturo2017.png/180px-Telefuturo2017.png" group-title="PARAGUAY", Telefuturo
-https://rds3.desdeparaguay.net/telefuturo/telefuturo_int_baja/chunklist_w1012249182.m3u8?k=4d7e54c5f9c47fecc0e9280935ac29d6efd9cbcf70250b16d687d6f63dddff6f&exp=1633616482
+https://rds3.desdeparaguay.net/telefuturo/telefuturo_int_baja/playlist.m3u8?k=96c68109e416537e3e9351669954ed2ad93d0d7d061d059dfba10bb72ddfca68&exp=1633623550
 #EXTINF:-1 tvg-id="PY | SNT" tvg-name="PY | SNT" channelId="219" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/SNT_LOGO.jpg/220px-SNT_LOGO.jpg" group-title="PARAGUAY", Sistema Nacional de Televisión
 https://py-snt-snt-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjMzNjczMTAzLCJzZXNzaW9uIjoiMTgxLjE3Ni4xMjguOTgiLCJ3aGl0ZWxpc3QiOlsiMTgxLjE3Ni4xMjguOTgiXX0sInNpZ25hdHVyZSI6IjMzZTFlMWVmMTc1NTAzODQ3ZjdjZGJlZDU5N2IwMGM2Mjk0OTVjMDQifQ==
 #EXTINF:-1 tvg-id="PY | C9N" tvg-name="PY | C9N" channelId="220" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Canal_9_Noticias.jpg/125px-Canal_9_Noticias.jpg" group-title="PARAGUAY", Canal 9 Noticias
@@ -508,7 +508,7 @@ https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZfP1aGsmC4P8rA9MIS
 #EXTINF:-1 tvg-id="HN | Telecadena" tvg-name="HN | Telecadena" channelId="250" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Telecadena7y42018.png/150px-Telecadena7y42018.png" group-title="HONDURAS", Telecadena 7 y 4
 https://bcovlive-a.akamaihd.net/825f39eaa17d4794a3898945026556e0/us-west-2/6056665196001/playlist.m3u8
 #EXTINF:-1 tvg-id="HN | VTV" tvg-name="HN | VTV" channelId="251" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/VTV_HN_logo_2019.png/210px-VTV_HN_logo_2019.png" group-title="HONDURAS", Vica TV
-https://hn-vtv-vtv-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjMzNjc3OTIwLCJzZXNzaW9uIjoiMTgxLjE3Ni4xMjguOTgiLCJ3aGl0ZWxpc3QiOlsiMTgxLjE3Ni4xMjguOTgiXX0sInNpZ25hdHVyZSI6Ijc0MDU5MTM0OWRhYTVkMDEzMjAyMjE1YzdmOTMzNGI0OTA5MDNhMmMifQ==
+https://hn-vtv-vtv-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjMzNzA5NTg0LCJzZXNzaW9uIjoiMTgxLjE3Ni4xMjguOTEiLCJ3aGl0ZWxpc3QiOlsiMTgxLjE3Ni4xMjguOTEiXX0sInNpZ25hdHVyZSI6IjE1NWJjNWVmNmVmNWNhZTUzZmE1ODA3YjUyYjYyNmQ3ZDM2Nzg2NjEifQ==
 #EXTINF:-1 tvg-id="HN | HCH Canal 40" tvg-name="HN | HCH Canal 40" channelId="252" tvg-logo="https://hch.tv/wp-content/uploads/2021/09/logos-hch-bueno-1.png" group-title="HONDURAS", Hable Como Habla TV
 https://stream-01.nyc.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpgTdGqL2rh2Flwy45nTu4Yw)/dm/3/x81za5c/s/live-0.m3u8
 #EXTINF:-1 tvg-id="HN | Telemas" tvg-name="HN | Telemas" channelId="253" tvg-logo="http://www.hn504.net/img/tv/Telemas.png" group-title="HONDURAS", Telemas
