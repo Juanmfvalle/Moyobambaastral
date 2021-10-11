@@ -182,7 +182,7 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/NICKELODEON/20-hls/live-media
 #EXTINF:-1 tvg-id="USA | Nick Junior" tvg-name="USA | Nick Junior" channelId="87" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/130px-Nick_Jr._logo_2009.svg.png" group-title="INFANTILES", Nickelodeon Junior
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/NICKJR/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKJR_stream_y9&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1205591609&_cdn_session=85821075&_cdn_timestamp=1633819267&_cdn_token=cf5e67be30f82c8e15ef24e9fe7b559c5faa52dd
 #EXTINF:-1 tvg-id="USA | Locomotion TV" tvg-name="USA | Locomotion TV" channelId="88" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Locomotion.png/250px-Locomotion.png" group-title="INFANTILES", Locomotion TV
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="AR | Magickids" tvg-name="AR | Magickids" channelId="89" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logomagic96.png/145px-Logomagic96.png" group-title="INFANTILES", Magickids
 https://live.admefy.com/live/240/clean_peach_ef224.m3u8
 #EXTINF:-1 tvg-id="CL | Doskids" tvg-name="CL | Doskids" channelId="90" tvg-logo="https://multicontenidos.cl/wp-content/uploads/2020/12/DOS-KIDS.png" group-title="INFANTILES", Dos Kids
