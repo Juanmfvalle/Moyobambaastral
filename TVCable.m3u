@@ -250,7 +250,7 @@ http://179.1.7.198:1935/live/TVAgroHD.stream_360p/chunklist_w1692266694.m3u8
 #EXTINF:-1 tvg-id="USA | Discovery Turbo" tvg-name="USA | Discovery Turbo" channelId="122" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png" group-title="CULTURA Y EDUCACION", Discovery Turbo
 https://gt.tunelive.net:3629/stream/play.m3u8
 #EXTINF:-1 tvg-id="USA | Discovery Science" tvg-name="USA | Discovery Science" channelId="123" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/150px-Science_Channel_logo.svg.png" group-title="CULTURA Y EDUCACION", Discovery Science
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYSCIENCE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYSCIENCE_stream_49&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1205591609&_cdn_session=87279803&_cdn_timestamp=1634159297&_cdn_token=1d9b577ab40e3e46f20a595ff9258d769e0968af
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYSCIENCE/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYSCIENCE_stream_49&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D939499361&_cdn_session=87916675&_cdn_timestamp=1634270679&_cdn_token=af8a48279988623faca4c016bc2979d523d10c97
 #EXTINF:-1 tvg-id="CO | Avivamiento TV" tvg-name="CO | Avivamiento TV" channelId="124" tvg-logo="https://avivamiento.com/images/all-images/tv/tv.png" group-title="RELIGIOSOS", Avivamiento Televisión
 https://s2.abntelevision.com/avivamientoabr/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | Vida Nueva TV" tvg-name="CO | Vida Nueva TV" channelId="125" tvg-logo="https://mividanueva.org/wp-content/uploads/2021/02/Logo-Horizontal.png" group-title="RELIGIOSOS", Vida Nueva Televisión
@@ -312,7 +312,7 @@ https://vps-c97214f4.vps.ovh.net/hls/ecutv2.m3u8
 #EXTINF:-1 tvg-id="EC | Televicentro" tvg-name="EC | Televicentro" channelId="153" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/TVCEC.png/150px-TVCEC.png" group-title="ECUADOR", TVC | ECUADOR
 https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM0MDg2NDI2LCJzZXNzaW9uIjoiMTkwLjIzMi4xMDkuMTI2Iiwid2hpdGVsaXN0IjpbIjE5MC4yMzIuMTA5LjEyNiJdfSwic2lnbmF0dXJlIjoiMWNkN2U1NGFhMWE4ZWUyMWI0YWNlYmJlN2UxNjc2MTlkNzgwYTVmZCJ9
 #EXTINF:-1 tvg-id="EC | Ecuador TV" tvg-name="EC | Ecuador TV" channelId="154" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/150px-EcuadorTV_logo.png" group-title="ECUADOR", Ecuador TV | ECUADOR
-https://vps-c97214f4.vps.ovh.net/hls/ecutv1.m3u8
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ECUADORTV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DECUADORTV_stream_wj&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D939499361&_cdn_session=87916915&_cdn_timestamp=1634270887&_cdn_token=4ddc398519c98a0e2c6513d1e0bf381fc2d990fc
 #EXTINF:-1 tvg-id="EC | Ecuavisa" tvg-name="EC | Ecuavisa" channelId="155" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/200px-Logo_Ecuavisa.svg.png" group-title="ECUADOR", Ecuavisa | ECUADOR
 https://vps-c97214f4.vps.ovh.net/hls/ecutv3.m3u8
 #EXTINF:-1 tvg-id="EC | RTS" tvg-name="EC | RTS" channelId="156" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/150px-Rts_logo.png" group-title="ECUADOR", Red Telesistema | ECUADOR
