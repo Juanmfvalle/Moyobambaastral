@@ -293,8 +293,8 @@ https://tv.siete.us:19360/bestcable/bestcable/index.m3u8
 https://qlobbidev.s.llnwi.net/telesur3/hls/camana.m3u8
 #EXTINF:-1 tvg-id="PE | Telesur" tvg-name="PE | Telesur" channelId="144" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png" group-title="REGIONALES", Telesur | Moquegua
 https://qlobbidev.s.llnwi.net/telesur3/hls/moquegua.m3u8
-#EXTINF:-1 tvg-id="PE | Expresión TV" tvg-name="PE | Expresión TV" channelId="145" tvg-logo="https://scontent.flim10-1.fna.fbcdn.net/v/t1.18169-9/14364904_795399597229079_6329238118301540301_n.png?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGNvgUj_NTCJIpQ2heG2S4hrEGaYAYJr7esQZpgBgmvt_HzmnjcE6YeK8FDPyHmKjY&_nc_ohc=RhIkr29SzCMAX-WJGRw&_nc_ht=scontent.flim10-1.fna&oh=6a1747949a66d76885b18d64cea09145&oe=618CC6AE" group-title="REGIONALES", Expresión TV | Ilo
-https://qlobbidev.s.llnwi.net/telesur3/hls/radioilo.m3u8
+#EXTINF:-1 tvg-id="PE | Quillavisión TV" tvg-name="PE | Quillavisión TV" channelId="145" tvg-logo="https://scontent.flim10-1.fna.fbcdn.net/v/t1.6435-9/119165135_113085623871343_5973820231034478652_n.png?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeHVpQKHsoHaDIdtnLDHpQ9kDaRQVBqXqjcNpFBUGpeqNxPs_xgn6aeN6a61eaqZ0w8&_nc_ohc=qzPz4GEhab0AX_GJrIl&_nc_ht=scontent.flim10-1.fna&oh=dd27116840a2fb565fffd27d564f8f5b&oe=6190279C" group-title="REGIONALES", Quillavisión TV | Quillabamba
+http://v4.tustreaming.cl/quillavision/index.m3u8
 #EXTINF:-1 tvg-id="EC | Teleamazonas" tvg-name="EC | Teleamazonas" channelId="146" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/150px-Teleamazonas_Logo.png" group-title="ECUADOR", Teleamazonas | ECUADOR
 https://vps-c97214f4.vps.ovh.net/hls/ecutv2.m3u8
 #EXTINF:-1 tvg-id="EC | Ecuador TV" tvg-name="EC | Ecuador TV" channelId="147" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/150px-EcuadorTV_logo.png" group-title="ECUADOR", Ecuador TV | ECUADOR
@@ -693,3 +693,5 @@ https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8
 https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
 #EXTINF:-1 tvg-id="CA | Stingray Music Urban Beats" tvg-name="CA | Stingray Music Urban Beats" channelId="344" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", Stingray Music Urban Beats
 https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
+#EXTINF:-1 tvg-id="PE | Expresión TV" tvg-name="PE | Expresión TV" channelId="345" tvg-logo="https://scontent.flim10-1.fna.fbcdn.net/v/t1.18169-9/14364904_795399597229079_6329238118301540301_n.png?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGNvgUj_NTCJIpQ2heG2S4hrEGaYAYJr7esQZpgBgmvt_HzmnjcE6YeK8FDPyHmKjY&_nc_ohc=RhIkr29SzCMAX-WJGRw&_nc_ht=scontent.flim10-1.fna&oh=6a1747949a66d76885b18d64cea09145&oe=618CC6AE" group-title="REGIONALES", Expresión TV | Ilo
+https://qlobbidev.s.llnwi.net/telesur3/hls/radioilo.m3u8
