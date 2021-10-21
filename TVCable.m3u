@@ -479,8 +479,8 @@ http://nicatv.rylco.com:8075/hls/CH_31_76_SDI_EXT/video/bw1200000/playlist.m3u8
 http://nicatv.rylco.com:8075/hls/CH_31_68_12004/video/bw1200000/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Canal 11 TV Red" tvg-name="NI | Canal 11 TV Red" channelId="235" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Canal-11-Nicaragua-en-vivo-Online-100x70.png" group-title="NICARAGUA", Canal 11 TV Red | NICARAGUA
 http://nicatv.rylco.com:8075/hls/CH_31_77_SDI_EXT/video/bw1200000/playlist.m3u8
-#EXTINF:-1 tvg-id="NI | Nicavisión Canal 12" tvg-name="NI | Nicavisión Canal 12" channelId="236" tvg-logo="http://www.canal12.com.ni/assets/logo_horizontal-b7fe143ebd9e9dab2e72ffea436db26fce21c81b7ae6ac430ede875f5df30657.png" group-title="NICARAGUA", Nicavisión | NICARAGUA
-http://tv.rylco.com:25461/live/nicatv/6VgD6qDqPh/7.m3u8
+#EXTINF:-1 tvg-id="NI | Nicavisión Canal 12" tvg-name="NI | Nicavisión Canal 12" channelId="236" tvg-logo="http://www.canal12.com.ni/assets/logo_horizontal-b7fe143ebd9e9dab2e72ffea436db26fce21c81b7ae6ac430ede875f5df30657.png" group-title="NICARAGUA", Canal 12 Nicavisión | NICARAGUA
+http://nicatv.rylco.com:8075/hls/CH_HLS_TEST/variant.m3u8
 #EXTINF:-1 tvg-id="NI | Viva Nicaragua Canal 13" tvg-name="NI | Viva Nicaragua Canal 13" channelId="237" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Logo_Viva_Nicaragua_Canal_13.png/200px-Logo_Viva_Nicaragua_Canal_13.png" group-title="NICARAGUA", Viva Nicaragua Canal 13 | NICARAGUA
 http://nicatv.rylco.com:8075/hls/CH_31_78_SDI_EXT/video/bw1200000/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Canal 15" tvg-name="NI | Canal 15" channelId="238" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Canal_15_Nicarag%C3%BCense_2019.png/150px-Canal_15_Nicarag%C3%BCense_2019.png" group-title="NICARAGUA", Canal 15 | NICARAGUA
