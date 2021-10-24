@@ -394,7 +394,7 @@ http://200.58.160.67:8081/envivo/bolivision/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Bolivia TV" tvg-name="BO | Bolivia TV" channelId="193" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Nueva_imagen_Bolivia_TV.jpg/245px-Nueva_imagen_Bolivia_TV.jpg" group-title="BOLIVIA", Bolivia TV | BOLIVIA
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Asociación de Teledifusoras Bolivianas" tvg-name="BO | Asociación de Teledifusoras Bolivianas" channelId="194" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/ATBBo2020Logo.png/150px-ATBBo2020Logo.png" group-title="BOLIVIA", ATB | BOLIVIA
-https://clientes.videostreaming.ar:19360/atbbolivia/atbbolivia.m3u8
+http://136.243.3.70:1935/Atb/Atb/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Red Uno" tvg-name="BO | Red Uno" channelId="195" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/245px-Uno_logo.svg.png" group-title="BOLIVIA", Red Uno | BOLIVIA
 http://136.243.3.70:1935/RedUno/RedUno/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Red Periodistas Asociados Televisión" tvg-name="BO | Red Periodistas Asociados Televisión" channelId="196" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Red_pat_new.jpg/220px-Red_pat_new.jpg" group-title="BOLIVIA", PAT | BOLIVIA
@@ -408,7 +408,7 @@ https://cp.sradiotv.com:1936/coraltv/coraltv/chunklist_w1944903995.m3u8
 #EXTINF:-1 tvg-id="BO | TV Universitaria" tvg-name="BO | TV Universitaria" channelId="200" tvg-logo="https://tvu.umsa.bo/image/layout_set_logo?img_id=3928109&t=1633734143373" group-title="BOLIVIA", TV Universitaria | BOLIVIA
 http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/chunklist_w526827989.m3u8
 #EXTINF:-1 tvg-id="BO | SEO TV" tvg-name="BO | SEO TV" channelId="201" tvg-logo="https://scontent.ftru4-1.fna.fbcdn.net/v/t1.6435-9/146170148_2032921260181206_5057005284343834627_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeG1y4MD7pvumJDoDLQfSS_xG9SdCgb3idob1J0KBveJ2gpE0yrrG4dvXA2dqrRMx5A&_nc_ohc=fdiHonb-zFgAX_EuEsH&_nc_ht=scontent.ftru4-1.fna&oh=344599595b976dfa953a4bd9fd8e90fd&oe=6185D5A7" group-title="BOLIVIA", SEO TV | BOLIVIA
-https://vdo.mediacp.eu:3527/live/kodcsvmhlive.m3u8
+https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
 #EXTINF:-1 tvg-id="BO | SEO TV Novelas" tvg-name="BO | SEO TV Novelas" channelId="201.1" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png" group-title="BOLIVIA", SEO TV Novelas | BOLIVIA
 https://vdo.mediacp.eu:3791/live/wrugmlmllive.m3u8
 #EXTINF:-1 tvg-id="CL | Chilevisión" tvg-name="CL | Chilevisión" channelId="202" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/ChileVisi%C3%B3nLogo2018.png/250px-ChileVisi%C3%B3nLogo2018.png" group-title="CHILE", Chilevisión | CHILE
