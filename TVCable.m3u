@@ -34,7 +34,7 @@ https://video.obslivestream.com/gtv/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="PE | Autentica TV" tvg-name="PE | Autentica TV" channelId="15" tvg-logo="https://autenticatv.pe/wp-content/uploads/elementor/thumbs/logo-web-p0scrodaccuo3azseya6goo9amqk8hdut43cbpqb5s.png" group-title="LOCALES", Auténtica Televisión | Moyobamba
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1 tvg-id="PE | Radio Selva TV" tvg-name="PE | Radio Selva TV" channelId="16" tvg-logo="https://radioselvatv.pe/wp-content/uploads/2020/12/LOGO-web.png" group-title="LOCALES", Radio Selva Televisión | Moyobamba
-https://live.obslivestream.com/selvatvmux/tracks-v1a1/mono.m3u8
+https://live.obslivestream.com/selvatvmux/index.m3u8
 #EXTINF:-1 tvg-id="PE | Genios TV" tvg-name="PE | Genios TV" channelId="17" tvg-logo="https://geniostv.pe/wp-content/uploads/elementor/thumbs/logo1-owwv8s2bj3n5pt0mp3hyr19gl2fgmiryif81auhse8.png" group-title="LOCALES", Genios Televisión | Moyobamba
 https://live.obslivestream.com/geniostvmux/index.m3u8
 #EXTINF:-1 tvg-id="PE | Planeta TV" tvg-name="PE | Planeta TV" channelId="18" tvg-logo="https://moyobamba.com/wp-content/uploads/2021/06/LOGO-PLANETA-HD.png" group-title="LOCALES", Planeta Televisión | Moyobamba
@@ -66,13 +66,13 @@ https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Millenium TV" tvg-name="PE | Millenium TV" channelId="30" tvg-logo="http://milleniumrtv.com/logo.png" group-title="PROVINCIALES", Millenium TV | Lamas
 https://5ee0faac3bbae.streamlock.net/millenium/millenium/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Radio Tv Juanjui" tvg-name="PE | Radio Tv Juanjui" channelId="31" tvg-logo="https://radiotvjuanjui.com/wp-content/uploads/2021/01/Siralogo.png" group-title="PROVINCIALES", Radio TV Juanjui | Juanjui
-https://rtmp02.portalexpress.es/radiotvjuanjui/radiotvjuanjui/playlist.m3u8
+https://tv.portalexpress.es:3611/multi_web/play.m3u8
 #EXTINF:-1 tvg-id="PE | Sori TV" tvg-name="PE | Sori TV" channelId="32" tvg-logo="https://scontent.flim10-1.fna.fbcdn.net/v/t1.6435-9/51651239_2290376701232012_7881478800221929472_n.png?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGeDyr-xgJk6fjlIjRzBZYoC4C_7XXq0cMLgL_tderRwzCHLX1saYjhC3vlAcbZZAw&_nc_ohc=RC5tnA1vwcQAX9xuL9t&_nc_ht=scontent.flim10-1.fna&oh=9fc0e026603301e17a997db27158ac01&oe=619559F5" group-title="PROVINCIALES", Sori TV | Picota
 https://lamasremixes.com/hls/cadenasurrtv/index.m3u8
 #EXTINF:-1 tvg-id="PE | Super Canal" tvg-name="PE | Super Canal" channelId="33" tvg-logo="http://www.supercanal.com.pe/wp-content/uploads/2020/10/favicon-super-2020.png" group-title="REGIONALES", Super Canal Televisión | Yurimaguas
 https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8
 #EXTINF:-1 tvg-id="PE | Uranio TV" tvg-name="PE | Uranio TV" channelId="34" tvg-logo="https://uraniotv.com/wp-content/uploads/2020/07/logo.png" group-title="REGIONALES", Uranio TV | Yurimaguas
-https://rtmp02.portalexpress.es/uraniotv/uraniotv/chunklist_w1378201436.m3u8
+https://tv.portalexpress.es:3259/live/uraniotvlive.m3u8
 #EXTINF:-1 tvg-id="PE | RTV Total" tvg-name="PE | RTV Total" channelId="35" tvg-logo="https://rtvtotal.pe/img/img/logo.png" group-title="REGIONALES", RTV Total | Yurimaguas
 https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
 #EXTINF:-1 tvg-id="PE | RN Noticias Televisión" tvg-name="PE | RN Noticias Televisión" channelId="36" tvg-logo="https://scontent.flim10-1.fna.fbcdn.net/v/t1.6435-9/172169124_1455236864830469_5601043524197314778_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEb1f9LoSUK-DbO7nrAay9AQJzVlcWIEltAnNWVxYgSWxglofJbE64M1E7-htVOKDI&_nc_ohc=OesPzJAPyTcAX_27NOo&_nc_ht=scontent.flim10-1.fna&oh=f741cb4a416395e3633ea544f05ee88b&oe=6194C63B" group-title="REGIONALES", RN Noticias Televisión | Yurimaguas
@@ -540,7 +540,7 @@ https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmu3ZH4NAj0HYnfs8hI
 #EXTINF:-1 tvg-id="HN | Canal 5" tvg-name="HN | Canal 5" channelId="265" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_5_HN_logo_2019.png/150px-Canal_5_HN_logo_2019.png" group-title="HONDURAS", Canal 5 El Lider | HONDURAS
 https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zb0WbD8SIA1lOCqvSNz4NlU)/dm/3/x7vus5d/s/live-0.m3u8
 #EXTINF:-1 tvg-id="HN | VTV" tvg-name="HN | VTV" channelId="266" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/VTV_HN_logo_2019.png/210px-VTV_HN_logo_2019.png" group-title="HONDURAS", Vica TV | HONDURAS
-https://hn-vtv-vtv-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM1MTk1OTg4LCJzZXNzaW9uIjoiMTkwLjIzNy4xNTUuMjAyIiwid2hpdGVsaXN0IjpbIjE5MC4yMzcuMTU1LjIwMiJdfSwic2lnbmF0dXJlIjoiODk1OWQ4OGM1MjFkMDViMDA2NTc2ODU2MmRkMTQ1NDk5OWRiYTNjOSJ9
+https://hn-vtv-vtv-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM1Mjk1MTk0LCJzZXNzaW9uIjoiMTkwLjIzNy4xNTUuMjAyIiwid2hpdGVsaXN0IjpbIjE5MC4yMzcuMTU1LjIwMiJdfSwic2lnbmF0dXJlIjoiMzU0NzBiZTcwMjNlOWJjYmE4OTE3ZTA0ZTQ0ODE5OTc1ZTRmMDgyZSJ9
 #EXTINF:-1 tvg-id="GT | Canal 3" tvg-name="GT | Canal 3" channelId="267" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Canal3.png/200px-Canal3.png" group-title="GUATEMALA", Canal 3 el super canal | GUATEMALA
 https://gt.tunelive.net:3460/stream/play.m3u8
 #EXTINF:-1 tvg-id="GT | Televisiete" tvg-name="GT | Televisiete" channelId="268" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Televisiete.png/200px-Televisiete.png" group-title="GUATEMALA", Televisiete | GUATEMALA
