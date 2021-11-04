@@ -335,7 +335,7 @@ https://tv.siete.us/cajamarcatv/cajamarcatv/index.m3u8
 https://srv1.mediastreamperu.com:8081/creotv/index.m3u8
 #EXTINF:-1 tvg-id="PE | Impacto Televisión" tvg-name="PE | Impacto Televisión" channelId="164" tvg-logo="https://graph.facebook.com/WWW.RADIOIMPACTODECAJAMARCA.COM.PE/picture?width=320&height=320" group-title="REGIONALES", Impacto Televisión | Cajamarca
 https://eu1.servers10.com:8081/impactotv/index.m3u8
-#EXTINF:-1 tvg-id="PE | XTV" tvg-name="PE | XTV" channelId="165" tvg-logo="https://xtv.pe/wp-content/uploads/2020/07/cropped-logo-web-ok-1.png" group-title="REGIONALES", XTV | Jaen
+#EXTINF:-1 tvg-id="PE | XTV" tvg-name="PE | XTV" channelId="165" tvg-logo="https://xtv.pe/wp-content/uploads/elementor/thumbs/x-tv-web-1-petnx00xagwqa1c22yd7q11m7re1gdrenujnh9kglg.png" group-title="REGIONALES", XTV | Jaen
 https://stmv.panel.grupolimalive.com/xtv/xtv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Mega TV" tvg-name="PE | Mega TV" channelId="166" tvg-logo="https://megatvjaen.pe/wp-content/uploads/2021/06/megatvloh.gif" group-title="REGIONALES", Mega TV | Jaen
 https://tv.portalexpress.es:3399/multi_live/play_720.m3u8
@@ -435,7 +435,7 @@ http://136.243.3.70:1935/Atb/Atb/playlist.m3u8
 http://136.243.3.70:1935/RedUno/RedUno/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Red Periodistas Asociados Televisión" tvg-name="BO | Red Periodistas Asociados Televisión" channelId="214" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Red_pat_new.jpg/220px-Red_pat_new.jpg" group-title="BOLIVIA", PAT | BOLIVIA
 https://master.tucableip.com/pat/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="BO | Cadena A" tvg-name="BO | Cadena A" channelId="215" tvg-logo="http://www.cadenaa.tv/wp-content/uploads/2019/08/Logo-cabecera-1.png" group-title="BOLIVIA", Cadena A | BOLIVIA
+#EXTINF:-1 tvg-id="BO | Cadena A" tvg-name="BO | Cadena A" channelId="215" tvg-logo="https://www.comteco.com.bo/img/upload/canales/9URchn.png" group-title="BOLIVIA", Cadena A | BOLIVIA
 http://live.cdn.comteco.com.bo/comgo/0213/index.m3u8
 #EXTINF:-1 tvg-id="BO | Mega TV Canal 44" tvg-name="BO | Mega TV Canal 44" channelId="216" tvg-logo="https://megatvbolivia.com/wp-content/uploads/2021/05/MegaTV1.jpg" group-title="BOLIVIA", Mega TV | BOLIVIA
 https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/chunklist_w104729669.m3u8
@@ -509,7 +509,7 @@ http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
 #EXTINF:-1 tvg-id="CR | Ticavision Canal 27" tvg-name="CR | Ticavision Canal 27" channelId="250" tvg-logo="https://www.ticavisioncr.com/wp-content/uploads/2021/07/cropped-27-tiv-01-1536x641.png" group-title="COSTA RICA", Ticavisión | COSTA RICA
 https://59ef525c24caa.streamlock.net/HBTV/HBTV/chunklist_w1041760160.m3u8
-#EXTINF:-1 tvg-id="CR | Anexión TV" tvg-name="CR | Anexión TV" channelId="251" tvg-logo="https://www.anexiontv.com/tv.png?v=3c0i34mkrvpp7p" group-title="COSTA RICA", Anexión TV | COSTA RICA
+#EXTINF:-1 tvg-id="CR | Anexión TV" tvg-name="CR | Anexión TV" channelId="251" tvg-logo="https://anexiontv.com/wp-content/uploads/2021/09/LOGO-PERFIL-ANEXION-03-300x300.png" group-title="COSTA RICA", Anexión TV | COSTA RICA
 http://rtmp.info:8081/anexiontv/envivo/chunklist_w2055838599.m3u8
 #EXTINF:-1 tvg-id="NI | Canal 2" tvg-name="NI | Canal 2" channelId="252" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Canal_2_%28Nicaragua%29_logo.png/170px-Canal_2_%28Nicaragua%29_logo.png" group-title="NICARAGUA", Canal 2 Televicentro | NICARAGUA
 http://nicatv.rylco.com:8075/hls/CH_31_80_SDI_EXT_TS/video/bw1200000/playlist.m3u8
@@ -597,7 +597,7 @@ https://stream.oursnetworktv.com/latin/cxnGTM/chunklist_w686272372.m3u8
 https://stream.oursnetworktv.com/latin/encoderNS/chunklist_w2065862106.m3u8
 #EXTINF:-1 tvg-id="RD | Antena 7" tvg-name="RD | Antena 7" channelId="294" tvg-logo="https://www.antena7.com.do/wp-content/themes/albavision-theme/img/logo.png" group-title="REPUBLICA DOMINICANA", Antena 7 | REPUBLICA DOMINICANA
 http://51.81.106.157:8084/hls/alatina.m3u8
-#EXTINF:-1 tvg-id="RD | Antena 21" tvg-name="RD | Antena 21" channelId="295" tvg-logo="https://scontent.flim6-4.fna.fbcdn.net/v/t31.18172-8/26240483_696593807395446_2456714757329890281_o.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeF6JLy50HveUSWtcy5soF0pqyumKz5p6vKrK6YrPmnq8qU-m2fHik5qfJ05K31v1aQ&_nc_ohc=An0zeNviD-gAX-AomSL&_nc_ht=scontent.flim6-4.fna&oh=f3d569455d2b0d31c1e4f264ecd7ec80&oe=6177FB91" group-title="REPUBLICA DOMINICANA", Antena 21 | REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="RD | Antena 21" tvg-name="RD | Antena 21" channelId="295" tvg-logo="https://scontent.flim6-4.fna.fbcdn.net/v/t31.18172-8/26240483_696593807395446_2456714757329890281_o.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeF6JLy50HveUSWtcy5soF0pqyumKz5p6vKrK6YrPmnq8qU-m2fHik5qfJ05K31v1aQ&_nc_ohc=sx_-bw8Z8ZgAX8UM5TV&_nc_ht=scontent.flim6-4.fna&oh=2d120951424158c12cbe7f446575613f&oe=61A77191" group-title="REPUBLICA DOMINICANA", Antena 21 | REPUBLICA DOMINICANA
 http://51.81.93.239:8084/hls/a21.m3u8
 #EXTINF:-1 tvg-id="ES | La 1" tvg-name="ES | La 1" channelId="296" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/125px-Logo_TVE-1.svg.png" group-title="ESPAÑA", La 1 | ESPAÑA
 https://rtvelivestreamv3.akamaized.net/la1/la1_main_576.m3u8
