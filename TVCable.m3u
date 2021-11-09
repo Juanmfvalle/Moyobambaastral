@@ -446,7 +446,7 @@ http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/chunklist_w526827989.m3
 #EXTINF:-1 tvg-id="BO | SEO TV" tvg-name="BO | SEO TV" channelId="219" tvg-logo="https://scontent.ftru4-1.fna.fbcdn.net/v/t1.6435-9/146170148_2032921260181206_5057005284343834627_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeG1y4MD7pvumJDoDLQfSS_xG9SdCgb3idob1J0KBveJ2gpE0yrrG4dvXA2dqrRMx5A&_nc_ohc=fdiHonb-zFgAX_EuEsH&_nc_ht=scontent.ftru4-1.fna&oh=344599595b976dfa953a4bd9fd8e90fd&oe=6185D5A7" group-title="BOLIVIA", SEO TV | BOLIVIA
 https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
 #EXTINF:-1 tvg-id="BO | SEO TV Novelas" tvg-name="BO | SEO TV Novelas" channelId="219.1" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png" group-title="BOLIVIA", SEO TV Novelas | BOLIVIA
-https://vdo.mediacp.eu:3791/live/wrugmlmllive.m3u8
+https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
 #EXTINF:-1 tvg-id="CL | Chilevisión" tvg-name="CL | Chilevisión" channelId="220" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/ChileVisi%C3%B3nLogo2018.png/250px-ChileVisi%C3%B3nLogo2018.png" group-title="CHILE", Chilevisión | CHILE
 http://186.67.117.178:8081/play/a00y
 #EXTINF:-1 tvg-id="CL | TV Chile" tvg-name="CL | TV Chile" channelId="221" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/LogoTVCHILE.svg/100px-LogoTVCHILE.svg.png" group-title="CHILE", TV Chile | CHILE
@@ -454,7 +454,7 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TVCHILE/20-hls/live-media.m3u
 #EXTINF:-1 tvg-id="AR | Telefe" tvg-name="AR | Telefe" channelId="222" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Telefe_Internacional_%282018%29.png/150px-Telefe_Internacional_%282018%29.png" group-title="INTERNACIONALES", Telefe Internacional | ARGENTINA
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TELEFE/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEFE_stream_te&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1205591609&_cdn_session=103452147&_cdn_timestamp=1636486310&_cdn_token=554a7b31bc446835908f8ddc00627a077b398248
 #EXTINF:-1 tvg-id="AR | El nueve" tvg-name="AR | El nueve" channelId="223" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Canal_9_2015.png/120px-Canal_9_2015.png" group-title="ARGENTINA", El nueve | ARGENTINA
-https://ar-elnueve-elnueve-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM2NDk5MjI4LCJzZXNzaW9uIjoiMTkwLjIzNy40OC4xOTkiLCJ3aGl0ZWxpc3QiOlsiMTkwLjIzNy40OC4xOTkiXX0sInNpZ25hdHVyZSI6ImNiNDBmYTY0MTkwMDVlODcwODhiMGVjYWUxZjg2ZjU5ZTVhYjBmYTgifQ==
+https://ar-elnueve-elnueve-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM2NTA5MTUwLCJzZXNzaW9uIjoiMTkwLjIzNy40OC4xOTkiLCJ3aGl0ZWxpc3QiOlsiMTkwLjIzNy40OC4xOTkiXX0sInNpZ25hdHVyZSI6ImY0MzFiZDJhMzYyYmJhOTY5YTFmMmJhMjM4OGRhMjhjMWNmNzJiYzMifQ==
 #EXTINF:-1 tvg-id="AR | El trece" tvg-name="AR | El trece" channelId="224" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/120px-Logo_de_eltrece_lanzado_en_2016.png" group-title="ARGENTINA", El trece | ARGENTINA
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TRECEARGENTINA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRECEARGENTINA_stream_e4&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1205591609&_cdn_session=103452315&_cdn_timestamp=1636486323&_cdn_token=9b80d69d7b042164daaed50c85b2ea29805c83b5
 #EXTINF:-1 tvg-id="AR | Argentinísima Satelital" tvg-name="AR | Argentinísima Satelital" channelId="225" tvg-logo="http://argentinisimatv.com.ar/wp-content/uploads/2017/09/LOGO-1.png" group-title="ARGENTINA", Argentinísima Satelital | ARGENTINA
@@ -462,7 +462,7 @@ http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="UR | UCL TV" tvg-name="UR | UCL TV" channelId="226" tvg-logo="https://www.ucltelevision.com/wp-content/uploads/2021/04/cropped-Logo-UCL-TV-LATAM-horizontal-132x65.png" group-title="URUGUAY", Un Canal Latinoamericano TV | URUGUAY
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 tvg-id="PY | Telefuturo" tvg-name="PY | Telefuturo" channelId="227" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Telefuturo2017.png/180px-Telefuturo2017.png" group-title="PARAGUAY", Telefuturo | PARAGUAY
-https://rds3.desdeparaguay.net/telefuturo/telefuturo_int_baja/playlist.m3u8?k=90880299c8b18765506e5716cc80e6b629a4a77e7d65104aa9f6808ab02e0bd0&exp=1636413515
+hthttps://rds3.desdeparaguay.net/telefuturo/telefuturo_int_baja/chunklist_w2041561159.m3u8?k=c3976e3fdb6307874c05ff80772f3ca07448c21c9bb550369676c2237c4ae7b2&exp=1636422871
 #EXTINF:-1 tvg-id="PY | Unicanal" tvg-name="PY | Unicanal" channelId="228" tvg-logo="http://www.unicanal.com.py/public/img/LogoUnicanal452x70.png" group-title="PARAGUAY", Unicanal | PARAGUAY
 http://45.55.127.106/live/unicanal_mid.m3u8
 #EXTINF:-1 tvg-id="PY | Sistema Nacional de Televisión" tvg-name="PY | Sistema Nacional de Televisión" channelId="229" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/SNT_LOGO.jpg/220px-SNT_LOGO.jpg" group-title="PARAGUAY", SNT | PARAGUAY
@@ -490,7 +490,7 @@ https://cr-repretel-canal4-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjox
 #EXTINF:-1 tvg-id="CR | Canal 6" tvg-name="CR | Canal 6" channelId="240" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Canal6CR.png/150px-Canal6CR.png" group-title="COSTA RICA", Canal 6 Telecentro | COSTA RICA
 http://tv.rylco.com:25461/live/ticatv/lpcLpc123$2019/2.m3u8
 #EXTINF:-1 tvg-id="CR | Teletica Canal 7" tvg-name="CR | Teletica Canal 7" channelId="241" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Teletica.png/120px-Teletica.png" group-title="COSTA RICA", Teletica | COSTA RICA
-https://stream-02.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO54L0oIFmzzgQpzV4tLWQ8qw)/dm/3/x29e3wg/s/live-2.m3u8
+https://stream-02.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5_SgHhuqXpf694F9F0TiwYA)/dm/3/x29e3wg/s/live-2.m3u8
 #EXTINF:-1 tvg-id="CR | Canal 8 de Costa Rica" tvg-name="CR | Canal 8 de Costa Rica" channelId="242" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Multi8.png/150px-Multi8.png" group-title="COSTA RICA", Canal 8 | COSTA RICA
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?uid=C3a7PpdAuZC3sabLt30lYaR3f8eZ4Cmi&sid=2quC4ekWQnoJZeHFhE8blHNWjoZquyAQ&pid=QzfOlvABGmd0T4Aqvnp6zBdfoSC9a9BR&an=screen&at=web-app&av=v5.2.190&ref=https%3A%2F%2Fwww.telediario.cr%2F&res=363x220&without_cookies=false&dnt=true
 #EXTINF:-1 tvg-id="CR | Canal 11" tvg-name="CR | Canal 11" channelId="243" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/150px-Repretel_11_logo.png" group-title="COSTA RICA", Canal 11 | COSTA RICA
