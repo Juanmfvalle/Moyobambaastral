@@ -53,7 +53,7 @@ https://live.obslivestream.com/viaaltomayomux/index.m3u8
 https://tv.tvcontrolcp.com:1936/8012/8012/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Imagen TV" tvg-name="PE | Imagen TV" channelId="24" tvg-logo="https://www.coolstreaming.us/img/ch/image11649781372.jpg" group-title="PROVINCIALES", Imagen Televisión | Rioja
 http://191.97.56.183:1935/imagentv/imagentv/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Canal Evelyn" tvg-name="PE | Canal Evelyn" channelId="25" tvg-logo="https://scontent.ftru5-1.fna.fbcdn.net/v/t1.18169-9/15073548_1355708957786985_1233415967632888103_n.png?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFNqVr12sm1HRO-2IbcxpFwwdifWvOfodXB2J9a85-h1cgfuq2RFKHyh1Ab9oHGNJ0&_nc_ohc=e6FOJrF9dpMAX-s2UTg&_nc_ht=scontent.ftru5-1.fna&oh=ef2d771c421770aad0948daf2bad26bc&oe=61C4308D" group-title="PROVINCIALES", Canal Evelyn | Nueva Cajamarca
+#EXTINF:-1 tvg-id="PE | Documentales E +" tvg-name="PE | Documentales E +" channelId="25" tvg-logo="https://graph.facebook.com/cableEvelynsac/picture?width=320&height=320" group-title="PROVINCIALES", Documentales E + | Nueva Cajamarca
 https://srv1.mediastreamperu.com:8081/8006/index.m3u8
 #EXTINF:-1 tvg-id="PE | Antares TV Moyobamba" tvg-name="PE | Antares TV Moyobamba" channelId="26" tvg-logo="https://moyobamba.com/wp-content/uploads/2020/05/antarestv-mnc.png" group-title="LOCALES", Antares Televisión | Moyobamba
 https://live.obslivestream.com/cdeportivomux/tracks-v1a1/mono.m3u8
@@ -380,7 +380,7 @@ https://qlobbidev.s.llnwi.net/telesur3/hls/moquegua.m3u8
 #EXTINF:-1 tvg-id="EC | Teleamazonas" tvg-name="EC | Teleamazonas" channelId="186" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/150px-Teleamazonas_Logo.png" group-title="ECUADOR", Teleamazonas | ECUADOR
 https://vps-c97214f4.vps.ovh.net/hls/ecutv1.m3u8
 #EXTINF:-1 tvg-id="EC | Televicentro" tvg-name="EC | Televicentro" channelId="187" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/TVCEC.png/150px-TVCEC.png" group-title="ECUADOR", TVC | ECUADOR
-https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM3NzYyOTY5LCJzZXNzaW9uIjoiMTgxLjE3Ni43Ni44MiIsIndoaXRlbGlzdCI6WyIxODEuMTc2Ljc2LjgyIl19LCJzaWduYXR1cmUiOiJhYjdkYzYyNDc4ZjIzYWFiMTdlMGY2N2UxOWQ1ZWZjMzVjYzMzNmYzIn0=
+https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM3Nzk5ODE1LCJzZXNzaW9uIjoiMTkwLjIzNy40OC4yMzMiLCJ3aGl0ZWxpc3QiOlsiMTkwLjIzNy40OC4yMzMiXX0sInNpZ25hdHVyZSI6ImIxNDQ2MDg3OTExMWRiYzRjZTMyMTI1YjUzOWYyOGU4YzYzOGJiZDYifQ==
 #EXTINF:-1 tvg-id="EC | Ecuador TV" tvg-name="EC | Ecuador TV" channelId="188" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/150px-EcuadorTV_logo.png" group-title="ECUADOR", Ecuador TV | ECUADOR
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ECUADORTV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DECUADORTV_stream_wj&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D31952190&_cdn_session=109913955&_cdn_timestamp=1637751064&_cdn_token=0a1de724da70a59fe78ce2eaaacb2112ae55a743
 #EXTINF:-1 tvg-id="EC | TC Internacional" tvg-name="EC | TC Internacional" channelId="189" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png" group-title="ECUADOR", TC Internacional | ECUADOR
