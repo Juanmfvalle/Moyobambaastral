@@ -384,7 +384,7 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/USMPTV/20-hls/live-media.m3u8
 #EXTINF:-1 tvg-id="PE | Conectad2" tvg-name="PE | Conectad2" channelId="172" tvg-logo="https://conecta2peru.com/wp-content/uploads/2020/04/logo.png" group-title="REGIONALES", Conectad2 Televisión | Lima
 https://mediastreamm.com:3528/live/conect2tvlive.m3u8
 #EXTINF:-1 tvg-id="PE | Un Canal Inteligente Noticias" tvg-name="PE | Un Canal Inteligente Noticias" channelId="173" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/UCI_Un_Canal_Inteligente.jpg/600px-UCI_Un_Canal_Inteligente.jpg" group-title="REGIONALES", UCI Noticias Televisión | Lima
-https://qlobbidev.s.llnwi.net/uci/uci2/index.m3u8
+https://mediastreamm.com:3449/live/mlecaroslive.m3u8
 #EXTINF:-1 tvg-id="PE | Best Cable TV" tvg-name="PE | Best Cable TV" channelId="174" tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png" group-title="REGIONALES", Best Cable Televisión | Lima
 https://tv.siete.us:19360/bestcable/bestcable/index.m3u8
 #EXTINF:-1 tvg-id="PE | Asiri TV" tvg-name="PE | Asiri TV" channelId="175" tvg-logo="https://graph.facebook.com/904990302901417/picture?type=large" group-title="REGIONALES", Asiri Televisión | Lima
@@ -478,7 +478,7 @@ https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/playlist.m3u8?iut=eyJwYXJhbX
 #EXTINF:-1 tvg-id="EC | Ecuador TV" tvg-name="EC | Ecuador TV" channelId="219" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/150px-EcuadorTV_logo.png" group-title="ECUADOR", Ecuador TV | ECUADOR
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ECUADORTV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DECUADORTV_stream_wj&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D187806519&_cdn_session=116416571&_cdn_timestamp=1639293329&_cdn_token=645ddc4e2ce9f6231ebbf92a4c35b6dc92933b37
 #EXTINF:-1 tvg-id="EC | Red Telesistema" tvg-name="EC | Red Telesistema" channelId="220" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/150px-Rts_logo.png" group-title="ECUADOR", RTS | ECUADOR
-https://ec-rts-guayaquil-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM5MjQ2MTAwLCJzZXNzaW9uIjoiMTkwLjIzNi4yNi4yMDYiLCJ3aGl0ZWxpc3QiOlsiMTkwLjIzNi4yNi4yMDYiXX0sInNpZ25hdHVyZSI6IjcxNzQ1MDQxMWY5ZGVhY2JjMWNlMTFiYzA5NDQ4MjYyNTg2YzUxODYifQ==
+https://ec-rts-guayaquil-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM5MzI0ODI1LCJzZXNzaW9uIjoiMTkwLjIzNi4yNC4yMzkiLCJ3aGl0ZWxpc3QiOlsiMTkwLjIzNi4yNC4yMzkiXX0sInNpZ25hdHVyZSI6ImY4NTgwYTM0MjQ4MDA4NTM3NTIxZTQ4OThlYjA2NjllN2IzMDc4ZGYifQ==
 #EXTINF:-1 tvg-id="EC | Oromar TV" tvg-name="EC | Oromar TV" channelId="221" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="ECUADOR", Oromar Televisión | ECUADOR
 https://vps-c97214f4.vps.ovh.net/hls/ecutv3.m3u8
 #EXTINF:-1 tvg-id="EC | Canela TV" tvg-name="EC | Canela TV" channelId="222" tvg-logo="https://web.canelatv.com/wp-content/uploads/2020/10/ki.gif" group-title="ECUADOR", Canela TV | ECUADOR
@@ -732,7 +732,7 @@ https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/chunklist_w514297
 #EXTINF:-1 tvg-id="SLV | Canal 57" tvg-name="SLV | Canal 57" channelId="342" tvg-logo="https://streaming.rtvcanal57.com/images/uploads/57-en-vivo500x500.gif" group-title="EL SALVADOR", Canal 57 RTV | EL SALVADOR
 https://algochivo.com:1936/canal57/canal57/playlist.m3u8
 #EXTINF:-1 tvg-id="SLV | Sol TV Canal 99 Morazan" tvg-name="SLV | Sol TV Canal 99 Morazan" channelId="343" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ce9a3a96e0a17bbc1e2dd075a0c49f35.webp" group-title="EL SALVADOR", Sol TV | EL SALVADOR
-http://173.233.72.119:8081/soltv/envivo/playlist.m3u8
+https://rtmp.info/soltv/envivo/chunklist_w1708857625.m3u8
 #EXTINF:-1 tvg-id="HN | TSi Canal 3" tvg-name="HN | TSi Canal 3" channelId="344" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/TSi_logo.png/195px-TSi_logo.png" group-title="HONDURAS", Telesistema Informativo | HONDURAS
 https://bcovlive-a.akamaihd.net/5a4db02a43d645729f273b91c5ba9238/us-west-2/6056665196001/profile_3/chunklist.m3u8
 #EXTINF:-1 tvg-id="HN | Canal 5" tvg-name="HN | Canal 5" channelId="345" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_5_HN_logo_2019.png/150px-Canal_5_HN_logo_2019.png" group-title="HONDURAS", Canal 5 El Lider | HONDURAS
