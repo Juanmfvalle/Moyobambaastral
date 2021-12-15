@@ -19,6 +19,8 @@ https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 https://cdnh8.iblups.com/hls/irtp.m3u8
 #EXTINF:-1 tvg-id="PE | Identidad Peruana" tvg-name="PE | Identidad Peruana" channelId="7.4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/190px-Identidad_Peruana_ipe_2020.png" group-title="PERU", IPE Televisión
 https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1 tvg-id="PE | Congreso TV" tvg-name="PE | Congreso TV" channelId="7.5" tvg-logo="https://comunicaciones.congreso.gob.pe/wpuploads/2021/02/logo-web-4.png" group-title="PERU", Congreso TV
+https://youtu.be/TRw20b7wGLw
 #EXTINF:-1 tvg-id="PE | Central TV" tvg-name="PE | Central TV" channelId="8" tvg-logo="https://graph.facebook.com/CentralTVperuLima/picture?width=320&height=320" group-title="PERU", Central TV
 https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Andina Television" tvg-name="PE | Andina Television" channelId="9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" group-title="PERU", ATV
@@ -209,7 +211,9 @@ https://mdstrm.com/live-stream-playlist/5b8ff51f197a232e0ae1a47d.m3u8?access_tok
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="VE | Telesur" tvg-name="VE | Telesur" channelId="95" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/150px-TeleSUR-Logo.svg.png" group-title="NOTICIAS E INFORMACION", Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="RU | RT" tvg-name="RU | RT" channelId="96" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png" group-title="NOTICIAS E INFORMACION", RT Noticias
+#EXTINF:-1 tvg-id="VE | Globovisión" tvg-name="VE | Globovisión" channelId="96" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo-Globovisi%C3%B3n.png/140px-Logo-Globovisi%C3%B3n.png" group-title="NOTICIAS E INFORMACION", Globovisión
+https://www.youtube.com/watch?v=PJcy5MjdJiQ
+#EXTINF:-1 tvg-id="RU | RT" tvg-name="RU | RT" channelId="97" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png" group-title="NOTICIAS E INFORMACION", RT Noticias
 https://rt-esp.gcdn.co/live/rtesp/playlist_1600Kb.m3u8
 #EXTINF:-1 tvg-id="ES | 24 Horas tve" tvg-name="ES | 24 horas tve" channelId="97" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/125px-Logo_TVE-24h.svg.png" group-title="NOTICIAS E INFORMACION", 24 horas tve
 https://rtvelivestreamv3.akamaized.net/24h/24h_main_576.m3u8
@@ -361,8 +365,8 @@ https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/HISTORY1/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHISTORYCHANNEL_stream_2w&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D187806519&_cdn_session=117526675&_cdn_timestamp=1639603616&_cdn_token=96b2351309b0db6ba6fcc4d123d7209187503035
 #EXTINF:-1 tvg-id="USA | History 2" tvg-name="USA | History 2" channelId="150.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png" group-title="CULTURA Y EDUCACION", History 2
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/HISTORYCH2/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHISTORYCH2_stream_z0&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D187806519&_cdn_session=117526875&_cdn_timestamp=1639603637&_cdn_token=1b6b23f105ba2dc2232e4ee06ce97433ccd1fc05
-#EXTINF:-1 tvg-id="IT | History Lab" tvg-name="IT | History Lab" channelId="151" tvg-logo="http://play.myplaytv.com/uploads/images/channel_53_1603501259_thumb.jpg" group-title="CULTURA Y EDUCACION", History Lab
-https://5929b138b139d.streamlock.net/HistoryLab/livestream/playlis.m3u8
+#EXTINF:-1 tvg-id="IT | History Lab" tvg-name="IT | History Lab" channelId="151" tvg-logo="http://hl.museostorico.it/sites/default/files/logo.png" group-title="CULTURA Y EDUCACION", History Lab
+https://5929b138b139d.streamlock.net/HistoryLab/livestream/chunklist_w420939007.m3u8
 #EXTINF:-1 tvg-id="CO | Avivamiento TV" tvg-name="CO | Avivamiento TV" channelId="152" tvg-logo="https://avivamiento.com/images/all-images/tv/tv.png" group-title="RELIGIOSOS", Avivamiento Televisión
 https://s2.abntelevision.com/avivamientoabr/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | Vida Nueva TV" tvg-name="CO | Vida Nueva TV" channelId="153" tvg-logo="https://mividanueva.org/wp-content/uploads/2021/02/Logo-Horizontal.png" group-title="RELIGIOSOS", Vida Nueva Televisión
@@ -574,7 +578,7 @@ http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="VE | Televen" tvg-name="VE | Televen" channelId="255" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Televen_logo.PNG/150px-Televen_logo.PNG" group-title="VENEZUELA", Televen | VENEZUELA
 https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="VE | Venezolana de Televisión" tvg-name="VE | Venezolana de Televisión" channelId="256" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/1024px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" group-title="VENEZUELA", VTV | VENEZUELA
-https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLr5A9oA6MXPVI6j2XeT-AuY)/dm/3/x828i6j/s/live-3.m3u8
+https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLqWeThK4dLX_FWOAqXRPBzY)/dm/3/x828i6j/s/live-3.m3u8
 #EXTINF:-1 tvg-id="VE | Vepaco TV" tvg-name="VE | Vepaco TV" channelId="257" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Logo-Vepaco-TV.png/245px-Logo-Vepaco-TV.png" group-title="VENEZUELA", Vepaco TV | VENEZUELA
 http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/chunklist_w2108815419.m3u8
 #EXTINF:-1 tvg-id="VE | TLT" tvg-name="VE | TLT" channelId="258" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/LOGO-HORIZONTAL_text.png" group-title="VENEZUELA", La Tele Tuya | VENEZUELA
@@ -796,7 +800,7 @@ https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal23.smil/chunklist_b12000
 #EXTINF:-1 tvg-id="GT | Canal Antigua" tvg-name="GT | Canal Antigua" channelId="364" tvg-logo="https://i2.wp.com/canalantigua.tv/wp-content/uploads/2020/12/cropped-cropped-544-x-180-logo-300x99-1.png?fit=300%2C99&ssl=1" group-title="GUATEMALA", Canal Antigua | GUATEMALA
 http://51.161.12.229:1935/CanalAntigua/myStream/chunklist_w1313531480.m3u8
 #EXTINF:-1 tvg-id="GT | Canal de Gobierno" tvg-name="GT | Canal de Gobierno" channelId="365" tvg-logo="https://yt3.ggpht.com/S0Rl6XZ8uM_8HKP903XpkVB7sCiHP9SglDySENtaAUF4mDH4jZy6HstuVA-qgJryYrVdarFiLA=s900-c-k-c0x00ffffff-no-rj" group-title="GUATEMALA", Canal de Gobierno | GUATEMALA
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CqYFzDH2brXRsJo71wljzulJ8t5tt0AF1xXCcEifxUZ9oCVAzDssGigmB5dnV_Zz3W6lYC56ohLZpnCDo3IZCdy9FdkMTgNze3NeVBVqjYW814eF1Gfyro_ZUgLu42BANzwNOZfjN5qLZblWTZJPyCmWVMedqEP8QGcmy3izk80lNnUB8pGIBqfbEDfwCd99j5OR_aYCN0kTsBLhDvRBsc73H87ff81KiKLUJ6NFU17Sc5vOkgYk-ItAKrgMbOVzAklKLkP4v6QpgPJsZWXEn8uFlUUxv2gJDNL0V0oqf-5u9vJtcTfOpifc03aFkZGrheVbfjoDUr2urtEtO55QfOQEEzhZjSGoNkQ-AuK4W6RRRLg3_Mem4AIw_nl_JC-9aN3pgj2oul7dqaImZiAHYNt-tS-TutOk5BfowswwZVhAxKOly2kJNGvPJ4hEwnVu9Sjw_74J2YsS1-wCsdGghKtdvdrbpQdWIFI07M6YoBRK19p9FKIYlTbWnXw60yAnQEI6y1yA2dzT8zIjd5bpqeFlxkUxwdCaYUWw9046B8X4nUeyHS5AaETWsIR3d-QMZF-ZWwX4V2pv6MB4SgU2HSe0PQvJ84ECyPkbEKwG0YRYaUMJCoCiSSwbmyX74pPLTekr_0yd00bhF9OzWvNdKnqUIGzd9dVCbgluESkYQqMFK1Jm-9vds7_F5M7BrFISGfXO6HP34MrJF-a5_kIUdfKU6YKEPr8ZaSPMaFSbXXEDB0pFxhOlDnuDT-KEVoOIdeOONvg5nD15HdMokq92ewwazPBacE_sdWpvcYNI_OKYIwckmsDTyX5eiGGd7xKCps30j6Lx3cdULBiT0dEHdut4reri4hpGFemhH1x8hk2-RfdVo4AzTBqQ9mchMXkM8PnLLAxU7Yj-GgyocCfzcbNhOA-wzcEgASoJZXUtd2VzdC0yMMUC.m3u8
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CqQF_5Nn8irdYpCqiGytxiBQgopODC8uHr5Fj7bQGTbuh_q5JqwDQfa2TBj78nvQwuguq9cAQHij-_PEFMopKE44NZe10t_Ooq4ei1Wy6eow6rwEnqUJtwQ4Ajxpyy8tG9H3wjuk9PTo7iBvR9O6WW5sd_L8s_1Urc6Wly2dxTIkZ2p7lFFNCXcZnEaizYGE7YnXmF1AyuCs4I_pHTPGxBjA-jpwQ8gIDtCz0NF8nfH6MiR92ewJ76bOqmtdrmncAJ3OdX0mVm4wmHYDHHLee1AuuQBKEUqYLtS7hn435po5SqpJDHRKUcyA8NGuvn-MJWkhAlmnglPUeO0g-XltMEKUsx76OuVfeT7hJjO_WPqZAhwhnaKszOTgORLDA4FkjAUIfg46weIKOqaib0DazDPk408clRvI4-i6YwZKhuN6VOBUE69e7cGSdxjX8tlnjMO-2zQyieP50cxFKzALSXdQFV663m3xTomvAcNFgwwOS0raubEAllCbApkWvJBV8QtiFlLdVClnbZWQfi9NYmbwPAQz-ZJJW6fOt3nBFvQVMlWgH_ckoLYT2Zjd0DxeNQGC6OKwiMLu3A_UWn8N-nw6cfkcYf_7she_OUiHgWlRFdINi9k7rezl8Xr7vo-GZ7QzLPlwnbLLO6dv0d-c7RMunpKJLqQ1c6YdVppknWxS9NY4-uTqjCjmdMYK7ygEkiiKixF-0CIQd5wuZatM-Z6CKkF2sXG3RADuHc1Mx-i-BpVPw8gKHUshNDZ-inTf7pxDfmhIz3keYj0mxmdzyW7NX9K7usjx-kqwsoqQgPuvMbCGnQZXKUj7uPGgnhU8OuIkDY_5ClpMNdupOdq4UovZeH2ry-X3hKLCUT8gmjl2oJ1sbATqV9zHYp5rTl8tJizYJd7QXxoMQXoVci-pKv0RAMvnIAEqCWV1LXdlc3QtMjDFAg.m3u8
 #EXTINF:-1 tvg-id="GT | Canal CXN" tvg-name="GT | Canal CXN" channelId="366" tvg-logo="https://canalcxn.dvsnetwork.net/wp-content/themes/canalcxn/dist/images/canalcxn-logo.png?x78391" group-title="GUATEMALA", Canal CXN | GUATEMALA
 https://stream.oursnetworktv.com/latin/cxnGTM/chunklist_w686272372.m3u8
 #EXTINF:-1 tvg-id="GT | TV Paisaje" tvg-name="GT | TV Paisaje" channelId="367" tvg-logo="https://scontent.ftru4-1.fna.fbcdn.net/v/t1.6435-9/94601795_115084093511224_4805978231385620480_n.png?_nc_cat=105&ccb=1-5&_nc_sid=174925&_nc_eui2=AeFmupm2wAgi4NaJYnCn3CcQbDqHuyHEcQNsOoe7IcRxA5HXxbSEAkcCvbn10EI6gzc&_nc_ohc=-dMFEJAtf5MAX-9RZdM&_nc_ht=scontent.ftru4-1.fna&oh=500c1d247a917fb38f4f33a8c3160a97&oe=61D8490F" group-title="GUATEMALA", TV Paisaje | GUATEMALA
