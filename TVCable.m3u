@@ -798,7 +798,7 @@ https://stream-03.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm466Rexv280ES9cOK1s
 #EXTINF:-1 tvg-id="HN | LTV" tvg-name="HN | LTV" channelId="364" tvg-logo="https://images.tigocloud.net/brllnm7d8gre/4wUethBN3YmtWSDso4knkq/886bd5c23df975532c27045d6e89a5f3/ic-canal-ltv.png?q=70" group-title="HONDURAS", LTV | HONDURAS
 https://5e85d90130e77.streamlock.net/6022/6022/chunklist_w911572265.m3u8
 #EXTINF:-1 tvg-id="HN | DTV Canal 15" tvg-name="HN | DTV Canal 15" channelId="365" tvg-logo="https://images.tigocloud.net/brllnm7d8gre/7KuVbZTDBKeYoq4asJwFhU/4848cb6347e9d297e4b4d27a8c63d8ab/ic-canal-dtv.png?q=70" group-title="HONDURAS", DTV | HONDURAS
-https://emisoras.hn/dtp/tracks-v1a1/mono.m3u8
+https://emisoras.hn:8081/dtp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HN | Hable Como Habla TV" tvg-name="HN | Hable Como Habla TV" channelId="366" tvg-logo="https://hch.tv/wp-content/uploads/2021/09/logos-hch-bueno-1.png" group-title="HONDURAS", HCH | HONDURAS
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x81za5c
 #EXTINF:-1 tvg-id="HN | Cholusat Sur Canal 36" tvg-name="HN | Cholusat Sur Canal 36" channelId="367" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Cholusat-Sur-Canal-36-en-vivo-Online-100x70.png" group-title="HONDURAS", Cholusat Sur | HONDURAS
@@ -814,7 +814,7 @@ https://5e85d90130e77.streamlock.net/6024/6024/chunklist_w370440942.m3u8
 #EXTINF:-1 tvg-id="HN | Globo TV" tvg-name="HN | Globo TV" channelId="372" tvg-logo="https://www.globotvhonduras.com/GLOBO%20TV.png" group-title="HONDURAS", Globo TV | HONDURAS
 https://panel.dattalive.com/8122/8122/chunklist_w1401322809.m3u8
 #EXTINF:-1 tvg-id="HN | ATV" tvg-name="HN | ATV" channelId="373" tvg-logo="https://scontent.ftru4-1.fna.fbcdn.net/v/t1.6435-9/78685277_994091024277627_7207925995750293504_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeExbfTgg8r-nYQtkGIkV1Rb8i31NXkC1RryLfU1eQLVGrWdQ7aSqnsxdRjixvRstiI&_nc_ohc=pljvLd4iEKQAX9bRhGM&_nc_ht=scontent.ftru4-1.fna&oh=00_AT-NSBZBv0WNewNB_7XoTBksQYbxq_eEK74apNSDxyLXIw&oe=61E57EE0" group-title="HONDURAS", ATV | HONDURAS
-http://video.direcnode.com:7990/demo35/myStream/chunks.m3u8?nimblesessionid=746897&post_type=serie
+http://video.direcnode.com:7990/demo35/myStream/chunks.m3u8
 #EXTINF:-1 tvg-id="HN | La metro TV" tvg-name="HN | La metro TV" channelId="374" tvg-logo="https://1.bp.blogspot.com/-6gQWDOzqUHU/XQo-_-umYGI/AAAAAAAAH00/gM_d6FInXxAQhKeRggaiKR_i-putnpGXACLcBGAs/s1600/Canal%2BLa%2BMetro%2BTV%2Bhonduras.png" group-title="HONDURAS", La metro TV | HONDURAS
 https://emisoras.hn:8081/metrotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HN | Todo Deportes TV +" tvg-name="HN | Todo Deportes TV +" channelId="375" tvg-logo="https://dd7tel2830j4w.cloudfront.net/f1560359694028x167785582725733730/Group%2012.svg" group-title="HONDURAS", TDTV+ | HONDURAS
