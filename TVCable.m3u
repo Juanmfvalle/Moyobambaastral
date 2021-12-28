@@ -439,7 +439,7 @@ https://video2.lhdserver.es/asiritv/live.m3u8
 https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Cultura 24" tvg-name="PE | Cultura 24" channelId="187" tvg-logo="https://cultura24.tv/sites/default/files/inline-images/logo.png" group-title="REGIONALES", 187 | Cultura 24 TV || Lima
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w366215588_b564000_sles.m3u8
-#EXTINF:-1 tvg-id="PE | Vamisa TV" tvg-name="PE | Vamisa TV" channelId="188" tvg-logo="https://scontent.ftru4-1.fna.fbcdn.net/v/t39.30808-6/234238766_3032376323651826_7516159690349687267_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=174925&_nc_eui2=AeFEsP4ygeYxdkKQ75TJnBrEaa6RtzXW8-FprpG3Ndbz4cVv8Q-i3OxetGVd3Es5JjU&_nc_ohc=krk3Wf81WJgAX9c8S14&tn=1VPbtj1z8DdSmoLx&_nc_zt=23&_nc_ht=scontent.ftru4-1.fna&oh=00_AT9zmc9hX4-2KBm-hDKqaGexEgUOvInMoF4HaPJEcE7azw&oe=61C70796" group-title="REGIONALES", 188 | Vamisa TV || Lima
+#EXTINF:-1 tvg-id="PE | Vamisa TV" tvg-name="PE | Vamisa TV" channelId="188" tvg-logo="https://scontent.ftru4-1.fna.fbcdn.net/v/t39.30808-6/234238766_3032376323651826_7516159690349687267_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=174925&_nc_eui2=AeFEsP4ygeYxdkKQ75TJnBrEaa6RtzXW8-FprpG3Ndbz4cVv8Q-i3OxetGVd3Es5JjU&_nc_ohc=dkMkLROEPO4AX9Gz3Fs&tn=1VPbtj1z8DdSmoLx&_nc_zt=23&_nc_ht=scontent.ftru4-1.fna&oh=00_AT9jnwKdv_84Vk5ERkCXZS2aXiGVd1HqY8tC24EAz7AyZQ&oe=61CEF096" group-title="REGIONALES", 188 | Vamisa TV || Lima
 https://vps1.lnx.pe/vamisa/envivo/index.m3u8
 #EXTINF:-1 tvg-id="PE | CN TV" tvg-name="PE | CN TV" channelId="189" tvg-logo="http://www.cablenetword.com/img/logo.png" group-title="REGIONALES", 189 | CN TV || Lima
 https://tv.siete.us/cntv/tracks-v1a1/mono.m3u8
@@ -528,7 +528,7 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ECUADORTV/20-hls/live-media.m
 #EXTINF:-1 tvg-id="EC | Ecuavisa" tvg-name="EC | Ecuavisa" channelId="230" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/200px-Ecuavisa_Logo_2019.png" group-title="ECUADOR", 230 | Ecuavisa || ECUADOR
 https://vps-c97214f4.vps.ovh.net/hls/ecutv2.m3u8
 #EXTINF:-1 tvg-id="EC | Red Telesistema" tvg-name="EC | Red Telesistema" channelId="231" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/150px-Rts_logo.png" group-title="ECUADOR", 231 | RTS || ECUADOR
-https://ec-rts-guayaquil-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQwNzAwNTgzLCJzZXNzaW9uIjoiMTkwLjIzNy4xNzguMjE0Iiwid2hpdGVsaXN0IjpbIjE5MC4yMzcuMTc4LjIxNCJdfSwic2lnbmF0dXJlIjoiY2UxY2FjMDY0MGJkOWU4MDQwNWQ0NTZmMjg1OTY3NWZlYmQ2NjQ4MyJ9
+https://ec-rts-guayaquil-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQwNzUwMjc4LCJzZXNzaW9uIjoiMTkwLjQyLjMzLjIwNiIsIndoaXRlbGlzdCI6WyIxOTAuNDIuMzMuMjA2Il19LCJzaWduYXR1cmUiOiI4MDExNDRmYzA3MDA4MTEzN2M1MDJlNTRiZWY1Njg4N2MyMzhjYzgzIn0=
 #EXTINF:-1 tvg-id="EC | Oromar TV" tvg-name="EC | Oromar TV" channelId="232" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="ECUADOR", 232 | Oromar Televisión || ECUADOR
 https://vps-c97214f4.vps.ovh.net/hls/ecutv3.m3u8
 #EXTINF:-1 tvg-id="EC | Canela TV" tvg-name="EC | Canela TV" channelId="233" tvg-logo="https://web.canelatv.com/wp-content/uploads/2020/10/ki.gif" group-title="ECUADOR", 233 | Canela TV || ECUADOR
@@ -796,7 +796,7 @@ https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmpz_s5BCfkwd79wW0A
 #EXTINF:-1 tvg-id="HN | Canal 5" tvg-name="HN | Canal 5" channelId="361" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_5_HN_logo_2019.png/150px-Canal_5_HN_logo_2019.png" group-title="HONDURAS", 361 | Canal 5 El Lider || HONDURAS
 https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zd-wdvC6ZJVNs_DZkSACeSY)/dm/3/x7vus5d/s/live-3.m3u8
 #EXTINF:-1 tvg-id="HN | VTV" tvg-name="HN | VTV" channelId="362" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/VTV_HN_logo_2019.png/210px-VTV_HN_logo_2019.png" group-title="HONDURAS", 362 | Vica TV || HONDURAS
-https://hn-vtv-vtv-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQwNzAxMTIzLCJzZXNzaW9uIjoiMTkwLjIzNy4xNzguMjE0Iiwid2hpdGVsaXN0IjpbIjE5MC4yMzcuMTc4LjIxNCJdfSwic2lnbmF0dXJlIjoiZTVhNjFmZDcxN2YxYjI2MThhNjI5OWVmYTczMjBhMzU5YWNmODI2OSJ9
+https://hn-vtv-vtv-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQwNzUwMzQ2LCJzZXNzaW9uIjoiMTkwLjQyLjMzLjIwNiIsIndoaXRlbGlzdCI6WyIxOTAuNDIuMzMuMjA2Il19LCJzaWduYXR1cmUiOiJjODEzMDQwZjQ2ZGI1N2JiMDU5MmMyMTgyOGMzYzc4ZTdmNDc3ODE2In0=
 #EXTINF:-1 tvg-id="HN | TEN Canal 10" tvg-name="HN | TEN Canal 10" channelId="363" tvg-logo="https://1.bp.blogspot.com/-WYepFcQLrXc/XQka9TmZ0uI/AAAAAAAAHz8/eTOqew4vGoocd66uqlPHccAeYN74huzmgCLcBGAs/w350-h350-p-k-no-nu/TEN%2BCanal%2B10.png" group-title="HONDURAS", 363 | TEN Canal 10 || HONDURAS
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HN | Hondured Canal 13" tvg-name="HN | Hondured Canal 13" channelId="364" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Hondured-TV-en-vivo-Online-100x70.png" group-title="HONDURAS", 364 | Hondured || HONDURAS
