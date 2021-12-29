@@ -201,7 +201,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/NICKELODEON/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKELODEON_stream_g4&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D187806519&_cdn_session=121488251&_cdn_timestamp=1640803770&_cdn_token=bca9eb94e19f72ae575ef96131250a03bdb82fa7
 #EXTINF:-1 tvg-id="USA | Nick Jr." tvg-name="USA | Nick Jr." channelId="90.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/250px-Nick_Jr._logo_2009.svg.png" group-title="INFANTILES", 90.2 | Nick Jr.
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/NICKJR/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKJR_stream_y9&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D187806519&_cdn_session=121488443&_cdn_timestamp=1640803832&_cdn_token=1f4b60cd3ac30e675acde9d604b0a55e46e8bd12
-#EXTINF:-1 tvg-id="SK | Duck TV" tvg-name="SK | Duck TV" channelId="91" tvg-logo="https://www.ducktv.tv/wp-content/uploads/2019/07/ducktv-logo.svg" group-title="INFANTILES", 91 |Duck TV
+#EXTINF:-1 tvg-id="SK | Duck TV" tvg-name="SK | Duck TV" channelId="91" tvg-logo="https://www.ducktv.tv/wp-content/uploads/2019/07/ducktv-logo.svg" group-title="INFANTILES", 91 | Duck TV
 https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee512f.m3u8
 #EXTINF:-1 tvg-id="MX | El Chavo del 8 TV" tvg-name="MX | El Chavo del 8 TV" channelId="92" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/245px-El_Chavo_%28simple_logo%29.svg.png" group-title="INFANTILES", 92 | El Chavo del 8 TV
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
@@ -234,7 +234,7 @@ https://live.presstv.ir/live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FR | TV5Monde" tvg-name="FR | TV5Monde" channelId="106" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/TV5_Monde_%282009-%29.svg/250px-TV5_Monde_%282009-%29.svg.png" group-title="NOTICIAS E INFORMACION", 106 | TV5Monde
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
 #EXTINF:-1 tvg-id="CO | Nuestra Tele Noticias 24" tvg-name="CO | Nuestra Tele Noticias 24" channelId="107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NTN24_logo.svg/245px-NTN24_logo.svg.png" group-title="NOTICIAS E INFORMACION", 107 | NTN 24
-https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl5yklxYVQlZP9F4Y9XnzL3s)/dm/3/x7w4okl/s/live-1.m3u8
+https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl-CIjkbNSie4AdKQ5x82MSY)/dm/3/x7w4okl/s/live-1.m3u8
 #EXTINF:-1 tvg-id="ESP | Hola TV" tvg-name="ESP | Hola TV" channelId="108" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/220px-%C2%A1HOLA%21TVlogo.jpg" group-title="ESTILOS DE VIDA", 108 | Hola Televisión
 https://mdstrm.com/live-stream-playlist/5b8ff7b9d78b521f2ea819d7.m3u8?access_token=DSTa8e7881c9f2118f08d2376239f3292d8
 #EXTINF:-1 tvg-id="VE | Ve Plus" tvg-name="VE | Ve Plus" channelId="109" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ve_Plus_Logo_2019.png/130px-Ve_Plus_Logo_2019.png" group-title="MISCELANEO", 109 | Ve Plus
@@ -522,7 +522,7 @@ https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8
 #EXTINF:-1 tvg-id="EC | Teleamazonas" tvg-name="EC | Teleamazonas" channelId="227" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/150px-Teleamazonas_Logo.png" group-title="ECUADOR", 227 | Teleamazonas || ECUADOR
 https://vps-c97214f4.vps.ovh.net/hls/ecutv1.m3u8
 #EXTINF:-1 tvg-id="EC | Televicentro" tvg-name="EC | Televicentro" channelId="228" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/TVCEC.png/150px-TVCEC.png" group-title="ECUADOR", 228 | TVC || ECUADOR
-https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQwODcxNDIwLCJzZXNzaW9uIjoiMTkwLjIzNi4zMC4yMTMiLCJ3aGl0ZWxpc3QiOlsiMTkwLjIzNi4zMC4yMTMiXX0sInNpZ25hdHVyZSI6ImJiODUxYWQ3NTg0MTAwOGRjNDI4MTYzZTA3ZmEzY2ZmYTBhOTg2ZWMifQ==
+https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQwODc0MDM3LCJzZXNzaW9uIjoiMTkwLjIzNi4zMC4yMTMiLCJ3aGl0ZWxpc3QiOlsiMTkwLjIzNi4zMC4yMTMiXX0sInNpZ25hdHVyZSI6Ijk1Mzg3NzdlZWQ2YTkxNDUyMDQ2ODM0YzlmNGUwNzE2ZmFjMTc0ZDQifQ==
 #EXTINF:-1 tvg-id="EC | Ecuador TV" tvg-name="EC | Ecuador TV" channelId="229" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/150px-EcuadorTV_logo.png" group-title="ECUADOR", 229 | Ecuador TV || ECUADOR
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ECUADORTV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DECUADORTV_stream_wj&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D187806519&_cdn_session=121490779&_cdn_timestamp=1640804235&_cdn_token=965ae0aa5d289efda82a1c75d6252b70f395eff6
 #EXTINF:-1 tvg-id="EC | Ecuavisa" tvg-name="EC | Ecuavisa" channelId="230" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/200px-Ecuavisa_Logo_2019.png" group-title="ECUADOR", 230 | Ecuavisa || ECUADOR
