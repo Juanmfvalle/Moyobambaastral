@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="PE | Willax Television" tvg-name="PE | Willax Television" channelId="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Willax_Televisi%C3%B3n_2020.png/245px-Willax_Televisi%C3%B3n_2020.png" group-title="PERU", 1 | Willax Televisión
-https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmiQwnLi-puDpftCllk3NWJc)/dm/3/x7x4dgx/s/live-1.m3u8
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/WILLAX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D187806519&_cdn_session=122397123&_cdn_timestamp=1640965713&_cdn_token=69aa60c8838e4507a4880b0fbc92ed579e817650
 #EXTINF:-1 tvg-id="PE | Frecuencia Latina" tvg-name="PE | Frecuencia Latina" channelId="2" tvg-logo="https://www.latina.pe/wp-content/themes/genesis-latina/img/latina_pe.png" group-title="PERU", 2 | Latina Televisión
 https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8
 #EXTINF:-1 tvg-id="PE | Nacional TV" tvg-name="PE | Nacional TV" channelId="3" tvg-logo="https://scontent.ftru4-1.fna.fbcdn.net/v/t39.30808-6/243171553_103015872151021_5385284374300660725_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGISA8hyG0M9mvamu6NLGJNArrVyn7OS6UCutXKfs5LpV0gcbVoX6JhgrkEWH3R22o&_nc_ohc=-nb6rJV4XjMAX8txv0C&_nc_zt=23&_nc_ht=scontent.ftru4-1.fna&oh=00_AT8G91_cRQ5nI_t-Ix_2TsA17i3RmSFFL9OFFuYC_KfRFQ&oe=61D2D46B" group-title="PERU", 3 | Nacional TV
@@ -107,7 +107,7 @@ https://cloudvideo.servers10.com:8081/8150/tracks-v1a1/mono.m3u8
 https://inliveserver.com:1936/19020/19020/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Mitos TV" tvg-name="PE | Mitos TV" channelId="47" tvg-logo="https://i.imgur.com/w4ISMBI.png" group-title="REGIONALES", 47 | Mitos TV || Pucallpa
 https://inliveserver.com:1936/19018/19018/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Oriental TV" tvg-name="PE | Oriental TV" channelId="48" tvg-logo="https://scontent.ftru4-2.fna.fbcdn.net/v/t39.30808-6/236824861_4163584490399339_8337867680226593463_n.png?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeG7wasqNWKVq_UKzArCUKJE64G_VMJ101vrgb9UwnXTWwN0CNCU2pajekGeDemDZR0&_nc_ohc=AKSzD34NpFQAX_msiA9&_nc_zt=23&_nc_ht=scontent.ftru4-2.fna&oh=00_AT_-6bBkHOHPaXJ3I_VyKWFDTP6zJDgAtjhDsUVUNItswg&oe=61C7FE7C" group-title="REGIONALES", 48 | Oriental TV || Pucallpa
+#EXTINF:-1 tvg-id="PE | Oriental TV" tvg-name="PE | Oriental TV" channelId="48" tvg-logo="https://scontent.ftru4-1.fna.fbcdn.net/v/t39.30808-6/236824861_4163584490399339_8337867680226593463_n.png?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeG7wasqNWKVq_UKzArCUKJE64G_VMJ101vrgb9UwnXTWwN0CNCU2pajekGeDemDZR0&_nc_ohc=5VOkmKLB0KUAX-6kjkT&_nc_zt=23&_nc_ht=scontent.ftru4-1.fna&oh=00_AT9OoS_nti5-tWRRepAp8PYqBsAJ67OvMNAx-WwpYnLO1g&oe=61D3DBFC" group-title="REGIONALES", 48 | Oriental TV || Pucallpa
 https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Millenium 49 TV" tvg-name="PE | Millenium 49 TV" channelId="49" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz3QqLZe7bodOdfmd7SH4JKngt-SAqscKxj8ISD5upFiveYI3TjsgK0qqVlAn5DG43HIM&usqp=CAU" group-title="REGIONALES", 49 | Millenium 49 TV || Pucallpa
 https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8
@@ -451,7 +451,7 @@ https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8
 http://v4.tustreaming.cl/matices/index.m3u8
 #EXTINF:-1 tvg-id="PE | Hechicera TV" tvg-name="PE | Hechicera TV" channelId="193" tvg-logo="https://diariohechicera.com/wp-content/uploads/2021/08/NEWlogo_hechicera@2x.png" group-title="REGIONALES", 193 | Hechicera TV || Tumbes
 https://panel.streamingtv-mediacp.online:1936/8108/8108/chunklist_w1984112774.m3u8
-#EXTINF:-1 tvg-id="PE | Tumpis TV" tvg-name="PE | Tumpis TV" channelId="194" tvg-logo="https://scontent.ftru4-2.fna.fbcdn.net/v/t1.18169-9/11800274_893448180728793_9144557683827119749_n.png?_nc_cat=104&ccb=1-5&_nc_sid=174925&_nc_eui2=AeG18cRmTwMB_gsF8d2AwrRpY8Q4g4zO07FjxDiDjM7TsSXaX07vvZsO2ifa0YAKmC0&_nc_ohc=3gJcB7krR3IAX9ws7we&_nc_oc=AQmog3Nu43o3NtwnxmaPt0XT3LTdD3RUSJWOxNMimH1wtqVleyp6VRodEiSnlNNrW0c&_nc_ht=scontent.ftru4-2.fna&oh=4324d6d9a5370f60afa373ec0d556e99&oe=61CD0D52" group-title="REGIONALES", 194 | Tumpis TV || Tumbes
+#EXTINF:-1 tvg-id="PE | Tumpis TV" tvg-name="PE | Tumpis TV" channelId="194" tvg-logo="https://tumpistv.com/wp-content/uploads/2021/09/web-pequena-copia.png" group-title="REGIONALES", 194 | Tumpis TV || Tumbes
 https://mediastreamm.com:3531/live/tumpistvlive.m3u8
 #EXTINF:-1 tvg-id="PE | Canal 8 Catacaos" tvg-name="PE | Canal 8 Catacaos" channelId="195" tvg-logo="https://www.canal8catacaos.com/wp-content/uploads/2021/01/canal8logo.png" group-title="REGIONALES", 195 | Canal 8 Catacaos || Catacaos; Piura
 https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
@@ -459,7 +459,7 @@ https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
 https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
 #EXTINF:-1 tvg-id="PE | Palmeras TV" tvg-name="PE | Palmeras TV" channelId="197" tvg-logo="https://grupopalmerastv.com/portal/wp-content/uploads/2021/04/logo-vertical.png" group-title="REGIONALES", 197 | Palmeras TV || Distrito de La Unión; Bajo Piura
 https://srv.panelcast.net/palmerastv/palmerastv/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Lot Plus TV" tvg-name="PE | Lot Plus TV" channelId="198" tvg-logo="https://scontent.flim6-2.fna.fbcdn.net/v/t1.6435-9/209267922_649415405994860_5781170914503766869_n.png?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeF3xlHEPvdFX1wwUU1uqhBtaoYTpwT1WnVqhhOnBPVadf0AMyTBEphX556Ew_gEcr4&_nc_ohc=r-N4LFnBjxAAX8HaRSY&_nc_ht=scontent.flim6-2.fna&oh=4c03c7f71254ddd3af111ad8a2933315&oe=61C73395" group-title="REGIONALES", 198 | Lot Plus TV || Chiclayo
+#EXTINF:-1 tvg-id="PE | Lot Plus TV" tvg-name="PE | Lot Plus TV" channelId="198" tvg-logo="https://scontent.ftru4-1.fna.fbcdn.net/v/t1.6435-9/209267922_649415405994860_5781170914503766869_n.png?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeF3xlHEPvdFX1wwUU1uqhBtaoYTpwT1WnVqhhOnBPVadf0AMyTBEphX556Ew_gEcr4&_nc_ohc=wsbmutqRiSUAX9vV2Pf&_nc_ht=scontent.ftru4-1.fna&oh=00_AT_DSU924Qyhg5XvVN8gdnaVTacYCI0c73KSc-rsFnn2Jw&oe=61F2B515" group-title="REGIONALES", 198 | Lot Plus TV || Chiclayo
 https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | TV Norte" tvg-name="PE | TV Norte" channelId="199" tvg-logo="https://appnew.megainfoapp.com/files/1/tvnorte.jpg" group-title="REGIONALES", 199 | TV Norte || Chiclayo
 https://stream-04.nyc.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqlPWvmFKIN2md_VLOOPkX2E)/dm/3/x7uk62a/s/live-3.m3u8
@@ -471,11 +471,11 @@ https://srv1.mediastreamperu.com:8081/creotv/index.m3u8
 https://eu1.servers10.com:8081/impactotv/index.m3u8
 #EXTINF:-1 tvg-id="PE | XTV" tvg-name="PE | XTV" channelId="203" tvg-logo="https://scontent.ftru4-2.fna.fbcdn.net/v/t39.30808-6/240227069_577370060373012_8284425876646846502_n.png?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEsoy8-66FBcmtyDsEOq3-DmEGOvihpmSSYQY6-KGmZJAq-Zx6PnPIj58hKKJDO7mw&_nc_ohc=V4q4si_ZMgwAX_74mj-&_nc_zt=23&_nc_ht=scontent.ftru4-2.fna&oh=00_AT9u143s2lRg5SJmg8DJaXHHwndFGLGaAp5nCta-Rkfn6g&oe=61D01F04" group-title="REGIONALES", 203 | XTV || Jaen
 https://stmv.panel.grupolimalive.com/xtv/xtv/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Mega TV" tvg-name="PE | Mega TV" channelId="204" tvg-logo="https://megatvjaen.pe/wp-content/uploads/2021/06/megatvloh.gif" group-title="REGIONALES", 204 | Mega TV || Jaen
+#EXTINF:-1 tvg-id="PE | Mega TV" tvg-name="PE | Mega TV" channelId="204" tvg-logo="https://pbs.twimg.com/profile_images/1313561244222267395/Y1TVAghs_400x400.jpg" group-title="REGIONALES", 204 | Mega TV || Jaen
 https://tv.portalexpress.es:3399/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="PE | Stereo TV" tvg-name="PE | Stereo TV" channelId="205" tvg-logo="https://api.radiostereotv.com/storage/2021/2021-03-05_0-1614957350.png" group-title="REGIONALES", 205 | Stereo TV || Jaen
 https://servers.amelbasoluciones.co:19360/5medialive/5medialive.m3u8
-#EXTINF:-1 tvg-id="PE | Innova FM TV" tvg-name="PE | Innova FM TV" channelId="206" tvg-logo="https://scontent.flim6-4.fna.fbcdn.net/v/t1.18169-9/20431354_254503221710523_1375261399710894094_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeF888_OvPv_9CeILXViXKSOCjq5K4kbGLIKOrkriRsYskjO15C0P8bGW_jIh_aKruE&_nc_ohc=cpogTtIlDu0AX8Nh74K&_nc_oc=AQnbLdN9kvIxA4h4SkllD3yrrnOdluIapeZi1BNTvIOjEQac5POjfYCzdVDXAaEMekM&_nc_ht=scontent.flim6-4.fna&oh=5c04565a04093eaffcb89dfa794fc48b&oe=61C4415D" group-title="REGIONALES", 206 | Innova FM TV || Bagua Grande
+#EXTINF:-1 tvg-id="PE | Innova FM TV" tvg-name="PE | Innova FM TV" channelId="206" tvg-logo="https://www.innovafm.com/wp-content/uploads/2020/12/logo-innovafm.png" group-title="REGIONALES", 206 | Innova FM TV || Bagua Grande
 https://live.tvcontrolcp.com:1936/8170/8170/chunklist_w1280264475.m3u8
 #EXTINF:-1 tvg-id="PE | Planea TV" tvg-name="PE | Planea TV" channelId="207" tvg-logo="https://scontent.ftru4-1.fna.fbcdn.net/v/t1.6435-9/131572238_100547145307844_7301859201635922668_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=174925&_nc_eui2=AeGaOc0kL2KIHqVHK8qqjTqRxBekGHjfC0TEF6QYeN8LRMwlxbVwB7kICJKe99wy224&_nc_ohc=obJt8Q8oQswAX9MeMko&_nc_ht=scontent.ftru4-1.fna&oh=4fd97254e9db60422504a4ce4d66988a&oe=61CF7FA4" group-title="REGIONALES", 207 | Planea TV || Bagua
 https://stmv.panel.grupolimalive.com/planeatv/planeatv/playlist.m3u8
@@ -487,7 +487,7 @@ https://stmv.panel.grupolimalive.com/gold/gold/playlist.m3u8
 https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/chunklist_w1664357594.m3u8
 #EXTINF:-1 tvg-id="PE | Unitel" tvg-name="PE | Unitel" channelId="211" tvg-logo="https://scontent.ftru4-2.fna.fbcdn.net/v/t1.6435-9/69846540_2586487691373551_2583958123203002368_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFXWG3QlaJGDCVijaoDJJazj-alJw9Yl76P5qUnD1iXvpnKaQ3dRfxgwGbgf5ecDWE&_nc_ohc=HKay2HKWD1wAX9pvA6x&tn=1VPbtj1z8DdSmoLx&_nc_ht=scontent.ftru4-2.fna&oh=00_AT8wARNKZctdhfGZASAhOpDPS0V_G5f2JWXHZHQxr2NRwg&oe=61E27F42" group-title="REGIONALES", 211 | Unitel || Huancayo
 https://cp.sradiotv.com:1936/8078/8078/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Cadena TV" tvg-name="PE | Cadena TV" channelId="212" tvg-logo="https://scontent.ftru4-1.fna.fbcdn.net/v/t39.30808-6/236370545_1984154251747385_1638504090897764344_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=174925&_nc_eui2=AeGipPPUsU3C2SOqazEVrB_2v1_9TZMpK4G_X_1NkykrgfgdmfyAxEROLttUMT6-kmg&_nc_ohc=7eGsinwXhGYAX-KBrCz&_nc_zt=23&_nc_ht=scontent.ftru4-1.fna&oh=00_AT9DyoqOwbuzL2XimmHy16nLru7pJtzCYBGDfovPG2npoA&oe=61C7A49B" group-title="REGIONALES", 212 | Cadena TV || Huancayo
+#EXTINF:-1 tvg-id="PE | Cadena TV" tvg-name="PE | Cadena TV" channelId="212" tvg-logo="https://pbs.twimg.com/profile_images/1461034199645925378/uyjdr-7A_400x400.jpg" group-title="REGIONALES", 212 | Cadena TV || Huancayo
 https://tvdatta.com:3262/live/cadenatvlive.m3u8
 #EXTINF:-1 tvg-id="PE | Tele 2000" tvg-name="PE | Tele 2000" channelId="213" tvg-logo="https://tele2000.com.pe/wp-content/uploads/LOGO-WEB_168x168.png" group-title="REGIONALES", 213 | Tele 2000 || Huanta
 https://mediastreamm.com:3126/live/tele2000live.m3u8
@@ -497,7 +497,7 @@ https://v4.tustreaming.cl/atmtv/tracks-v1a1/mono.m3u8
 https://v4.tustreaming.cl/bellatv/index.m3u8
 #EXTINF:-1 tvg-id="PE | TV Linea" tvg-name="PE | TV Linea" channelId="216" tvg-logo="https://scontent.ftru4-2.fna.fbcdn.net/v/t1.6435-9/135270916_779680722678370_3974926877313006385_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=174925&_nc_eui2=AeEiYN7ngOdR5X4uVjJM8_Th1OLwbzXxe2_U4vBvNfF7b-6NriJ0DvkqpWSc4bvA9oE&_nc_ohc=-AWrqqA3rOAAX-IWeqB&_nc_ht=scontent.ftru4-2.fna&oh=00_AT-wiQELyCZomzfULJmx8b9Nfsw1gHU0MqW4qtMYrnOHEw&oe=61DA6B01" group-title="REGIONALES", 216 | TV Linea || Cuzco
 https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
-#EXTINF:-1 tvg-id="PE | QT Televisión" tvg-name="PE | QT Televisión" channelId="217" tvg-logo="https://scontent.ftru4-2.fna.fbcdn.net/v/t1.6435-9/71324394_3272064969477980_70421224383053824_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFukyhmwYxliAFAGXM1Lsr-4UjzcJ1StJvhSPNwnVK0m6EAfmYYfcWk6Fu7Cq-jdbw&_nc_ohc=rBduAM5xTfkAX-SHiJM&_nc_ht=scontent.ftru4-2.fna&oh=68a3e6398ad027659e503fd25f0d0d67&oe=61CCB0DA" group-title="REGIONALES", 217 | QT Televisión || Cuzco
+#EXTINF:-1 tvg-id="PE | QT Televisión" tvg-name="PE | QT Televisión" channelId="217" tvg-logo="https://scontent.ftru4-1.fna.fbcdn.net/v/t1.6435-9/71324394_3272064969477980_70421224383053824_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFukyhmwYxliAFAGXM1Lsr-4UjzcJ1StJvhSPNwnVK0m6EAfmYYfcWk6Fu7Cq-jdbw&_nc_ohc=Wiq--mR2YNwAX8d2JHI&_nc_ht=scontent.ftru4-1.fna&oh=00_AT8RFl_WikXyczF0H7nbu7rfwy-NqryR-lHrINQ9-_YCFA&oe=61F43DDA" group-title="REGIONALES", 217 | QT Televisión || Cuzco
 https://mediastreamm.com:3753/live/qosqotimeslive.m3u8
 #EXTINF:-1 tvg-id="PE | TV Sistemas" tvg-name="PE | TV Sistemas" channelId="218" tvg-logo="https://scontent.ftru4-2.fna.fbcdn.net/v/t1.6435-9/155399550_277318890412303_7188947598099234633_n.png?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFAZfsmYY62zLsa6KsnVaAnmdKlWQ5Lo4KZ0qVZDkujgvwneUq3mCKA_6a6Z8B4m6k&_nc_ohc=Z86CdPotUlcAX86-h2E&_nc_ht=scontent.ftru4-2.fna&oh=1da89099d47eab8c3387aea17c735210&oe=61CF7EA9" group-title="REGIONALES", 218 | TV Sistemas || Cuzco
 https://panel.streamingtv-mediacp.online:1936/kdlrqjcp/kdlrqjcp/playlist.m3u8
