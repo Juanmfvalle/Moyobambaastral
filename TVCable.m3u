@@ -145,7 +145,7 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AXN/40-hls/live-media.m3u8?_c
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AZCINEMA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZCINEMA_stream_eg&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D187806519&_cdn_session=123585227&_cdn_timestamp=1641242771&_cdn_token=db03a67ae063e9e4ffb33ba500b31fb0b34f8dc6
 #EXTINF:-1 tvg-id="USA | Cinelife" tvg-name="USA | Cinelife" channelId="66" tvg-logo="https://cinelife.com/wp-content/uploads/2020/04/cinelife_logo.png" group-title="PELICULAS Y SERIES", 66 | Cinelife
 https://magnolia-cinelife.amagi.tv/amRdirect/did=&gdpr=&lat=&lon=&us_privacy=&consent=&dnt=/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Cineastral" tvg-name="PE | Cineastral" channelId="67" tvg-logo="https://scontent.ftru4-1.fna.fbcdn.net/v/t39.30808-6/249222646_10159574349978571_3226623428809105044_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeExIMEJL1u-ib_66yqIIsPm-70WoXPzvEr7vRahc_O8SmtaYOSgwsHsnYN_etlW9Ic&_nc_ohc=W50H_cTM6GwAX8d2MDy&_nc_zt=23&_nc_ht=scontent.ftru4-1.fna&oh=00_AT-iz7WbFpgpZWr_Qo6EdKiOTmaq2PRcISuXhynkgvc3Zg&oe=61D0530C" group-title="PELICULAS Y SERIES", 67 | Cineastral
+#EXTINF:-1 tvg-id="PE | Cineastral" tvg-name="PE | Cineastral" channelId="67" tvg-logo="https://scontent.ftru4-1.fna.fbcdn.net/v/t39.30808-6/249222646_10159574349978571_3226623428809105044_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeExIMEJL1u-ib_66yqIIsPm-70WoXPzvEr7vRahc_O8SmtaYOSgwsHsnYN_etlW9Ic&_nc_ohc=kXktYVpALCYAX-vOyub&_nc_zt=23&_nc_ht=scontent.ftru4-1.fna&oh=00_AT-gCWeuYREiHmQKdDC_UCkYaX2nvomcMvZX3RVhbbKy-g&oe=61D83C0C" group-title="PELICULAS Y SERIES", 67 | Cineastral || Moyobamba
 https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/chunklist_w2054415583.m3u8?_=1
 #EXTINF:-1 tvg-id="USA | Cinecanal" tvg-name="USA | Cinecanal" channelId="68" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/150px-CinecanalLA.png" group-title="PELICULAS Y SERIES", 68 | Cinecanal
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/CINECANALHD/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCINECANALHD_stream_1m&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D187806519&_cdn_session=123584931&_cdn_timestamp=1641242724&_cdn_token=03de4061a730fc9476e41631cf0bc40589d30e94
@@ -219,6 +219,8 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 https://rt-esp.gcdn.co/live/rtesp/playlist_1600Kb.m3u8
 #EXTINF:-1 tvg-id="ES | 24 Horas tve" tvg-name="ES | 24 horas tve" channelId="97" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/125px-Logo_TVE-24h.svg.png" group-title="NOTICIAS E INFORMACION", 97 | 24 horas tve
 https://rtvelivestreamv3.akamaized.net/24h/24h_main_576.m3u8
+#EXTINF:-1 tvg-id="CL | Canal 24 Horas" tvg-name="CL | Canal 24 Horas" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_24HorasTVN.svg/200px-Logo_24HorasTVN.svg.png" group-title="NOTICIAS E INFORMACION", En Prueba | Canal 24 Horas
+http://45.161.188.242:88/24horas/mono.m3u8
 #EXTINF:-1 tvg-id="CU | Cubavisión Internacional" tvg-name="CU | Cubavisión Internacional" channelId="98" tvg-logo="https://www.tvcubana.icrt.cu/images/logos-canales/logo-mascara/cvi.jpg" group-title="INTERNACIONALES", 98 | Cubavisión Internacional
 http://190.122.96.187:8888/http/010
 #EXTINF:-1 tvg-id="USA | TV Martí" tvg-name="USA | TV Martí" channelId="99" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Logo_of_Radio_y_Televisi%C3%B3n_Mart%C3%AD.svg/225px-Logo_of_Radio_y_Televisi%C3%B3n_Mart%C3%AD.svg.png" group-title="INTERNACIONALES", 99 | TV Martí
@@ -243,6 +245,8 @@ https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl-CIjkbNSie4AdKQ5x
 https://mdstrm.com/live-stream-playlist/5b8ff7b9d78b521f2ea819d7.m3u8?access_token=DSTa8e7881c9f2118f08d2376239f3292d8
 #EXTINF:-1 tvg-id="VE | Ve Plus" tvg-name="VE | Ve Plus" channelId="109" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ve_Plus_Logo_2019.png/130px-Ve_Plus_Logo_2019.png" group-title="MISCELANEO", 109 | Ve Plus
 http://190.122.96.187:8888/http/006
+#EXTINF:-1 tvg-id="CL | Zona Latina" tvg-name="CL | Zona Latina" channelId="En prueba" tvg-logo="https://yt3.ggpht.com/awJFKkErRT8yBwy7jtSHEz0Nigf2fMSwKReLV6Zrqom9mK_SStGDrUjygYwDw4NHoMSc1Afb75Y=s88-c-k-c0x00ffffff-no-rj" group-title="MISCELANEO", En Prueba | Zona Latina
+http://45.161.188.242:88/zonalatina/mono.m3u8
 #EXTINF:-1 tvg-id="FR | Fashion TV" tvg-name="FR | Fashion TV" channelId="110" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/150px-Fashion_TV_logo.svg.png" group-title="ESTILOS DE VIDA", 110 | Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b600000_t64MjQwcA==.m3u8
 #EXTINF:-1 tvg-id="UKR | HD Fashion" tvg-name="UKR | HD Fashion" channelId="110.2" tvg-logo="http://hdfashion.tv/catalog/view/theme/hdfashion/image/logo.svg" group-title="ESTILOS DE VIDA", 110.2 | HD Fashion
@@ -457,7 +461,7 @@ https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8
 http://v4.tustreaming.cl/matices/index.m3u8
 #EXTINF:-1 tvg-id="PE | Hechicera TV" tvg-name="PE | Hechicera TV" channelId="193" tvg-logo="https://diariohechicera.com/wp-content/uploads/2021/08/NEWlogo_hechicera@2x.png" group-title="REGIONALES", 193 | Hechicera TV || Tumbes
 https://panel.streamingtv-mediacp.online:1936/8108/8108/chunklist_w1984112774.m3u8
-#EXTINF:-1 tvg-id="PE | Tumpis TV" tvg-name="PE | Tumpis TV" channelId="194" tvg-logo="https://tumpistv.com/wp-content/uploads/2021/09/web-pequena-copia.png" group-title="REGIONALES", 194 | Tumpis TV || Tumbes
+#EXTINF:-1 tvg-id="PE | Tumpis TV" tvg-name="PE | Tumpis TV" channelId="194" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTZD3NA2RjS1ingWVBdTcATdEzv-tn3NgdLTjZr=s88-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", 194 | Tumpis TV || Tumbes
 https://mediastreamm.com:3531/live/tumpistvlive.m3u8
 #EXTINF:-1 tvg-id="PE | Piura TV" tvg-name="PE | Piura TV" channelId="195" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRq7KtcGsc4xTc1Lk13cb5-aYhYWlaBLJlpgyJCWA=s88-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", 195 | Piura TV || Piura
 http://177.53.152.186:8000/play/a008/index.m3u8
@@ -513,7 +517,7 @@ https://panel.streamingtv-mediacp.online:1936/kdlrqjcp/kdlrqjcp/playlist.m3u8
 http://v4.tustreaming.cl/quillavision/index.m3u8
 #EXTINF:-1 tvg-id="PE | Andes TV" tvg-name="PE | Andes TV" channelId="221" tvg-logo="https://radiosicuani.com/wp-content/uploads/2020/11/logo-tv.png" group-title="REGIONALES", 221 | Andes Televisión || Sicuani
 https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/chunklist_w497662503.m3u8
-#EXTINF:-1 tvg-id="PE | Tropical TV" tvg-name="PE | Tropical TV" channelId="222" tvg-logo="https://scontent.ftru4-2.fna.fbcdn.net/v/t39.30808-6/263599919_10159655678833571_6126780683315586113_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeG8Vf9uEVSoX-TcP2jp2SOn2q4DdglKjPDargN2CUqM8ILG413uAO4UuepCWZxAAD8&_nc_ohc=PzilQJWqYyoAX9otHsp&tn=1VPbtj1z8DdSmoLx&_nc_zt=23&_nc_ht=scontent.ftru4-2.fna&oh=00_AT-KJadM8wXsNf7jewH7EUQBxyZNsHwzrbztJOLeLGK6eQ&oe=61D0AE78" group-title="REGIONALES", 222 | Tropical TV || Puerto Maldonado
+#EXTINF:-1 tvg-id="PE | Tropical TV" tvg-name="PE | Tropical TV" channelId="222" tvg-logo="https://scontent.ftru4-2.fna.fbcdn.net/v/t39.30808-6/263599919_10159655678833571_6126780683315586113_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeG8Vf9uEVSoX-TcP2jp2SOn2q4DdglKjPDargN2CUqM8ILG413uAO4UuepCWZxAAD8&_nc_ohc=yeBlhY_cdj0AX-Ulpu2&tn=1VPbtj1z8DdSmoLx&_nc_zt=23&_nc_ht=scontent.ftru4-2.fna&oh=00_AT-4K65-2LhQ2HMVtzOF8Dy7WseFv6EggCM-MJ-Dbugubw&oe=61D69D38" group-title="REGIONALES", 222 | Tropical TV || Puerto Maldonado
 https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Quatro TV" tvg-name="PE | Quatro TV" channelId="223" tvg-logo="https://quatrotv.pe/wp-content/uploads/2021/03/Quatrotv-logo60.png" group-title="REGIONALES", 223 | Quatro Televisión || Arequipa
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/quatrotvgo
@@ -632,7 +636,7 @@ http://200.58.160.67:8081/envivo/bolivision/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Bolivia TV" tvg-name="BO | Bolivia TV" channelId="280" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Nueva_imagen_Bolivia_TV.jpg/245px-Nueva_imagen_Bolivia_TV.jpg" group-title="BOLIVIA", 280 | Bolivia TV || BOLIVIA
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Asociación de Teledifusoras Bolivianas" tvg-name="BO | Asociación de Teledifusoras Bolivianas" channelId="281" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/ATBBo2020Logo.png/150px-ATBBo2020Logo.png" group-title="BOLIVIA", 281 | ATB || BOLIVIA
-https://mediacp.hostradios.com.ar:19360/atbcom/atbcom.m3u8
+http://live.cdn.comteco.com.bo/comgo/0201/index.m3u8
 #EXTINF:-1 tvg-id="BO | Red Uno" tvg-name="BO | Red Uno" channelId="282" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/245px-Uno_logo.svg.png" group-title="BOLIVIA", 282 | Red Uno || BOLIVIA
 https://ott.streann.com/loadbalancer/services/public/channels/5ea9f3ab2cdc31ce152b0097/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Red Periodistas Asociados Televisión" tvg-name="BO | Red Periodistas Asociados Televisión" channelId="283" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Red_pat_new.jpg/220px-Red_pat_new.jpg" group-title="BOLIVIA", 283 | PAT || BOLIVIA
@@ -891,7 +895,7 @@ https://radio.livestreamingmundial.com/8070/stream
 https://radio.livestreamingmundial.com/8092/stream
 #EXTINF:-1 tvg-id="PE | Radio Ebenezer" tvg-name="PE | Radio Ebenezer" channelId="407" tvg-logo="https://graph.facebook.com/281962128599048/picture?type=large" group-title="EMISORAS LOCALES", 407 | Radio Ebenezer 103.5 FM || Moyobamba; Perú
 https://node-29.zeno.fm/011tp1y7cm0uv?rj-ttl=5&rj-tok=AAABfH2lN7MAlZLsEoRUtyfoSg
-#EXTINF:-1 tvg-id="PE | Selvática Radio" tvg-name="PE | Selvática Radio" channelId="408" tvg-logo="https://scontent.ftru4-1.fna.fbcdn.net/v/t39.30808-6/259497602_10159631718308571_6212878559279922815_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeFFZVyJCSFMJfNNBiXPw0Uh7IMchgJavQvsgxyGAlq9CxIe8J9LdvGtXsUQZ0o5w4U&_nc_ohc=eI17e7g6jbEAX96pdLe&_nc_zt=23&_nc_ht=scontent.ftru4-1.fna&oh=00_AT8wBmz6uM9UpK4mL4jZgmuo7WeQ2Cz2g3c95nV5QxXp5A&oe=61C4DC62" group-title="EMISORAS LOCALES", 408 | Selvática Radio || Moyobamba; Perú
+#EXTINF:-1 tvg-id="PE | Selvática Radio" tvg-name="PE | Selvática Radio" channelId="408" tvg-logo="https://scontent.ftru4-2.fna.fbcdn.net/v/t39.30808-6/259497602_10159631718308571_6212878559279922815_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeFFZVyJCSFMJfNNBiXPw0Uh7IMchgJavQvsgxyGAlq9CxIe8J9LdvGtXsUQZ0o5w4U&_nc_ohc=J8bvI595uX8AX-qtvoa&_nc_zt=23&_nc_ht=scontent.ftru4-2.fna&oh=00_AT-Z1qFlr0a7048MIDD-sPPv-BpledKcOg5aKgrffPo-0w&oe=61D6A8A2" group-title="EMISORAS LOCALES", 408 | Selvática Radio || Moyobamba; Perú
 https://radio.livestreamingmundial.com:7100/stream
 #EXTINF:-1 tvg-id="PE | Radio Nor Selva" tvg-name="PE | Radio Nor Selva" channelId="409" tvg-logo="https://cdn-planetaradios.com/imgio/Radio-Tv-Nor-Selva.jpg" group-title="EMISORAS PROVINCIALES", 409 | Radio Nor Selva 98.7 FM || Rioja; Perú
 https://sp.onliveperu.com/8166/stream/;type=mp3
