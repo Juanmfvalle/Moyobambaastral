@@ -748,7 +748,7 @@ http://nicatv.rylco.com:8075/channel10/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Canal 11 TV Red" tvg-name="NI | Canal 11 TV Red" channelId="335" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Canal-11-Nicaragua-en-vivo-Online-100x70.png" group-title="NICARAGUA", 335 | Canal 11 TV Red || NICARAGUA
 http://nicatv.rylco.com:8075/channel11/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Nicavisión Canal 12" tvg-name="NI | Nicavisión Canal 12" channelId="336" tvg-logo="http://www.canal12.com.ni/assets/logo_horizontal-b7fe143ebd9e9dab2e72ffea436db26fce21c81b7ae6ac430ede875f5df30657.png" group-title="NICARAGUA", 336 | Canal 12 Nicavisión || NICARAGUA
-https://5ca9af4645e15.streamlock.net/canal12/videocanal12/chunklist_w249113022.m3u8
+https://5ca9af4645e15.streamlock.net/canal12/videocanal12/chunklist_w470844018.m3u8
 #EXTINF:-1 tvg-id="NI | Viva Nicaragua Canal 13" tvg-name="NI | Viva Nicaragua Canal 13" channelId="337" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Logo_Viva_Nicaragua_Canal_13.png/200px-Logo_Viva_Nicaragua_Canal_13.png" group-title="NICARAGUA", 337 | Viva Nicaragua Canal 13 || NICARAGUA
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vivanicaragua13
 #EXTINF:-1 tvg-id="NI | Vos TV Canal 14" tvg-name="NI | Vos TV Canal 14" channelId="338" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/14_de_nicaragua-mediano.png" group-title="NICARAGUA", 338 | Vos TV || NICARAGUA
@@ -1081,3 +1081,5 @@ https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
 https://samsung.ott-channels.stingray.com/qello/master.m3u8
 #EXTINF:-1 tvg-id="USA | Rockola Televisión" tvg-name="USA | Rockola Televisión" channelId="486" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2718-294x165-FFFFFF.jpg" group-title="CANALES DE VIDEO", 486 | Rockola Televisión
 https://domosrcormcub.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/VivaLiveTV-Klasko-RockolaTelevision/dab8f341-e41a-46d1-9c45-fb4adad16195/0.m3u8
+#EXTINF:-1 tvg-id="USA | Hits 360" tvg-name="USA | Hits 360" channelId="487" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1853-294x165-FFFFFF.jpg" group-title="CANALES DE VIDEO", 487 | Hits 360
+https://cm.hostlagarto.com:4445/hits360tv/hits360HD.myStream/playlist.m3u8
