@@ -139,6 +139,8 @@ https://2.tunelive.net:3349/stream/play.m3u8
 https://tunelive.net:3150/stream/play.m3u8
 #EXTINF:-1 tvg-id="USA | Estrella TV" tvg-name="USA | Estrella TV" channelId="62" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png" group-title="INTERNACIONALES", 62 | Estrella TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="USA | Arts & Entertainment" tvg-name="USA | Arts & Entertainment" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/125px-A%26E_Network_logo.svg.png" group-title="PELICULAS Y SERIES", En prueba | A&E
+http://190.4.0.200:3333/play/a02y/index.m3u8
 #EXTINF:-1 tvg-id="USA | AMC" tvg-name="USA | AMC" channelId="63" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/150px-AMC_logo_2019.svg.png" group-title="PELICULAS Y SERIES", 63 | AMC
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AMC/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMC_stream_sj&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D187806519&_cdn_session=126074411&_cdn_timestamp=1641928366&_cdn_token=af608b36225c46e9892e11537ccf7fc94b0559c5
 #EXTINF:-1 tvg-id="USA | AXN" tvg-name="USA | AXN" channelId="64" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png" group-title="PELICULAS Y SERIES", 64 | AXN
@@ -157,20 +159,68 @@ https://2.tunelive.net:3359/stream/play.m3u8
 https://tunelive.net:3923/stream/play.m3u8
 #EXTINF:-1 tvg-id="PE | Cineclub" tvg-name="PE | Cineclub" channelId="71" tvg-logo="https://lh3.googleusercontent.com/-s0IKUMAsHJo/X7qWRlxQFoI/AAAAAAAA7kQ/P07ldtCVVOEh-KVOaz8uhVr20VjdDHs0wCK8BGAsYHg/s0/2020-11-22.png" group-title="PELICULAS Y SERIES", 71 | Cine Club
 https://mediastreamm.com:3176/live/cineclublive.m3u8
+#EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", En prueba | TNT
+http://190.4.0.200:3333/play/a01t/index.m3u8
 #EXTINF:-1 tvg-id="CO | Cinema Plus" tvg-name="CO | Cinema Plus" channelId="72" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cinema%2B_logo.svg/245px-Cinema%2B_logo.svg.png" group-title="PELICULAS Y SERIES", 72 | Cinema +
 https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/chunklist_w277128131.m3u8
+#EXTINF:-1 tvg-id="USA | Paramount Network" tvg-name="USA | Paramount Network" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/150px-Paramount_Network.svg.png" group-title="PELICULAS Y SERIES", En prueba | Paramount Network
+http://190.4.0.200:3333/play/a00x/index.m3u8
+#EXTINF:-1 tvg-id="USA | Sony Channel" tvg-name="USA | Sony Channel" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/120px-Sony_Channel_Logo.png" group-title="PELICULAS Y SERIES", En prueba | Sony Channel
+http://190.4.0.200:3333/play/a02v/index.m3u8
+#EXTINF:-1 tvg-id="USA | Space" tvg-name="USA | Space" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="PELICULAS Y SERIES", En prueba | Space
+http://190.4.0.200:3333/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="BO | A Estrenar TV" tvg-name="BO | A Estrenar TV" channelId="73" tvg-logo="https://www.comteco.com.bo/img/upload/canales/gfYq6X.png" group-title="PELICULAS Y SERIES", 73 | A Estrenar TV
 http://live.cdn.comteco.com.bo/comgo/0408/index.m3u8
+#EXTINF:-1 tvg-id="USA | Studio Universal" tvg-name="USA | Studio Universal" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/175px-StudioUniversal2016.png" group-title="PELICULAS Y SERIES", En prueba | Studio Universal
+http://190.4.0.200:3333/play/a03r/index.m3u8
+#EXTINF:-1 tvg-id="USA | Syfy" tvg-name="USA | Syfy" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/150px-SYFY.svg.png" group-title="PELICULAS Y SERIES", En prueba | Syfy
+http://190.4.0.200:3333/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="PA | Tele Clásicos" tvg-name="PA | Tele Clásicos" channelId="74" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b45afad9217b1e31c9af80eeaa90627d.webp" group-title="PELICULAS Y SERIES", 74 | Tele Clásicos
 https://tvdatta.com:3484/stream/play.m3u8
+#EXTINF:-1 tvg-id="USA | TCM" tvg-name="USA | TCM" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/120px-TCM_Latam_logo.svg.png" group-title="PELICULAS Y SERIES", En prueba | TCM
+http://190.4.0.200:3333/play/a02h/index.m3u8
+#EXTINF:-1 tvg-id="USA | TBS" tvg-name="USA | TBS" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/135px-TBS_logo_2016.svg.png" group-title="PELICULAS Y SERIES", En prueba | TBS
+http://190.4.0.200:3333/play/a01m/index.m3u8
 #EXTINF:-1 tvg-id="ESP | A3series" tvg-name="ESP | A3series" channelId="75" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/125px-Atreseries_2020_logo.svg.png" group-title="PELICULAS Y SERIES", 75 | Atreseries
 https://mdstrm.com/live-stream-playlist/5cae562e0ca2f30815231c0f.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
 #EXTINF:-1 tvg-id="ESP | A3cine" tvg-name="ESP | A3cine" channelId="76" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/245px-Atrescine_logo.svg.png" group-title="PELICULAS Y SERIES", 76 | Atrescine
 https://mdstrm.com/live-stream-playlist/5b8ff51f197a232e0ae1a47d.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
+#EXTINF:-1 tvg-id="USA | Warner Channel" tvg-name="USA | Warner Channel" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/125px-Warner2018LA.png" group-title="PELICULAS Y SERIES", En prueba | Warner Channel
+http://190.4.0.200:3333/play/a02w/index.m3u8
 #EXTINF:-1 tvg-id="USA | Tu Cine" tvg-name="USA | Tu Cine" channelId="77" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/TuCine_295x98.png" group-title="PELICULAS Y SERIES", 77 | Tu Cine
 https://tucine-plex.amagi.tv/TuCine-xumo/master_6.m3u8
 #EXTINF:-1 tvg-id="USA | Cine Real" tvg-name="USA | Cine Real" channelId="77.2" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/05/cinereal.png" group-title="PELICULAS Y SERIES", 77.2 | Cine Real
 https://cinereal-plex.amagi.tv/CineReal/master_6.m3u8
+#EXTINF:-1 tvg-id="USA | Cinemax" tvg-name="USA | Cinemax" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="PELICULAS Y SERIES", En prueba | Cinemax
+http://190.4.0.200:3333/play/a03q/index.m3u8
+#EXTINF:-1 tvg-id="USA | Claro Cinema" tvg-name="USA | Claro Cinema" channelId="En prueba" tvg-logo="https://uspto.report/TM/88519024/mark.png" group-title="PELICULAS Y SERIES", En prueba | Claro Cinema
+http://190.4.0.200:3333/play/a037/index.m3u8
+#EXTINF:-1 tvg-id="USA | DHE" tvg-name="USA | DHE" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/150px-2020_Canal_DHE_logo.svg.png" group-title="PELICULAS Y SERIES", En prueba | DHE
+http://190.4.0.200:3333/play/a00w/index.m3u8
+#EXTINF:-1 tvg-id="BR | Eurochannel" tvg-name="BR | Eurochannel" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Eurochannel.png/150px-Logo_Eurochannel.png" group-title="PELICULAS Y SERIES", En prueba | Eurochannel
+http://190.4.0.200:3333/play/a028/index.m3u8
+#EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="PELICULAS Y SERIES", En prueba | Star Channel
+http://190.4.0.200:3333/play/a03e/index.m3u8
+#EXTINF:-1 tvg-id="USA | FX" tvg-name="USA | FX" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/125px-FX_International_logo.svg.png" group-title="PELICULAS Y SERIES", En prueba | FX
+http://190.4.0.200:3333/play/a026/index.m3u8
+#EXTINF:-1 tvg-id="USA | FXM" tvg-name="USA | FXM" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/130px-FX_Movies_logo.svg.png" group-title="PELICULAS Y SERIES", En prueba | FXM
+http://190.4.0.200:3333/play/a03n/index.m3u8
+#EXTINF:-1 tvg-id="USA | Star Life" tvg-name="USA | Star Life" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/135px-Star_Life_2021.svg.png" group-title="PELICULAS Y SERIES", En prueba | Star Life
+http://190.4.0.200:3333/play/a01h/index.m3u8
+#EXTINF:-1 tvg-id="USA | Star Series" tvg-name="USA | Star Series" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Star_Series_2020.svg/135px-Star_Series_2020.svg.png" group-title="PELICULAS Y SERIES", En prueba | Star Series
+http://190.4.0.200:3333/play/a03y/index.m3u8
+#EXTINF:-1 tvg-id="USA | Star Action" tvg-name="USA | Star Action" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/135px-Star_Action_2020.svg.png" group-title="PELICULAS Y SERIES", En prueba | Star Action
+http://190.4.0.200:3333/play/a02i/index.m3u8
+#EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", En prueba | HBO
+http://190.4.0.200:3333/play/a03t/index.m3u8
+#EXTINF:-1 tvg-id="USA | HBO 2" tvg-name="USA | HBO 2" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" group-title="PELICULAS Y SERIES", En prueba | HBO 2
+http://190.4.0.200:3333/play/a03u/index.m3u8
+#EXTINF:-1 tvg-id="USA | HBO +" tvg-name="USA | HBO +" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/125px-Logohboplus2019.svg.png" group-title="PELICULAS Y SERIES", En prueba | HBO +
+http://190.4.0.200:3333/play/a03v/index.m3u8
+#EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="PELICULAS Y SERIES", En prueba | HBO Family
+http://190.4.0.200:3333/play/a03w/index.m3u8
+#EXTINF:-1 tvg-id="USA | HBO Xtreme" tvg-name="USA | HBO Xtreme" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" group-title="PELICULAS Y SERIES", En prueba | HBO Xtreme
+http://190.4.0.200:3333/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="BO | Anime & Comics TV" tvg-name="BO | Anime & Comics TV" channelId="78" tvg-logo="https://comteco.com.bo/img/upload/canales/yUXfZ2.png" group-title="INFANTILES", 78 | Anime & Comics TV
 http://live.cdn.comteco.com.bo/comgo/0426/index.m3u8
 #EXTINF:-1 tvg-id="USA | ZooMoo" tvg-name="USA | ZooMoo" channelId="79" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/120px-ZooMoo_logo.svg.png" group-title="INFANTILES", 79 | ZooMoo
@@ -185,7 +235,7 @@ http://live.cdn.comteco.com.bo/comgo/0336/index.m3u8
 http://190.4.0.200:3333/play/a01b/index.m3u8
 #EXTINF:-1 tvg-id="USA | Cartoonito" tvg-name="USA | Cartoonito" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/259px-Cartoonito_-_Logo_2021.svg.png" group-title="INFANTILES", En prueba | Cartoonito
 http://190.4.0.200:3333/play/a01d/index.m3u8
-#EXTINF:-1 tvg-id="USA | BabyTV" tvg-name="USA | BabyTV" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Babytvv.png/200px-Babytvv.png" group-title="INFANTILES", En prueba | BabyTV
+#EXTINF:-1 tvg-id="UK | BabyTV" tvg-name="UK | BabyTV" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Babytvv.png/200px-Babytvv.png" group-title="INFANTILES", En prueba | BabyTV
 http://190.4.0.200:3333/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="PA | Dreiko TV" tvg-name="PA | Dreiko TV" channelId="84" tvg-logo="https://dreikotv.online/wp-content/uploads/2021/09/logotipo_dreikotv-1024x224-1.png" group-title="INFANTILES", 84 | Dreiko TV
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/chunklist_w2067673743.m3u8
@@ -235,7 +285,7 @@ http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="CH | CGTN Español" tvg-name="CH | CGTN Español" channelId="104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/180px-CGTN_Espanol.png" group-title="NOTICIAS E INFORMACION", 104 | CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 tvg-id="USA | CNN en Español" tvg-name="USA | CNN en Español" channelId="105" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/125px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="INTERNACIONALES", 105 | CNN en Español
+#EXTINF:-1 tvg-id="USA | CNN en Español" tvg-name="USA | CNN en Español" channelId="105" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/125px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="NOTICIAS E INFORMACION", 105 | CNN en Español
 http://190.4.0.200:3333/play/a01v/index.m3u8
 #EXTINF:-1 tvg-id="USA | CNN Internacional" tvg-name="USA | CNN Internacional" channelId="105.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/150px-CNN_International_logo.svg.png" group-title="INTERNACIONALES", 105.2 | CNN Internacional
 http://live.cdn.comteco.com.bo/comgo/0301/index.m3u8
@@ -245,6 +295,8 @@ https://live.presstv.ir/live/smil:live.smil/playlist.m3u8
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
 #EXTINF:-1 tvg-id="CO | Nuestra Tele Noticias 24" tvg-name="CO | Nuestra Tele Noticias 24" channelId="108" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NTN24_logo.svg/245px-NTN24_logo.svg.png" group-title="NOTICIAS E INFORMACION", 108 | NTN 24
 https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl1NZxqf_W_BeLXZOOOm29mM)/dm/3/x7w4okl/s/live-1.m3u8
+#EXTINF:-1 tvg-id="USA | BBC World News" tvg-name="USA | BBC World News" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/150px-BBC_World_News_2019.svg.png" group-title="INTERNACIONALES", En prueba | BBC World News
+http://190.4.0.200:3333/play/a01w/index.m3u8
 #EXTINF:-1 tvg-id="ESP | Hola TV" tvg-name="ESP | Hola TV" channelId="109" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/220px-%C2%A1HOLA%21TVlogo.jpg" group-title="ESTILOS DE VIDA", 109 | Hola Televisión
 https://mdstrm.com/live-stream-playlist/5b8ff7b9d78b521f2ea819d7.m3u8?access_token=DSTa8e7881c9f2118f08d2376239f3292d8
 #EXTINF:-1 tvg-id="VE | Ve Plus" tvg-name="VE | Ve Plus" channelId="110" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ve_Plus_Logo_2019.png/130px-Ve_Plus_Logo_2019.png" group-title="MISCELANEO", 110 | Ve Plus
@@ -258,7 +310,7 @@ http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-id="MX | Azteca Mundo" tvg-name="MX | Azteca Mundo" channelId="113" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TV_Azteca_Mundo_logo.svg/200px-TV_Azteca_Mundo_logo.svg.png" group-title="ESTILOS DE VIDA", 113 | Azteca Mundo
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AZMUNDO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZMUNDO_stream_6q&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D187806519&_cdn_session=126075155&_cdn_timestamp=1641928606&_cdn_token=84559802f9fdfcfb54ee602bd6ca410811359e2a
 #EXTINF:-1 tvg-id="AR | El Gourmet TV" tvg-name="AR | El Gourmet TV" channelId="114" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/160px-Elgourmetlogo2015.png" group-title="ESTILOS DE VIDA", 114 | El Gourmet Televisión
-https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
+http://190.4.0.200:3333/play/a00t/index.m3u8
 #EXTINF:-1 tvg-id="EC | Inti TV" tvg-name="EC | Inti TV" channelId="115" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/INTI_Network_TV.png/600px-INTI_Network_TV.png" group-title="ESTILOS DE VIDA", 115 | Inti TV
 http://s846397078.mialojamiento.es/8276/inti.php/media_w2080291768_2093.m3u8
 #EXTINF:-1 tvg-id="PE | Best Cable Sports" tvg-name="PE | Best Cable Sports" channelId="116" tvg-logo="https://bestcableperu.com.pe/img/canales/6.png" group-title="DEPORTES", 116 | Best Cable Sports
