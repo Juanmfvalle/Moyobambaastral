@@ -381,6 +381,8 @@ http://190.4.0.200:3333/play/a01r/index.m3u8
 http://190.4.0.200:3333/play/a02f/index.m3u8
 #EXTINF:-1 tvg-id="USA | Music TV Hits" tvg-name="USA | Music TV Hits" channelId="131.4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/125px-MTV_Hits_2021.svg.png" group-title="MUSICA Y REALITIES", 131.4 | MTV Hits
 http://190.4.0.200:3333/play/a01q/index.m3u8
+#EXTINF:-1 tvg-id="USA | Music TV Live" tvg-name="USA | Music TV Live" channelId="131.5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/125px-MTV_Live_2021_logo.svg.png" group-title="MUSICA Y REALITIES", 131.5 | MTV Live
+http://190.4.0.200:3333/play/a021/index.m3u8
 #EXTINF:-1 tvg-id="CO | Telenostalgia" tvg-name="CO | Telenostalgia" channelId="132" tvg-logo="http://canaltelenostalgia.com/wp-content/uploads/2017/08/cropped-cropped-logo-TNL-2014.png" group-title="MUSICA Y REALITIES", 132 | Canal Telenostalgia
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TELENOSTALGIA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELENOSTALGIA_stream_or&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D187806519&_cdn_session=126076459&_cdn_timestamp=1641928893&_cdn_token=c57531bf0a6e5bddb10d02dafc84d2296a691010
 #EXTINF:-1 tvg-id="CO | Amordiscos" tvg-name="CO | Amordiscos" channelId="133" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTbf0--Gh5nkG6h3bwKrsUj8jFXcyx0_h7QcsTe=s88-c-k-c0x00ffffff-no-rj" group-title="MUSICA Y REALITIES", 133 | Amordiscos TV
