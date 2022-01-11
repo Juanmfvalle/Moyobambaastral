@@ -837,10 +837,14 @@ https://rtmp.info/soltv/envivo/chunklist_w1708857625.m3u8
 https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmpvPhxhA1ZU17El7FOZ6mYA)/dm/3/x7xs2wx/s/live-3.m3u8
 #EXTINF:-1 tvg-id="HN | Canal 5" tvg-name="HN | Canal 5" channelId="378" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_5_HN_logo_2019.png/150px-Canal_5_HN_logo_2019.png" group-title="HONDURAS", 378 | Canal 5 El Lider || HONDURAS
 https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZZI8_aUTpOktvGpvO6M1LvA)/dm/3/x7vus5d/s/live-3.m3u8
+#EXTINF:-1 tvg-id="HN | Telecadena 7 y 4" tvg-name="HN | Telecadena 7 y 4" channelId="En Prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Telecadena7y42018.png/150px-Telecadena7y42018.png" group-title="HONDURAS", En prueba | Telecadena 7 y 4 || HONDURAS
+http://190.4.0.200:3333/play/a02s/index.m3u8
 #EXTINF:-1 tvg-id="HN | VTV" tvg-name="HN | VTV" channelId="379" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/VTV_HN_logo_2019.png/210px-VTV_HN_logo_2019.png" group-title="HONDURAS", 379 | Vica TV || HONDURAS
-https://hn-vtv-vtv-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQxOTM5MzQ3LCJzZXNzaW9uIjoiMTkwLjIzNi4zMS4xNiIsIndoaXRlbGlzdCI6WyIxOTAuMjM2LjMxLjE2Il19LCJzaWduYXR1cmUiOiI5ZmI2M2QwYWNhMGQ4NzNmZmY3Zjg2MTYwMWE5MWI2MDFmOTE2ZmI3In0=
+http://190.4.0.200:3333/play/a03a/index.m3u8
 #EXTINF:-1 tvg-id="HN | TEN Canal 10" tvg-name="HN | TEN Canal 10" channelId="380" tvg-logo="https://1.bp.blogspot.com/-WYepFcQLrXc/XQka9TmZ0uI/AAAAAAAAHz8/eTOqew4vGoocd66uqlPHccAeYN74huzmgCLcBGAs/w350-h350-p-k-no-nu/TEN%2BCanal%2B10.png" group-title="HONDURAS", 380 | TEN Canal 10 || HONDURAS
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="HN | Canal 11 HN" tvg-name="HN | Canal 11 HN" channelId="En Prueba" tvg-logo="https://canal11.hn/wp-content/themes/streamit/assets/images/logo.png" group-title="HONDURAS", En prueba | Canal 11 HN || HONDURAS
+http://190.4.0.200:3333/play/a02s/index.m3u8
 #EXTINF:-1 tvg-id="HN | Hondured Canal 13" tvg-name="HN | Hondured Canal 13" channelId="381" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Hondured-TV-en-vivo-Online-100x70.png" group-title="HONDURAS", 381 | Hondured || HONDURAS
 https://stream-03.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm41MilSLc4lrY94TMYEAAECw)/dm/3/x83axzj/s/live-1.m3u8
 #EXTINF:-1 tvg-id="HN | LTV" tvg-name="HN | LTV" channelId="382" tvg-logo="https://images.tigocloud.net/brllnm7d8gre/4wUethBN3YmtWSDso4knkq/886bd5c23df975532c27045d6e89a5f3/ic-canal-ltv.png?q=70" group-title="HONDURAS", 382 | LTV || HONDURAS
