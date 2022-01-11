@@ -182,7 +182,7 @@ https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="BO | TV Plus" tvg-name="BO | TV Plus" channelId="82" tvg-logo="https://comteco.com.bo/img/upload/canales/UOvAmh.png" group-title="INFANTILES", 82 | TV Plus
 http://live.cdn.comteco.com.bo/comgo/0336/index.m3u8
 #EXTINF:-1 tvg-id="USA | Cartoon Network" tvg-name="USA | Cartoon Network" channelId="83" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/150px-Cartoon_Network_2010_logo.svg.png" group-title="INFANTILES", 83 | Cartoon Network
-https://slvcs87g3x.singularcdn.net.br/live/ctn_latam/playlist-720p.m3u8
+http://190.4.0.200:3333/play/a01b/index.m3u8
 #EXTINF:-1 tvg-id="PA | Dreiko TV" tvg-name="PA | Dreiko TV" channelId="84" tvg-logo="https://dreikotv.online/wp-content/uploads/2021/09/logotipo_dreikotv-1024x224-1.png" group-title="INFANTILES", 84 | Dreiko TV
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/chunklist_w2067673743.m3u8
 #EXTINF:-1 tvg-id="USA | Discovery Kids" tvg-name="USA | Discovery Kids" channelId="85" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/125px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="INFANTILES", 85 | Discovery Kids
@@ -231,7 +231,9 @@ http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="CH | CGTN Español" tvg-name="CH | CGTN Español" channelId="104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/180px-CGTN_Espanol.png" group-title="NOTICIAS E INFORMACION", 104 | CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 tvg-id="USA | CNN Internacional" tvg-name="USA | CNN Internacional" channelId="105" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/150px-CNN_International_logo.svg.png" group-title="INTERNACIONALES", 105 | CNN Internacional
+#EXTINF:-1 tvg-id="USA | CNN en Español" tvg-name="USA | CNN en Español" channelId="105" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/125px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="INTERNACIONALES", 105 | CNN en Español
+http://190.4.0.200:3333/play/a01v/index.m3u8
+#EXTINF:-1 tvg-id="USA | CNN Internacional" tvg-name="USA | CNN Internacional" channelId="105.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/150px-CNN_International_logo.svg.png" group-title="INTERNACIONALES", 105 | CNN Internacional
 http://live.cdn.comteco.com.bo/comgo/0301/index.m3u8
 #EXTINF:-1 tvg-id="IRN | HispanTV" tvg-name="IRN | HispanTV" channelId="106" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/245px-HispanTv_logo.svg.png" group-title="NOTICIAS E INFORMACION", 106 | HispanTV
 https://live.presstv.ir/live/smil:live.smil/playlist.m3u8
@@ -418,7 +420,7 @@ http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/chunklist_w484510804.
 #EXTINF:-1 tvg-id="RD | Cielo TV" tvg-name="RD | Cielo TV" channelId="174" tvg-logo="https://cielotv.do/wp-content/uploads/2021/07/logotipoctv.png" group-title="RELIGIOSOS", 174 | Cielo TV
 https://5e149b9159444.streamlock.net/_on-cielotv/_on-cielotv/chunklist_w272015717.m3u8
 #EXTINF:-1 tvg-id="CR | Enlace" tvg-name="CR | Enlace" channelId="175" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Enlace_Televisi%C3%B3n_logo.svg/245px-Enlace_Televisi%C3%B3n_logo.svg.png" group-title="RELIGIOSOS", 175 | Enlace
-http://45.160.73.129:8888/play/a01z/index.m3u8
+http://190.4.0.200:3333/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="NI | Enlace Canal 21" tvg-name="NI | Enlace Canal 21" channelId="175.2" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT7bjw4NmODI49wGnBEv2KuF80_smXElW0mXdk0Ig=s900-c-k-c0x00ffffff-no-rj" group-title="RELIGIOSOS", 175.2 | Enlace 21 || Nicaragua
 http://nicatv.rylco.com:8075/channel21/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | Genesis Televisión" tvg-name="MX | Genesis Televisión" channelId="176" tvg-logo="https://scontent.ftru4-2.fna.fbcdn.net/v/t1.18169-9/24301208_1495743337200455_1582694558475326386_n.png?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGqGcR53KC28nnrfhpwnp3K8qSfpp2wJHrypJ-mnbAkely9SZFRX1AdhFdF2xPaw0o&_nc_ohc=XAOT-E4dUdEAX-1JyHL&_nc_ht=scontent.ftru4-2.fna&oh=00_AT-NIvQe9-jSFDg4xVo_VnrHnMB1piO1HlSEbNSyGCYwWA&oe=61E02FFE" group-title="RELIGIOSOS", 176 | Genesis Televisión
