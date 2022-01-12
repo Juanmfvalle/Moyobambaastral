@@ -55,7 +55,7 @@ https://live.obslivestream.com/crtvmux/tracks-v1a1/mono.m3u8
 https://stmv.panel.grupolimalive.com/wesdey3/wesdey3/chunklist_w1827468201.m3u8
 #EXTINF:-1 tvg-id="PE | TV5" tvg-name="PE | TV5" channelId="23" tvg-logo="https://tv5soritor.com/wp-content/uploads/2021/07/LOGO-TV5.png" group-title="PROVINCIALES", 23 | TV5 || Soritor
 https://live.obslivestream.com/tv5soritormux/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="PE | Via Alto Mayo TV" tvg-name="PE | Via Alto Mayo TV" channelId="24" tvg-logo="https://www.viaaltomayotv.com/panel/archivos-panel/logotipo/Logo-c7e-355.png" group-title="PROVINCIALES", 24 | Via Alto Mayo Televisión || Rioja
+#EXTINF:-1 tvg-id="PE | Vía Alto Mayo TV" tvg-name="PE | Vía Alto Mayo TV" channelId="24" tvg-logo="https://scontent.ftru4-1.fna.fbcdn.net/v/t31.18172-8/12309703_980746345329769_5792425563279045602_o.jpg?_nc_cat=106&ccb=1-5&_nc_sid=174925&_nc_eui2=AeEJrOdTWeS2kmSl_0IHDWE9XR9tD0PPseldH20PQ8-x6V8a3AwksSNJ4raFefEmpTU&_nc_ohc=OrvjZ_c7fjQAX-w-qYd&_nc_ht=scontent.ftru4-1.fna&oh=00_AT-0BLDpjSpJghsY2aXupSewtiaFSuqe-fk10ZNzm-kd2g&oe=6205C473" group-title="PROVINCIALES", 24 | Vía Alto Mayo Televisión || Rioja
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
 #EXTINF:-1 tvg-id="PE | Nor Selva TV" tvg-name="PE | Nor Selva TV" channelId="25" tvg-logo="https://www.radiotvnorselva.com/wp-content/uploads/2021/03/logweb1X.png" group-title="PROVINCIALES", 25 | Nor Selva Televisión || Rioja
 https://live.tvcontrolcp.com:1936/8140/8140/chunklist_w1398009552.m3u8
@@ -132,7 +132,7 @@ https://tunelive.net:3415/stream/play.m3u8
 #EXTINF:-1 tvg-id="MX | Las Estrellas" tvg-name="MX | Las Estrellas" channelId="58" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/180px-Las_Estrellas.svg.png" group-title="INTERNACIONALES", 58 | Canal de las estrellas
 https://tunelive.net:3019/stream/play.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" channelId="59" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", 59 | Telemundo Internacional
-https://tunelive.net:3141/stream/play.m3u8
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TELEMUNDO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEMUNDO_stream_fp&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D187806519&_cdn_session=126575171&_cdn_timestamp=1642068431&_cdn_token=360d0e05796e8411b7669516fa8784db54dbc17f
 #EXTINF:-1 tvg-id="USA | Galavision" tvg-name="USA | Galavision" channelId="60" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/160px-Galavision_Logo_2013.svg.png" group-title="INTERNACIONALES", 60 | Galavisión
 https://2.tunelive.net:3349/stream/play.m3u8
 #EXTINF:-1 tvg-id="USA | Unimas" tvg-name="USA | Unimas" channelId="61" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/100px-Logo_UniM%C3%A1s.svg.png" group-title="INTERNACIONALES", 61 | Unimás
@@ -154,7 +154,7 @@ https://magnolia-cinelife.amagi.tv/amRdirect/did=&gdpr=&lat=&lon=&us_privacy=&co
 #EXTINF:-1 tvg-id="PE | Cineastral" tvg-name="PE | Cineastral" channelId="67" tvg-logo="https://scontent.ftru4-1.fna.fbcdn.net/v/t39.30808-6/249222646_10159574349978571_3226623428809105044_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeExIMEJL1u-ib_66yqIIsPm-70WoXPzvEr7vRahc_O8SmtaYOSgwsHsnYN_etlW9Ic&_nc_ohc=Q_q3ezBv6HgAX_17fR4&_nc_zt=23&_nc_ht=scontent.ftru4-1.fna&oh=00_AT_OV_B5pQlQJ6Yl3sVkwJMjmmomJSSgH0Pw2wSmbKvzlQ&oe=61E21F4C" group-title="PELICULAS Y SERIES", 67 | Cineastral || Moyobamba
 https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/chunklist_w2054415583.m3u8?_=1
 #EXTINF:-1 tvg-id="USA | Cinecanal" tvg-name="USA | Cinecanal" channelId="68" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/150px-CinecanalLA.png" group-title="PELICULAS Y SERIES", 68 | Cinecanal
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/CINECANALHD/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCINECANALHD_stream_1m&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D187806519&_cdn_session=126074531&_cdn_timestamp=1641928407&_cdn_token=b689de2fbbd23fc4ba152288ac92493c3448e089
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/CINECANALHD/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCINECANALHD_stream_1m&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D187806519&_cdn_session=126574875&_cdn_timestamp=1642068399&_cdn_token=c301d4a3111e1098c5f76a4afbd5d7173cd763e4
 #EXTINF:-1 tvg-id="MX | De Pelicula Plus" tvg-name="MX | De Pelicula Plus" channelId="69" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/DPel%C3%ADcula_Plus_2021.png/revision/latest/scale-to-width-down/175?cb=20210129162928&path-prefix=es" group-title="PELICULAS Y SERIES", 69 | De Pelicula Plus
 https://2.tunelive.net:3359/stream/play.m3u8
 #EXTINF:-1 tvg-id="MX | Cine Latino" tvg-name="MX | Cine Latino" channelId="70" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Cinelatino_logo.png/150px-Cinelatino_logo.png" group-title="PELICULAS Y SERIES", 70 | Cine Latino
@@ -718,7 +718,7 @@ https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8?PlaylistM3U
 #EXTINF:-1 tvg-id="BR | Rede Bandeirantes" tvg-name="BR | Rede Bandeirantes" channelId="279" tvg-logo="http://play.myplaytv.com/uploads/images/channel_62_1603754534_thumb.jpg" group-title="BRASIL", 279 | Band || BRASIL
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w74540908.m3u8
 #EXTINF:-1 tvg-id="BO | Universal de television" tvg-name="BO | Universal de television" channelId="280" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/New_Unitel_logo_HD.jpg/200px-New_Unitel_logo_HD.jpg" group-title="BOLIVIA", 280 | Unitel || BOLIVIA
-https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Za7PuOUwoskFvDATPBsGV9k)/dm/3/x7vsezg/s/live-3.m3u8
+https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZQ9xqFkcNn8WuV8DeU-0HUs)/dm/3/x7vsezg/s/live-3.m3u8
 #EXTINF:-1 tvg-id="BO | Radio Televisión Popular" tvg-name="BO | Radio Televisión Popular" channelId="281" tvg-logo="http://www.rtpbolivia.com.bo/wp-content/uploads/sites/18/2021/05/logo-300x155.png" group-title="BOLIVIA", 281 | RTP || BOLIVIA
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Bolivisión" tvg-name="BO | Bolivisión" channelId="282" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BolivisionHD.png/150px-BolivisionHD.png" group-title="BOLIVIA", 282 | Bolivisión || BOLIVIA
@@ -952,7 +952,7 @@ https://panel.dattalive.com/8122/8122/chunklist_w1401322809.m3u8
 #EXTINF:-1 tvg-id="HN | Metro TV" tvg-name="HN | Metro TV" channelId="393" tvg-logo="https://1.bp.blogspot.com/-6gQWDOzqUHU/XQo-_-umYGI/AAAAAAAAH00/gM_d6FInXxAQhKeRggaiKR_i-putnpGXACLcBGAs/s1600/Canal%2BLa%2BMetro%2BTV%2Bhonduras.png" group-title="HONDURAS", 393 | Metro TV || HONDURAS
 https://emisoras.hn:8081/metrotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HN | Todo Deportes TV" tvg-name="HN | Todo Deportes TV" channelId="394" tvg-logo="https://dd7tel2830j4w.cloudfront.net/f1560359694028x167785582725733730/Group%2012.svg" group-title="HONDURAS", 394 | TDTV || HONDURAS
-https://5fe2654d6127d.streamlock.net/tododeportesplus/smil:tododeportesplus.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMi8yMDIyIDQ6Mjc6NDUgQU0maGFzaF92YWx1ZT1iRVRJZWUwOStlMmJMcDYyVzVRbVJ3PT0mdmFsaWRtaW51dGVzPTM2MDAmaWQ9
+https://5e50264bd6766.streamlock.net/tododeportesplus/smil:tododeportesplus.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMi8yMDIyIDI6MDg6MzkgUE0maGFzaF92YWx1ZT1RY3JXWExDNkhrSGdaT3R5bzlhRS93PT0mdmFsaWRtaW51dGVzPTM2MDAmaWQ9
 #EXTINF:-1 tvg-id="USA | Sercano TV" tvg-name="USA | Sercano TV" channelId="395" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/Sercano-TV-en-vivo-Online-100x70.png" group-title="NOTICIAS E INFORMACION", 395 | Servicio Centroamericano de Noticias
 http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/chunklist_w1521447717_b1248000.m3u8
 #EXTINF:-1 tvg-id="GT | Canal 3" tvg-name="GT | Canal 3" channelId="396" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Canal3.png/200px-Canal3.png" group-title="GUATEMALA", 396 | Canal 3 el super canal || GUATEMALA
