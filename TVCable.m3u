@@ -139,7 +139,9 @@ https://2.tunelive.net:3349/stream/play.m3u8
 https://tunelive.net:3150/stream/play.m3u8
 #EXTINF:-1 tvg-id="USA | Estrella TV" tvg-name="USA | Estrella TV" channelId="62" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png" group-title="INTERNACIONALES", 62 | Estrella TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Arts & Entertainment" tvg-name="USA | Arts & Entertainment" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/125px-A%26E_Network_logo.svg.png" group-title="PELICULAS Y SERIES", En prueba | A&E
+#EXTINF:-1 tvg-id="USA | Investigation Discovery" tvg-name="USA | Investigation Discovery" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png" group-title="DOCUMENTALES Y SERIES", En prueba | ID
+http://190.4.0.200:3333/play/a03h/index.m3u8
+#EXTINF:-1 tvg-id="USA | Arts & Entertainment" tvg-name="USA | Arts & Entertainment" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/125px-A%26E_Network_logo.svg.png" group-title="DOCUMENTALES Y SERIES", En prueba | A&E
 http://190.4.0.200:3333/play/a02y/index.m3u8
 #EXTINF:-1 tvg-id="USA | AMC" tvg-name="USA | AMC" channelId="63" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/150px-AMC_logo_2019.svg.png" group-title="PELICULAS Y SERIES", 63 | AMC
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AMC/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMC_stream_sj&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D187806519&_cdn_session=126500203&_cdn_timestamp=1642034520&_cdn_token=a2fa4d2fe2a92d852ca7c0f5f0b78be27c652cdf
@@ -193,7 +195,7 @@ https://tucine-plex.amagi.tv/TuCine-xumo/master_6.m3u8
 https://cinereal-plex.amagi.tv/CineReal/master_6.m3u8
 #EXTINF:-1 tvg-id="USA | Cinemax" tvg-name="USA | Cinemax" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="PELICULAS Y SERIES", En prueba | Cinemax
 http://190.4.0.200:3333/play/a03q/index.m3u8
-#EXTINF:-1 tvg-id="USA | Claro Cinema" tvg-name="USA | Claro Cinema" channelId="En prueba" tvg-logo="https://uspto.report/TM/88519024/mark.png" group-title="PELICULAS Y SERIES", En prueba | Claro Cinema
+#EXTINF:-1 tvg-id="MX | Claro Cinema" tvg-name="MX | Claro Cinema" channelId="En prueba" tvg-logo="https://uspto.report/TM/88519024/mark.png" group-title="PELICULAS Y SERIES", En prueba | Claro Cinema
 http://190.4.0.200:3333/play/a037/index.m3u8
 #EXTINF:-1 tvg-id="USA | DHE" tvg-name="USA | DHE" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/150px-2020_Canal_DHE_logo.svg.png" group-title="PELICULAS Y SERIES", En prueba | DHE
 http://190.4.0.200:3333/play/a00w/index.m3u8
@@ -303,16 +305,26 @@ https://mdstrm.com/live-stream-playlist/5b8ff7b9d78b521f2ea819d7.m3u8?access_tok
 http://190.122.96.187:8888/http/006
 #EXTINF:-1 tvg-id="CL | Zona Latina" tvg-name="CL | Zona Latina" channelId="111" tvg-logo="https://yt3.ggpht.com/awJFKkErRT8yBwy7jtSHEz0Nigf2fMSwKReLV6Zrqom9mK_SStGDrUjygYwDw4NHoMSc1Afb75Y=s88-c-k-c0x00ffffff-no-rj" group-title="MISCELANEO", 111 | Zona Latina
 http://45.161.188.242:88/zonalatina/mono.m3u8
+#EXTINF:-1 tvg-id="USA | Lifetime" tvg-name="USA | Lifetime" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/150px-Logo_Lifetime_2020.svg.png" group-title="MISCELANEO", En prueba | Lifetime
+http://190.4.0.200:3333/play/a01o/index.m3u8
+#EXTINF:-1 tvg-id="USA | HGTV" tvg-name="USA | HGTV" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/200px-HGTV_US_Logo_2015.svg.png" group-title="ESTILOS DE VIDA", En prueba | HGTV
+http://190.4.0.200:3333/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="FR | Fashion TV" tvg-name="FR | Fashion TV" channelId="112" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/150px-Fashion_TV_logo.svg.png" group-title="ESTILOS DE VIDA", 112 | Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b600000_t64MjQwcA==.m3u8
 #EXTINF:-1 tvg-id="UKR | HD Fashion" tvg-name="UKR | HD Fashion" channelId="112.2" tvg-logo="http://hdfashion.tv/catalog/view/theme/hdfashion/image/logo.svg" group-title="ESTILOS DE VIDA", 112.2 | HD Fashion
 http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 tvg-id="USA | E!" tvg-name="USA | E!" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/35px-E%21_Logo_2012.svg.png" group-title="ESTILOS DE VIDA", En prueba | E! Entertainment Televisión
+http://190.4.0.200:3333/play/a02x/index.m3u8
 #EXTINF:-1 tvg-id="MX | Azteca Mundo" tvg-name="MX | Azteca Mundo" channelId="113" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TV_Azteca_Mundo_logo.svg/200px-TV_Azteca_Mundo_logo.svg.png" group-title="ESTILOS DE VIDA", 113 | Azteca Mundo
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AZMUNDO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZMUNDO_stream_6q&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D187806519&_cdn_session=126501427&_cdn_timestamp=1642034824&_cdn_token=c3844462b48def0ff4a87269fe4c3b62d475c768
 #EXTINF:-1 tvg-id="AR | El Gourmet TV" tvg-name="AR | El Gourmet TV" channelId="114" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/160px-Elgourmetlogo2015.png" group-title="ESTILOS DE VIDA", 114 | El Gourmet Televisión
 http://190.4.0.200:3333/play/a00t/index.m3u8
 #EXTINF:-1 tvg-id="EC | Inti TV" tvg-name="EC | Inti TV" channelId="115" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/INTI_Network_TV.png/600px-INTI_Network_TV.png" group-title="ESTILOS DE VIDA", 115 | Inti TV
 http://s846397078.mialojamiento.es/8276/inti.php/media_w2080291768_2093.m3u8
+#EXTINF:-1 tvg-id="USA | Discovery Home & Health" tvg-name="USA | Discovery Home & Health" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png" group-title="ESTILOS DE VIDA", En prueba | Discovery Home & Health
+http://190.4.0.200:3333/play/a03g/index.m3u8
+#EXTINF:-1 tvg-id="USA | TLC" tvg-name="USA | TLC" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/150px-TLC_Logo.svg.png" group-title="ESTILOS DE VIDA", En prueba | Travel & Living Channel
+http://190.4.0.200:3333/play/a033/index.m3u8
 #EXTINF:-1 tvg-id="PE | Best Cable Sports" tvg-name="PE | Best Cable Sports" channelId="116" tvg-logo="https://bestcableperu.com.pe/img/canales/6.png" group-title="DEPORTES", 116 | Best Cable Sports
 https://tv.siete.us:19360/bestcablesports/bestcablesports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="USA | Fox Sports 2" tvg-name="USA | Fox Sports 2" channelId="117" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/175px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES", 117 | Fox Sports 2
@@ -342,13 +354,15 @@ https://tunelive.net:3877/stream/play.m3u8
 #EXTINF:-1 tvg-id="MX | Televisa Univision Deportes Network" tvg-name="MX | Televisa Univision Deportes Network" channelId="122" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/200px-TUDN_Logo.svg.png" group-title="DEPORTES", 122 | TUDN
 https://tunelive.net:3245/stream/play.m3u8
 #EXTINF:-1 tvg-id="MX | Claro Sports" tvg-name="MX | Claro Sports" channelId="123" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/150px-Claro_Sports_logo.svg.png" group-title="DEPORTES", 123 | Claro Sports
-https://claro-jw.cdn.vustreams.com:443/live/channel07/live.isml/live-audio_track_0_0_und=128000-video_track=365000.m3u8
+http://190.4.0.200:3333/play/a00z/index.m3u8
 #EXTINF:-1 tvg-id="MX | Sky Sports" tvg-name="MX | Sky Sports" channelId="124" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/245px-Sky_Sports_logo_2017.svg.png" group-title="DEPORTES", 124 | Sky Sports
 https://tunelive.net:3412/stream/play.m3u8
 #EXTINF:-1 tvg-id="AR | El Garage TV" tvg-name="AR | El Garage TV" channelId="125" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS-T1STlbnBP1FvFZIpa4XY9LsYWzX0KuHw72YVeg=s88-c-k-c0x00ffffff-no-rj" group-title="DEPORTES", 125 | El Garage TV
 http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
 #EXTINF:-1 tvg-id="AR | DeporTV" tvg-name="AR | DeporTV" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Deportv.svg/200px-Deportv.svg.png" group-title="DEPORTES", En prueba | DeporTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-id="CR | FUTV" tvg-name="CR | FUTV" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_de_FUTV.svg/200px-Logo_de_FUTV.svg.png" group-title="DEPORTES", En prueba | FUTV
+http://190.4.0.200:3333/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="CL | Portal Foxmix" tvg-name="CL | Portal Foxmix" channelId="126" tvg-logo="http://www.portalfoxmix.cl/web/wp-content/uploads/2016/03/logoPFM.png" group-title="MUSICA Y REALITIES", 126 | Portal Foxmix TV
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w838953193.m3u8
 #EXTINF:-1 tvg-id="CO | Mi Gente TV" tvg-name="CO | Mi Gente TV" channelId="127" tvg-logo="https://www.migente-tv.com/wp-content/uploads/2015/04/logo_migente2015.png" group-title="MUSICA Y REALITIES", 127 | Mi Gente TV
@@ -413,6 +427,10 @@ http://live-edge01.telecentro.net.ar/live/msctphd-720/chunklist_w2124958063.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w1801551224_b1864000_sleng.m3u8
 #EXTINF:-1 tvg-id="CL | TV Pop" tvg-name="CL | TV Pop" channelId="146" tvg-logo="https://vivotvhd.com/img/cha/4308.gif" group-title="MUSICA Y REALITIES", 146 | TV Pop
 https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MX | Canal Sin limites" tvg-name="MX | Canal Sin limites" channelId="En prueba" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1543589165298-Imagen.png" group-title="MUSICA Y REALITIES", En prueba | Canal Sin limites
+http://190.4.0.200:3333/play/a02e/index.m3u8
+#EXTINF:-1 tvg-id="MX | Concert Channel" tvg-name="MX | Concert Channel" channelId="En prueba" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/b/bc/Gallery_1157_7_147957.png/revision/latest/scale-to-width-down/250?cb=20150406181433&path-prefix=es" group-title="MUSICA Y REALITIES", En prueba | Concert Channel
+http://190.4.0.200:3333/play/a03l/index.m3u8
 #EXTINF:-1 tvg-id="CL | TV Salud" tvg-name="CL | TV Salud" channelId="147" tvg-logo="https://image.roku.com/developer_channels/prod/0cb910829e2a34c241e0da4d1f66747f7fa849da691d65ffa6d9b47af3880f6e.png" group-title="CULTURA Y EDUCACION", 147 | TV Salud
 https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w1709921774.m3u8
 #EXTINF:-1 tvg-id="AR | Rural TV" tvg-name="AR | Rural TV" channelId="148" tvg-logo="https://www.elrural.com/wp-content/themes/el-rural2016/images/canal-rural.png" group-title="CULTURA Y EDUCACION", 148 | Canal Rural
@@ -953,8 +971,8 @@ http://190.4.0.200:3333/play/a018/index.m3u8
 https://tunelive.net:3196/stream/play.m3u8
 #EXTINF:-1 tvg-id="GT | Canal Antigua" tvg-name="GT | Canal Antigua" channelId="403" tvg-logo="https://i2.wp.com/canalantigua.tv/wp-content/uploads/2020/12/cropped-cropped-544-x-180-logo-300x99-1.png?fit=300%2C99&ssl=1" group-title="GUATEMALA", 403 | Canal Antigua || GUATEMALA
 http://51.161.12.229:1935/CanalAntigua/myStream/chunklist_w1313531480.m3u8
-#EXTINF:-1 tvg-id="GT | Vea Canal" tvg-name="GT | Vea Canal" channelId="404" tvg-logo="http://veacanal.tv/wp-content/uploads/2017/05/logoveacanal.png" group-title="GUATEMALA", 404 | Vea Canal || GUATEMALA
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CogFVIMe1YlsnYjC2mAnm9N8_L4HexwK49wQ___GMVGGstULy91_YaWCQRCZbULKO3T5asnhtJ5uyI0j4Rzrht4rK6MJH2UZqzzdLMoYdWY5IEs8Qr7POn27D-aS8S7GgEh-qgvJyzzUUPgMYtuWRGR_qpYfgEvFM9PGepLiSrgWXK2apjX1XbA6ld1UFbrecym7_Ess_oDUg6Gti0BR8T_N1kw9eai5UzC4wGaFoxza-od9JrcORIaZyrthD7qizl3mWqnh0-IO3G_54Ura8WJFn-U3j2wzoB0sYFDJitiEQBRQbEDcTiAvKnEPc1Q6wYZt2TK7H2Fn-szl7p1So_IO6rE9xbYLiLZYH-xe65PMjI4wTVp4rK7Cly0L-UQV4O9dUwKnmR1bj7zhNF7Gd4kgeQIUsj0WoXxZ3JlP5B81Q1jmCyHeCct5ACC6GqXoEfHQYKry_KmRYLqnQoeRctXCJ20LdS94jYEWL1ZybX-djpIAs1SNydUl-dkM5POKdtuM06Hb69I4Ziet8tliZnm8y0R15wchYua7twuGCQo6H58fzFkJleU6BbXP39HsybBA8fCIPU1vSdciCGJrB_wEVou7SipVAtuak9llcwlAcFJ-6BZjHxuoQkoFVE4_y33Zpz3JpPvyfVM2i57YbJtzybppe2Py8sKRh80rC4h7XcTYXKMVFcql1gE6dwF-v5_ilnS8VKspEKylLwf5w8lGcgjdI59ckvYHRxgA9DRUImwuDbIqY6iKqgtBAyjwS6hv6i8KeQdHpxpta7maIIPrgvQ_TvNquCfF8Qo9p5RHHKKdkrQjnPLk1hipWs5c5S54V1oe5g2C-MOD9crOE9cHQmykhjqY-t2rGgyotGq-Cf_OGQTjgFsgASoJdXMtZWFzdC0yMN8C.m3u8
+#EXTINF:-1 tvg-id="GT | Canal de Gobierno" tvg-name="GT | Canal de Gobierno" channelId="404" tvg-logo="https://yt3.ggpht.com/S0Rl6XZ8uM_8HKP903XpkVB7sCiHP9SglDySENtaAUF4mDH4jZy6HstuVA-qgJryYrVdarFiLA=s900-c-k-c0x00ffffff-no-rj" group-title="GUATEMALA", 404 | Canal de Gobierno || GUATEMALA
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CqUFnmshaA5PiApmSD3YCstt14bIdDYdKziJ04EB1RoTKng9I00oz0e8Zk6GkpfKZEi8hEHXJudyCM4FmTbubhnCiDQBq8vRGtsIqcctBHZSn91myUvGcoIwWLUfATIpxGdVHAAyt8JF48cWBnDfiA3c2xhg1Rkk_clM5rCm_savtv5I430Xtah74jxwGe9a9zCv77gxMV-3Jj53lbkR9JDZmqnyO7pKqNovkaVBBfr1k_g5PhuTDrE4xQnxKiVR9-RPiX9cFdgBx_Tsr88nJzNBsdLgnGm8NP2brYZJqKJD5bYRbet8e_yVYsqDVG94mgZrqJdTR1lZ5bHKMWSul8qt248kGTBSPXx7jfoOEXzDWeav72f2-Oy75jwmcHTNnu2oFJQWsBWKAT6NbGer6XEO_B5yEjCosY-joWFhYTPZkAFC_uhvTgRwzGoo4f5b78QAsuSzmeJAx7tMOwq7xssIAee7BEiBe-3M0TJ8jy2XgFS1jZy8C9PpXhw5VaX_qly3q_pe7PrhTfj720N9WnxmRAQpBySCYmgN-BDWdJwS2e-Dcrp2vy2vf_G5qUbzGlwZW20Pt4yz_TMAJZTuk9zAlVH0StZuIOtRwCRcMtj2kTk9wJaPJYsI7e68VXRTClcqPrHEqRkue3-cyWZJVsprYLH0-xI6SHoG4Z94lK8xwRJ8YPp5AbX7IHy0ofixF4_L3Ela2cjzkhOfI_vhqMKy5i1O1-Z_nipUfN1ijg2fVBmigbsbJgQaW33Wbhegw3Kff4LhnyJt8eU1KsOlFQMgT_2F09efh8CYmfEwz_ggWhrDLUWeyCkIR4EkL9p67RAIfS7Qx7ExlQzDM_hvZnibwTOSv2CPj33Dlf8lJYqzK0e3qQwDC309quFYnKRU4gD8RkNlxY4aDJv4Vk0UyGmQ6OyNmCABKglldS13ZXN0LTIw4QI.m3u8
 #EXTINF:-1 tvg-id="GT | TVS Retro" tvg-name="GT | TVS Retro" channelId="405" tvg-logo="https://static.wixstatic.com/media/7acae1_cedb3160f2f54e378f9990c5a5a49a1d~mv2.png" group-title="GUATEMALA", 405 | TVS Retro || GUATEMALA
 http://tv.streamgt.tk:25461/playgt/123456/4
 #EXTINF:-1 tvg-id="GT | Telemaya" tvg-name="GT |Telemaya" channelId="406" tvg-logo="https://www.telemaya.com/images/logo.png" group-title="GUATEMALA", 406 | Telemaya || GUATEMALA
