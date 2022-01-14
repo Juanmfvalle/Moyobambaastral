@@ -636,17 +636,21 @@ https://tv.portalexpress.es:3270/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="PE | Canal Sur" tvg-name="PE | Canal Sur" channelId="293" tvg-logo="https://graph.facebook.com/surtvilo/picture?width=320&height=320" group-title="REGIONALES", 293 | Canal Sur || Ilo
 https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8
 #EXTINF:-1 tvg-id="EC | Teleamazonas" tvg-name="EC | Teleamazonas" channelId="294" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/150px-Teleamazonas_Logo.png" group-title="ECUADOR", 294 | Teleamazonas || ECUADOR
-https://vps-c97214f4.vps.ovh.net/hls/ecutv1.m3u8
+http://tvbross.com:8090/live/Jhon/Jhon123/6.m3u8
 #EXTINF:-1 tvg-id="EC | Televicentro" tvg-name="EC | Televicentro" channelId="295" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/TVCEC.png/150px-TVCEC.png" group-title="ECUADOR", 295 | TVC || ECUADOR
 https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQyMjAzNDI2LCJzZXNzaW9uIjoiMTkwLjIzNi4zMC4xODYiLCJ3aGl0ZWxpc3QiOlsiMTkwLjIzNi4zMC4xODYiXX0sInNpZ25hdHVyZSI6Ijk5ZDhhMWUzZGE5MjYwMDM4Zjg1NTAzZGRkMTgyZjM0N2FhZDc2ZTgifQ==
 #EXTINF:-1 tvg-id="EC | Ecuador TV" tvg-name="EC | Ecuador TV" channelId="296" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/150px-EcuadorTV_logo.png" group-title="ECUADOR", 296 | Ecuador TV || ECUADOR
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ECUADORTV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DECUADORTV_stream_wj&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D187806519&_cdn_session=127072587&_cdn_timestamp=1642188307&_cdn_token=fff1d461f7748f39f57c10a62b92fbf7cf3dbad6
 #EXTINF:-1 tvg-id="EC | Ecuavisa" tvg-name="EC | Ecuavisa" channelId="297" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/200px-Ecuavisa_Logo_2019.png" group-title="ECUADOR", 297 | Ecuavisa || ECUADOR
-https://vps-c97214f4.vps.ovh.net/hls/ecutv2.m3u8
+http://tvbross.com:8090/live/Jhon/Jhon123/3.m3u8
+#EXTINF:-1 tvg-id="EC | Ecuavisa Guayaquil" tvg-name="EC | Ecuavisa Guayaquil" channelId="297.2" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/72475322359315.5631191190494.jpg" group-title="ECUADOR", 297.2 | Ecuavisa Guayaquil || ECUADOR
+http://tvbross.com:8090/live/Jhon/Jhon123/29181.m3u8
+#EXTINF:-1 tvg-id="EC | Ecuavisa Internacional" tvg-name="EC | Ecuavisa Internacional" channelId="297.3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ecuavisa_Internacional-C.svg/200px-Ecuavisa_Internacional-C.svg.png" group-title="ECUADOR", 297.3 | Ecuavisa Internacional || ECUADOR
+http://tvbross.com:8090/live/Jhon/Jhon123/29530.m3u8
 #EXTINF:-1 tvg-id="EC | Red Telesistema" tvg-name="EC | Red Telesistema" channelId="298" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/150px-Rts_logo.png" group-title="ECUADOR", 298 | RTS || ECUADOR
 https://ec-rts-guayaquil-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQyMjAzNDExLCJzZXNzaW9uIjoiMTkwLjIzNi4zMC4xODYiLCJ3aGl0ZWxpc3QiOlsiMTkwLjIzNi4zMC4xODYiXX0sInNpZ25hdHVyZSI6ImVjOGE1NmU4OWYxZTliYzQ1MzkxMGI5MDA0NGI2NWEyYTU3OTZkOGYifQ==
 #EXTINF:-1 tvg-id="EC | Oromar TV" tvg-name="EC | Oromar TV" channelId="299" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="ECUADOR", 299 | Oromar Televisión || ECUADOR
-https://vps-c97214f4.vps.ovh.net/hls/ecutv3.m3u8
+http://tvbross.com:8090/live/Jhon/Jhon123/16.m3u8
 #EXTINF:-1 tvg-id="EC | Canela TV" tvg-name="EC | Canela TV" channelId="300" tvg-logo="https://web.canelatv.com/wp-content/uploads/2020/10/ki.gif" group-title="ECUADOR", 300 | Canela TV || ECUADOR
 https://59d39900ebfb8.streamlock.net/canelatv/canelatv/chunklist_w1360767208.m3u8
 #EXTINF:-1 tvg-id="EC | Telerama" tvg-name="EC | Telerama" channelId="301" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_Telerama.png/250px-Logo_Telerama.png" group-title="ECUADOR", 301 | Telerama || ECUADOR
