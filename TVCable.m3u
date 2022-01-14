@@ -366,7 +366,7 @@ https://tunelive.net:3877/stream/play.m3u8
 #EXTINF:-1 tvg-id="MX | Televisa Univision Deportes Network" tvg-name="MX | Televisa Univision Deportes Network" channelId="174" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/200px-TUDN_Logo.svg.png" group-title="DEPORTES", 174 | TUDN
 https://tunelive.net:3245/stream/play.m3u8
 #EXTINF:-1 tvg-id="MX | Claro Sports" tvg-name="MX | Claro Sports" channelId="175" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/150px-Claro_Sports_logo.svg.png" group-title="DEPORTES", 175 | Claro Sports
-http://190.4.0.200:3333/play/a02b/index.m3u8
+https://claro-jw.cdn.vustreams.com:443/live/channel07/live.isml/live-audio_track_0_0_und=128000-video_track=365000.m3u8
 #EXTINF:-1 tvg-id="MX | Sky Sports" tvg-name="MX | Sky Sports" channelId="176" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/245px-Sky_Sports_logo_2017.svg.png" group-title="DEPORTES", 176 | Sky Sports
 https://tunelive.net:3412/stream/play.m3u8
 #EXTINF:-1 tvg-id="AR | El Garage TV" tvg-name="AR | El Garage TV" channelId="177" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS-T1STlbnBP1FvFZIpa4XY9LsYWzX0KuHw72YVeg=s88-c-k-c0x00ffffff-no-rj" group-title="DEPORTES", 177 | El Garage TV
@@ -469,7 +469,7 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ANIMALPLANET/40-hls/live-medi
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/NATGEO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNATGEO_stream_17&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D187806519&_cdn_session=127073419&_cdn_timestamp=1642188508&_cdn_token=681542fdd7a9f1762c5c201dc9462337d5e20ad2
 #EXTINF:-1 tvg-id="USA | Natgeo Wild" tvg-name="USA | Natgeo Wild" channelId="215" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/175px-National_Geographic_Wild_logo.svg.png" group-title="CULTURA Y EDUCACION", 215 | Natgeo Wild
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/NATGEOWILD/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNATGEOWILD_stream_9w&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D187806519&_cdn_session=127073483&_cdn_timestamp=1642188524&_cdn_token=43d46aeebad7c5c04fce2fe1a4fafbed5b889438
-#EXTINF:-1 tvg-id="RUS | Natgeo Wild Rusia" tvg-name="RUS | Natgeo Wild Rusia" channelId="215.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/220px-Logo_Nat_Geo_Wild.svg.png" group-title="CULTURA Y EDUCACION", 115.2 | Natgeo Wild || Rusia
+#EXTINF:-1 tvg-id="RUS | Natgeo Wild Rusia" tvg-name="RUS | Natgeo Wild Rusia" channelId="215.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/220px-Logo_Nat_Geo_Wild.svg.png" group-title="CULTURA Y EDUCACION", 215.2 | Natgeo Wild || Rusia
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1 tvg-id="USA | History" tvg-name="USA | History" channelId="216" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/100px-History_Logo.svg.png" group-title="CULTURA Y EDUCACION", 216 | History
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/HISTORY1/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHISTORYCHANNEL_stream_2w&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D187806519&_cdn_session=127073675&_cdn_timestamp=1642188569&_cdn_token=1bf753b5e8f9c248cf02e1ba768e5d13e30cc77c
@@ -959,38 +959,38 @@ http://audiotvserver.net:1935/livemedia/cholusat/chunklist_w374441771.m3u8
 http://amixtv.com:8080/plus39/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HN | Azteca Canal 44 Honduras" tvg-name="HN | Azteca Canal 44 Honduras" channelId="453" tvg-logo="https://1.bp.blogspot.com/-yGipms6jxkw/XQ98HCLKq4I/AAAAAAAAH24/9KuQLLqDT1wzQmvWgDDGGGVq8tzIsBbIwCLcBGAs/s1600/Canal%2BAzteca%2BHonduras.png" group-title="HONDURAS", 453 | Azteca Canal 44 || HONDURAS
 http://190.122.96.187:8888/http/002
-#EXTINF:-1 tvg-id="HN | Aza TV" tvg-name="HN | Aza TV" channelId="454" tvg-logo="https://1.bp.blogspot.com/-_OP090SKY-w/XRz39swn9QI/AAAAAAAAH7Q/77kq1tCsZ-UciGyDZlDzwH5PuVvGh_45gCLcBGAs/s1600/Canal%2BAZA%2BTV.png" group-title="HONDURAS", 454 | Aza TV || HONDURAS
+#EXTINF:-1 tvg-id="HN | ATV" tvg-name="HN | ATV" channelId="454" tvg-logo="https://scontent.ftru4-1.fna.fbcdn.net/v/t1.6435-9/78685277_994091024277627_7207925995750293504_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeExbfTgg8r-nYQtkGIkV1Rb8i31NXkC1RryLfU1eQLVGrWdQ7aSqnsxdRjixvRstiI&_nc_ohc=pljvLd4iEKQAX9bRhGM&_nc_ht=scontent.ftru4-1.fna&oh=00_AT-NSBZBv0WNewNB_7XoTBksQYbxq_eEK74apNSDxyLXIw&oe=61E57EE0" group-title="HONDURAS", 454 | ATV || HONDURAS
+http://video.direcnode.com:7990/demo35/myStream/chunks.m3u8
+#EXTINF:-1 tvg-id="HN | Aza TV" tvg-name="HN | Aza TV" channelId="455" tvg-logo="https://1.bp.blogspot.com/-_OP090SKY-w/XRz39swn9QI/AAAAAAAAH7Q/77kq1tCsZ-UciGyDZlDzwH5PuVvGh_45gCLcBGAs/s1600/Canal%2BAZA%2BTV.png" group-title="HONDURAS", 455 | Aza TV || HONDURAS
 http://stmv1.zcastbr.com/azatvhd/azatvhd/chunklist_w771943516.m3u8
-#EXTINF:-1 tvg-id="HN | Q'Hubo TV" tvg-name="HN | Q'Hubo TV" channelId="455" tvg-logo="https://www.hn504.net/img/tv/Q-hubo-Tv.png" group-title="HONDURAS", 455 | Q'Hubo TV || HONDURAS
+#EXTINF:-1 tvg-id="HN | Q'Hubo TV" tvg-name="HN | Q'Hubo TV" channelId="456" tvg-logo="https://www.hn504.net/img/tv/Q-hubo-Tv.png" group-title="HONDURAS", 456 | Q'Hubo TV || HONDURAS
 https://5e85d90130e77.streamlock.net/6024/6024/chunklist_w370440942.m3u8
-#EXTINF:-1 tvg-id="HN | Globo TV" tvg-name="HN | Globo TV" channelId="456" tvg-logo="https://www.globotvhonduras.com/GLOBO%20TV.png" group-title="HONDURAS", 456 | Globo TV || HONDURAS
+#EXTINF:-1 tvg-id="HN | Globo TV" tvg-name="HN | Globo TV" channelId="457" tvg-logo="https://www.globotvhonduras.com/GLOBO%20TV.png" group-title="HONDURAS", 457 | Globo TV || HONDURAS
 https://panel.dattalive.com/8122/8122/chunklist_w1401322809.m3u8
-#EXTINF:-1 tvg-id="HN | Metro TV" tvg-name="HN | Metro TV" channelId="457" tvg-logo="https://1.bp.blogspot.com/-6gQWDOzqUHU/XQo-_-umYGI/AAAAAAAAH00/gM_d6FInXxAQhKeRggaiKR_i-putnpGXACLcBGAs/s1600/Canal%2BLa%2BMetro%2BTV%2Bhonduras.png" group-title="HONDURAS", 457 | Metro TV || HONDURAS
+#EXTINF:-1 tvg-id="HN | Metro TV" tvg-name="HN | Metro TV" channelId="458" tvg-logo="https://1.bp.blogspot.com/-6gQWDOzqUHU/XQo-_-umYGI/AAAAAAAAH00/gM_d6FInXxAQhKeRggaiKR_i-putnpGXACLcBGAs/s1600/Canal%2BLa%2BMetro%2BTV%2Bhonduras.png" group-title="HONDURAS", 458 | Metro TV || HONDURAS
 https://emisoras.hn:8081/metrotv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="HN | Todo Deportes TV" tvg-name="HN | Todo Deportes TV" channelId="458" tvg-logo="https://dd7tel2830j4w.cloudfront.net/f1560359694028x167785582725733730/Group%2012.svg" group-title="HONDURAS", 458 | TDTV || HONDURAS
+#EXTINF:-1 tvg-id="HN | Todo Deportes TV" tvg-name="HN | Todo Deportes TV" channelId="459" tvg-logo="https://dd7tel2830j4w.cloudfront.net/f1560359694028x167785582725733730/Group%2012.svg" group-title="HONDURAS", 459 | TDTV || HONDURAS
 https://5ca39be538307.streamlock.net/tododeportesplus/smil:tododeportesplus.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDIyIDExOjM5OjI0IFBNJmhhc2hfdmFsdWU9OWFkSS9vNUFWSXpGNEE4U3FJajlOUT09JnZhbGlkbWludXRlcz0zNjAwJmlkPQ==
-#EXTINF:-1 tvg-id="USA | Sercano TV" tvg-name="USA | Sercano TV" channelId="459" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/Sercano-TV-en-vivo-Online-100x70.png" group-title="NOTICIAS E INFORMACION", 459 | Servicio Centroamericano de Noticias
+#EXTINF:-1 tvg-id="USA | Sercano TV" tvg-name="USA | Sercano TV" channelId="460" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/Sercano-TV-en-vivo-Online-100x70.png" group-title="NOTICIAS E INFORMACION", 460 | Servicio Centroamericano de Noticias
 http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/chunklist_w1521447717_b1248000.m3u8
-#EXTINF:-1 tvg-id="GT | Canal 3" tvg-name="GT | Canal 3" channelId="460" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Canal3.png/200px-Canal3.png" group-title="GUATEMALA", 460 | Canal 3 el super canal || GUATEMALA
+#EXTINF:-1 tvg-id="GT | Canal 3" tvg-name="GT | Canal 3" channelId="461" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Canal3.png/200px-Canal3.png" group-title="GUATEMALA", 461 | Canal 3 el super canal || GUATEMALA
 https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal3.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="GT | Televisiete" tvg-name="GT | Televisiete" channelId="461" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Televisiete.png/200px-Televisiete.png" group-title="GUATEMALA", 461 | Televisiete || GUATEMALA
-https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal7.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="GT | Teleonce" tvg-name="GT | Teleonce" channelId="462" tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-11-guatemala_m.png" group-title="GUATEMALA", 462 | Teleonce || GUATEMALA
+#EXTINF:-1 tvg-id="GT | Televisiete" tvg-name="GT | Televisiete" channelId="462" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Televisiete.png/200px-Televisiete.png" group-title="GUATEMALA", 462 | Televisiete || GUATEMALA
+http://190.4.0.200:3333/play/a02p/index.m3u8
+#EXTINF:-1 tvg-id="GT | Teleonce" tvg-name="GT | Teleonce" channelId="463" tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-11-guatemala_m.png" group-title="GUATEMALA", 463 | Teleonce || GUATEMALA
 https://tunelive.net:3733/stream/play.m3u8
-#EXTINF:-1 tvg-id="GT | Trecevision" tvg-name="GT | Trecevision" channelId="463" tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-13-guatemala_m.png" group-title="GUATEMALA", 463 | Trecevisión || GUATEMALA
+#EXTINF:-1 tvg-id="GT | Trecevision" tvg-name="GT | Trecevision" channelId="464" tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-13-guatemala_m.png" group-title="GUATEMALA", 464 | Trecevisión || GUATEMALA
 https://tunelive.net:3520/stream/play.m3u8
-#EXTINF:-1 tvg-id="GT | TN 23" tvg-name="GT | TN 23" channelId="464" tvg-logo="https://www.chapintv.com/wp-content/uploads/2020/10/tn23-logo-sin-fondo.png" group-title="GUATEMALA", 464 | TN 23 || GUATEMALA
+#EXTINF:-1 tvg-id="GT | TN 23" tvg-name="GT | TN 23" channelId="465" tvg-logo="https://www.chapintv.com/wp-content/uploads/2020/10/tn23-logo-sin-fondo.png" group-title="GUATEMALA", 465 | TN 23 || GUATEMALA
 https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal23.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="GT | Guatevisión" tvg-name="GT | Guatevisión" channelId="465" tvg-logo="https://www.guatevision.com/wp-content/uploads/sites/2/2019/09/logo-1.png?quality=82" group-title="GUATEMALA", 465 | Guatevisión || GUATEMALA
+#EXTINF:-1 tvg-id="GT | Guatevisión" tvg-name="GT | Guatevisión" channelId="466" tvg-logo="https://www.guatevision.com/wp-content/uploads/sites/2/2019/09/logo-1.png?quality=82" group-title="GUATEMALA", 466 | Guatevisión || GUATEMALA
 http://190.4.0.200:3333/play/a018/index.m3u8
-#EXTINF:-1 tvg-id="GT | TV Azteca Guatemala" tvg-name="GT | TV Azteca Guatemala" channelId="466" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Azteca_Guate_2017.png/200px-Azteca_Guate_2017.png" group-title="GUATEMALA", 466 | TV Azteca Guate || GUATEMALA
+#EXTINF:-1 tvg-id="GT | TV Azteca Guatemala" tvg-name="GT | TV Azteca Guatemala" channelId="467" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Azteca_Guate_2017.png/200px-Azteca_Guate_2017.png" group-title="GUATEMALA", 467 | TV Azteca Guate || GUATEMALA
 https://tunelive.net:3196/stream/play.m3u8
-#EXTINF:-1 tvg-id="GT | TV Usac" tvg-name="GT | TV Usac" channelId="467" tvg-logo="http://www.tvusac.com/wp-content/uploads/2015/07/logo-usac.jpg" group-title="GUATEMALA", 467 | TV Usac || GUATEMALA
+#EXTINF:-1 tvg-id="GT | TV Usac" tvg-name="GT | TV Usac" channelId="468" tvg-logo="http://www.tvusac.com/wp-content/uploads/2015/07/logo-usac.jpg" group-title="GUATEMALA", 468 | TV Usac || GUATEMALA
 https://5e50264bd6766.streamlock.net/tvusac/videotvusac/chunklist_w1665693663.m3u8
-#EXTINF:-1 tvg-id="GT | Canal Antigua" tvg-name="GT | Canal Antigua" channelId="468" tvg-logo="https://i2.wp.com/canalantigua.tv/wp-content/uploads/2020/12/cropped-cropped-544-x-180-logo-300x99-1.png?fit=300%2C99&ssl=1" group-title="GUATEMALA", 468 | Canal Antigua || GUATEMALA
+#EXTINF:-1 tvg-id="GT | Canal Antigua" tvg-name="GT | Canal Antigua" channelId="469" tvg-logo="https://i2.wp.com/canalantigua.tv/wp-content/uploads/2020/12/cropped-cropped-544-x-180-logo-300x99-1.png?fit=300%2C99&ssl=1" group-title="GUATEMALA", 469 | Canal Antigua || GUATEMALA
 http://51.161.12.229:1935/CanalAntigua/myStream/chunklist_w1313531480.m3u8
-#EXTINF:-1 tvg-id="GT | Canal de Gobierno" tvg-name="GT | Canal de Gobierno" channelId="469" tvg-logo="https://yt3.ggpht.com/S0Rl6XZ8uM_8HKP903XpkVB7sCiHP9SglDySENtaAUF4mDH4jZy6HstuVA-qgJryYrVdarFiLA=s900-c-k-c0x00ffffff-no-rj" group-title="GUATEMALA", 469 | Canal de Gobierno || GUATEMALA
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CqQFULfzJ2zfKTu4cN0XUSLblCyAnTJCWVv4r_uetIouMYT9qjHxI6X7FCDBv0B09UkIdwPoA6eOqWQmBTIk3IVyi1t4QOHwBJnyEqLNYfyjuuo0O9NKvC6wXzmmP4K8j7KPqzfJBffucZh2U8duIq137g2rMkgjDfFBT-EzTGXDAxe1RES4r2V_OaN1RQJay1xFmSOOmsBoI5Y19IJC3j_CixxQwpdfCcVm2B27LdctTuI_AbO2mPpC04B5GP_a9Gk2cub0UXu8xhOxeow_3Jxni3AA32_PXQzL41HcEBBPV37IyP9F-lExdyT-SjkLCfTbJ0g5xuv5ezaucCMTSkm7jNF6xUHrcbCz1dfM8dcSbVAjZdj4OBmIioR_WHllyQsUI0KtMO5sTXspUxUUCaKPhqvxvtBVaQ62Re2umsCbW0ucOhNlHhyqiAODpOL3EcpBRWDJS8F1NujUEBCMLrE93j3MWWQnFbJF6NL7R8iy0hpkRfbotjVJ3Pm5KzOEaBU1yQ0PYpH4m0RuShSeEnjn62KozKUuiwHHIpTT51JNiwCgsM1wtGSzzewwTA9_MnZAYWoz6l3uf1AgnmSlVnM_Nb9Of4PSdaBE-pvvgwEGOPulKFTYVT7sWZQA6qI_SakpzupprtUYhNjXasaE-hrrmymQ0FVu8R6RNh0Ysi7oM2kUHPPHXStvxu3HtK_EyVDGImD-m4zyPDRrL90x6a_r8AOsDSKm6cccgXxbXXP_qzhZnKNZ_PXJfd-2SRqJCwBO3ilVkHHCuJot1EpFlWqAJLXzjlJr9V6DP-b_baB5jdpMBNRZMkDMK16lFuz1GarxKyIVR8Jn-u4Kl6MhA4A2leggEVxD06EfghLub2IGOy61uaQ3pmmiD2xeAHzTkPECJFgHJxoMBbNBcrtR3d37ybLHIAEqCWV1LXdlc3QtMjDhAg.m3u8
 #EXTINF:-1 tvg-id="GT | TVS Retro" tvg-name="GT | TVS Retro" channelId="470" tvg-logo="https://static.wixstatic.com/media/7acae1_cedb3160f2f54e378f9990c5a5a49a1d~mv2.png" group-title="GUATEMALA", 470 | TVS Retro || GUATEMALA
 http://tv.streamgt.tk:25461/playgt/123456/4
 #EXTINF:-1 tvg-id="GT | Telemaya" tvg-name="GT |Telemaya" channelId="471" tvg-logo="https://www.telemaya.com/images/logo.png" group-title="GUATEMALA", 471 | Telemaya || GUATEMALA
