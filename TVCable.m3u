@@ -299,6 +299,8 @@ https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 http://190.4.0.200:3333/play/a01v/index.m3u8
 #EXTINF:-1 tvg-id="USA | CNN Internacional" tvg-name="USA | CNN Internacional" channelId="138" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/150px-CNN_International_logo.svg.png" group-title="INTERNACIONALES", 138 | CNN Internacional
 http://live.cdn.comteco.com.bo/comgo/0301/index.m3u8
+#EXTINF:-1 tvg-id="USA | CNN Brasil" tvg-name="USA | CNN Brasil" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/200px-CNN_Brasil.svg.png" group-title="INTERNACIONALES", En prueba | CNN Brasil
+http://neonp2p.com:8080/live/reginaldo123/123reginaldo/856490.m3u8
 #EXTINF:-1 tvg-id="IRN | HispanTV" tvg-name="IRN | HispanTV" channelId="139" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/245px-HispanTv_logo.svg.png" group-title="NOTICIAS E INFORMACION", 139 | HispanTV
 https://live.presstv.ir/live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FR | TV5Monde" tvg-name="FR | TV5Monde" channelId="140" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/TV5_Monde_%282009-%29.svg/250px-TV5_Monde_%282009-%29.svg.png" group-title="NOTICIAS E INFORMACION", 140 | TV5Monde
@@ -307,15 +309,15 @@ http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusin
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="CO | Nuestra Tele Noticias 24" tvg-name="CO | Nuestra Tele Noticias 24" channelId="142" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NTN24_logo.svg/245px-NTN24_logo.svg.png" group-title="NOTICIAS E INFORMACION", 142 | NTN 24
 https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlyPqhS7WCSn2HTc9A1-h_KU)/dm/3/x7w4okl/s/live-1.m3u8
-#EXTINF:-1 tvg-id="CO | Cablenoticias" tvg-name="CO | Cablenoticias" channelId="En prueba" tvg-logo="" group-title="NOTICIAS E INFORMACION", En prueba | Cablenoticias
+#EXTINF:-1 tvg-id="CO | Cablenoticias" tvg-name="CO | Cablenoticias" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/175px-Cable_Noticias_logo.svg.png" group-title="NOTICIAS E INFORMACION", En prueba | Cablenoticias
 http://tvbross.com:8090/live/Jhon/Jhon123/18912.m3u8
 #EXTINF:-1 tvg-id="USA | BBC World News" tvg-name="USA | BBC World News" channelId="143" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/150px-BBC_World_News_2019.svg.png" group-title="INTERNACIONALES", 143 | BBC World News
 http://190.4.0.200:3333/play/a01w/index.m3u8
 #EXTINF:-1 tvg-id="VE | Globovisión" tvg-name="VE | Globovisión" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo-Globovisi%C3%B3n.png/140px-Logo-Globovisi%C3%B3n.png" group-title="NOTICIAS E INFORMACION", En prueba | Globovisión
 http://tv.dominiotv.xyz:25461/cliente212a/jdkdowjnd/88004
-#EXTINF:-1 tvg-id="USA | TVE" tvg-name="USA | TVE" channelId="144" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/220px-TVE.svg.png" group-title="INTERNACIONALES", 144 | Televisión Española (TVE)
+#EXTINF:-1 tvg-id="ESP | TVE" tvg-name="ESP | TVE" channelId="144" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/220px-TVE.svg.png" group-title="INTERNACIONALES", 144 | Televisión Española (TVE)
 http://190.4.0.200:3333/play/a038/index.m3u8
-#EXTINF:-1 tvg-id="ES | 24 Horas tve" tvg-name="ES | 24 horas tve" channelId="145" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/125px-Logo_TVE-24h.svg.png" group-title="NOTICIAS E INFORMACION", 145 | 24 horas tve
+#EXTINF:-1 tvg-id="ESP | 24 Horas tve" tvg-name="ESP | 24 horas tve" channelId="145" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/125px-Logo_TVE-24h.svg.png" group-title="NOTICIAS E INFORMACION", 145 | 24 horas tve
 https://rtvelivestreamv3.akamaized.net/24h/24h_main_576.m3u8
 #EXTINF:-1 tvg-id="USA | Más Chic" tvg-name="USA | Más Chic" channelId="146" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/125px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" group-title="ESTILOS DE VIDA", 146 | Más Chic
 http://190.4.0.200:3333/play/a00f/index.m3u8
@@ -391,6 +393,12 @@ http://190.4.0.200:3333/play/a00r/index.m3u8
 http://190.4.0.200:3333/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="MX | Afizzionados" tvg-name="MX | Afizzionados" channelId="181" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/245px-Afizzionados_Logo.svg.png" group-title="DEPORTES", 181 | Afizzionados TV
 https://tunelive.net:3569/stream/play.m3u8
+#EXTINF:-1 tvg-id="PE | Gol Perú" tvg-name="PE | Gol Perú" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/245px-Gol_Per%C3%BA_2019.svg.png" group-title="DEPORTES", En prueba | Gol Perú
+http://tv.dominiotv.xyz:25461/cliente212a/jdkdowjnd/52548
+#EXTINF:-1 tvg-id="UY | VTV" tvg-name="UY | VTV" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/230px-Logo_VTV_nuevo.png" group-title="DEPORTES", En prueba | VTV || URUGUAY
+http://tvbross.com:8090/live/Jhon/Jhon123/2346.m3u8
+#EXTINF:-1 tvg-id="UY | VTV Plus" tvg-name="UY | VTV Plus" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_VTV_Plus_nuevo.png/245px-Logo_VTV_Plus_nuevo.png" group-title="DEPORTES", En prueba | VTV Plus || URUGUAY
+http://tvbross.com:8090/live/Jhon/Jhon123/1202.m3u8
 #EXTINF:-1 tvg-id="CL | Portal Foxmix" tvg-name="CL | Portal Foxmix" channelId="182" tvg-logo="http://www.portalfoxmix.cl/web/wp-content/uploads/2016/03/logoPFM.png" group-title="MUSICA Y REALITIES", 182 | Portal Foxmix TV
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w838953193.m3u8
 #EXTINF:-1 tvg-id="CO | Mi Gente TV" tvg-name="CO | Mi Gente TV" channelId="183" tvg-logo="https://www.migente-tv.com/wp-content/uploads/2015/04/logo_migente2015.png" group-title="MUSICA Y REALITIES", 183 | Mi Gente TV
@@ -479,15 +487,17 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYWORLD/40-hls/live-me
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ANIMALPLANET/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DANIMALPLANET_stream_2n&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D187806519&_cdn_session=127073355&_cdn_timestamp=1642188492&_cdn_token=82d5127185ceac09a8c9b9842e0bed8af0bae0a3
 #EXTINF:-1 tvg-id="USA | National Geographic" tvg-name="USA | National Geographic" channelId="214" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png" group-title="CULTURA Y EDUCACION", 214 | National Geographic
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/NATGEO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNATGEO_stream_17&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D187806519&_cdn_session=127073419&_cdn_timestamp=1642188508&_cdn_token=681542fdd7a9f1762c5c201dc9462337d5e20ad2
-#EXTINF:-1 tvg-id="USA | National Geographic" tvg-name="USA | National Geographic" channelId="214.2" tvg-logo="https://www.nationalgeographic.com.es/Content/img/logo-ng18-big.svg" group-title="CULTURA Y EDUCACION", 214.2 | National Geographic || España
-http://localhd.tv:8080/live/anto2b/AEMkgjuKkh/3144.m3u8
+#EXTINF:-1 tvg-id="ESP | National Geographic" tvg-name="ESP | National Geographic" channelId="214.2" tvg-logo="https://www.nationalgeographic.com.es/Content/img/logo-ng18-big.svg" group-title="CULTURA Y EDUCACION", 214.2 | National Geographic || España
+http://localhd.tv:8080/live/anto2b/AEMkgjuKkh/3145.m3u8
 #EXTINF:-1 tvg-id="USA | Natgeo Wild" tvg-name="USA | Natgeo Wild" channelId="215" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/175px-National_Geographic_Wild_logo.svg.png" group-title="CULTURA Y EDUCACION", 215 | Natgeo Wild
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/NATGEOWILD/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNATGEOWILD_stream_9w&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D187806519&_cdn_session=127073483&_cdn_timestamp=1642188524&_cdn_token=43d46aeebad7c5c04fce2fe1a4fafbed5b889438
-#EXTINF:-1 tvg-id="RUS | Natgeo Wild Rusia" tvg-name="RUS | Natgeo Wild Rusia" channelId="215.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/220px-Logo_Nat_Geo_Wild.svg.png" group-title="CULTURA Y EDUCACION", 215.2 | Natgeo Wild || Rusia
+#EXTINF:-1 tvg-id="ESP | Natgeo Wild" tvg-name="ESP | Natgeo Wild" channelId="215.2" tvg-logo="https://cdn.mitvstatic.com/channels/co_nat-geo-wild_m.png" group-title="CULTURA Y EDUCACION", 215.2 | Natgeo Wild || España
+http://localhd.tv:8080/live/anto2b/AEMkgjuKkh/3144.m3u8
+#EXTINF:-1 tvg-id="RUS | Natgeo Wild" tvg-name="RUS | Natgeo Wild" channelId="215.3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/220px-Logo_Nat_Geo_Wild.svg.png" group-title="CULTURA Y EDUCACION", 215.3 | Natgeo Wild || Rusia
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
-#EXTINF:-1 tvg-id="USA | History" tvg-name="USA | History" channelId="216" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/100px-History_Logo.svg.png" group-title="CULTURA Y EDUCACION", 216 | History || España
+#EXTINF:-1 tvg-id="USA | History" tvg-name="USA | History" channelId="216" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/100px-History_Logo.svg.png" group-title="CULTURA Y EDUCACION", 216 | History
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/HISTORY1/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHISTORYCHANNEL_stream_2w&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D187806519&_cdn_session=127073675&_cdn_timestamp=1642188569&_cdn_token=1bf753b5e8f9c248cf02e1ba768e5d13e30cc77c
-#EXTINF:-1 tvg-id="USA | Historia" tvg-name="USA | Historia" channelId="216.2" tvg-logo="https://canalhistoria.es/wp-content/themes/canal-historia/img/logo-canalhistoria.png" group-title="CULTURA Y EDUCACION", 216.2 | Historia
+#EXTINF:-1 tvg-id="USA | Historia" tvg-name="USA | Historia" channelId="216.2" tvg-logo="https://canalhistoria.es/wp-content/themes/canal-historia/img/logo-canalhistoria.png" group-title="CULTURA Y EDUCACION", 216.2 | Historia || España
 http://localhd.tv:8080/live/anto2b/AEMkgjuKkh/3929.m3u8
 #EXTINF:-1 tvg-id="USA | History 2" tvg-name="USA | History 2" channelId="217" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png" group-title="CULTURA Y EDUCACION", 217 | History 2
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/HISTORYCH2/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHISTORYCH2_stream_z0&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D187806519&_cdn_session=127073651&_cdn_timestamp=1642188562&_cdn_token=592370872b140b92812d3ebfcce35d1655c5bcc7
@@ -843,7 +853,19 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist.m3u8
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 #EXTINF:-1 tvg-id="AR | Información Periodística TV" tvg-name="AR | Información Periodística TV" channelId="383" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Informaci%C3%B3n_Period%C3%ADstica_IP_Logo.svg/260px-Informaci%C3%B3n_Period%C3%ADstica_IP_Logo.svg.png" group-title="ARGENTINA", 383 | Información Periodística TV || ARGENTINA
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
-#EXTINF:-1 tvg-id="UR | UCL TV" tvg-name="UR | UCL TV" channelId="384" tvg-logo="https://www.ucltelevision.com/wp-content/uploads/2021/04/cropped-Logo-UCL-TV-LATAM-horizontal-132x65.png" group-title="URUGUAY", 384 | Un Canal Latinoamericano TV || URUGUAY
+#EXTINF:-1 tvg-id="UY | Canal 4" tvg-name="UY | Canal 4" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Canal4_uy.png/150px-Canal4_uy.png" group-title="URUGUAY", En prueba | Canal 4 || URUGUAY
+http://tvbross.com:8090/live/Jhon/Jhon123/1199.m3u8
+#EXTINF:-1 tvg-id="UY | TV Ciudad" tvg-name="UY | TV Ciudad" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TVCiudad_logo_2020.png/140px-TVCiudad_logo_2020.png" group-title="URUGUAY", En prueba | TV Ciudad || URUGUAY
+http://tvbross.com:8090/live/Jhon/Jhon123/2347.m3u8
+#EXTINF:-1 tvg-id="UY | Canal 10" tvg-name="UY | Canal 10" channelId="En prueba" tvg-logo="https://static.wikia.nocookie.net/mediosuruguay/images/0/07/Canal_10_-_2006_%28Acortado%29.png/revision/latest/scale-to-width-down/350?cb=20210228102639&path-prefix=es" group-title="URUGUAY", En prueba | Canal 10 || URUGUAY
+http://tvbross.com:8090/live/Jhon/Jhon123/2344.m3u8
+#EXTINF:-1 tvg-id="UY | Canal Once" tvg-name="UY | Canal Once" channelId="En prueba" tvg-logo="https://scontent.ftru4-2.fna.fbcdn.net/v/t39.30808-6/271945107_10159738404973571_6466032848749281387_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeEJjuAbe2oMbPKE-a_dObfGEV1hDtGlb2gRXWEO0aVvaOxDe0wzUqKadTOktCy4Wlw&_nc_ohc=9fz5DvDOxZEAX9uuxeS&_nc_zt=23&_nc_ht=scontent.ftru4-2.fna&oh=00_AT9wimoPm7u0jsDTvuTJNrReIijzNeEOb6iCnu-LgqpUKQ&oe=61E66038" group-title="URUGUAY", En prueba | Canal Once || URUGUAY
+http://tvbross.com:8090/live/Jhon/Jhon123/1934.m3u8
+#EXTINF:-1 tvg-id="UY | Teledoce" tvg-name="UY | Teledoce" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/LogoTeledoce2019Azul.png" group-title="URUGUAY", En prueba | Teledoce || URUGUAY
+http://tvbross.com:8090/live/Jhon/Jhon123/2345.m3u8
+#EXTINF:-1 tvg-id="UY | La Red" tvg-name="UY | La Red" channelId="En prueba" tvg-logo="http://www.redtv.com.uy/wp-content/uploads/2019/10/logoheader2.png" group-title="URUGUAY", En prueba | La Red || URUGUAY
+https://stmv1.srvif.com/laredtv/laredtv/chunklist_w1599297465.m3u8
+#EXTINF:-1 tvg-id="UY | UCL TV" tvg-name="UY | UCL TV" channelId="384" tvg-logo="https://www.ucltelevision.com/wp-content/uploads/2021/04/cropped-Logo-UCL-TV-LATAM-horizontal-132x65.png" group-title="URUGUAY", 384 | Un Canal Latinoamericano TV || URUGUAY
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 tvg-id="PY | Unicanal" tvg-name="PY | Unicanal" channelId="385" tvg-logo="http://www.unicanal.com.py/public/img/LogoUnicanal452x70.png" group-title="PARAGUAY", 385 | Unicanal || PARAGUAY
 http://45.55.127.106/live/unicanal_mid.m3u8
