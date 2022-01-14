@@ -546,7 +546,7 @@ https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | USMP TV" tvg-name="PE | USMP TV" channelId="248" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/USMP_TV_2017.svg/revision/latest/scale-to-width-down/56?cb=20210504214359&path-prefix=es" group-title="REGIONALES", 248 | USMP Televisión || Lima
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/USMPTV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUSMPTV_stream_61&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D187806519&_cdn_session=127073851&_cdn_timestamp=1642188613&_cdn_token=e9aca1fc4ed96852be5bc62fca80da0d54f9601c
 #EXTINF:-1 tvg-id="PE | Conectad2" tvg-name="PE | Conectad2" channelId="249" tvg-logo="https://conecta2peru.com/wp-content/uploads/2020/04/logo.png" group-title="REGIONALES", 249 | Conectad2 Televisión || Lima
-https://mediastreamm.com:3528/live/conect2tvlive.m3u8
+https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:-1 tvg-id="PE | Un Canal Inteligente Noticias" tvg-name="PE | Un Canal Inteligente Noticias" channelId="250" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/UCI_Un_Canal_Inteligente.jpg/600px-UCI_Un_Canal_Inteligente.jpg" group-title="REGIONALES", 250 | UCI Noticias Televisión || Lima
 https://mediastreamm.com:3449/live/mlecaroslive.m3u8
 #EXTINF:-1 tvg-id="PE | Best Cable TV" tvg-name="PE | Best Cable TV" channelId="251" tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png" group-title="REGIONALES", 251 | Best Cable Televisión || Lima
@@ -625,7 +625,7 @@ https://panel.streamingtv-mediacp.online:1936/kdlrqjcp/kdlrqjcp/playlist.m3u8
 http://v4.tustreaming.cl/quillavision/index.m3u8
 #EXTINF:-1 tvg-id="PE | Andes TV" tvg-name="PE | Andes TV" channelId="288" tvg-logo="https://radiosicuani.com/wp-content/uploads/2020/11/logo-tv.png" group-title="REGIONALES", 288 | Andes Televisión || Sicuani
 https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/chunklist_w497662503.m3u8
-#EXTINF:-1 tvg-id="PE | Tropical TV" tvg-name="PE | Tropical TV" channelId="289" tvg-logo="https://scontent.ftru4-2.fna.fbcdn.net/v/t39.30808-6/263599919_10159655678833571_6126780683315586113_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeG8Vf9uEVSoX-TcP2jp2SOn2q4DdglKjPDargN2CUqM8ILG413uAO4UuepCWZxAAD8&_nc_ohc=PgsKdjW0nrUAX9HuAXU&tn=1VPbtj1z8DdSmoLx&_nc_zt=23&_nc_ht=scontent.ftru4-2.fna&oh=00_AT8k-smBbNtoQ681aBzKpDJYtUtXmzyAscqBz5voSKDrdw&oe=61E08078" group-title="REGIONALES", 289 | Tropical TV || Puerto Maldonado
+#EXTINF:-1 tvg-id="PE | Tropical TV" tvg-name="PE | Tropical TV" channelId="289" tvg-logo="https://scontent.ftru4-2.fna.fbcdn.net/v/t39.30808-6/263599919_10159655678833571_6126780683315586113_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeG8Vf9uEVSoX-TcP2jp2SOn2q4DdglKjPDargN2CUqM8ILG413uAO4UuepCWZxAAD8&_nc_ohc=h6Cvj24lxeYAX9vH2X_&tn=1VPbtj1z8DdSmoLx&_nc_zt=23&_nc_ht=scontent.ftru4-2.fna&oh=00_AT9mlef0R0uNh9JKaXjMYsvO4qV0uBoMh-FaQylFW4De1w&oe=61E66F38" group-title="REGIONALES", 289 | Tropical TV || Puerto Maldonado
 https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Quatro TV" tvg-name="PE | Quatro TV" channelId="290" tvg-logo="http://tv.10dailythings.com/images/channels/PE/quattro-tv-720p-not-247/normal.png" group-title="REGIONALES", 290 | Quatro Televisión || Arequipa
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/quatrotvgo
@@ -635,6 +635,8 @@ https://media2.cdnlayer.biz:8081/8008/index.m3u8
 https://tv.portalexpress.es:3270/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="PE | Canal Sur" tvg-name="PE | Canal Sur" channelId="293" tvg-logo="https://graph.facebook.com/surtvilo/picture?width=320&height=320" group-title="REGIONALES", 293 | Canal Sur || Ilo
 https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8
+#EXTINF:-1 tvg-id="EC | Gamavisión" tvg-name="EC | Gamavisión" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ECUADOR", En prueba | Gamavisión || ECUADOR
+http://tvbross.com:8090/live/Jhon/Jhon123/9.m3u8
 #EXTINF:-1 tvg-id="EC | Teleamazonas" tvg-name="EC | Teleamazonas" channelId="294" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/150px-Teleamazonas_Logo.png" group-title="ECUADOR", 294 | Teleamazonas || ECUADOR
 http://tvbross.com:8090/live/Jhon/Jhon123/6.m3u8
 #EXTINF:-1 tvg-id="EC | Televicentro" tvg-name="EC | Televicentro" channelId="295" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/TVCEC.png/150px-TVCEC.png" group-title="ECUADOR", 295 | TVC || ECUADOR
@@ -643,12 +645,12 @@ https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/playlist.m3u8?iut=eyJwYXJhbX
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ECUADORTV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DECUADORTV_stream_wj&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D187806519&_cdn_session=127072587&_cdn_timestamp=1642188307&_cdn_token=fff1d461f7748f39f57c10a62b92fbf7cf3dbad6
 #EXTINF:-1 tvg-id="EC | Ecuavisa" tvg-name="EC | Ecuavisa" channelId="297" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/200px-Ecuavisa_Logo_2019.png" group-title="ECUADOR", 297 | Ecuavisa || ECUADOR
 http://tvbross.com:8090/live/Jhon/Jhon123/3.m3u8
-#EXTINF:-1 tvg-id="EC | Ecuavisa Guayaquil" tvg-name="EC | Ecuavisa Guayaquil" channelId="297.2" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/72475322359315.5631191190494.jpg" group-title="ECUADOR", 297.2 | Ecuavisa Guayaquil || ECUADOR
+#EXTINF:-1 tvg-id="EC | Ecuavisa Internacional" tvg-name="EC | Ecuavisa Internacional" channelId="297.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ecuavisa_Internacional-C.svg/200px-Ecuavisa_Internacional-C.svg.png" group-title="ECUADOR", 297.2 | Ecuavisa Internacional || ECUADOR
 http://tvbross.com:8090/live/Jhon/Jhon123/29181.m3u8
-#EXTINF:-1 tvg-id="EC | Ecuavisa Internacional" tvg-name="EC | Ecuavisa Internacional" channelId="297.3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ecuavisa_Internacional-C.svg/200px-Ecuavisa_Internacional-C.svg.png" group-title="ECUADOR", 297.3 | Ecuavisa Internacional || ECUADOR
-http://tvbross.com:8090/live/Jhon/Jhon123/29530.m3u8
 #EXTINF:-1 tvg-id="EC | Red Telesistema" tvg-name="EC | Red Telesistema" channelId="298" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/150px-Rts_logo.png" group-title="ECUADOR", 298 | RTS || ECUADOR
 https://ec-rts-guayaquil-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQyMjAzNDExLCJzZXNzaW9uIjoiMTkwLjIzNi4zMC4xODYiLCJ3aGl0ZWxpc3QiOlsiMTkwLjIzNi4zMC4xODYiXX0sInNpZ25hdHVyZSI6ImVjOGE1NmU4OWYxZTliYzQ1MzkxMGI5MDA0NGI2NWEyYTU3OTZkOGYifQ==
+#EXTINF:-1 tvg-id="EC | Televisora Central Ecuatoriana" tvg-name="EC | Telecentro" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png" group-title="ECUADOR", En prueba | TC Televisión || ECUADOR
+http://tvbross.com:8090/live/Jhon/Jhon123/12.m3u8
 #EXTINF:-1 tvg-id="EC | Oromar TV" tvg-name="EC | Oromar TV" channelId="299" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="ECUADOR", 299 | Oromar Televisión || ECUADOR
 http://tvbross.com:8090/live/Jhon/Jhon123/16.m3u8
 #EXTINF:-1 tvg-id="EC | Canela TV" tvg-name="EC | Canela TV" channelId="300" tvg-logo="https://web.canelatv.com/wp-content/uploads/2020/10/ki.gif" group-title="ECUADOR", 300 | Canela TV || ECUADOR
