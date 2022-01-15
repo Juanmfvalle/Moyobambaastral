@@ -19,20 +19,22 @@ https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 https://cdnh8.iblups.com/hls/irtp.m3u8
 #EXTINF:-1 tvg-id="PE | Identidad Peruana" tvg-name="PE | Identidad Peruana" channelId="7.4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/190px-Identidad_Peruana_ipe_2020.png" group-title="PERU", 7.4 | IPE Televisión
 https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:-1 tvg-id="PE | Congreso TV" tvg-name="PE | Congreso TV" channelId="8" tvg-logo="https://comunicaciones.congreso.gob.pe/wpuploads/2021/02/logo-web-4.png" group-title="PERU", 8 | Congreso TV
+#EXTINF:-1 tvg-id="PE | Congreso TV" tvg-name="PE | Congreso TV" channelId="7.5" tvg-logo="https://comunicaciones.congreso.gob.pe/wpuploads/2021/02/logo-web-4.png" group-title="PERU", 7.5 | Congreso TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/congresodelarepublicadelper%C3%BAtvenvivo/live
+#EXTINF:-1 tvg-id="PE | Canal N" tvg-name="PE | Canal N" channelId="8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Canal_N_2021.png/245px-Canal_N_2021.png" group-title="PERU", 8 | Canal N
+http://tv.dominiotv.xyz:25461/cliente212a/jdkdowjnd/52540
 #EXTINF:-1 tvg-id="PE | Andina Televisión" tvg-name="PE | Andina Televisión" channelId="9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" group-title="PERU", 9 | ATV
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Andina Televisión Plus" tvg-name="PE | Andina Televisión Plus" channelId="9.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/175px-ATV%2B_logo_2020.png" group-title="PERU", 9.2 | ATV +
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Visión Noticias Perú" tvg-name="PE | Visión Noticias Perú" channelId="10" tvg-logo="https://www.vnp.pe/wp-content/uploads/2020/11/logo-vnp-color.png" group-title="PERU", 10 | VNP
 https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | TV Peruanísima" tvg-name="USA | TV Peruanísima" channelId="11" tvg-logo="http://tvperuanisima.com/wp-content/uploads/2021/07/cropped-Logo-150x113-1.png" group-title="PERU", 11 | TV Peruanísima
-http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
-#EXTINF:-1 tvg-id="BR | Perú Channel" tvg-name="BR | Perú Channel" channelId="11.2" tvg-logo="https://scontent.ftru4-2.fna.fbcdn.net/v/t1.6435-9/117672260_3353589131369959_8038235478379018869_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEJumx36NYsDAsUYjxUmS6ELmRj-JjF-wkuZGP4mMX7CQ5fp9aRLcqr9lL8wGGIcHc&_nc_ohc=cWnVaz7aHqEAX9wEUwx&_nc_ht=scontent.ftru4-2.fna&oh=00_AT_yPjsECqGul5JhzdPVNpi6UFyaslXRdcWCjFAItlXeZA&oe=61E463FB" group-title="PERU", 11.2 | Perú Channel
-https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Perú Mágico" tvg-name="USA | Perú Mágico" channelId="11.3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Peru_magico.png/200px-Peru_magico.png" group-title="PERU", 11.3 | Perú Mágico
+#EXTINF:-1 tvg-id="PE | Perú Mágico" tvg-name="PE | Perú Mágico" channelId="11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Peru_magico.png/200px-Peru_magico.png" group-title="PERU", 11 | Perú Mágico
 http://tv.dominiotv.xyz:25461/cliente212a/jdkdowjnd/52546
+#EXTINF:-1 tvg-id="USA | TV Peruanísima" tvg-name="USA | TV Peruanísima" channelId="11.2" tvg-logo="http://tvperuanisima.com/wp-content/uploads/2021/07/cropped-Logo-150x113-1.png" group-title="PERU", 11 | TV Peruanísima
+http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
+#EXTINF:-1 tvg-id="BR | Perú Channel" tvg-name="BR | Perú Channel" channelId="11.3" tvg-logo="https://scontent.ftru4-2.fna.fbcdn.net/v/t1.6435-9/117672260_3353589131369959_8038235478379018869_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEJumx36NYsDAsUYjxUmS6ELmRj-JjF-wkuZGP4mMX7CQ5fp9aRLcqr9lL8wGGIcHc&_nc_ohc=cWnVaz7aHqEAX9wEUwx&_nc_ht=scontent.ftru4-2.fna&oh=00_AT_yPjsECqGul5JhzdPVNpi6UFyaslXRdcWCjFAItlXeZA&oe=61E463FB" group-title="PERU", 11.3 | Perú Channel
+https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Onda Digital" tvg-name="PE | Onda Digital" channelId="12" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQRrS2R_HFcGI0RVqhw9IN02y3s05eq4oq10yZ5UQ=s88-c-k-c0x00ffffff-no-rj" group-title="PERU", 12 | Onda Digital Noticias
 https://ed1ov.live.opencaster.com/CwCfFGFdtebB/index.m3u8
 #EXTINF:-1 tvg-id="PE | Global Televisión" tvg-name="PE | Global Televisión" channelId="13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Global_TV_2019.png" group-title="PERU", 13 | Global Televisión
@@ -577,7 +579,7 @@ http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8
 #EXTINF:-1 tvg-id="PE | Matices TV" tvg-name="PE | Matices TV" channelId="259" tvg-logo="https://public-rf-upload.minhawebradio.net/166179/cover/e72fd4440cc8e2934c1c1bcd329ce9ec.png" group-title="REGIONALES", 259 | Matices TV || Cañete; Lima
 http://v4.tustreaming.cl/matices/index.m3u8
-#EXTINF:-1 tvg-id="PE | Central TV" tvg-name="PE | Central TV" channelId="260" tvg-logo="https://graph.facebook.com/CentralTVperuLima/picture?width=320&height=320" group-title="PERU", 260 | Central TV
+#EXTINF:-1 tvg-id="PE | Central TV" tvg-name="PE | Central TV" channelId="260" tvg-logo="https://graph.facebook.com/CentralTVperuLima/picture?width=320&height=320" group-title="REGIONALES", 260 | Central TV
 https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Hechicera TV" tvg-name="PE | Hechicera TV" channelId="261" tvg-logo="https://diariohechicera.com/wp-content/uploads/2021/08/NEWlogo_hechicera@2x.png" group-title="REGIONALES", 261 | Hechicera TV || Tumbes
 https://panel.streamingtv-mediacp.online:1936/8108/8108/chunklist_w1984112774.m3u8
