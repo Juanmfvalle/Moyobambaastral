@@ -13,11 +13,11 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-me
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/EXITOSATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DEXITOSATV_stream_o1&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D187806519&_cdn_session=127558475&_cdn_timestamp=1642330245&_cdn_token=102ed490822363656f26e3524fad57bf2aae7dbc
 #EXTINF:-1 tvg-id="PE | Television Nacional del Peru" tvg-name="PE | Televisión Nacional del Peru" channelId="7" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="PERU", 7 | TV Perú
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TVPERU/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVPERU_stream_p5&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D187806519&_cdn_session=127558531&_cdn_timestamp=1642330258&_cdn_token=000e035d99f6876c89922d29c4f64fe27e0f3ce7
-#EXTINF:-1 tvg-id="PE | Television Nacional del Peru - Noticias" tvg-name="PE | Television Nacional del Perú - Noticias" channelId="7.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/220px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="PERU", 7.2 | TV Perú Noticias
+#EXTINF:-1 tvg-id="PE | Television Nacional del Peru - Noticias" tvg-name="PE | Television Nacional del Perú - Noticias" channelId="7.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/220px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="NOTICIAS E INFORMACION", 7.2 | TV Perú Noticias
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1 tvg-id="PE | Television Nacional del Peru - Internacional" tvg-name="PE | Television Nacional del Perú - Internacional" channelId="7.3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/250px-TV_Per%C3%BA_Internacional_2019_-_copia.png" group-title="INTERNACIONALES", 7.3 | TV Perú Internacional
 https://cdnh8.iblups.com/hls/irtp.m3u8
-#EXTINF:-1 tvg-id="PE | Identidad Peruana" tvg-name="PE | Identidad Peruana" channelId="7.4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/190px-Identidad_Peruana_ipe_2020.png" group-title="PERU", 7.4 | IPE Televisión
+#EXTINF:-1 tvg-id="PE | Identidad Peruana" tvg-name="PE | Identidad Peruana" channelId="7.4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/190px-Identidad_Peruana_ipe_2020.png" group-title="INFANTILES", 7.4 | IPE Televisión
 https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-id="PE | Congreso TV" tvg-name="PE | Congreso TV" channelId="7.5" tvg-logo="https://comunicaciones.congreso.gob.pe/wpuploads/2021/02/logo-web-4.png" group-title="PERU", 7.5 | Congreso TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/congresodelarepublicadelper%C3%BAtvenvivo/live
@@ -31,7 +31,7 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
 https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Perú Mágico" tvg-name="PE | Perú Mágico" channelId="11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Peru_magico.png/200px-Peru_magico.png" group-title="PERU", 11 | Perú Mágico
 http://tv.dominiotv.xyz:25461/cliente212a/jdkdowjnd/52546
-#EXTINF:-1 tvg-id="USA | TV Peruanísima" tvg-name="USA | TV Peruanísima" channelId="11.2" tvg-logo="http://tvperuanisima.com/wp-content/uploads/2021/07/cropped-Logo-150x113-1.png" group-title="PERU", 11 | TV Peruanísima
+#EXTINF:-1 tvg-id="USA | TV Peruanísima" tvg-name="USA | TV Peruanísima" channelId="11.2" tvg-logo="http://tvperuanisima.com/wp-content/uploads/2021/07/cropped-Logo-150x113-1.png" group-title="PERU", 11.2 | TV Peruanísima
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
 #EXTINF:-1 tvg-id="BR | Perú Channel" tvg-name="BR | Perú Channel" channelId="11.3" tvg-logo="https://scontent.ftru4-2.fna.fbcdn.net/v/t1.6435-9/117672260_3353589131369959_8038235478379018869_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEJumx36NYsDAsUYjxUmS6ELmRj-JjF-wkuZGP4mMX7CQ5fp9aRLcqr9lL8wGGIcHc&_nc_ohc=cWnVaz7aHqEAX9wEUwx&_nc_ht=scontent.ftru4-2.fna&oh=00_AT_yPjsECqGul5JhzdPVNpi6UFyaslXRdcWCjFAItlXeZA&oe=61E463FB" group-title="PERU", 11.3 | Perú Channel
 https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
@@ -1223,6 +1223,8 @@ https://sonic.dattassd.com/8172/stream
 https://tampa.audio-stream.com/proxy/bethelra?mp=/stream
 #EXTINF:-1 tvg-id="PE | Radio Cumbia Mix" tvg-name="PE | Radio Cumbia Mix" channelId="568" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/mas-91-9.png" group-title="EMISORAS NACIONALES", 568 | Radio Cumbia Mix || Lima; Perú
 https://streaming.gometri.com/stream/8017/stream
+#EXTINF:-1 tvg-id="PE | Radio Internacional del Perú" tvg-name="PE | Radio Internacional del Perú" channelId="En prueba" tvg-logo="https://radiointernacionaldelperu.com/wp-content/uploads/2021/12/cropped-logo-riperu2.png" group-title="EMISORAS NACIONALES", En prueba | Radio Internacional del Perú || Lima; Perú
+https://node-03.zeno.fm/sd5dfgp4yg0uv?rj-ttl=5&rj-tok=AAABfl8IEBsA1hN8eLiCm9BwTg
 #EXTINF:-1 tvg-id="PE | Radio Besame" tvg-name="PE | Radio Besame" channelId="569" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/besame.png" group-title="EMISORAS NACIONALES", 569 | Radio Bésame || Lima; Perú
 http://167.114.118.120:7450/
 #EXTINF:-1 tvg-id="PE | Radio Z" tvg-name="PE | Radio Z" channelId="570" tvg-logo="http://i0.wp.com/www.radioz.pe/wp-content/uploads/2017/12/LOGO-EFECTO.png" group-title="EMISORAS NACIONALES", 570 | Radio Z Rock & Pop || Lima; Perú
