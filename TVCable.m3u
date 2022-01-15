@@ -616,7 +616,7 @@ https://stmv.panel.grupolimalive.com/gold/gold/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Sol Stereo TV" tvg-name="PE | Sol Stereo TV" channelId="278" tvg-logo="https://solstereo.pe/wp-content/uploads/2021/05/logoarriba-2-2-2.png" group-title="REGIONALES", 278 | Sol Stereo TV || Casma
 https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/chunklist_w1664357594.m3u8
 #EXTINF:-1 tvg-id="PE | Unitel" tvg-name="PE | Unitel" channelId="279" tvg-logo="https://scontent.ftru4-2.fna.fbcdn.net/v/t1.6435-9/69846540_2586487691373551_2583958123203002368_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFXWG3QlaJGDCVijaoDJJazj-alJw9Yl76P5qUnD1iXvpnKaQ3dRfxgwGbgf5ecDWE&_nc_ohc=8l1fjPOaKdwAX82kjpS&tn=1VPbtj1z8DdSmoLx&_nc_ht=scontent.ftru4-2.fna&oh=00_AT8swRGLXCc19dl3jEK2QzAJuzn5XpO4y5tY5KAyommGOw&oe=62022342" group-title="REGIONALES", 279 | Unitel || Huancayo
-https://cp.sradiotv.com:1936/8078/8078/playlist.m3u8
+https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/chunklist_w1365438001.m3u8
 #EXTINF:-1 tvg-id="PE | Cadena TV" tvg-name="PE | Cadena TV" channelId="280" tvg-logo="https://pbs.twimg.com/profile_images/1461034199645925378/uyjdr-7A_400x400.jpg" group-title="REGIONALES", 280 | Cadena TV || Huancayo
 https://tvdatta.com:3262/live/cadenatvlive.m3u8
 #EXTINF:-1 tvg-id="PE | Tele 2000" tvg-name="PE | Tele 2000" channelId="281" tvg-logo="https://tele2000.com.pe/wp-content/uploads/LOGO-WEB_168x168.png" group-title="REGIONALES", 281 | Tele 2000 || Huanta
@@ -828,7 +828,7 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TELEFE/20-hls/live-media.m3u8
 #EXTINF:-1 tvg-id="AR | Telefe Rosario" tvg-name="AR | Telefe Rosario" channelId="377.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/133px-Telefe_Rosario_%282018%29.png" group-title="ARGENTINA", 377.2 | Telefe Rosario || ARGENTINA
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="AR | El Nueve" tvg-name="AR | El Nueve" channelId="378" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Canal_9_2015.png/120px-Canal_9_2015.png" group-title="ARGENTINA", 378 | El Nueve || ARGENTINA
-https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/9f91b91d-9153-4492-a2ca-0539f065d418/5.m3u8
+https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/ec4b9bed-51d4-481b-8154-55ee0463ccb1/5.m3u8
 #EXTINF:-1 tvg-id="AR | El Trece" tvg-name="AR | El Trece" channelId="379" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/120px-Logo_de_eltrece_lanzado_en_2016.png" group-title="ARGENTINA", 379 | El Trece || ARGENTINA
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TRECEARGENTINA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRECEARGENTINA_stream_e4&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1828528010&_cdn_session=127442515&_cdn_timestamp=1642285870&_cdn_token=7e78649f0ae9c2c4b3b93d10f6462e58c46b1cbb
 #EXTINF:-1 tvg-id="AR | Argentinísima Satelital" tvg-name="AR | Argentinísima Satelital" channelId="380" tvg-logo="http://argentinisimatv.com.ar/wp-content/uploads/2017/09/LOGO-1.png" group-title="ARGENTINA", 380 | Argentinísima Satelital || ARGENTINA
@@ -1149,7 +1149,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MOD_SC
 https://18733.live.streamtheworld.com/CRP_MOD2_S01.mp3?csegid=1010&dist=1010&tdsdk=js-%40td&lat=-6&long=-77&pname=TDSdk&pversion=%40td&banners=300x250%2C728x90
 #EXTINF:-1 tvg-id="PE | Radio Onda Cero" tvg-name="PE | Radio Onda Cero" channelId="532" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Logo-Onda.jpg/225px-Logo-Onda.jpg" group-title="EMISORAS NACIONALES", 532 | Radio Onda Cero 98.1 FM y 1160 AM || Lima; Perú
 https://streaming.gometri.com/stream/8011/stream
-#EXTINF:-1 tvg-id="PE | Doble Nueve" tvg-name="PE | Radio Doble Nueve" channelId="533" tvg-logo="http://radiodoblenueve.com/wp-content/uploads/2019/11/cropped-LOGO-DOBLE-NUEVE.png" group-title="EMISORAS NACIONALES", 533 | Radio Doble Nueve 99.1 FM || Lima; Perú
+#EXTINF:-1 tvg-id="PE | Doble Nueve" tvg-name="PE | Radio Doble Nueve" channelId="533" tvg-logo="https://radiosperu.net/sites/default/files/styles/116_x_116/public/radio/logos/logo-radio-doble-nueve.png?itok=IC3yv-Om" group-title="EMISORAS NACIONALES", 533 | Radio Doble Nueve 99.1 FM || Lima; Perú
 http://149.56.241.147:8004/stream?icy=http
 #EXTINF:-1 tvg-id="PE | Radio Oasis" tvg-name="PE | Radio Oasis" channelId="534" tvg-logo="https://oasis.pe/assets/images/logo-radio-oasis.png" group-title="EMISORAS NACIONALES", 534 | Radio Oasis 100.1 FM || Lima; Perú
 http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_OAS_SC
