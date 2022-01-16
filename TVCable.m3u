@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="PE | Willax Television" tvg-name="PE | Willax Television" channelId="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Willax_Televisi%C3%B3n_2020.png/245px-Willax_Televisi%C3%B3n_2020.png" group-title="PERU", 1 | Willax Televisión
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/WILLAX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D187806519&_cdn_session=127963875&_cdn_timestamp=1642422183&_cdn_token=a415f70d5c7eddd09e06d5633e07225b6d5978d4
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/WILLAX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D187806519&_cdn_session=127964755&_cdn_timestamp=1642422438&_cdn_token=4298e8b315bfb9e2a3291b9e52eef5ad2b055446
 #EXTINF:-1 tvg-id="PE | Frecuencia Latina" tvg-name="PE | Frecuencia Latina" channelId="2" tvg-logo="https://www.latina.pe/wp-content/themes/genesis-latina/img/latina_pe.png" group-title="PERU", 2 | Latina Televisión
 https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8
 #EXTINF:-1 tvg-id="PE | Nacional TV" tvg-name="PE | Nacional TV" channelId="3" tvg-logo="https://scontent.ftru4-2.fna.fbcdn.net/v/t39.30808-6/243171553_103015872151021_5385284374300660725_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGISA8hyG0M9mvamu6NLGJNArrVyn7OS6UCutXKfs5LpV0gcbVoX6JhgrkEWH3R22o&_nc_ohc=JjIBbyq1SCwAX9lE1ir&_nc_zt=23&_nc_ht=scontent.ftru4-2.fna&oh=00_AT9lCWq2-YK-tLeeLqIT0VDtRMhv0iC5uzvBwVzJGmNi3g&oe=61E8952B" group-title="PERU", 3 | Nacional TV
@@ -894,7 +894,7 @@ https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/60580
 #EXTINF:-1 tvg-id="PA | SERTV" tvg-name="PA | SERTV" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Log_sertv-80-retina.png/150px-Log_sertv-80-retina.png" group-title="PANAMÁ", En prueba | SERTV || PANAMÁ
 http://tv.dominiotv.xyz:25461/live/cliente212a/jdkdowjnd/27665.m3u8
 #EXTINF:-1 tvg-id="PA | Telemetro" tvg-name="PA | Telemetro" channelId="394" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/150px-Logo-telemetro.svg.png" group-title="PANAMÁ", 394 | Telemetro || PANAMÁ
-https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
+http://tv.dominiotv.xyz:25461/live/cliente212a/jdkdowjnd/112355.m3u8
 #EXTINF:-1 tvg-id="PA | Mas 23" tvg-name="PA | Mas 23" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/M%C3%A1s_23.png/132px-M%C3%A1s_23.png" group-title="PANAMÁ", En prueba | Mas 23 || PANAMÁ
 http://tv.dominiotv.xyz:25461/live/cliente212a/jdkdowjnd/111627.m3u8
 #EXTINF:-1 tvg-id="PA | Nex" tvg-name="PA | Nex" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Nexnew.png/132px-Nexnew.png" group-title="PANAMÁ", En prueba | Nex || PANAMÁ
@@ -1033,6 +1033,12 @@ https://panel.dattalive.com/8122/8122/chunklist_w1401322809.m3u8
 https://emisoras.hn:8081/metrotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HN | Todo Deportes TV" tvg-name="HN | Todo Deportes TV" channelId="459" tvg-logo="https://dd7tel2830j4w.cloudfront.net/f1560359694028x167785582725733730/Group%2012.svg" group-title="HONDURAS", 459 | TDTV || HONDURAS
 https://5f2c1b0d880e5.streamlock.net/tododeportesplus/smil:tododeportesplus.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNi8yMDIyIDI6MzU6MjIgUE0maGFzaF92YWx1ZT1adVR4NFZQT09uNEl0WkZJY2puSDh3PT0mdmFsaWRtaW51dGVzPTM2MDAmaWQ9
+#EXTINF:-1 tvg-id="HN | Une TV" tvg-name="HN | Une TV" channelId="En prueba" tvg-logo="https://pbs.twimg.com/profile_images/817352279489712128/mdy2Fh0s_400x400.jpg" group-title="HONDURAS", En prueba | Une TV || HONDURAS
+http://playentertainmentpro.ddns.net:80/AlbertoGuaman/Alberto0105/18522.m3u8
+#EXTINF:-1 tvg-id="HN | Teleceiba" tvg-name="HN | Teleceiba" channelId="En prueba" tvg-logo="http://teleceiba.com/wp-content/uploads/2016/02/logo-teleceiba2016-hme.png" group-title="HONDURAS", En prueba | Teleceiba || HONDURAS
+http://playentertainmentpro.ddns.net:80/AlbertoGuaman/Alberto0105/68125.m3u8
+#EXTINF:-1 tvg-id="HN | Campus TV" tvg-name="HN | Campus TV" channelId="En prueba" tvg-logo="http://live.campushd.tv/wp-content/uploads/2019/05/logo-2.png" group-title="HONDURAS", En prueba | Campus Televisión || HONDURAS
+http://st2.worldkast.com/8004/8004/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Sercano TV" tvg-name="USA | Sercano TV" channelId="460" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/Sercano-TV-en-vivo-Online-100x70.png" group-title="NOTICIAS E INFORMACION", 460 | Servicio Centroamericano de Noticias
 http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/chunklist_w1521447717_b1248000.m3u8
 #EXTINF:-1 tvg-id="GT | Canal 3" tvg-name="GT | Canal 3" channelId="461" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Canal3.png/200px-Canal3.png" group-title="GUATEMALA", 461 | Canal 3 el super canal || GUATEMALA
