@@ -350,7 +350,7 @@ http://190.4.0.200:3333/play/a00t/index.m3u8
 #EXTINF:-1 tvg-id="USA | Food Network" tvg-name="USA | Food Network" channelId="158" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/150px-Food_Network_New_Logo.png" group-title="ESTILOS DE VIDA", 158 | Food Network
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOODNETWORK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOODNETWORK_stream_l5&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1828528010&_cdn_session=127736803&_cdn_timestamp=1642366827&_cdn_token=d7b0e3e2469f9085398fa3b4d51e362cbe17aa01
 #EXTINF:-1 tvg-id="EC | Inti TV" tvg-name="EC | Inti TV" channelId="159" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/INTI_Network_TV.png/600px-INTI_Network_TV.png" group-title="ESTILOS DE VIDA", 159 | Inti TV
-http://s846397078.mialojamiento.es/8276/inti.php/media_w2080291768_2093.m3u8
+http://s846397078.mialojamiento.es/3952/inti.php/chunklist_w528242799.m3u8
 #EXTINF:-1 tvg-id="USA | TLC" tvg-name="USA | TLC" channelId="160" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/150px-TLC_Logo.svg.png" group-title="ESTILOS DE VIDA", 160 | Travel & Living Channel
 http://190.4.0.200:3333/play/a033/index.m3u8
 #EXTINF:-1 tvg-id="USA | Discovery Home & Health" tvg-name="USA | Discovery Home & Health" channelId="161" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png" group-title="ESTILOS DE VIDA", 161 | Discovery Home & Health
@@ -832,7 +832,7 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TELEFE/20-hls/live-media.m3u8
 #EXTINF:-1 tvg-id="AR | Telefe Rosario" tvg-name="AR | Telefe Rosario" channelId="377.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/133px-Telefe_Rosario_%282018%29.png" group-title="ARGENTINA", 377.2 | Telefe Rosario || ARGENTINA
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="AR | El Nueve" tvg-name="AR | El Nueve" channelId="378" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Canal_9_2015.png/120px-Canal_9_2015.png" group-title="ARGENTINA", 378 | El Nueve || ARGENTINA
-https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/ec4b9bed-51d4-481b-8154-55ee0463ccb1/5.m3u8
+https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/a0e3c783-0b49-49ea-b3a0-dc2522fdfab1/5.m3u8
 #EXTINF:-1 tvg-id="AR | El Trece" tvg-name="AR | El Trece" channelId="379" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/120px-Logo_de_eltrece_lanzado_en_2016.png" group-title="INTERNACIONALES", 379 | El Trece || ARGENTINA
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TRECEARGENTINA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRECEARGENTINA_stream_e4&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1828528010&_cdn_session=127739059&_cdn_timestamp=1642367152&_cdn_token=ba21bd0635fa7299829210d11744e81175517c89
 #EXTINF:-1 tvg-id="AR | Argentinísima Satelital" tvg-name="AR | Argentinísima Satelital" channelId="380" tvg-logo="http://argentinisimatv.com.ar/wp-content/uploads/2017/09/LOGO-1.png" group-title="ARGENTINA", 380 | Argentinísima Satelital || ARGENTINA
@@ -879,8 +879,6 @@ http://playentertainmentpro.ddns.net:80/AlbertoGuaman/Alberto0105/18485.m3u8
 http://45.55.127.106/live/unicanal_mid.m3u8
 #EXTINF:-1 tvg-id="PY | ABC TV" tvg-name="PY | ABC TV" channelId="389" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Abc_color.PNG/245px-Abc_color.PNG" group-title="PARAGUAY", 389 | ABC TV || PARAGUAY
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
-#EXTINF:-1 tvg-id="PY | Hei TV" tvg-name="PY | Hei TV" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/HeiNetwork.jpg/200px-HeiNetwork.jpg" group-title="PARAGUAY", En prueba | Hei TV || PARAGUAY
-https://rds3gen.desdeparaguay.net/heitv/heitv_int_alta/chunklist_w1269885226.m3u8?k=6d0cc7c7596a0543090720e53dd094d59dc885ad117b60b815e14d5ac1f7d0c2&exp=1642342889
 #EXTINF:-1 tvg-id="PY | GEN TV" tvg-name="PY | GEN TV" channelId="En prueba" tvg-logo="https://lanacionpy.nyc3.cdn.digitaloceanspaces.com/img/gen/logo.svg" group-title="PARAGUAY", En prueba | GEN TV || PARAGUAY
 http://playentertainmentpro.ddns.net:80/AlbertoGuaman/Alberto0105/70377.m3u8
 #EXTINF:-1 tvg-id="PY | Mi TV" tvg-name="PY | Mi TV" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png/800px-LOGO_MITV_ALTA_DEFINICION_2020_PNG.png" group-title="PARAGUAY", En prueba | Mi TV || PARAGUAY
@@ -1004,7 +1002,7 @@ http://190.4.0.200:3333/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="HN | Telecadena 7 y 4" tvg-name="HN | Telecadena 7 y 4" channelId="443" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Telecadena7y42018.png/150px-Telecadena7y42018.png" group-title="HONDURAS", 443 | Telecadena 7 y 4 || HONDURAS
 http://190.4.0.200:3333/play/a02s/index.m3u8
 #EXTINF:-1 tvg-id="HN | VTV" tvg-name="HN | VTV" channelId="444" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/VTV_HN_logo_2019.png/210px-VTV_HN_logo_2019.png" group-title="HONDURAS", 444 | Vica TV || HONDURAS
-https://hn-vtv-vtv-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQyMzgwMzI5LCJzZXNzaW9uIjoiMTkwLjIzNy4xNTUuMTUxIiwid2hpdGVsaXN0IjpbIjE5MC4yMzcuMTU1LjE1MSJdfSwic2lnbmF0dXJlIjoiYjc1MGE4ODAxMzVlNDk0ZDdkZjc3Y2FhNGY4ODMyNjMwMjY2ZWYzNyJ9
+https://hn-vtv-vtv-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQyNDMzMjAxLCJzZXNzaW9uIjoiMTkwLjIzNi4zMC44Iiwid2hpdGVsaXN0IjpbIjE5MC4yMzYuMzAuOCJdfSwic2lnbmF0dXJlIjoiNWM1MGMyMWYxNzM0YmYxYjMzOWZmZDg3MjMwOTdmYzlmZjFkMmY2NiJ9
 #EXTINF:-1 tvg-id="HN | TEN Canal 10" tvg-name="HN | TEN Canal 10" channelId="445" tvg-logo="https://1.bp.blogspot.com/-WYepFcQLrXc/XQka9TmZ0uI/AAAAAAAAHz8/eTOqew4vGoocd66uqlPHccAeYN74huzmgCLcBGAs/w350-h350-p-k-no-nu/TEN%2BCanal%2B10.png" group-title="HONDURAS", 445 | TEN Canal 10 || HONDURAS
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HN | Canal 11 HN" tvg-name="HN | Canal 11 HN" channelId="446" tvg-logo="https://canal11.hn/wp-content/themes/streamit/assets/images/logo.png" group-title="HONDURAS", 446 | Canal 11 HN || HONDURAS
