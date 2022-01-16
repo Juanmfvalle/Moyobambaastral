@@ -133,10 +133,10 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AZCORAZON/20-hls/live-media.m
 https://tunelive.net:3645/stream/play.m3u8
 #EXTINF:-1 tvg-id="USA | Univision TL Novelas" tvg-name="USA | Univision TL Novelas" channelId="57" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/180px-Univision_tlnovelas_%282019%29.svg.png" group-title="NOVELAS", 57 | Univisión TLNovelas
 https://tunelive.net:3415/stream/play.m3u8
-#EXTINF:-1 tvg-id="MX | Las Estrellas Internacional" tvg-name="MX | Las Estrellas Internacional" channelId="58" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/125px-Las_Estrellas.svg.png" group-title="INTERNACIONALES", 58 | Las Estrellas Internacional
-http://playentertainmentpro.ddns.net:80/AlbertoGuaman/Alberto0105/20148.m3u8
-#EXTINF:-1 tvg-id="MX | Las Estrellas" tvg-name="MX | Las Estrellas" channelId="58.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/180px-Las_Estrellas.svg.png" group-title="MEXICO", 58 | Las Estrellas
+#EXTINF:-1 tvg-id="MX | Las Estrellas" tvg-name="MX | Las Estrellas" channelId="58" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/180px-Las_Estrellas.svg.png" group-title="MEXICO", 58 | Las Estrellas
 https://tunelive.net:3019/stream/play.m3u8
+#EXTINF:-1 tvg-id="MX | Las Estrellas Internacional" tvg-name="MX | Las Estrellas Internacional" channelId="58.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/125px-Las_Estrellas.svg.png" group-title="INTERNACIONALES", 58.2 | Las Estrellas Internacional
+http://playentertainmentpro.ddns.net:80/AlbertoGuaman/Alberto0105/20148.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" channelId="59" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", 59 | Telemundo Internacional
 https://tunelive.net:3141/stream/play.m3u8
 #EXTINF:-1 tvg-id="USA | Galavision" tvg-name="USA | Galavision" channelId="60" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/160px-Galavision_Logo_2013.svg.png" group-title="INTERNACIONALES", 60 | Galavisión
