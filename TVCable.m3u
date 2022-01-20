@@ -27,7 +27,9 @@ http://tv.dominiotv.xyz:25461/cliente212a/jdkdowjnd/52540
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Andina Televisión Plus" tvg-name="PE | Andina Televisión Plus" channelId="9.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/175px-ATV%2B_logo_2020.png" group-title="PERU", 9.2 | ATV +
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Visión Noticias Perú" tvg-name="PE | Visión Noticias Perú" channelId="10" tvg-logo="https://www.vnp.pe/wp-content/uploads/2020/11/logo-vnp-color.png" group-title="PERU", 10 | VNP
+#EXTINF:-1 tvg-id="PE | RPP TV" tvg-name="PE | RPP TV" channelId="10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/RPP_TV_-_2017_logo.png/120px-RPP_TV_-_2017_logo.png" group-title="PERU", 10 | RPP TV
+http://playentertainmentpro.ddns.net:80/AlbertoGuaman/Alberto0105/1416.m3u8
+#EXTINF:-1 tvg-id="PE | Visión Noticias Perú" tvg-name="PE | Visión Noticias Perú" channelId="10.2" tvg-logo="https://www.vnp.pe/wp-content/uploads/2020/11/logo-vnp-color.png" group-title="PERU", 10.2 | VNP
 https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Perú Mágico" tvg-name="PE | Perú Mágico" channelId="11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Peru_magico.png/200px-Peru_magico.png" group-title="PERU", 11 | Perú Mágico
 http://tv.dominiotv.xyz:25461/cliente212a/jdkdowjnd/52546
@@ -168,7 +170,7 @@ https://tunelive.net:3923/stream/play.m3u8
 #EXTINF:-1 tvg-id="PE | Cineclub" tvg-name="PE | Cineclub" channelId="73" tvg-logo="https://lh3.googleusercontent.com/-s0IKUMAsHJo/X7qWRlxQFoI/AAAAAAAA7kQ/P07ldtCVVOEh-KVOaz8uhVr20VjdDHs0wCK8BGAsYHg/s0/2020-11-22.png" group-title="PELICULAS Y SERIES", 73 | Cine Club
 https://mediastreamm.com:3176/live/cineclublive.m3u8
 #EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" channelId="74" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 74 | TNT
-http://190.4.0.200:3333/play/a01t/index.m3u8
+http://mains.services:2086/live/stanleyg/6916329/67203.m3u8
 #EXTINF:-1 tvg-id="CO | Cinema Plus" tvg-name="CO | Cinema Plus" channelId="75" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cinema%2B_logo.svg/245px-Cinema%2B_logo.svg.png" group-title="PELICULAS Y SERIES", 75 | Cinema +
 https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/chunklist_w277128131.m3u8
 #EXTINF:-1 tvg-id="USA | Paramount Network" tvg-name="USA | Paramount Network" channelId="76" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/150px-Paramount_Network.svg.png" group-title="PELICULAS Y SERIES", 76 | Paramount Network
@@ -218,19 +220,19 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FX/40-hls/live-media.m3u8?_cd
 #EXTINF:-1 tvg-id="USA | FXM" tvg-name="USA | FXM" channelId="98" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/130px-FX_Movies_logo.svg.png" group-title="PELICULAS Y SERIES", 98 | FXM
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FXM/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFXM_stream_p5&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1828528010&_cdn_session=129527571&_cdn_timestamp=1642779404&_cdn_token=a5b5b13997cfa0235138c03dba7951b141909d32
 #EXTINF:-1 tvg-id="USA | Star Series" tvg-name="USA | Star Series" channelId="99" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Star_Series_2020.svg/135px-Star_Series_2020.svg.png" group-title="PELICULAS Y SERIES", 99 | Star Series
-http://190.4.0.200:3333/play/a03y/index.m3u8
+http://playentertainmentpro.ddns.net:80/AlbertoGuaman/Alberto0105/1326.m3u8
 #EXTINF:-1 tvg-id="USA | Star Action" tvg-name="USA | Star Action" channelId="100" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/135px-Star_Action_2020.svg.png" group-title="PELICULAS Y SERIES", 100 | Star Action
-http://190.4.0.200:3333/play/a02i/index.m3u8
+http://playentertainmentpro.ddns.net:80/AlbertoGuaman/Alberto0105/3776.m3u8
 #EXTINF:-1 tvg-id="USA | Star Comedy" tvg-name="USA | Star Comedy" channelId="101" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Star_Comedy_2020.svg/135px-Star_Comedy_2020.svg.png" group-title="PELICULAS Y SERIES", 101 | Star Comedy
 http://playentertainmentpro.ddns.net:80/AlbertoGuaman/Alberto0105/1317.m3u8
 #EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" channelId="102" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", 102 | HBO
-http://190.4.0.200:3333/play/a03t/index.m3u8
+http://mains.services:2086/live/stanleyg/6916329/67176.m3u8
 #EXTINF:-1 tvg-id="USA | HBO 2" tvg-name="USA | HBO 2" channelId="103" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" group-title="PELICULAS Y SERIES", 103 | HBO 2
-http://190.4.0.200:3333/play/a03u/index.m3u8
+http://mains.services:2086/live/stanleyg/6916329/67177.m3u8
 #EXTINF:-1 tvg-id="USA | HBO +" tvg-name="USA | HBO +" channelId="104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/125px-Logohboplus2019.svg.png" group-title="PELICULAS Y SERIES", 104 | HBO +
 http://mains.services:2086/live/stanleyg/6916329/67179.m3u8
 #EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" channelId="105" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="PELICULAS Y SERIES", 105 | HBO Family
-http://190.4.0.200:3333/play/a03w/index.m3u8
+http://mains.services:2086/live/stanleyg/6916329/67178.m3u8
 #EXTINF:-1 tvg-id="USA | HBO Xtreme" tvg-name="USA | HBO Xtreme" channelId="106" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" group-title="PELICULAS Y SERIES", 106 | HBO Xtreme
 http://190.4.0.200:3333/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO Signature" tvg-name="USA | HBO Signature" channelId="107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/135px-HBO_Signature.svg.png" group-title="PELICULAS Y SERIES", 107 | HBO Signature
@@ -922,7 +924,7 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?uid=C3a7Pp
 #EXTINF:-1 tvg-id="CR | Canal 11" tvg-name="CR | Canal 11" channelId="430" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/150px-Repretel_11_logo.png" group-title="COSTA RICA", 430 | Canal 11 || COSTA RICA
 https://d30zjikdv9ntds.cloudfront.net/repretel/canal11/smil:live.smil/chunklist_b1248000.m3u8
 #EXTINF:-1 tvg-id="CR | Trece Costa Rica Televisión" tvg-name="CR | Trece Costa Rica Televisión" channelId="431" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/canal-13-trece-costa-rica-televisin-1576.png" group-title="COSTA RICA", 431 | Trece Costa Rica Televisión || COSTA RICA
-https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zf1ZjUtIpQoICvx5YSeJM_w)/dm/3/x7vh8g3/d/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zf1ZjUtIpQoICvx5YSeJM_w)/dm/3/x7vh8g3/d/live-3.m3u8
 #EXTINF:-1 tvg-id="CR | TV Sur Canal 14" tvg-name="CR | TV Sur Canal 14" channelId="432" tvg-logo="https://www.tvsur.co.cr/wp-content/uploads/2020/05/tvsur-logo.png" group-title="COSTA RICA", 432 | TV Sur Canal 14 || COSTA RICA
 https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
 #EXTINF:-1 tvg-id="CR | TV Norte" tvg-name="CR | TV Norte" channelId="433" tvg-logo="https://www.tvn14.com/wp-content/uploads/2021/02/TVN-HD_LOGO_COLOR-SIN-FONDO.png" group-title="COSTA RICA", 433 | TV Norte || COSTA RICA
@@ -1004,7 +1006,7 @@ https://algochivo.com:1936/canal57/canal57/playlist.m3u8
 #EXTINF:-1 tvg-id="SLV | Sol TV Canal 99 Morazan" tvg-name="SLV | Sol TV Canal 99 Morazan" channelId="471" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ce9a3a96e0a17bbc1e2dd075a0c49f35.webp" group-title="EL SALVADOR", 471 | Sol TV || EL SALVADOR
 https://rtmp.info/soltv/envivo/chunklist_w1708857625.m3u8
 #EXTINF:-1 tvg-id="HN | TSi Canal 3" tvg-name="HN | TSi Canal 3" channelId="472" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/TSi_logo.png/195px-TSi_logo.png" group-title="HONDURAS", 472 | Telesistema Informativo || HONDURAS
-http://playentertainmentpro.ddns.net:80/AlbertoGuaman/Alberto0105/18494.m3u8
+https://stream-03.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmkWiLFLYegbKBwovowOQ3Dw)/dm/3/x7xs2wx/s/live-3.m3u8
 #EXTINF:-1 tvg-id="HN | Canal 5" tvg-name="HN | Canal 5" channelId="473" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_5_HN_logo_2019.png/150px-Canal_5_HN_logo_2019.png" group-title="HONDURAS", 473 | Canal 5 El Lider || HONDURAS
 http://playentertainmentpro.ddns.net:80/AlbertoGuaman/Alberto0105/18529.m3u8
 #EXTINF:-1 tvg-id="HN | Telecadena 7 y 4" tvg-name="HN | Telecadena 7 y 4" channelId="474" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Telecadena7y42018.png/150px-Telecadena7y42018.png" group-title="HONDURAS", 474 | Telecadena 7 y 4 || HONDURAS
