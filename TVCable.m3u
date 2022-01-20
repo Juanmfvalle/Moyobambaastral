@@ -29,8 +29,6 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | RPP TV" tvg-name="PE | RPP TV" channelId="10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/RPP_TV_-_2017_logo.png/120px-RPP_TV_-_2017_logo.png" group-title="PERU", 10 | RPP TV
 http://playentertainmentpro.ddns.net:80/AlbertoGuaman/Alberto0105/1416.m3u8
-#EXTINF:-1 tvg-id="PE | Visión Noticias Perú" tvg-name="PE | Visión Noticias Perú" channelId="10.2" tvg-logo="https://www.vnp.pe/wp-content/uploads/2020/11/logo-vnp-color.png" group-title="PERU", 10.2 | VNP
-https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Perú Mágico" tvg-name="PE | Perú Mágico" channelId="11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Peru_magico.png/200px-Peru_magico.png" group-title="PERU", 11 | Perú Mágico
 http://tv.dominiotv.xyz:25461/cliente212a/jdkdowjnd/52546
 #EXTINF:-1 tvg-id="USA | TV Peruanísima" tvg-name="USA | TV Peruanísima" channelId="11.2" tvg-logo="http://tvperuanisima.com/wp-content/uploads/2021/07/cropped-Logo-150x113-1.png" group-title="PERU", 11.2 | TV Peruanísima
@@ -559,6 +557,8 @@ http://tv.streamgt.tk:25461/playgt/123456/53
 http://tv.streamgt.tk:25461/playgt/123456/54
 #EXTINF:-1 tvg-id="PE | Bethel TV" tvg-name="PE | Bethel TV" channelId="253" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Bethel-Televisi%C3%B3n-en-vivo-Online-100x70.png" group-title="RELIGIOSOS", 253 | Bethel TV
 https://ott.streann.com/loadbalancer/services/public/channels/5e0689c82cdcb4fdbcd79151/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | Visión Noticias Perú" tvg-name="PE | Visión Noticias Perú" channelId="En prueba" tvg-logo="https://www.vnp.pe/wp-content/uploads/2020/11/logo-vnp-color.png" group-title="PERU", En prueba | VNP
+https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Bh TV" tvg-name="PE | Bh TV" channelId="254" tvg-logo="https://bhtv.pe/wp-content/uploads/2020/08/descarga-4.jpg" group-title="REGIONALES", 254 | BH Televisión || Lima
 https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | USMP TV" tvg-name="PE | USMP TV" channelId="255" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/USMP_TV_2017.svg/revision/latest/scale-to-width-down/56?cb=20210504214359&path-prefix=es" group-title="REGIONALES", 255 | USMP Televisión || Lima
