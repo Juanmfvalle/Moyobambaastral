@@ -651,6 +651,14 @@ https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/quatrotvgo
 #EXTINF:-1 tvg-id="PE | Mega TV" tvg-name="PE | Mega TV" channelId="299" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Mega-TV-Arequipa-en-vivo-Online-100x70.png" group-title="REGIONALES", 299 | Mega TV || Arequipa
 https://media2.cdnlayer.biz:8081/8008/index.m3u8
+#EXTINF:-1 tvg-id="PE | TV Mundo" tvg-name="PE | TV Mundo" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Tvmundosur.jpg/245px-Tvmundosur.jpg" group-title="REGIONALES", En prueba | TV Mundo || Arequipa
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCQH-6sv6ovHg4Nx-niZ_C1g/live
+#EXTINF:-1 tvg-id="PE | Telesur" tvg-name="PE | Telesur" channelId="En prueba" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png" group-title="REGIONALES", En prueba | Telesur || Mollendo
+https://telesur2.b-cdn.net/hls/mollendo.m3u8
+#EXTINF:-1 tvg-id="PE | Telesur" tvg-name="PE | Telesur" channelId="En prueba" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png" group-title="REGIONALES", En prueba | Telesur || Moquegua
+https://telesur2.b-cdn.net/hls/moquegua.m3u8
+#EXTINF:-1 tvg-id="PE | Telesur" tvg-name="PE | Telesur" channelId="En prueba" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png" group-title="REGIONALES", En prueba | Telesur || Ilo
+https://telesur2.b-cdn.net/hls/ilo.m3u8
 #EXTINF:-1 tvg-id="PE | Primavera 15 TV" tvg-name="PE | Primavera 15 TV" channelId="300" tvg-logo="http://www.radioprimaveratv.com.pe/images/empresa/logo-header.gif" group-title="REGIONALES", 300 | Primavera 15 TV || Moquegua
 https://tv.portalexpress.es:3270/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="PE | Canal Sur" tvg-name="PE | Canal Sur" channelId="301" tvg-logo="https://graph.facebook.com/surtvilo/picture?width=320&height=320" group-title="REGIONALES", 301 | Canal Sur || Ilo
@@ -1313,6 +1321,8 @@ https://audio-edge-es6pf.mia.g.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f
 https://mpc.mediacp.eu:8520/stream
 #EXTINF:-1 tvg-id="CL | TV Interactiva" tvg-name="CL | TV Interactiva" channelId="625" tvg-logo="http://radiointeractivafm.cl/player/v2/archivos/img/logo.jpg" group-title="CANALES DE AUDIO", 625 | TV Interactiva || CHILE
 https://live.tvcontrolcp.com:1936/interactiva/interactiva/playlist.m3u8?
+#EXTINF:-1 tvg-id="PE | Expresión TV" tvg-name="PE | Expresión TV" channelId="En prueba" tvg-logo="https://www.telesur.com.pe/recursos/page/expresion/images/logo.png" group-title="REGIONALES", En prueba | Expresión TV || Ilo
+https://telesur2.b-cdn.net/hls/radioilo.m3u8
 #EXTINF:-1 tvg-id="CA | Stingray Music Classic Rock" tvg-name="CA | Stingray Music Classic Rock" channelId="626" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", 626 | Stingray Music Classic Rock
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayclassicrock/CDN/1920x1080_1790800/chunklist.m3u8
 #EXTINF:-1 tvg-id="CA | Stingray Music Greatest Hits" tvg-name="CA | Stingray Music Greatest Hits" channelId="626.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", 626.2 | Stingray Music Greatest Hits
