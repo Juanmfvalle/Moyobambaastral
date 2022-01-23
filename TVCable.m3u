@@ -850,13 +850,13 @@ http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 #EXTINF:-1 tvg-id="AR | Información Periodística TV" tvg-name="AR | Información Periodística TV" channelId="395" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Informaci%C3%B3n_Period%C3%ADstica_IP_Logo.svg/260px-Informaci%C3%B3n_Period%C3%ADstica_IP_Logo.svg.png" group-title="ARGENTINA", 395 | Información Periodística TV || ARGENTINA
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
 #EXTINF:-1 tvg-id="UY | Canal 4" tvg-name="UY | Canal 4" channelId="396" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Canal4_uy.png/150px-Canal4_uy.png" group-title="URUGUAY", 396 | Canal 4 || URUGUAY
-http://playentertainmentpro.ddns.net:80/AlbertoGuaman/Alberto0105/5296.m3u8
+http://tvgalaxy.online:8080/live/marco15/Marco15/172758.m3u8
 #EXTINF:-1 tvg-id="UY | TV Ciudad" tvg-name="UY | TV Ciudad" channelId="397" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TVCiudad_logo_2020.png/140px-TVCiudad_logo_2020.png" group-title="URUGUAY", 397 | TV Ciudad || URUGUAY
-http://playentertainmentpro.ddns.net:80/AlbertoGuaman/Alberto0105/5292.m3u8
+http://tvgalaxy.online:8080/live/marco15/Marco15/172751.m3u8
 #EXTINF:-1 tvg-id="UY | Canal 10" tvg-name="UY | Canal 10" channelId="398" tvg-logo="https://static.wikia.nocookie.net/mediosuruguay/images/0/07/Canal_10_-_2006_%28Acortado%29.png/revision/latest/scale-to-width-down/350?cb=20210228102639&path-prefix=es" group-title="URUGUAY", 398 | Saeta TV Canal 10 || URUGUAY
-http://playentertainmentpro.ddns.net:80/AlbertoGuaman/Alberto0105/67145.m3u8
+http://tvgalaxy.online:8080/live/marco15/Marco15/94025.m3u8
 #EXTINF:-1 tvg-id="UY | Teledoce" tvg-name="UY | Teledoce" channelId="399" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/LogoTeledoce2019Azul.png" group-title="URUGUAY", 399 | Teledoce || URUGUAY
-http://playentertainmentpro.ddns.net:80/AlbertoGuaman/Alberto0105/67144.m3u8
+http://tvgalaxy.online:8080/live/marco15/Marco15/172770.m3u8
 #EXTINF:-1 tvg-id="UY | La Red" tvg-name="UY | La Red" channelId="400" tvg-logo="http://www.redtv.com.uy/wp-content/uploads/2019/10/logoheader2.png" group-title="URUGUAY", 400 | La Red || URUGUAY
 https://stmv1.srvif.com/laredtv/laredtv/chunklist_w1599297465.m3u8
 #EXTINF:-1 tvg-id="UY | Cardinal TV" tvg-name="UY | Cardinal TV" channelId="401" tvg-logo="https://cds-assets.cdn.antel.net.uy/imagenes/recursos/ujY5mpk7dGcr7OXHJiAaHhU3m4BITFo9qZpgjX99.jpeg" group-title="URUGUAY", 401 | Televisión Cardinal || URUGUAY
@@ -870,7 +870,7 @@ http://playentertainmentpro.ddns.net:80/AlbertoGuaman/Alberto0105/21664.m3u8
 #EXTINF:-1 tvg-id="PY | C9N" tvg-name="PY | C9N" channelId="405" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Canal_9_Noticias.jpg/125px-Canal_9_Noticias.jpg" group-title="PARAGUAY", 405 | Canal 9 Noticias || PARAGUAY
 https://py-c9n-c9n-live.ned.media/c9n/smil:c9n.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQyODcxMDA1LCJzZXNzaW9uIjoiMTkwLjIzOC4xODcuMTIiLCJ3aGl0ZWxpc3QiOlsiMTkwLjIzOC4xODcuMTIiXX0sInNpZ25hdHVyZSI6IjlkZmJlMjRmODY0OGJhMWVlYjk3MDZiMGM1YTVmNzVjYWNmOTJjZTMifQ==
 #EXTINF:-1 tvg-id="PY | Sistema Nacional de Televisión" tvg-name="PY | Sistema Nacional de Televisión" channelId="406" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/SNT_LOGO.jpg/220px-SNT_LOGO.jpg" group-title="PARAGUAY", 406 | SNT || PARAGUAY
-https://py-snt-snt-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQyODcxMjU3LCJzZXNzaW9uIjoiMTkwLjIzOC4xODcuMTIiLCJ3aGl0ZWxpc3QiOlsiMTkwLjIzOC4xODcuMTIiXX0sInNpZ25hdHVyZSI6IjhmYzgzYzk3N2YxMjk5NjMwMjM3YTY3OWM0OGQyNTZiZWY2NWJiM2MifQ==
+https://py-snt-snt-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQzMDAxODM0LCJzZXNzaW9uIjoiMTgxLjE3Ni4xMjguNDgiLCJ3aGl0ZWxpc3QiOlsiMTgxLjE3Ni4xMjguNDgiXX0sInNpZ25hdHVyZSI6ImI1NTIwN2Y4NDJhYzg0MTMyN2JiODg0OWE4NDQxNmY1NGM0ZTkzMDMifQ==
 #EXTINF:-1 tvg-id="PY | Sur Televisión" tvg-name="PY | Sur Televisión" channelId="407" tvg-logo="https://cdn.mitvstatic.com/channels/116c52f1-8f55-4325-af6d-ab11f98e81d5_m.jpg" group-title="PARAGUAY", 407 | Sur Televisión || PARAGUAY
 http://playentertainmentpro.ddns.net:80/AlbertoGuaman/Alberto0105/47208.m3u8
 #EXTINF:-1 tvg-id="PY | La Tele" tvg-name="PY | La Tele" channelId="408" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Latele_Paraguay.jpg" group-title="PARAGUAY", 408 | La Tele || PARAGUAY
@@ -1002,7 +1002,7 @@ https://algochivo.com:1936/canal57/canal57/playlist.m3u8
 #EXTINF:-1 tvg-id="SLV | Sol TV Canal 99 Morazan" tvg-name="SLV | Sol TV Canal 99 Morazan" channelId="471" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ce9a3a96e0a17bbc1e2dd075a0c49f35.webp" group-title="EL SALVADOR", 471 | Sol TV || EL SALVADOR
 https://rtmp.info/soltv/envivo/chunklist_w1708857625.m3u8
 #EXTINF:-1 tvg-id="HN | TSi Canal 3" tvg-name="HN | TSi Canal 3" channelId="472" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/TSi_logo.png/195px-TSi_logo.png" group-title="HONDURAS", 472 | Telesistema Informativo || HONDURAS
-http://tvgalaxy.online:8080/live/marco15/Marco15/172939.m3u8
+https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmkWiLFLYegbKBwovowOQ3Dw)/dm/3/x7xs2wx/s/live-3.m3u8
 #EXTINF:-1 tvg-id="HN | Canal 5" tvg-name="HN | Canal 5" channelId="473" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_5_HN_logo_2019.png/150px-Canal_5_HN_logo_2019.png" group-title="HONDURAS", 473 | Canal 5 El Lider || HONDURAS
 http://tvgalaxy.online:8080/live/marco15/Marco15/42292.m3u8
 #EXTINF:-1 tvg-id="HN | Telecadena 7 y 4" tvg-name="HN | Telecadena 7 y 4" channelId="474" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Telecadena7y42018.png/150px-Telecadena7y42018.png" group-title="HONDURAS", 474 | Telecadena 7 y 4 || HONDURAS
