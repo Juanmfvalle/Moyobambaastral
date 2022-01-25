@@ -171,6 +171,8 @@ https://tunelive.net:3923/stream/play.m3u8
 https://mediastreamm.com:3176/live/cineclublive.m3u8
 #EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" channelId="74" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 74 | TNT
 http://mains.services:2086/live/stanleyg/6916329/67203.m3u8
+#EXTINF:-1 tvg-id="USA | TNT Series" tvg-name="USA | TNT Series" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/94px-TNT_Series_Logo_2016.png" group-title="PELICULAS Y SERIES", En prueba | TNT Series
+http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/99502.m3u8
 #EXTINF:-1 tvg-id="CO | Cinema Plus" tvg-name="CO | Cinema Plus" channelId="75" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cinema%2B_logo.svg/245px-Cinema%2B_logo.svg.png" group-title="PELICULAS Y SERIES", 75 | Cinema +
 https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/chunklist_w277128131.m3u8
 #EXTINF:-1 tvg-id="USA | Paramount Network" tvg-name="USA | Paramount Network" channelId="76" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/150px-Paramount_Network.svg.png" group-title="PELICULAS Y SERIES", 76 | Paramount Network
@@ -178,7 +180,7 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PARAMOUNT/40-hls/live-media.m
 #EXTINF:-1 tvg-id="USA | Sony Channel" tvg-name="USA | Sony Channel" channelId="77" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/120px-Sony_Channel_Logo.png" group-title="PELICULAS Y SERIES", 77 | Sony Channel
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/SONY/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONY_stream_ew&_cdn_hls_media=2&_cdn_meta=userID%3D1829852807%2CdeviceID%3D828793644&_cdn_session=131361163&_cdn_timestamp=1643156853&_cdn_token=a5f1ecc80c2b8eb145fc3e1887d1e187ec3323a8
 #EXTINF:-1 tvg-id="USA | Space" tvg-name="USA | Space" channelId="78" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="PELICULAS Y SERIES", 78 | Space
-http://190.4.0.200:3333/play/a01k/index.m3u8
+http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/99517.m3u8
 #EXTINF:-1 tvg-id="BO | A Estrenar TV" tvg-name="BO | A Estrenar TV" channelId="79" tvg-logo="https://www.comteco.com.bo/img/upload/canales/gfYq6X.png" group-title="PELICULAS Y SERIES", 79 | A Estrenar TV
 http://live.cdn.comteco.com.bo/comgo/0408/index.m3u8
 #EXTINF:-1 tvg-id="USA | Studio Universal" tvg-name="USA | Studio Universal" channelId="80" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/175px-StudioUniversal2016.png" group-title="PELICULAS Y SERIES", 80 | Studio Universal
@@ -279,8 +281,8 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/NICKELODEON/20-hls/live-media
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/NICKJR/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKJR_stream_y9&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D828793644&_cdn_session=131363523&_cdn_timestamp=1643157241&_cdn_token=064ebe7dc03bb092860512e376c27892eccf358c
 #EXTINF:-1 tvg-id="SK | Duck TV" tvg-name="SK | Duck TV" channelId="128" tvg-logo="https://www.ducktv.tv/wp-content/uploads/2019/07/ducktv-logo.svg" group-title="INFANTILES", 128 | Duck TV
 https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee512f.m3u8
-#EXTINF:-1 tvg-id="ESP | Clan" tvg-name="ESP | Clan" channelId="129" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tve_clan.png/150px-Tve_clan.png" group-title="INFANTILES", 129 | Clan
-http://localhd.tv:8080/live/anto2b/AEMkgjuKkh/3243.m3u8
+#EXTINF:-1 tvg-id="USA | BabyFirst" tvg-name="USA | BabyFirst" channelId="129" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/babyfirst_tv-mediano.png" group-title="INFANTILES", 129 | BabyFirst
+https://babyfirst.akamaized.net/hls/live/2028842/bftvusaott/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | El Chavo del 8 TV" tvg-name="MX | El Chavo del 8 TV" channelId="130" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/245px-El_Chavo_%28simple_logo%29.svg.png" group-title="INFANTILES", 130 | El Chavo del 8 TV
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="MX | Distrito Comedia" tvg-name="MX | Distrito Comedia" channelId="131" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/175px-DistritoComediaLOGO2018.png" group-title="INFANTILES", 131 | Distrito Comedia
@@ -305,24 +307,24 @@ http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | Cablenoticias" tvg-name="CO | Cablenoticias" channelId="141" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/175px-Cable_Noticias_logo.svg.png" group-title="NOTICIAS E INFORMACION", 141 | Cablenoticias
 http://cdn.iptvprovider.org:8080/live/Robair08/Ua8M4uxpHO/245121.m3u8
-#EXTINF:-1 tvg-id="USA | CNN Internacional" tvg-name="USA | CNN Internacional" channelId="142" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/150px-CNN_International_logo.svg.png" group-title="INTERNACIONALES", 142 | CNN Internacional
+#EXTINF:-1 tvg-id="USA | CNN en Español" tvg-name="USA | CNN en Español" channelId="142" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/125px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="NOTICIAS E INFORMACION", 142 | CNN en Español
+http://reachforthesky.network:2086/live/RtK9NG97M8/8O16aw5yiQ/88701.m3u8
+#EXTINF:-1 tvg-id="USA | CNN Internacional" tvg-name="USA | CNN Internacional" channelId="143" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/150px-CNN_International_logo.svg.png" group-title="INTERNACIONALES", 143 | CNN Internacional
 http://live.cdn.comteco.com.bo/comgo/0301/index.m3u8
-#EXTINF:-1 tvg-id="USA | CNN Brasil" tvg-name="USA | CNN Brasil" channelId="143" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/200px-CNN_Brasil.svg.png" group-title="INTERNACIONALES", 143 | CNN Brasil
+#EXTINF:-1 tvg-id="USA | CNN Brasil" tvg-name="USA | CNN Brasil" channelId="144" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/200px-CNN_Brasil.svg.png" group-title="INTERNACIONALES", 144 | CNN Brasil
 http://neonp2p.com:8080/live/reginaldo123/123reginaldo/856490.m3u8
-#EXTINF:-1 tvg-id="IRN | HispanTV" tvg-name="IRN | HispanTV" channelId="144" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/245px-HispanTv_logo.svg.png" group-title="NOTICIAS E INFORMACION", 144 | HispanTV
+#EXTINF:-1 tvg-id="IRN | HispanTV" tvg-name="IRN | HispanTV" channelId="145" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/245px-HispanTv_logo.svg.png" group-title="NOTICIAS E INFORMACION", 145 | HispanTV
 https://live.presstv.ir/live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FR | TV5Monde" tvg-name="FR | TV5Monde" channelId="145" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/TV5_Monde_%282009-%29.svg/250px-TV5_Monde_%282009-%29.svg.png" group-title="NOTICIAS E INFORMACION", 145 | TV5Monde
+#EXTINF:-1 tvg-id="FR | TV5Monde" tvg-name="FR | TV5Monde" channelId="146" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/TV5_Monde_%282009-%29.svg/250px-TV5_Monde_%282009-%29.svg.png" group-title="NOTICIAS E INFORMACION", 146 | TV5Monde
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
-#EXTINF:-1 tvg-id="CH | CGTN Español" tvg-name="CH | CGTN Español" channelId="146" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/180px-CGTN_Espanol.png" group-title="NOTICIAS E INFORMACION", 146 | CGTN Español
+#EXTINF:-1 tvg-id="CH | CGTN Español" tvg-name="CH | CGTN Español" channelId="147" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/180px-CGTN_Espanol.png" group-title="NOTICIAS E INFORMACION", 147 | CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 tvg-id="CO | Nuestra Tele Noticias 24" tvg-name="CO | Nuestra Tele Noticias 24" channelId="147" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NTN24_logo.svg/245px-NTN24_logo.svg.png" group-title="NOTICIAS E INFORMACION", 147 | NTN 24
+#EXTINF:-1 tvg-id="CO | Nuestra Tele Noticias 24" tvg-name="CO | Nuestra Tele Noticias 24" channelId="148" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NTN24_logo.svg/245px-NTN24_logo.svg.png" group-title="NOTICIAS E INFORMACION", 148 | NTN 24
 https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl01MEJq0JxtUk6KXzYJ_1GE)/dm/3/x7w4okl/s/live-1.m3u8
-#EXTINF:-1 tvg-id="USA | BBC World News" tvg-name="USA | BBC World News" channelId="148" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/150px-BBC_World_News_2019.svg.png" group-title="INTERNACIONALES", 148 | BBC World News
-http://190.4.0.200:3333/play/a01w/index.m3u8
 #EXTINF:-1 tvg-id="VE | Globovisión" tvg-name="VE | Globovisión" channelId="149" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo-Globovisi%C3%B3n.png/140px-Logo-Globovisi%C3%B3n.png" group-title="NOTICIAS E INFORMACION", 149 | Globovisión
 http://tv.dominiotv.xyz:25461/cliente212a/jdkdowjnd/88004
 #EXTINF:-1 tvg-id="ESP | TVE" tvg-name="ESP | TVE" channelId="150" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/220px-TVE.svg.png" group-title="INTERNACIONALES", 150 | Televisión Española (TVE)
-http://190.4.0.200:3333/play/a038/index.m3u8
+http://reachforthesky.network:2086/live/RtK9NG97M8/8O16aw5yiQ/88838.m3u8
 #EXTINF:-1 tvg-id="ESP | 24 Horas tve" tvg-name="ESP | 24 horas tve" channelId="151" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/125px-Logo_TVE-24h.svg.png" group-title="NOTICIAS E INFORMACION", 151 | 24 horas tve
 https://rtvelivestreamv3.akamaized.net/24h/24h_main_576.m3u8
 #EXTINF:-1 tvg-id="USA | Más Chic" tvg-name="USA | Más Chic" channelId="152" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/125px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" group-title="ESTILOS DE VIDA", 152 | Más Chic
