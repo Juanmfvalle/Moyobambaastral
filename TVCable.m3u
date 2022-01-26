@@ -662,13 +662,13 @@ http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/35778.m3u8
 #EXTINF:-1 tvg-id="EC | Teleamazonas" tvg-name="EC | Teleamazonas" channelId="303" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/150px-Teleamazonas_Logo.png" group-title="ECUADOR", 303 | Teleamazonas || ECUADOR
 http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/35770.m3u8
 #EXTINF:-1 tvg-id="EC | Televicentro" tvg-name="EC | Televicentro" channelId="304" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/TVCEC.png/150px-TVCEC.png" group-title="ECUADOR", 304 | TVC || ECUADOR
-https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQzMjkwOTk0LCJzZXNzaW9uIjoiMTkwLjIzNi4yNC4xNDQiLCJ3aGl0ZWxpc3QiOlsiMTkwLjIzNi4yNC4xNDQiXX0sInNpZ25hdHVyZSI6IjgyNzk0NjgwNTljY2EwN2YwNDc4YzU1NjFjNjc4ZjQ1YTc1OGNhOWUifQ==
+https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQzMjkyNTY5LCJzZXNzaW9uIjoiMTkwLjIzNi4yNC4xNDQiLCJ3aGl0ZWxpc3QiOlsiMTkwLjIzNi4yNC4xNDQiXX0sInNpZ25hdHVyZSI6IjAwNTE1MmM2OTJhYTUxYjFiYTEyZjhkMDFmODIwNzVkYjAxYTk5MDcifQ==
 #EXTINF:-1 tvg-id="EC | Ecuador TV" tvg-name="EC | Ecuador TV" channelId="305" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/150px-EcuadorTV_logo.png" group-title="ECUADOR", 305 | Ecuador TV || ECUADOR
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ECUADORTV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DECUADORTV_stream_wj&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1828528010&_cdn_session=131677587&_cdn_timestamp=1643228668&_cdn_token=f106f91da6d2a1b66f332f4a059cefda96319714
 #EXTINF:-1 tvg-id="EC | Ecuavisa" tvg-name="EC | Ecuavisa" channelId="306" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/200px-Ecuavisa_Logo_2019.png" group-title="ECUADOR", 306 | Ecuavisa || ECUADOR
 http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/35780.m3u8
 #EXTINF:-1 tvg-id="EC | Red Telesistema" tvg-name="EC | Red Telesistema" channelId="307" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/150px-Rts_logo.png" group-title="ECUADOR", 307 | RTS || ECUADOR
-https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQzMjkxMTQzLCJzZXNzaW9uIjoiMTkwLjIzNi4yNC4xNDQiLCJ3aGl0ZWxpc3QiOlsiMTkwLjIzNi4yNC4xNDQiXX0sInNpZ25hdHVyZSI6Ijg2ODJmMjlhMjliZDI2YzEyNWZiOTcxMzIzZGRlYjc2ZDcyNGExYzYifQ==
+https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQzMjkyNjQzLCJzZXNzaW9uIjoiMTkwLjIzNi4yNC4xNDQiLCJ3aGl0ZWxpc3QiOlsiMTkwLjIzNi4yNC4xNDQiXX0sInNpZ25hdHVyZSI6ImM1OTI0YjYzYWQwNzljZTI4N2EzMWNmZThjN2EwYTRmY2NmZWNkZmIifQ==
 #EXTINF:-1 tvg-id="EC | Televisora Central Ecuatoriana" tvg-name="EC | Telecentro" channelId="308" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png" group-title="ECUADOR", 308 | TC Televisión || ECUADOR
 http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/35772.m3u8
 #EXTINF:-1 tvg-id="EC | Oromar TV" tvg-name="EC | Oromar TV" channelId="309" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="ECUADOR", 309 | Oromar Televisión || ECUADOR
@@ -842,7 +842,7 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TELEFE/20-hls/live-media.m3u8
 #EXTINF:-1 tvg-id="AR | Telefe Rosario" tvg-name="AR | Telefe Rosario" channelId="389.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/133px-Telefe_Rosario_%282018%29.png" group-title="ARGENTINA", 389.2 | Telefe Rosario || ARGENTINA
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="AR | El Nueve" tvg-name="AR | El Nueve" channelId="390" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Canal_9_2015.png/120px-Canal_9_2015.png" group-title="ARGENTINA", 390 | El Nueve || ARGENTINA
-https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/e1c642a3-d49f-44eb-9757-98371e83abe9/5.m3u8
+https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/e85d10a1-65c0-40ff-8932-8b18d8de6422/5.m3u8
 #EXTINF:-1 tvg-id="AR | El Trece" tvg-name="AR | El Trece" channelId="391" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/120px-Logo_de_eltrece_lanzado_en_2016.png" group-title="INTERNACIONALES", 391 | El Trece || ARGENTINA
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TRECEARGENTINA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRECEARGENTINA_stream_e4&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1828528010&_cdn_session=131678315&_cdn_timestamp=1643228783&_cdn_token=6ee0d364856cfd5ec900aee312c9470736097fdd
 #EXTINF:-1 tvg-id="AR | Argentinísima Satelital" tvg-name="AR | Argentinísima Satelital" channelId="392" tvg-logo="http://argentinisimatv.com.ar/wp-content/uploads/2017/09/LOGO-1.png" group-title="ARGENTINA", 392 | Argentinísima Satelital || ARGENTINA
@@ -872,9 +872,9 @@ http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/35735.m3u8
 #EXTINF:-1 tvg-id="PY | Paravisión" tvg-name="PY | Paravisión" channelId="404" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Paravision_logo.png/150px-Paravision_logo.png" group-title="PARAGUAY", 404 | Paravisión || PARAGUAY
 http://playentertainmentpro.ddns.net:80/AlbertoGuaman/Alberto0105/21664.m3u8
 #EXTINF:-1 tvg-id="PY | C9N" tvg-name="PY | C9N" channelId="405" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Canal_9_Noticias.jpg/125px-Canal_9_Noticias.jpg" group-title="PARAGUAY", 405 | Canal 9 Noticias || PARAGUAY
-https://py-c9n-c9n-live.ned.media/c9n/smil:c9n.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQzMjkxMjM4LCJzZXNzaW9uIjoiMTkwLjIzNi4yNC4xNDQiLCJ3aGl0ZWxpc3QiOlsiMTkwLjIzNi4yNC4xNDQiXX0sInNpZ25hdHVyZSI6ImI1NjFmZDI1ODgzZWNlMGU0ZTU1YzdiYTdiMzczYmEwYTMzZWU0ODcifQ==
+https://py-c9n-c9n-live.ned.media/c9n/smil:c9n.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQzMjkyODcwLCJzZXNzaW9uIjoiMTkwLjIzNi4yNC4xNDQiLCJ3aGl0ZWxpc3QiOlsiMTkwLjIzNi4yNC4xNDQiXX0sInNpZ25hdHVyZSI6Ijc1YjY0MTg1Y2RkOWJjMjk2MzcyYTQ2MjFkNGMwZTIxNzkxNzVjMzQifQ==
 #EXTINF:-1 tvg-id="PY | Sistema Nacional de Televisión" tvg-name="PY | Sistema Nacional de Televisión" channelId="406" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/SNT_LOGO.jpg/220px-SNT_LOGO.jpg" group-title="PARAGUAY", 406 | SNT || PARAGUAY
-https://py-snt-snt-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQzMjM4ODgwLCJzZXNzaW9uIjoiMTkwLjIzNy40OC41NCIsIndoaXRlbGlzdCI6WyIxOTAuMjM3LjQ4LjU0Il19LCJzaWduYXR1cmUiOiJkY2VlYjJmMTFlZjRhNmU3NDY0ZTI2ZjFlOGNlMWEzM2U5ODY1M2FlIn0=
+https://py-snt-snt-live.ned.media/snt/smil:snt.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQzMjkyODA5LCJzZXNzaW9uIjoiMTkwLjIzNi4yNC4xNDQiLCJ3aGl0ZWxpc3QiOlsiMTkwLjIzNi4yNC4xNDQiXX0sInNpZ25hdHVyZSI6IjJmZDllYzZiM2ZmYTlmY2RlYWJiMWY2ZjEwZDg0OWJkY2YwYWFjY2YifQ==
 #EXTINF:-1 tvg-id="PY | Sur Televisión" tvg-name="PY | Sur Televisión" channelId="407" tvg-logo="https://cdn.mitvstatic.com/channels/116c52f1-8f55-4325-af6d-ab11f98e81d5_m.jpg" group-title="PARAGUAY", 407 | Sur Televisión || PARAGUAY
 http://ptv.is:2095/live/t9m28tPG/j4PdbhNF/35736.m3u8
 #EXTINF:-1 tvg-id="PY | La Tele" tvg-name="PY | La Tele" channelId="408" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Latele_Paraguay.jpg" group-title="PARAGUAY", 408 | La Tele || PARAGUAY
@@ -1012,7 +1012,7 @@ https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZQ5Wp8NnhyzqZ0s_zu
 #EXTINF:-1 tvg-id="HN | Telecadena 7 y 4" tvg-name="HN | Telecadena 7 y 4" channelId="474" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Telecadena7y42018.png/150px-Telecadena7y42018.png" group-title="HONDURAS", 474 | Telecadena 7 y 4 || HONDURAS
 http://tvgalaxy.online:8080/live/marco15/Marco15/172938.m3u8
 #EXTINF:-1 tvg-id="HN | VTV" tvg-name="HN | VTV" channelId="475" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/VTV_HN_logo_2019.png/210px-VTV_HN_logo_2019.png" group-title="HONDURAS", 475 | Vica TV || HONDURAS
-https://hn-vtv-vtv-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQzMjkxMzg1LCJzZXNzaW9uIjoiMTkwLjIzNi4yNC4xNDQiLCJ3aGl0ZWxpc3QiOlsiMTkwLjIzNi4yNC4xNDQiXX0sInNpZ25hdHVyZSI6IjI3ZjY4MjJlYjhhODUzN2UyNTRlYTk2YWRiZWFhODUxYjg5Y2UwNjEifQ==
+https://hn-vtv-vtv-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQzMjkyOTQ4LCJzZXNzaW9uIjoiMTkwLjIzNi4yNC4xNDQiLCJ3aGl0ZWxpc3QiOlsiMTkwLjIzNi4yNC4xNDQiXX0sInNpZ25hdHVyZSI6IjNiOGFjMjI2MzQzMTNlMzM5MzdhYjdlNmI2ODBkMGVhNjRmOGQ0OGMifQ==
 #EXTINF:-1 tvg-id="HN | TEN Canal 10" tvg-name="HN | TEN Canal 10" channelId="476" tvg-logo="https://1.bp.blogspot.com/-WYepFcQLrXc/XQka9TmZ0uI/AAAAAAAAHz8/eTOqew4vGoocd66uqlPHccAeYN74huzmgCLcBGAs/w350-h350-p-k-no-nu/TEN%2BCanal%2B10.png" group-title="HONDURAS", 476 | TEN Canal 10 || HONDURAS
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HN | Canal 11 HN" tvg-name="HN | Canal 11 HN" channelId="477" tvg-logo="https://canal11.hn/wp-content/themes/streamit/assets/images/logo.png" group-title="HONDURAS", 477 | Canal 11 HN || HONDURAS
@@ -1042,7 +1042,7 @@ https://panel.dattalive.com/8122/8122/chunklist_w1401322809.m3u8
 #EXTINF:-1 tvg-id="HN | Metro TV" tvg-name="HN | Metro TV" channelId="489" tvg-logo="https://1.bp.blogspot.com/-6gQWDOzqUHU/XQo-_-umYGI/AAAAAAAAH00/gM_d6FInXxAQhKeRggaiKR_i-putnpGXACLcBGAs/s1600/Canal%2BLa%2BMetro%2BTV%2Bhonduras.png" group-title="HONDURAS", 489 | Metro TV || HONDURAS
 https://emisoras.hn:8081/metrotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HN | Todo Deportes TV" tvg-name="HN | Todo Deportes TV" channelId="490" tvg-logo="https://dd7tel2830j4w.cloudfront.net/f1560359694028x167785582725733730/Group%2012.svg" group-title="HONDURAS", 490 | TDTV || HONDURAS
-https://5fe2654d6127d.streamlock.net/tododeportesplus/smil:tododeportesplus.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNi8yMDIyIDE6NTE6MTAgUE0maGFzaF92YWx1ZT00YU0ySlBSWUxXZExRSTYrb2dnNmlRPT0mdmFsaWRtaW51dGVzPTM2MDAmaWQ9
+https://5f1af61612fb5.streamlock.net/tododeportesplus/smil:tododeportesplus.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNi8yMDIyIDI6MTc6MTkgUE0maGFzaF92YWx1ZT1XZlAvZlc0VXh0SE41ZjBRd1I4VHlnPT0mdmFsaWRtaW51dGVzPTM2MDAmaWQ9
 #EXTINF:-1 tvg-id="HN | Une TV" tvg-name="HN | Une TV" channelId="491" tvg-logo="https://pbs.twimg.com/profile_images/817352279489712128/mdy2Fh0s_400x400.jpg" group-title="HONDURAS", 491 | Une TV || HONDURAS
 http://imjgrp.club:8080/live/EVA100/EVA100/138525.m3u8
 #EXTINF:-1 tvg-id="HN | Teleceiba" tvg-name="HN | Teleceiba" channelId="492" tvg-logo="https://cdn.mitvstatic.com/channels/hn_teleceiba_m.png" group-title="HONDURAS", 492 | Teleceiba || HONDURAS
@@ -1352,7 +1352,7 @@ https://samsung.ott-channels.stingray.com/qello/master.m3u8
 #EXTINF:-1 tvg-id="USA | Vallenato Internacional Radio & TV" tvg-name="USA | Vallenato Internacional Radio & TV" channelId="627" tvg-logo="https://cdn.colombia.com/canales/vallenato-internacional-radio-tv-3172.jpg" group-title="CANALES DE VIDEO", 627 | Vallenato Internacional Radio & TV || ESTADOS UNIDOS
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Rockola Televisión" tvg-name="USA | Rockola Televisión" channelId="628" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2718-294x165-FFFFFF.jpg" group-title="CANALES DE VIDEO", 628 | Rockola Televisión || ESTADOS UNIDOS
-https://917ebd53b511440f9669a926b4ba9153.mediatailor.us-east-1.amazonaws.com/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-VivaLive/2bc31a1e-7d3d-45b9-878d-0e91a5c82970/0.m3u8
+https://917ebd53b511440f9669a926b4ba9153.mediatailor.us-east-1.amazonaws.com/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-VivaLive/30fdc87e-5b37-4fc9-8168-99bb73efe93d/0.m3u8
 #EXTINF:-1 tvg-id="CL | Radio Recuerdos Retro TV" tvg-name="CL | Radio Recuerdos Retro TV" channelId="629" tvg-logo="https://recuerdosretro.com/radio/wp-content/uploads/2019/09/cropped-logo_new_web10.png" group-title="CANALES DE VIDEO", 629 | Radio Recuerdos Retro TV || CHILE
 https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Hits 360" tvg-name="USA | Hits 360" channelId="630" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1853-294x165-FFFFFF.jpg" group-title="CANALES DE VIDEO", 630 | Hits 360 || ESTADOS UNIDOS
