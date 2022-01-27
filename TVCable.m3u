@@ -393,12 +393,14 @@ https://tunelive.net:3412/stream/play.m3u8
 http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
 #EXTINF:-1 tvg-id="AR | DeporTV" tvg-name="AR | DeporTV" channelId="184" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Deportv.svg/200px-Deportv.svg.png" group-title="DEPORTES", 184 | DeporTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-#EXTINF:-1 tvg-id="AR | DirecTV Sports" tvg-name="AR | DirecTV Sports" channelId="185" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/175px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", 185 | DirecTV Sports
+#EXTINF:-1 tvg-id="AR | DirecTV Sports +" tvg-name="AR | DirecTV Sports +" channelId="185" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/150px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="DEPORTES", 185 | DirecTV Sports +
 http://daletvplay.xyz:8080/live/vicsalas/iZgTUEt2z6/94094.m3u8
 #EXTINF:-1 tvg-id="EC | Gol TV" tvg-name="EC | Gol TV" channelId="186" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTGYbyhCW6fTTGkBkDDHNrmxQqLRvaQKtzM7FPgjA=s88-c-k-c0x00ffffff-no-rj" group-title="DEPORTES", 186 | Gol TV
 http://daletvplay.xyz:8080/live/vicsalas/iZgTUEt2z6/94984.m3u8
 #EXTINF:-1 tvg-id="MX | Afizzionados" tvg-name="MX | Afizzionados" channelId="187" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/245px-Afizzionados_Logo.svg.png" group-title="DEPORTES", 187 | Afizzionados TV
 https://tunelive.net:3569/stream/play.m3u8
+#EXTINF:-1 tvg-id="PE | Movistar Deportes" tvg-name="PE | Movistar Deportes" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/200px-Movistar_Deportes.svg.png" group-title="DEPORTES", En prueba | Movistar Deportes
+http://daletvplay.xyz:8080/live/vicsalas/iZgTUEt2z6/94098.m3u8
 #EXTINF:-1 tvg-id="PE | Gol Perú" tvg-name="PE | Gol Perú" channelId="188" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/245px-Gol_Per%C3%BA_2019.svg.png" group-title="DEPORTES", 188 | Gol Perú
 http://tv.dominiotv.xyz:25461/cliente212a/jdkdowjnd/52548
 #EXTINF:-1 tvg-id="CL | Portal Foxmix" tvg-name="CL | Portal Foxmix" channelId="189" tvg-logo="http://www.portalfoxmix.cl/web/wp-content/uploads/2016/03/logoPFM.png" group-title="MUSICA Y REALITIES", 189 | Portal Foxmix TV
