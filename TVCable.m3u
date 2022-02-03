@@ -159,14 +159,20 @@ https://magnolia-cinelife.amagi.tv/amRdirect/did=&gdpr=&lat=&lon=&us_privacy=&co
 https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Cinecanal" tvg-name="USA | Cinecanal" channelId="70" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/150px-CinecanalLA.png" group-title="PELICULAS Y SERIES", 70 | Cinecanal
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/CINECANALHD/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCINECANALHD_stream_1m&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1828528010&_cdn_session=136961115&_cdn_timestamp=1643904714&_cdn_token=11161209082c88924afc67542cece7a01738b61c
-#EXTINF:-1 tvg-id="MX | De Pelicula Plus" tvg-name="MX | De Pelicula Plus" channelId="71" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/DPel%C3%ADcula_Plus_2021.png/revision/latest/scale-to-width-down/175?cb=20210129162928&path-prefix=es" group-title="PELICULAS Y SERIES", 71 | De Pelicula Plus
+#EXTINF:-1 tvg-id="MX | De Película" tvg-name="MX | De Película" channelId="71" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/250px-DPel%C3%ADcula_2021.svg.png" group-title="PELICULAS Y SERIES", 71 | De Película
+http://reachforthesky.network:2086/live/RtK9NG97M8/8O16aw5yiQ/88709.m3u8
+#EXTINF:-1 tvg-id="MX | De Pelicula Plus" tvg-name="MX | De Pelicula Plus" channelId="71.2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/DPel%C3%ADcula_Plus_2021.png/revision/latest/scale-to-width-down/175?cb=20210129162928&path-prefix=es" group-title="PELICULAS Y SERIES", 71.2 | De Pelicula Plus
 https://2.tunelive.net:3359/stream/play.m3u8
+#EXTINF:-1 tvg-id="MX | De Pelicula Clásico" tvg-name="MX | De Película Clásico" channelId="71.3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/De_Pel%C3%ADcula_Cl%C3%A1sico.png/150px-De_Pel%C3%ADcula_Cl%C3%A1sico.png" group-title="PELICULAS Y SERIES", 71.3 | De Película Clásico
+http://reachforthesky.network:2086/live/RtK9NG97M8/8O16aw5yiQ/88708.m3u8
 #EXTINF:-1 tvg-id="MX | Cine Latino" tvg-name="MX | Cine Latino" channelId="72" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Cinelatino_logo.png/150px-Cinelatino_logo.png" group-title="PELICULAS Y SERIES", 72 | Cine Latino
 https://tunelive.net:3923/stream/play.m3u8
 #EXTINF:-1 tvg-id="PE | Cineclub" tvg-name="PE | Cineclub" channelId="73" tvg-logo="https://lh3.googleusercontent.com/-s0IKUMAsHJo/X7qWRlxQFoI/AAAAAAAA7kQ/P07ldtCVVOEh-KVOaz8uhVr20VjdDHs0wCK8BGAsYHg/s0/2020-11-22.png" group-title="PELICULAS Y SERIES", 73 | Cine Club
 https://servilive.com:3176/live/cineclublive.m3u8
 #EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" channelId="74" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 74 | TNT
 http://mains.services:2086/live/stanleyg/6916329/67203.m3u8
+#EXTINF:-1 tvg-id="USA | TNT Series" tvg-name="USA | TNT Series" channelId="74.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/94px-TNT_Series_Logo_2016.png" group-title="PELICULAS Y SERIES", 74.2 | TNT Series
+http://reachforthesky.network:2086/live/RtK9NG97M8/8O16aw5yiQ/88833.m3u8
 #EXTINF:-1 tvg-id="CO | Cinema Plus" tvg-name="CO | Cinema Plus" channelId="75" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cinema%2B_logo.svg/245px-Cinema%2B_logo.svg.png" group-title="PELICULAS Y SERIES", 75 | Cinema +
 https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/chunklist_w277128131.m3u8
 #EXTINF:-1 tvg-id="USA | Paramount Network" tvg-name="USA | Paramount Network" channelId="76" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/150px-Paramount_Network.svg.png" group-title="PELICULAS Y SERIES", 76 | Paramount Network
@@ -183,8 +189,8 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/STUDIOUNIVERSAL/10-hls/live-m
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/SYFY/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSYFY_stream_gb&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1828528010&_cdn_session=136961291&_cdn_timestamp=1643904740&_cdn_token=b07efdfbdd145ffe5c1b662672e0ee54f8a9939f
 #EXTINF:-1 tvg-id="PA | Tele Clásicos" tvg-name="PA | Tele Clásicos" channelId="82" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b45afad9217b1e31c9af80eeaa90627d.webp" group-title="PELICULAS Y SERIES", 82 | Tele Clásicos
 https://tvdatta.com:3484/stream/play.m3u8
-#EXTINF:-1 tvg-id="USA | TCM" tvg-name="USA | TCM" channelId="83" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/120px-TCM_Latam_logo.svg.png" group-title="PELICULAS Y SERIES", 83 | TCM
-http://imjgrp.club:8080/live/EVA100/EVA100/389480.m3u8
+#EXTINF:-1 tvg-id="USA | Comedy Central" tvg-name="USA | Comedy Central" channelId="83" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/250px-Comedy_Central_2018.svg.png" group-title="ENTRETENIMIENTO", 83 | Comedy Central
+http://mains.services:2086/live/stanleyg/6916329/67194.m3u8
 #EXTINF:-1 tvg-id="USA | TBS" tvg-name="USA | TBS" channelId="84" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/135px-TBS_logo_2016.svg.png" group-title="PELICULAS Y SERIES", 84 | TBS
 http://reachforthesky.network:2086/live/RtK9NG97M8/8O16aw5yiQ/88818.m3u8
 #EXTINF:-1 tvg-id="ESP | A3series" tvg-name="ESP | A3series" channelId="85" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/125px-Atreseries_2020_logo.svg.png" group-title="PELICULAS Y SERIES", 85 | Atreseries
@@ -200,11 +206,11 @@ https://cinereal-plex.amagi.tv/CineReal/master_6.m3u8
 #EXTINF:-1 tvg-id="USA | Cinemax" tvg-name="USA | Cinemax" channelId="90" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="PELICULAS Y SERIES", 90 | Cinemax
 http://reachforthesky.network:2086/live/RtK9NG97M8/8O16aw5yiQ/88696.m3u8
 #EXTINF:-1 tvg-id="MX | Golden" tvg-name="MX | Golden" channelId="91" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/245px-Canal_Golden_logo.svg.png" group-title="PELICULAS Y SERIES", 91 | Golden
-http://imjgrp.club:8080/live/EVA100/EVA100/389516.m3u8
+http://reachforthesky.network:2086/live/RtK9NG97M8/8O16aw5yiQ/88761.m3u8
 #EXTINF:-1 tvg-id="MX | Golden Edge" tvg-name="MX | Golden Edge" channelId="92" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/210px-Golden_Edge_Logo_2020.png" group-title="PELICULAS Y SERIES", 92 | Golden Edge
-http://imjgrp.club:8080/live/EVA100/EVA100/389515.m3u8
-#EXTINF:-1 tvg-id="USA | I.Sat" tvg-name="USA | I.Sat" channelId="93" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/150px-I.Sat_logo.svg.png" group-title="PELICULAS Y SERIES", 93 | I.Sat
-http://imjgrp.club:8080/live/EVA100/EVA100/389508.m3u8
+http://reachforthesky.network:2086/live/RtK9NG97M8/8O16aw5yiQ/88759.m3u8
+#EXTINF:-1 tvg-id="USA | TruTV " tvg-name="USA | TruTV " channelId="93" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/TruTV_logo_2014.png/150px-TruTV_logo_2014.png" group-title="ENTRETENIMIENTO", 93 | TruTV
+http://reachforthesky.network:2086/live/RtK9NG97M8/8O16aw5yiQ/88836.m3u8
 #EXTINF:-1 tvg-id="USA | Europa Europa" tvg-name="USA | Europa Europa" channelId="94" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/EUROPAEUROPALOGO2016.png/120px-EUROPAEUROPALOGO2016.png" group-title="PELICULAS Y SERIES", 94 | Europa Europa
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/EUROPAEUROPA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DEUROPAEUROPA_stream_gf&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1828528010&_cdn_session=136961483&_cdn_timestamp=1643904771&_cdn_token=79c2aec93d83c7e381365ad147f02d943eae6cea
 #EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" channelId="95" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="PELICULAS Y SERIES", 95 | Star Channel
@@ -219,24 +225,24 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FXM/10-hls/live-media.m3u8?_c
 http://reachforthesky.network:2086/live/RtK9NG97M8/8O16aw5yiQ/88736.m3u8
 #EXTINF:-1 tvg-id="USA | Star Action" tvg-name="USA | Star Action" channelId="100" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/135px-Star_Action_2020.svg.png" group-title="PELICULAS Y SERIES", 100 | Star Action
 http://reachforthesky.network:2086/live/RtK9NG97M8/8O16aw5yiQ/88737.m3u8
-#EXTINF:-1 tvg-id="USA | Star Comedy" tvg-name="USA | Star Comedy" channelId="101" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Star_Comedy_2020.svg/135px-Star_Comedy_2020.svg.png" group-title="PELICULAS Y SERIES", 101 | Star Comedy
-http://reachforthesky.network:2086/live/RtK9NG97M8/8O16aw5yiQ/88750.m3u8
-#EXTINF:-1 tvg-id="USA | Star Classics" tvg-name="USA | Star Classics" channelId="102" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Star_Classics_2020.svg/135px-Star_Classics_2020.svg.png" group-title="PELICULAS Y SERIES", 102 | Star Classics
-http://imjgrp.club:8080/live/EVA100/EVA100/389654.m3u8
-#EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" channelId="103" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", 103 | HBO
+#EXTINF:-1 tvg-id="USA | Star Hits" tvg-name="USA | Star Hits" channelId="101" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/135px-Star_Hits_2020.svg.png" group-title="PELICULAS Y SERIES", 101 | Star Hits
+http://reachforthesky.network:2086/live/RtK9NG97M8/8O16aw5yiQ/88740.m3u8
+#EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" channelId="102" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", 102 | HBO
 http://mains.services:2086/live/stanleyg/6916329/67176.m3u8
-#EXTINF:-1 tvg-id="USA | HBO 2" tvg-name="USA | HBO 2" channelId="104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" group-title="PELICULAS Y SERIES", 104 | HBO 2
+#EXTINF:-1 tvg-id="USA | HBO 2" tvg-name="USA | HBO 2" channelId="103" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" group-title="PELICULAS Y SERIES", 103 | HBO 2
 http://mains.services:2086/live/stanleyg/6916329/67177.m3u8
-#EXTINF:-1 tvg-id="USA | HBO +" tvg-name="USA | HBO +" channelId="105" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/125px-Logohboplus2019.svg.png" group-title="PELICULAS Y SERIES", 105 | HBO +
+#EXTINF:-1 tvg-id="USA | HBO +" tvg-name="USA | HBO +" channelId="104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/125px-Logohboplus2019.svg.png" group-title="PELICULAS Y SERIES", 104 | HBO +
 http://mains.services:2086/live/stanleyg/6916329/67179.m3u8
-#EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" channelId="106" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="PELICULAS Y SERIES", 106 | HBO Family
+#EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" channelId="105" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="PELICULAS Y SERIES", 105 | HBO Family
 http://mains.services:2086/live/stanleyg/6916329/67178.m3u8
-#EXTINF:-1 tvg-id="USA | HBO Signature" tvg-name="USA | HBO Signature" channelId="107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/135px-HBO_Signature.svg.png" group-title="PELICULAS Y SERIES", 107 | HBO Signature
+#EXTINF:-1 tvg-id="USA | HBO Signature" tvg-name="USA | HBO Signature" channelId="106" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/135px-HBO_Signature.svg.png" group-title="PELICULAS Y SERIES", 106 | HBO Signature
 http://mains.services:2086/live/stanleyg/6916329/67180.m3u8
-#EXTINF:-1 tvg-id="USA | HBO Pop" tvg-name="USA | HBO Pop" channelId="108" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/130px-HBO_Pop.svg.png" group-title="PELICULAS Y SERIES", 108 | HBO Pop
-http://neonp2p.com:8080/live/reginaldo123/123reginaldo/856341.m3u8
-#EXTINF:-1 tvg-id="USA | Universal" tvg-name="USA | Universal" channelId="109" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/167px-Universal_TV_logo.svg.png" group-title="PELICULAS Y SERIES", 109 | Universal TV
+#EXTINF:-1 tvg-id="USA | HBO Pop" tvg-name="USA | HBO Pop" channelId="107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/130px-HBO_Pop.svg.png" group-title="PELICULAS Y SERIES", 107 | HBO Pop
+http://reachforthesky.network:2086/live/RtK9NG97M8/8O16aw5yiQ/88784.m3u8
+#EXTINF:-1 tvg-id="USA | Universal" tvg-name="USA | Universal" channelId="108" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/167px-Universal_TV_logo.svg.png" group-title="PELICULAS Y SERIES", 108 | Universal TV
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/UNIVERSALCH/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUNIVERSAL_stream_4o&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1828528010&_cdn_session=136583739&_cdn_timestamp=1643840016&_cdn_token=9e1604208ab65f928af40ffb2ae8729189641d62
+#EXTINF:-1 tvg-id="USA | Universal Cinema" tvg-name="USA | Universal Cinema" channelId="109" tvg-logo="https://www.universalplus.com/assets/logo_cinema_hero.png" group-title="PELICULAS Y SERIES", 109 | Universal Cinema
+http://reachforthesky.network:2086/live/RtK9NG97M8/8O16aw5yiQ/88750.m3u8
 #EXTINF:-1 tvg-id="BO | Anime & Comics TV" tvg-name="BO | Anime & Comics TV" channelId="110" tvg-logo="https://comteco.com.bo/img/upload/canales/yUXfZ2.png" group-title="INFANTILES", 110 | Anime & Comics TV
 http://live.cdn.comteco.com.bo/comgo/0426/index.m3u8
 #EXTINF:-1 tvg-id="USA | ZooMoo" tvg-name="USA | ZooMoo" channelId="111" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/120px-ZooMoo_logo.svg.png" group-title="INFANTILES", 111 | ZooMoo
@@ -248,11 +254,11 @@ https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="BO | TV Plus" tvg-name="BO | TV Plus" channelId="114" tvg-logo="https://comteco.com.bo/img/upload/canales/UOvAmh.png" group-title="INFANTILES", 114 | TV Plus
 http://live.cdn.comteco.com.bo/comgo/0336/index.m3u8
 #EXTINF:-1 tvg-id="USA | Cartoon Network" tvg-name="USA | Cartoon Network" channelId="115" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/150px-Cartoon_Network_2010_logo.svg.png" group-title="INFANTILES", 115 | Cartoon Network
-http://imjgrp.club:8080/live/EVA100/EVA100/389564.m3u8
+http://reachforthesky.network:2086/live/RtK9NG97M8/8O16aw5yiQ/88692.m3u8
 #EXTINF:-1 tvg-id="USA | Cartoonito" tvg-name="USA | Cartoonito" channelId="116" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/259px-Cartoonito_-_Logo_2021.svg.png" group-title="INFANTILES", 116 | Cartoonito
-http://imjgrp.club:8080/live/EVA100/EVA100/389568.m3u8
+http://reachforthesky.network:2086/live/RtK9NG97M8/8O16aw5yiQ/88682.m3u8
 #EXTINF:-1 tvg-id="UK | BabyTV" tvg-name="UK | BabyTV" channelId="117" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Babytvv.png/200px-Babytvv.png" group-title="INFANTILES", 117 | BabyTV
-http://imjgrp.club:8080/live/EVA100/EVA100/389573.m3u8
+http://reachforthesky.network:2086/live/RtK9NG97M8/8O16aw5yiQ/88678.m3u8
 #EXTINF:-1 tvg-id="PA | Dreiko TV" tvg-name="PA | Dreiko TV" channelId="118" tvg-logo="https://dreikotv.online/wp-content/uploads/2021/09/logotipo_dreikotv-1024x224-1.png" group-title="INFANTILES", 118 | Dreiko TV
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/chunklist_w2067673743.m3u8
 #EXTINF:-1 tvg-id="USA | Discovery Kids" tvg-name="USA | Discovery Kids" channelId="119" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/125px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="INFANTILES", 119 | Discovery Kids
@@ -279,7 +285,7 @@ https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee51
 https://babyfirst.akamaized.net/hls/live/2028842/bftvusaott/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | El Chavo del 8 TV" tvg-name="MX | El Chavo del 8 TV" channelId="130" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/245px-El_Chavo_%28simple_logo%29.svg.png" group-title="INFANTILES", 130 | El Chavo del 8 TV
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="MX | Distrito Comedia" tvg-name="MX | Distrito Comedia" channelId="131" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/175px-DistritoComediaLOGO2018.png" group-title="INFANTILES", 131 | Distrito Comedia
+#EXTINF:-1 tvg-id="MX | Distrito Comedia" tvg-name="MX | Distrito Comedia" channelId="131" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/175px-DistritoComediaLOGO2018.png" group-title="ENTRETENIMIENTO", 131 | Distrito Comedia
 https://2.tunelive.net:3734/stream/play.m3u8
 #EXTINF:-1 tvg-id="AL | DW" tvg-name="AL | DW" channelId="132" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/125px-Deutsche_Welle_symbol_2012.svg.png" group-title="NOTICIAS E INFORMACION", 132 | DW Televisión
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
@@ -287,8 +293,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="RU | RT" tvg-name="RU | RT" channelId="134" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png" group-title="NOTICIAS E INFORMACION", 134 | RT Noticias
 https://rt-esp.gcdn.co/live/rtesp/playlist_1600Kb.m3u8
-#EXTINF:-1 tvg-id="CL | Canal 24 Horas" tvg-name="CL | Canal 24 Horas" channelId="135" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_24HorasTVN.svg/200px-Logo_24HorasTVN.svg.png" group-title="NOTICIAS E INFORMACION", 135 | Canal 24 Horas
-http://45.161.188.242:88/24horas/mono.m3u8
 #EXTINF:-1 tvg-id="CU | Cubavisión Internacional" tvg-name="CU | Cubavisión Internacional" channelId="136" tvg-logo="https://www.tvcubana.icrt.cu/images/logos-canales/logo-mascara/cvi.jpg" group-title="INTERNACIONALES", 136 | Cubavisión Internacional
 http://190.122.96.187:8888/http/010
 #EXTINF:-1 tvg-id="USA | TV Martí" tvg-name="USA | TV Martí" channelId="137" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Logo_of_Radio_y_Televisi%C3%B3n_Mart%C3%AD.svg/225px-Logo_of_Radio_y_Televisi%C3%B3n_Mart%C3%AD.svg.png" group-title="INTERNACIONALES", 137 | TV Martí
@@ -305,8 +309,6 @@ http://cdn.iptvprovider.org:8080/live/Robair08/Ua8M4uxpHO/245121.m3u8
 http://reachforthesky.network:2086/live/RtK9NG97M8/8O16aw5yiQ/88701.m3u8
 #EXTINF:-1 tvg-id="USA | CNN Internacional" tvg-name="USA | CNN Internacional" channelId="143" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/150px-CNN_International_logo.svg.png" group-title="INTERNACIONALES", 143 | CNN Internacional
 http://live.cdn.comteco.com.bo/comgo/0301/index.m3u8
-#EXTINF:-1 tvg-id="USA | CNN Brasil" tvg-name="USA | CNN Brasil" channelId="144" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/200px-CNN_Brasil.svg.png" group-title="INTERNACIONALES", 144 | CNN Brasil
-http://neonp2p.com:8080/live/reginaldo123/123reginaldo/856490.m3u8
 #EXTINF:-1 tvg-id="IRN | HispanTV" tvg-name="IRN | HispanTV" channelId="145" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/245px-HispanTv_logo.svg.png" group-title="NOTICIAS E INFORMACION", 145 | HispanTV
 https://live.presstv.ir/live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FR | TV5Monde" tvg-name="FR | TV5Monde" channelId="146" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/TV5_Monde_%282009-%29.svg/250px-TV5_Monde_%282009-%29.svg.png" group-title="NOTICIAS E INFORMACION", 146 | TV5Monde
@@ -316,19 +318,21 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="CO | Nuestra Tele Noticias 24" tvg-name="CO | Nuestra Tele Noticias 24" channelId="148" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NTN24_logo.svg/245px-NTN24_logo.svg.png" group-title="NOTICIAS E INFORMACION", 148 | NTN 24
 https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlxPb2KI_dTMxba2fo33MbNk)/dm/3/x7w4okl/s/live-1.m3u8
 #EXTINF:-1 tvg-id="VE | Globovisión" tvg-name="VE | Globovisión" channelId="149" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo-Globovisi%C3%B3n.png/140px-Logo-Globovisi%C3%B3n.png" group-title="NOTICIAS E INFORMACION", 149 | Globovisión
-http://tv.dominiotv.xyz:25461/cliente212a/jdkdowjnd/88004
+http://tv.plusme1.xyz:25461/live/ramonespinalnunez/3pQmf7KwPk/107198.m3u8
 #EXTINF:-1 tvg-id="ESP | TVE" tvg-name="ESP | TVE" channelId="150" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/220px-TVE.svg.png" group-title="INTERNACIONALES", 150 | Televisión Española (TVE)
 http://reachforthesky.network:2086/live/RtK9NG97M8/8O16aw5yiQ/88838.m3u8
 #EXTINF:-1 tvg-id="ESP | 24 Horas tve" tvg-name="ESP | 24 horas tve" channelId="151" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/125px-Logo_TVE-24h.svg.png" group-title="NOTICIAS E INFORMACION", 151 | 24 horas tve
 https://rtvelivestreamv3.akamaized.net/24h/24h_main_576.m3u8
 #EXTINF:-1 tvg-id="USA | Más Chic" tvg-name="USA | Más Chic" channelId="152" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/125px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" group-title="ESTILOS DE VIDA", 152 | Más Chic
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/MASCHIC/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DMASCHIC_stream_pl&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1828528010&_cdn_session=136588843&_cdn_timestamp=1643840212&_cdn_token=4ca6dd52909456140a9e66e44b9f5b482dee4ab5
+#EXTINF:-1 tvg-id="USA | Sundance TV" tvg-name="ESP | Sundance TV" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/SundanceTVlogo.png/200px-SundanceTVlogo.png" group-title="ESTILOS DE VIDA", En prueba | Sundance TV
+http://reachforthesky.network:2086/live/RtK9NG97M8/8O16aw5yiQ/88815.m3u8
 #EXTINF:-1 tvg-id="ESP | Hola TV" tvg-name="ESP | Hola TV" channelId="153" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/220px-%C2%A1HOLA%21TVlogo.jpg" group-title="ESTILOS DE VIDA", 153 | Hola Televisión
 https://mdstrm.com/live-stream-playlist/5b8ff7b9d78b521f2ea819d7.m3u8?access_token=DSTa8e7881c9f2118f08d2376239f3292d8
 #EXTINF:-1 tvg-id="VE | Ve Plus" tvg-name="VE | Ve Plus" channelId="154" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ve_Plus_Logo_2019.png/130px-Ve_Plus_Logo_2019.png" group-title="MISCELANEO", 154 | Ve Plus
 http://190.122.96.187:8888/http/006
-#EXTINF:-1 tvg-id="CL | Zona Latina" tvg-name="CL | Zona Latina" channelId="155" tvg-logo="https://yt3.ggpht.com/awJFKkErRT8yBwy7jtSHEz0Nigf2fMSwKReLV6Zrqom9mK_SStGDrUjygYwDw4NHoMSc1Afb75Y=s88-c-k-c0x00ffffff-no-rj" group-title="MISCELANEO", 155 | Zona Latina
-http://45.161.188.242:88/zonalatina/mono.m3u8
+#EXTINF:-1 tvg-id="USA | Glitz" tvg-name="USA | Glitz" channelId="155" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Glitzlogo.png/150px-Glitzlogo.png" group-title="MISCELANEO", 155 | Glitz
+http://reachforthesky.network:2086/live/RtK9NG97M8/8O16aw5yiQ/88760.m3u8
 #EXTINF:-1 tvg-id="USA | Lifetime" tvg-name="USA | Lifetime" channelId="156" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/150px-Logo_Lifetime_2020.svg.png" group-title="MISCELANEO", 156 | Lifetime
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/LIFETIME/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLIFETIME_stream_sl&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1828528010&_cdn_session=136589115&_cdn_timestamp=1643840224&_cdn_token=b6dd4c662af2ccb35bd1b9caf77c7c2989bc3768
 #EXTINF:-1 tvg-id="USA | film&arts" tvg-name="USA | film&arts" channelId="157" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Film%26Arts2016.png/200px-Film%26Arts2016.png" group-title="DOCUMENTALES Y SERIES", 157 | Film & Arts
@@ -354,7 +358,7 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TLC/40-hls/live-media.m3u8?_c
 #EXTINF:-1 tvg-id="USA | Discovery Home & Health" tvg-name="USA | Discovery Home & Health" channelId="167" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png" group-title="ESTILOS DE VIDA", 167 | Discovery Home & Health
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/HOMEANDHEALTH/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHOMEANDHEALTH_stream_qp&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1828528010&_cdn_session=136593339&_cdn_timestamp=1643840403&_cdn_token=8b33c49f5b8cc75a5e6f3de867e52c1522230324
 #EXTINF:-1 tvg-id="PE | Best Cable Sports" tvg-name="PE | Best Cable Sports" channelId="168" tvg-logo="https://bestcableperu.com.pe/img/canales/6.png" group-title="DEPORTES", 168 | Best Cable Sports
-https://tv.siete.us:19360/bestcablesports/bestcablesports/tracks-v1a1/mono.m3u8
+https://ca.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
 #EXTINF:-1 tvg-id="USA | Fox Sports 2" tvg-name="USA | Fox Sports 2" channelId="169" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/175px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES", 169 | Fox Sports 2
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_hls_media=1&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1828528010&_cdn_session=136594675&_cdn_timestamp=1643840448&_cdn_token=fc3c2910ff102460f0bc9a572126a385003850c6
 #EXTINF:-1 tvg-id="USA | Fox Sports 3" tvg-name="USA | Fox Sports 3" channelId="170" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/180px-Fox_sports_3_logo.svg.png" group-title="DEPORTES", 170 | Fox Sports 3
@@ -404,7 +408,7 @@ https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w838953
 #EXTINF:-1 tvg-id="CO | Mi Gente TV" tvg-name="CO | Mi Gente TV" channelId="190" tvg-logo="https://www.migente-tv.com/wp-content/uploads/2015/04/logo_migente2015.png" group-title="MUSICA Y REALITIES", 190 | Mi Gente TV
 https://hvtrafico.ddns.net/migente720/migente720.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Best Cable Music" tvg-name="PE | Best Cable Music" channelId="191" tvg-logo="https://bestcableperu.com.pe/img/canales/97.jpg" group-title="MUSICA Y REALITIES", 191 | Best Cable Music
-https://tv.siete.us:19360/bestcablemusic/bestcablemusic/tracks-v1a1/mono.m3u8
+https://ca.inka.net.pe/bestcablemusic/bestcablemusic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="USA | Nick Music" tvg-name="USA | Nick Music" channelId="192" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/220px-NickMusic.svg.png" group-title="MUSICA Y REALITIES", 192 | Nick Music
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/NICKMUSIC/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKTOONS_stream_vk&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1828528010&_cdn_session=136597243&_cdn_timestamp=1643840561&_cdn_token=a23d5ce0998d2433b33f5c97ff81ade91366c038
 #EXTINF:-1 tvg-id="CA | Music Choise Radio y Televisión" tvg-name="CA | Music Choise Radio y Televisión" channelId="193" tvg-logo="https://mcrt.ca/wp-content/uploads/2021/04/TORONTO-WEATHER.png" group-title="MUSICA Y REALITIES", 193 | MCRT 24/7 Hogar
@@ -425,6 +429,8 @@ https://stmv.negotv.com/top2021/top2021/playlist.m3u8
 https://stmv.negotv.com/80s2021/80s2021/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Music TV" tvg-name="USA | Music TV" channelId="194" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/125px-MTV-2021.svg.png" group-title="MUSICA Y REALITIES", 194 | MTV
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/MTV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DMTV_stream_3f&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1828528010&_cdn_session=136597379&_cdn_timestamp=1643840568&_cdn_token=397a11cd3cbd988abe5c8638f587ec5024ed4bfb
+#EXTINF:-1 tvg-id="USA | Music TV 00s" tvg-name="USA | Music TV 00s" channelId="194.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_00s_remaster.png/150px-MTV_00s_remaster.png" group-title="MUSICA Y REALITIES", 194.2 | MTV 00s
+http://tv.factoryiptv.com:80/live/rosinei/rosinei123/36900.m3u8
 #EXTINF:-1 tvg-id="CO | Telenostalgia" tvg-name="CO | Telenostalgia" channelId="195" tvg-logo="http://canaltelenostalgia.com/wp-content/uploads/2017/08/cropped-cropped-logo-TNL-2014.png" group-title="MUSICA Y REALITIES", 195 | Canal Telenostalgia
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TELENOSTALGIA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELENOSTALGIA_stream_or&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1828528010&_cdn_session=136597771&_cdn_timestamp=1643840584&_cdn_token=7b2a121ffb2a29f5363d1fba9fc8073ff7264c7d
 #EXTINF:-1 tvg-id="CO | Amordiscos" tvg-name="CO | Amordiscos" channelId="196" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTbf0--Gh5nkG6h3bwKrsUj8jFXcyx0_h7QcsTe=s88-c-k-c0x00ffffff-no-rj" group-title="MUSICA Y REALITIES", 196 | Amordiscos TV
@@ -440,9 +446,9 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/KARIBENA/20-hls/live-media.m3
 #EXTINF:-1 tvg-id="PE | Cumbia TV" tvg-name="PE | Cumbia TV" channelId="201" tvg-logo="https://scontent-lim1-1.xx.fbcdn.net/v/t39.30808-6/265177284_10159668037168571_7849931764317970497_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeGcHYbaiXqAYFbI24rdjbswYPkPLLjFINhg-Q8suMUg2FUvxxAqPrLaTz0_8CMOLek&_nc_ohc=IN0Cgyk8lxsAX-k4hKs&_nc_ht=scontent-lim1-1.xx&oh=00_AT-_NvogBTkns_ntJ5qcGMoYFJtFFAFo633bNsDJmdZZjA&oe=61FBA3DB" group-title="MUSICA Y REALITIES", 201 | Cumbia TV
 https://tv.siete.us/cumbiatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="PE | + Cumbia TV" tvg-name="PE | + Cumbia TV" channelId="202" tvg-logo="https://bestcableperu.com.pe/img/canales/98.jpg" group-title="MUSICA Y REALITIES", 202 | + Cumbia TV
-https://tv.siete.us:19360/mascumbiatvonline/mascumbiatvonline/tracks-v1a1/mono.m3u8
+https://ca.inka.net.pe/mascumbiatvonline/mascumbiatvonline/index.m3u8
 #EXTINF:-1 tvg-id="PE | Hatun TV" tvg-name="PE | Hatun TV" channelId="203" tvg-logo="https://bestcableperu.com.pe/img/canales/99.jpg" group-title="MUSICA Y REALITIES", 203 | Hatun TV
-https://tv.siete.us:19360/bestcablehatuntv/bestcablehatuntv/tracks-v1a1/mono.m3u8
+https://ca.inka.net.pe/bestcablehatuntv/bestcablehatuntv/index.m3u8
 #EXTINF:-1 tvg-id="PE | Belleza Andina TV" tvg-name="PE | Belleza Andina TV" channelId="204" tvg-logo="https://scontent.ftru4-1.fna.fbcdn.net/v/t1.6435-9/58419475_1407174666088232_447437662693883904_n.png?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFnAuKGE54hiWQG8t4boaaTPxdbP2Xz70M_F1s_ZfPvQ9q9gvzsUhvrfSMAWrXgHGU&_nc_ohc=K4pKm8GVp18AX-g3JYF&_nc_ht=scontent.ftru4-1.fna&oh=00_AT_Hm5evbIQx0SXCmFGA6IHZWLwbcKphgmzoW0ZX53dlLw&oe=6200727C" group-title="MUSICA Y REALITIES", 204 | Belleza Andina TV
 https://tv.siete.us/bellezaandina/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="PE | Visión TV Música" tvg-name="PE | Visión TV Música" channelId="205" tvg-logo="https://graph.facebook.com/visiontvmusica/picture?width=320&height=320" group-title="MUSICA Y REALITIES", 205 | Visión TV Música
@@ -455,10 +461,8 @@ http://live-edge01.telecentro.net.ar/live/msctphd-720/chunklist_w2124958063.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w1801551224_b1864000_sleng.m3u8
 #EXTINF:-1 tvg-id="CL | TV Pop" tvg-name="CL | TV Pop" channelId="209" tvg-logo="https://vivotvhd.com/img/cha/4308.gif" group-title="MUSICA Y REALITIES", 209 | TV Pop
 https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="CO | Claro Música: Sin límites" tvg-name="CO | Claro Música: Sin límites" channelId="210" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1543589165298-Imagen.png" group-title="MUSICA Y REALITIES", 210 | Claro Música: Sin límites
-http://190.4.0.200:3333/play/a02e/index.m3u8
-#EXTINF:-1 tvg-id="MX | Concert Channel" tvg-name="MX | Concert Channel" channelId="211" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/b/bc/Gallery_1157_7_147957.png/revision/latest/scale-to-width-down/250?cb=20150406181433&path-prefix=es" group-title="MUSICA Y REALITIES", 211 | Concert Channel
-http://190.4.0.200:3333/play/a03l/index.m3u8
+#EXTINF:-1 tvg-id="MX | Telehit Música" tvg-name="MX | Telehit Música" channelId="210" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Telehit_M%C3%BAsica_logo.png/145px-Telehit_M%C3%BAsica_logo.png" group-title="MUSICA Y REALITIES", 210 | Telehit Música
+http://reachforthesky.network:2086/live/RtK9NG97M8/8O16aw5yiQ/88824.m3u8
 #EXTINF:-1 tvg-id="CL | TV Salud" tvg-name="CL | TV Salud" channelId="212" tvg-logo="https://image.roku.com/developer_channels/prod/0cb910829e2a34c241e0da4d1f66747f7fa849da691d65ffa6d9b47af3880f6e.png" group-title="CULTURA Y EDUCACION", 212 | TV Salud
 https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w1709921774.m3u8
 #EXTINF:-1 tvg-id="AR | Rural TV" tvg-name="AR | Rural TV" channelId="213" tvg-logo="https://www.elrural.com/wp-content/themes/el-rural2016/images/canal-rural.png" group-title="CULTURA Y EDUCACION", 213 | Canal Rural
@@ -475,6 +479,8 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYTURBO/40-hls/live-me
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYTHEATER/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYTHEATER_stream_ss&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1828528010&_cdn_session=136599915&_cdn_timestamp=1643840684&_cdn_token=149daba14ab843b1f3870e065e36d1f60ecd088c
 #EXTINF:-1 tvg-id="USA | Discovery World" tvg-name="USA | Discovery World" channelId="219" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/245px-World_Discovery_HD_logo.svg.png" group-title="CULTURA Y EDUCACION", 219 | Discovery World
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYWORLD/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYWORLD_stream_tr&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1828528010&_cdn_session=136600355&_cdn_timestamp=1643840707&_cdn_token=f6ba1daf0e4c0ee984064e4dfa882b385a2146f9
+#EXTINF:-1 tvg-id="USA | Discovery Familia" tvg-name="USA | Discovery Familia" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Discovery_Familia_logo.svg/245px-Discovery_Familia_logo.svg.png" group-title="CULTURA Y EDUCACION", En prueba | Discovery Familia
+http://reachforthesky.network:2086/live/RtK9NG97M8/8O16aw5yiQ/88700.m3u8
 #EXTINF:-1 tvg-id="USA | Animal Planet" tvg-name="USA | Animal Planet" channelId="220" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/200px-2018_Animal_Planet_logo.svg.png" group-title="CULTURA Y EDUCACION", 220 | Animal Planet
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ANIMALPLANET/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DANIMALPLANET_stream_2n&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1828528010&_cdn_session=136600843&_cdn_timestamp=1643840725&_cdn_token=ea301b41f9d17264e2737717b0e04303681b071a
 #EXTINF:-1 tvg-id="USA | National Geographic" tvg-name="USA | National Geographic" channelId="221" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png" group-title="CULTURA Y EDUCACION", 221 | National Geographic
@@ -527,9 +533,7 @@ https://3abn-live.akamaized.net/hls/live/2010547/Latino/master.m3u8
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/chunklist_w484510804.m3u8
 #EXTINF:-1 tvg-id="RD | Cielo TV" tvg-name="RD | Cielo TV" channelId="245" tvg-logo="https://cielotv.do/wp-content/uploads/2021/07/logotipoctv.png" group-title="RELIGIOSOS", 245 | Cielo TV
 https://5e149b9159444.streamlock.net/_on-cielotv/_on-cielotv/chunklist_w272015717.m3u8
-#EXTINF:-1 tvg-id="CR | Enlace" tvg-name="CR | Enlace" channelId="246" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Enlace_Televisi%C3%B3n_logo.svg/245px-Enlace_Televisi%C3%B3n_logo.svg.png" group-title="RELIGIOSOS", 246 | Enlace
-http://190.4.0.200:3333/play/a01y/index.m3u8
-#EXTINF:-1 tvg-id="NI | Enlace Canal 21" tvg-name="NI | Enlace Canal 21" channelId="246.2" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT7bjw4NmODI49wGnBEv2KuF80_smXElW0mXdk0Ig=s900-c-k-c0x00ffffff-no-rj" group-title="RELIGIOSOS", 246.2 | Enlace 21 || Nicaragua
+#EXTINF:-1 tvg-id="NI | Enlace Canal 21" tvg-name="NI | Enlace Canal 21" channelId="246" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT7bjw4NmODI49wGnBEv2KuF80_smXElW0mXdk0Ig=s900-c-k-c0x00ffffff-no-rj" group-title="RELIGIOSOS", 246.2 | Enlace 21 || Nicaragua
 http://nicatv.rylco.com:8075/channel21/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | Genesis Televisión" tvg-name="MX | Genesis Televisión" channelId="247" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRbCF7BnMP3r9-58Hth2bRSLRhdY44J17ugd08rPA=s900-c-k-c0x00ffffff-no-rj" group-title="RELIGIOSOS", 247 | Genesis Televisión
 https://53c64a8009488.streamlock.net/genesis/smil:television.smil/playlist.m3u8
@@ -558,7 +562,7 @@ https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:-1 tvg-id="PE | Un Canal Inteligente Noticias" tvg-name="PE | Un Canal Inteligente Noticias" channelId="257" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/UCI_Un_Canal_Inteligente.jpg/600px-UCI_Un_Canal_Inteligente.jpg" group-title="REGIONALES", 257 | UCI Noticias Televisión || Lima
 https://mediastreamm.com:3449/live/mlecaroslive.m3u8
 #EXTINF:-1 tvg-id="PE | Best Cable TV" tvg-name="PE | Best Cable TV" channelId="258" tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png" group-title="REGIONALES", 258 | Best Cable Televisión || Lima
-https://tv.siete.us:19360/bestcable/bestcable/index.m3u8
+https://ca.inka.net.pe/bestcable/bestcable/index.m3u8
 #EXTINF:-1 tvg-id="PE | Asiri TV" tvg-name="PE | Asiri TV" channelId="259" tvg-logo="https://graph.facebook.com/904990302901417/picture?type=large" group-title="REGIONALES", 259 | Asiri Televisión || Lima
 https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTINF:-1 tvg-id="PE | Bextreme TV" tvg-name="PE | Bextreme TV" channelId="260" tvg-logo="https://i.imgur.com/d9n0sOZ.png" group-title="REGIONALES", 260 | Bextreme TV || Lima
@@ -668,7 +672,7 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ECUADORTV/20-hls/live-media.m
 #EXTINF:-1 tvg-id="EC | Ecuavisa" tvg-name="EC | Ecuavisa" channelId="306" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/200px-Ecuavisa_Logo_2019.png" group-title="ECUADOR", 306 | Ecuavisa || ECUADOR
 http://daletvplay.xyz:8080/live/vicsalas/iZgTUEt2z6/94975.m3u8
 #EXTINF:-1 tvg-id="EC | Red Telesistema" tvg-name="EC | Red Telesistema" channelId="307" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/150px-Rts_logo.png" group-title="ECUADOR", 307 | RTS || ECUADOR
-https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQzODA5NjY0LCJzZXNzaW9uIjoiMTgxLjE3Ni4xMjguOTciLCJ3aGl0ZWxpc3QiOlsiMTgxLjE3Ni4xMjguOTciXX0sInNpZ25hdHVyZSI6IjQwNWUyYWEwZWJlZDFjZTVlYjRkOWY3MzZjNzlmMDc2MTk2YWQyMTEifQ==
+https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQzOTQ2MDgzLCJzZXNzaW9uIjoiMTc5LjYuOTMuMTIwIiwid2hpdGVsaXN0IjpbIjE3OS42LjkzLjEyMCJdfSwic2lnbmF0dXJlIjoiNzBkY2IzODAxZjA2Y2RkNDEzYWUzM2QxMDk4YTg1OWUzNjcwMjc5OSJ9
 #EXTINF:-1 tvg-id="EC | Televisora Central Ecuatoriana" tvg-name="EC | Telecentro" channelId="308" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png" group-title="ECUADOR", 308 | TC Televisión || ECUADOR
 http://daletvplay.xyz:8080/live/vicsalas/iZgTUEt2z6/94999.m3u8
 #EXTINF:-1 tvg-id="EC | Oromar TV" tvg-name="EC | Oromar TV" channelId="309" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="ECUADOR", 309 | Oromar Televisión || ECUADOR
@@ -1006,9 +1010,9 @@ https://algochivo.com:1936/canal57/canal57/playlist.m3u8
 #EXTINF:-1 tvg-id="SLV | Sol TV Canal 99 Morazan" tvg-name="SLV | Sol TV Canal 99 Morazan" channelId="471" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ce9a3a96e0a17bbc1e2dd075a0c49f35.webp" group-title="EL SALVADOR", 471 | Sol TV || EL SALVADOR
 https://rtmp.info/soltv/envivo/chunklist_w1708857625.m3u8
 #EXTINF:-1 tvg-id="HN | TSi Canal 3" tvg-name="HN | TSi Canal 3" channelId="472" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/TSi_logo.png/195px-TSi_logo.png" group-title="HONDURAS", 472 | Telesistema Informativo || HONDURAS
-https://stream-03.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmkJBZZ5EF6X5XbkI-smMjCk)/dm/3/x7xs2wx/s/live-3.m3u8
+https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmkJBZZ5EF6X5XbkI-smMjCk)/dm/3/x7xs2wx/s/live-3.m3u8
 #EXTINF:-1 tvg-id="HN | Canal 5" tvg-name="HN | Canal 5" channelId="473" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_5_HN_logo_2019.png/150px-Canal_5_HN_logo_2019.png" group-title="HONDURAS", 473 | Canal 5 El Lider || HONDURAS
-https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZUwHj9f5IEpnMTu-Zw3CdMQ)/dm/3/x7vus5d/s/live-4.m3u8
+https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZRb05DHlMq0eX7EjVRigRNc)/dm/3/x7vus5d/s/live-3.m3u8
 #EXTINF:-1 tvg-id="HN | Telecadena 7 y 4" tvg-name="HN | Telecadena 7 y 4" channelId="474" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Telecadena7y42018.png/150px-Telecadena7y42018.png" group-title="HONDURAS", 474 | Telecadena 7 y 4 || HONDURAS
 http://breakingcable.xyz:80/live/5uhXSbB2g/1609164098/94556.m3u8
 #EXTINF:-1 tvg-id="HN | VTV" tvg-name="HN | VTV" channelId="475" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/VTV_HN_logo_2019.png/210px-VTV_HN_logo_2019.png" group-title="HONDURAS", 475 | Vica TV || HONDURAS
@@ -1018,7 +1022,7 @@ http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HN | Canal 11 HN" tvg-name="HN | Canal 11 HN" channelId="477" tvg-logo="https://canal11.hn/wp-content/themes/streamit/assets/images/logo.png" group-title="HONDURAS", 477 | Canal 11 HN || HONDURAS
 http://breakingcable.xyz:80/live/5uhXSbB2g/1609164098/94552.m3u8
 #EXTINF:-1 tvg-id="HN | Hondured Canal 13" tvg-name="HN | Hondured Canal 13" channelId="478" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Hondured-TV-en-vivo-Online-100x70.png" group-title="HONDURAS", 478 | Hondured || HONDURAS
-https://stream-02.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm4wO6dXt5rd7d9R1VUPqmZpc)/dm/3/x83axzj/s/live-1.m3u8
+https://stream-02.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm4_uPVe4JwONkETXiGDsUVT4)/dm/3/x83axzj/s/live-1.m3u8
 #EXTINF:-1 tvg-id="HN | LTV" tvg-name="HN | LTV" channelId="479" tvg-logo="https://images.tigocloud.net/brllnm7d8gre/4wUethBN3YmtWSDso4knkq/886bd5c23df975532c27045d6e89a5f3/ic-canal-ltv.png?q=70" group-title="HONDURAS", 479 | LTV || HONDURAS
 https://5e85d90130e77.streamlock.net/6022/6022/chunklist_w911572265.m3u8
 #EXTINF:-1 tvg-id="HN | DTV Canal 15" tvg-name="HN | DTV Canal 15" channelId="480" tvg-logo="https://images.tigocloud.net/brllnm7d8gre/7KuVbZTDBKeYoq4asJwFhU/4848cb6347e9d297e4b4d27a8c63d8ab/ic-canal-dtv.png?q=70" group-title="HONDURAS", 480 | DTV || HONDURAS
@@ -1043,7 +1047,7 @@ https://panel.dattalive.com/8122/8122/chunklist_w1401322809.m3u8
 #EXTINF:-1 tvg-id="HN | Metro TV" tvg-name="HN | Metro TV" channelId="489" tvg-logo="https://1.bp.blogspot.com/-6gQWDOzqUHU/XQo-_-umYGI/AAAAAAAAH00/gM_d6FInXxAQhKeRggaiKR_i-putnpGXACLcBGAs/s1600/Canal%2BLa%2BMetro%2BTV%2Bhonduras.png" group-title="HONDURAS", 489 | Metro TV || HONDURAS
 https://emisoras.hn:8081/metrotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HN | Todo Deportes TV" tvg-name="HN | Todo Deportes TV" channelId="490" tvg-logo="https://dd7tel2830j4w.cloudfront.net/f1560359694028x167785582725733730/Group%2012.svg" group-title="HONDURAS", 490 | TDTV || HONDURAS
-https://5fe2654d6127d.streamlock.net/tododeportesplus/smil:tododeportesplus.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xLzIwMjIgMTo1NToyNCBQTSZoYXNoX3ZhbHVlPW9WbVhFbm5sUkhUQmJQeHlJMXFsTnc9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZpZD0=
+https://5fe2654d6127d.streamlock.net/tododeportesplus/smil:tododeportesplus.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjIgNTozMjoxMyBBTSZoYXNoX3ZhbHVlPS9pQmJHRUNlSlgzaXF1RUZXclZudWc9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZpZD0=
 #EXTINF:-1 tvg-id="HN | Une TV" tvg-name="HN | Une TV" channelId="491" tvg-logo="https://pbs.twimg.com/profile_images/817352279489712128/mdy2Fh0s_400x400.jpg" group-title="HONDURAS", 491 | Une TV || HONDURAS
 http://imjgrp.club:8080/live/EVA100/EVA100/138525.m3u8
 #EXTINF:-1 tvg-id="HN | Teleceiba" tvg-name="HN | Teleceiba" channelId="492" tvg-logo="https://cdn.mitvstatic.com/channels/hn_teleceiba_m.png" group-title="HONDURAS", 492 | Teleceiba || HONDURAS
@@ -1353,7 +1357,7 @@ https://samsung.ott-channels.stingray.com/qello/master.m3u8
 #EXTINF:-1 tvg-id="USA | Vallenato Internacional Radio & TV" tvg-name="USA | Vallenato Internacional Radio & TV" channelId="627" tvg-logo="https://cdn.colombia.com/canales/vallenato-internacional-radio-tv-3172.jpg" group-title="CANALES DE VIDEO", 627 | Vallenato Internacional Radio & TV || ESTADOS UNIDOS
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Rockola Televisión" tvg-name="USA | Rockola Televisión" channelId="628" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2718-294x165-FFFFFF.jpg" group-title="CANALES DE VIDEO", 628 | Rockola Televisión || ESTADOS UNIDOS
-https://917ebd53b511440f9669a926b4ba9153.mediatailor.us-east-1.amazonaws.com/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-VivaLive/30fdc87e-5b37-4fc9-8168-99bb73efe93d/0.m3u8
+https://917ebd53b511440f9669a926b4ba9153.mediatailor.us-east-1.amazonaws.com/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-VivaLive/52664753-b7ed-4757-bd37-d14183ebfaba/0.m3u8
 #EXTINF:-1 tvg-id="CL | Radio Recuerdos Retro TV" tvg-name="CL | Radio Recuerdos Retro TV" channelId="629" tvg-logo="https://recuerdosretro.com/radio/wp-content/uploads/2019/09/cropped-logo_new_web10.png" group-title="CANALES DE VIDEO", 629 | Radio Recuerdos Retro TV || CHILE
 https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Hits 360" tvg-name="USA | Hits 360" channelId="630" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1853-294x165-FFFFFF.jpg" group-title="CANALES DE VIDEO", 630 | Hits 360 || ESTADOS UNIDOS
