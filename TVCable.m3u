@@ -1169,7 +1169,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_PLA_SC
 https://19813.live.streamtheworld.com/CRP_INC_SC?csegid=20001&dist=20001&ttag=20001
 #EXTINF:-1 tvg-id="PE | Radio Oriente" tvg-name="PE | Radio Oriente" channelId="562" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/oriente-lima.png" group-title="EMISORAS NACIONALES", 562 | Radio Oriente 560 AM || Lima; Perú
 http://radio.radiotel.net:9312/stream/1/
-#EXTINF:-1 tvg-id="PE | Radio María del Perú" tvg-name="PE | Radio María del Perú" channelId="563" tvg-logo="https://www.radiomariaperu.org/wp-content/uploads/2018/06/LogoPE.jpg" group-title="EMISORAS NACIONALES", 563 | Radio María del Perú 580 AM || Lima; Perú
+#EXTINF:-1 tvg-id="PE | Radio María" tvg-name="PE | Radio María" channelId="563" tvg-logo="https://www.radiomariaperu.org/wp-content/uploads/2018/06/LogoPE.jpg" group-title="EMISORAS NACIONALES", 563 | Radio María 580 AM || Lima; Perú
 http://dreamsiteradiocp4.com:8020/
 #EXTINF:-1 tvg-id="PE | Radio Cordillera" tvg-name="PE | Radio Cordillera" channelId="564" tvg-logo="http://www.radiocordillera600am.com.pe/images/logo.jpg" group-title="EMISORAS NACIONALES", 564 | Radio Cordillera 600 AM || Lima; Perú
 https://node-24.zeno.fm/nn01m46fwa0uv?rj-ttl=5&rj-tok=AAABfELK4c0Aa33jK9pWPQhzfA
@@ -1201,7 +1201,7 @@ http://radio.transmite.pe:9300/stream
 http://65.60.2.26:8046/;
 #EXTINF:-1 tvg-id="PE | Radio Nuevo Tiempo" tvg-name="PE | Radio Nuevo Tiempo" channelId="578" tvg-logo="https://api.raddios.com/api/radios/723/image/miniaturamovil?2020-04-20%2010:38:56" group-title="EMISORAS NACIONALES", 578 | Radio Nuevo Tiempo 1380 AM || Lima; Perú
 https://stream.live.novotempo.com/radio/smil:radionuevotiempo.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Radio Callao" tvg-name="PE | Radio Callao" channelId="579" tvg-logo="http://www.radiocallao.com/rcallao.jpg" group-title="EMISORAS NACIONALES", 579 | Radio Callao 1400 AM || Lima; Perú
+#EXTINF:-1 tvg-id="PE | Radio Callao" tvg-name="PE | Radio Callao" channelId="579" tvg-logo="https://4.bp.blogspot.com/-IqFb6Dms7jw/XWZDFkyNUTI/AAAAAAAAN2E/1e0bymrhggcIIRH36LnD-fRGFrRjMPqewCLcBGAs/s200/callao.jpg" group-title="EMISORAS NACIONALES", 579 | Radio Callao 1400 AM || Lima; Perú
 http://iax.infomagia.com:8000/;
 #EXTINF:-1 tvg-id="PE | Radio Santa Rosa" tvg-name="PE | Radio Santa Rosa" channelId="580" tvg-logo="https://radiosantarosa.com.pe/wp-content/uploads/2019/02/c52.png" group-title="EMISORAS NACIONALES", 580 | Radio Santa Rosa 1500 AM || Lima; Perú
 https://securestream.conectarhosting.com:8136/live
@@ -1296,7 +1296,7 @@ https://samsung.ott-channels.stingray.com/qello/master.m3u8
 #EXTINF:-1 tvg-id="USA | Vallenato Internacional Radio & TV" tvg-name="USA | Vallenato Internacional Radio & TV" channelId="609" tvg-logo="https://cdn.colombia.com/canales/vallenato-internacional-radio-tv-3172.jpg" group-title="CANALES DE VIDEO", 609 | Vallenato Internacional Radio & TV || ESTADOS UNIDOS
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Rockola Televisión" tvg-name="USA | Rockola Televisión" channelId="610" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2718-294x165-FFFFFF.jpg" group-title="CANALES DE VIDEO", 610 | Rockola Televisión || ESTADOS UNIDOS
-https://917ebd53b511440f9669a926b4ba9153.mediatailor.us-east-1.amazonaws.com/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-VivaLive/597bb017-1cfa-4808-8a98-8e83bdb61255/0.m3u8
+https://917ebd53b511440f9669a926b4ba9153.mediatailor.us-east-1.amazonaws.com/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-VivaLive/8ddb3d34-f0ff-4735-b9b0-c468ae9ceb2a/0.m3u8
 #EXTINF:-1 tvg-id="CL | Radio Recuerdos Retro TV" tvg-name="CL | Radio Recuerdos Retro TV" channelId="611" tvg-logo="https://recuerdosretro.com/radio/wp-content/uploads/2019/09/cropped-logo_new_web10.png" group-title="CANALES DE VIDEO", 611 | Radio Recuerdos Retro TV || CHILE
 https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Hits 360" tvg-name="USA | Hits 360" channelId="612" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1853-294x165-FFFFFF.jpg" group-title="CANALES DE VIDEO", 612 | Hits 360 || ESTADOS UNIDOS
