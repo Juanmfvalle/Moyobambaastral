@@ -199,8 +199,8 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FX/20-hls/live-media.m3u8?_cd
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FXM/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFXM_stream_p5&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1287985180&_cdn_session=143478723&_cdn_timestamp=1645285358&_cdn_token=01fe5a28d5dbfaf82217133ff2ba23bb859ca5f2
 #EXTINF:-1 tvg-id="USA | Universal" tvg-name="USA | Universal" channelId="91" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/167px-Universal_TV_logo.svg.png" group-title="PELICULAS Y SERIES", 91 | Universal TV
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/UNIVERSALCH/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUNIVERSAL_stream_4o&_cdn_hls_media=1&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1287985180&_cdn_session=143478899&_cdn_timestamp=1645285405&_cdn_token=aae0be8225bc9a5281fbc346dc814c1dfdce5980
-#EXTINF:-1 tvg-id="BO | Anime & Comics TV" tvg-name="BO | Anime & Comics TV" channelId="92" tvg-logo="https://comteco.com.bo/img/upload/canales/yUXfZ2.png" group-title="INFANTILES", 92 | Anime & Comics TV
-http://live.cdn.comteco.com.bo/comgo/0426/index.m3u8
+#EXTINF:-1 tvg-id="CL | Kids 90's TV" tvg-name="CL | Kids 90's TV" channelId="92" tvg-logo="https://i2.paste.pics/4a39976590ab0bd4fe7a0bbbd4411822.png" group-title="INFANTILES", 92 | Kids 90's TV
+https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="USA | ZooMoo" tvg-name="USA | ZooMoo" channelId="93" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/120px-ZooMoo_logo.svg.png" group-title="INFANTILES", 93 | ZooMoo
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ZOOMOO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DZOOMOO_stream_sr&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1287985180&_cdn_session=143479059&_cdn_timestamp=1645285446&_cdn_token=b560a2dfa83a7472e309644939b8b12a85b4b558
 #EXTINF:-1 tvg-id="USA | Dios TV Kids" tvg-name="USA | Dios TV Kids" channelId="94" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/hn-dios-te-ve-kids-8087-300x225.jpg" group-title="INFANTILES", 94 | Dios TV Kids
@@ -798,7 +798,7 @@ http://tv.mediame.xyz:25461/live/davidllovo/OGvnH65gFR/22173.m3u8
 #EXTINF:-1 tvg-id="UY | La Red" tvg-name="UY | La Red" channelId="377" tvg-logo="http://www.redtv.com.uy/wp-content/uploads/2019/10/logoheader2.png" group-title="URUGUAY", 377 | La Red || URUGUAY
 https://stmv1.srvif.com/laredtv/laredtv/chunklist_w1599297465.m3u8
 #EXTINF:-1 tvg-id="UY | Cardinal TV" tvg-name="UY | Cardinal TV" channelId="378" tvg-logo="https://cds-assets.cdn.antel.net.uy/imagenes/recursos/ujY5mpk7dGcr7OXHJiAaHhU3m4BITFo9qZpgjX99.jpeg" group-title="URUGUAY", 378 | Televisión Cardinal || URUGUAY
-https://vxlive.cdn.antel.net.uy/auth_V_Cardinal_TV,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQ2FyZGluYWxfVFYlMkZ2eGZtdCUzRGhscyUyRiUyQSZleHBpcnk9MTY0NTIzMDM4MiZyYW5kb209Y0RxNHFXRjl1MyZjLWlwPTE5MC4yMzYuMjI0LjM3JmlkX3JlZmVyZW5jaWE9JmlkX2Rpc3Bvc2l0aXZvPTAmaWRfZnJvbnRlbmQ9MTE5NiZwdWJsaWNfaWQ9MnM2cHcsZWIwN2NmMjhiM2NiODg1YWJhYjE1NTlkYjFlMThkODg3NGE0ZTdlYzE0NzU3NTk3ODU4NTZlMjJmZWU4M2NkNg==/vxfmt=hls/h_b501f7f9ef94e6a5e38f72686d1b7ff8/var3000000/playlist.m3u8
+https://vxlive.cdn.antel.net.uy/auth_V_Cardinal_TV,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQ2FyZGluYWxfVFYlMkZ2eGZtdCUzRGhscyUyRiUyQSZleHBpcnk9MTY0NTMwODY0OCZyYW5kb209YjJscmx5a0g5NiZjLWlwPTE5MC4yMzYuMjI0LjM3JmlkX3JlZmVyZW5jaWE9JmlkX2Rpc3Bvc2l0aXZvPTAmaWRfZnJvbnRlbmQ9MTE5NiZwdWJsaWNfaWQ9MnM2cHcsOTlhMWU5ZDljNDBmMTdjNDgwYWE0NDE1MGQ0NDA4Mzc4OGE3ZWY2ZGE1NmJlODY2NDYyMjc3ODFhZjFmNDRiZA==/vxfmt=hls/h_b501f7f9ef94e6a5e38f72686d1b7ff8/var1200000/playlist.m3u8
 #EXTINF:-1 tvg-id="UY | UCL TV" tvg-name="UY | UCL TV" channelId="379" tvg-logo="https://www.ucltelevision.com/wp-content/uploads/2021/04/cropped-Logo-UCL-TV-LATAM-horizontal-132x65.png" group-title="URUGUAY", 379 | Un Canal Latinoamericano TV || URUGUAY
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 tvg-id="PY | Telefuturo" tvg-name="PY | Telefuturo" channelId="380" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Telefuturo2017.png/150px-Telefuturo2017.png" group-title="PARAGUAY", 380 | Telefuturo || PARAGUAY
@@ -814,7 +814,7 @@ http://zpt2.0.bummerprime.xyz:25461/live/galera/aDSipmyJSR/36567.m3u8
 #EXTINF:-1 tvg-id="PY | La Tele" tvg-name="PY | La Tele" channelId="385" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Latele_Paraguay.jpg" group-title="PARAGUAY", 385 | La Tele || PARAGUAY
 http://tv.mediame.xyz:25461/live/davidllovo/OGvnH65gFR/1251.m3u8
 #EXTINF:-1 tvg-id="PY | Noticias Paraguay" tvg-name="PY | Noticias Paraguay" channelId="386" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/NPY_%28Noticias_Paraguay%29.png/250px-NPY_%28Noticias_Paraguay%29.png" group-title="PARAGUAY", 386 | Noticias Paraguay || PARAGUAY
-http://tv.mediame.xyz:25461/live/davidllovo/OGvnH65gFR/60126.m3u8
+https://rds3.desdeparaguay.net/npy/npy_int_baja/playlist.m3u8?k=d41aae909f2f2c61fabb1b79a7fcb58e0d1eed01e4529d3e594c723ed9b652a8&exp=1645292518
 #EXTINF:-1 tvg-id="PY | Trece" tvg-name="PY | Trece" channelId="387" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/100px-Logotrececanal.png" group-title="PARAGUAY", 387 | Trece || PARAGUAY
 https://stream.rpc.com.py/live/trece.m3u8
 #EXTINF:-1 tvg-id="PY | Paraguay TV" tvg-name="PY | Paraguay TV" channelId="388" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Paraguay_TV_logo_2019.png/245px-Paraguay_TV_logo_2019.png" group-title="PARAGUAY", 388 | Paraguay TV || PARAGUAY
@@ -824,7 +824,7 @@ http://45.55.127.106/live/unicanal_mid.m3u8
 #EXTINF:-1 tvg-id="PY | ABC TV" tvg-name="PY | ABC TV" channelId="390" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Abc_color.PNG/245px-Abc_color.PNG" group-title="PARAGUAY", 390 | ABC TV || PARAGUAY
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 #EXTINF:-1 tvg-id="PY | GEN TV" tvg-name="PY | GEN TV" channelId="391" tvg-logo="https://lanacionpy.nyc3.cdn.digitaloceanspaces.com/img/gen/logo.svg" group-title="PARAGUAY", 391 | GEN TV || PARAGUAY
-https://rds3gen.desdeparaguay.net/gentv/gentv_int_alta/playlist.m3u8?k=fd8a94257d7689feefcb4fe670789dedff759d5defccc399c5914ee3b6408b73&exp=1645216740
+https://rds3gen.desdeparaguay.net/gentv/gentv_int_alta/playlist.m3u8?k=9ce0959f31d74bf3ce7009e65fe4bdf5850bb58c25b2f86786b7b1e84157284d&exp=1645292729
 #EXTINF:-1 tvg-id="PY | Mi TV" tvg-name="PY | Mi TV" channelId="392" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png/800px-LOGO_MITV_ALTA_DEFINICION_2020_PNG.png" group-title="PARAGUAY", 392 | Mi TV || PARAGUAY
 https://rds3.desdeparaguay.net/mitv/mitv/chunklist_w735296660.m3u8?k=1ce349cc39ac8d18e2dafd9501d71521380d56fd6b86ed1516921c76d221b4f8&exp=1642343052
 #EXTINF:-1 tvg-id="PA | Televisora Nacional de Panamá" tvg-name="PA | Televisora Nacional de Panamá" channelId="393" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png/revision/latest/scale-to-width-down/220?cb=20200108123758&path-prefix=es" group-title="PANAMÁ", 393 | Televisora Nacional || PANAMÁ
