@@ -1045,52 +1045,60 @@ http://tv.streamgt.tk:25461/playgt/123456/82
 http://tv.streamgt.tk:25461/playgt/123456/83
 #EXTINF:-1 tvg-id="GT | Telecosta" tvg-name="GT | Telecosta" channelId="500" tvg-logo="https://www.telecostaescuintla.com/gallery_gen/3b51c096b46472b84baedd3e6dba34ff_200x176.png" group-title="GUATEMALA", 500 | Telecosta || GUATEMALA
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
-#EXTINF:-1 tvg-id="RD | Teleantillas" tvg-name="RD | Teleantillas" channelId="501" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/TeleAntillas.jpg/125px-TeleAntillas.jpg" group-title="REPUBLICA DOMINICANA", 501 | Teleantillas || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Teleantillas" tvg-name="DO | Teleantillas" channelId="501" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/TeleAntillas.jpg/125px-TeleAntillas.jpg" group-title="REPUBLICA DOMINICANA", 501 | Teleantillas || REPUBLICA DOMINICANA
 http://51.81.106.157:8084/hls/tantillas.m3u8
-#EXTINF:-1 tvg-id="RD | Si TV" tvg-name="RD | Si TV" channelId="502" tvg-logo="https://sitv.com.do/wp-content/uploads/2021/10/sitvlogo-1.svg" group-title="REPUBLICA DOMINICANA", 502 | Si TV || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Si TV" tvg-name="DO | Si TV" channelId="502" tvg-logo="https://sitv.com.do/wp-content/uploads/2021/10/sitvlogo-1.svg" group-title="REPUBLICA DOMINICANA", 502 | Si TV || REPUBLICA DOMINICANA
 http://190.122.104.221/Player/sitv.m3u8
-#EXTINF:-1 tvg-id="RD | Oui TV" tvg-name="RD | Oui TV" channelId="503" tvg-logo="https://television-planet.tv/uploads/posts/54erdhysehryrhsregplanet-television.png" group-title="REPUBLICA DOMINICANA", 503 | Oui TV || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Oui TV" tvg-name="DO | Oui TV" channelId="503" tvg-logo="https://television-planet.tv/uploads/posts/54erdhysehryrhsregplanet-television.png" group-title="REPUBLICA DOMINICANA", 503 | Oui TV || REPUBLICA DOMINICANA
 https://tutvonline.is-by.us:1936/ouitv/ouitv/chunklist_w858988243.m3u8
-#EXTINF:-1 tvg-id="RD | Canal 4RD" tvg-name="RD | Canal 4RD" channelId="504" tvg-logo="https://i0.wp.com/canal4rd.com/wp-content/uploads/2020/09/Canal-4-Logo-1.png?resize=1022%2C1024&ssl=1" group-title="REPUBLICA DOMINICANA", 504 | Canal 4RD || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Canal 4RD" tvg-name="DO | Canal 4RD" channelId="504" tvg-logo="https://i0.wp.com/canal4rd.com/wp-content/uploads/2020/09/Canal-4-Logo-1.png?resize=1022%2C1024&ssl=1" group-title="REPUBLICA DOMINICANA", 504 | Canal 4RD || REPUBLICA DOMINICANA
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1781301532_b2146304.m3u8
-#EXTINF:-1 tvg-id="RD | Cananga Televisión" tvg-name="RD | Cananga Televisión" channelId="505" tvg-logo="https://canalesdominicanos.live/template/images/radios/cananga-tv.jpeg" group-title="REPUBLICA DOMINICANA", 505 | Cananga Televisión || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Cananga Televisión" tvg-name="DO | Cananga Televisión" channelId="505" tvg-logo="https://canalesdominicanos.live/template/images/radios/cananga-tv.jpeg" group-title="REPUBLICA DOMINICANA", 505 | Cananga Televisión || REPUBLICA DOMINICANA
 https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8
-#EXTINF:-1 tvg-id="RD | Telemicro" tvg-name="RD | Telemicro" channelId="506" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png/revision/latest/scale-to-width-down/170?cb=20191125192220&path-prefix=es" group-title="REPUBLICA DOMINICANA", 506 | Telemicro || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Telemicro" tvg-name="DO | Telemicro" channelId="506" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png/revision/latest/scale-to-width-down/170?cb=20191125192220&path-prefix=es" group-title="REPUBLICA DOMINICANA", 506 | Telemicro || REPUBLICA DOMINICANA
 http://51.81.93.29:8084/hls/tmicro.m3u8
-#EXTINF:-1 tvg-id="RD | Antena 7" tvg-name="RD | Antena 7" channelId="507" tvg-logo="https://www.antena7.com.do/wp-content/themes/albavision-theme/parts-web/8da00b1c/logo.png" group-title="REPUBLICA DOMINICANA", 507 | Antena 7 || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Antena 7" tvg-name="DO | Antena 7" channelId="507" tvg-logo="https://www.antena7.com.do/wp-content/themes/albavision-theme/parts-web/8da00b1c/logo.png" group-title="REPUBLICA DOMINICANA", 507 | Antena 7 || REPUBLICA DOMINICANA
 http://51.81.106.157:8084/hls/alatina.m3u8
-#EXTINF:-1 tvg-id="RD | Color Visión" tvg-name="RD | Color Visión" channelId="En prueba" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ec05bd74826e90977bf051086434a04d.webp" group-title="REPUBLICA DOMINICANA", En prueba | Color Visión || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Color Visión" tvg-name="DO | Color Visión" channelId="En prueba" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ec05bd74826e90977bf051086434a04d.webp" group-title="REPUBLICA DOMINICANA", En prueba | Color Visión || REPUBLICA DOMINICANA
 http://51.81.93.239:8084/hls/colorABR.m3u8
-#EXTINF:-1 tvg-id="RD | Telesistema" tvg-name="RD | Telesistema" channelId="En prueba" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/telesistemac-100x70.png" group-title="REPUBLICA DOMINICANA", En prueba | Telesistema || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Telesistema" tvg-name="DO | Telesistema" channelId="En prueba" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/telesistemac-100x70.png" group-title="REPUBLICA DOMINICANA", En prueba | Telesistema || REPUBLICA DOMINICANA
 http://51.81.93.29:8084/hls/tsistemas.m3u8
-#EXTINF:-1 tvg-id="RD | Telecentro" tvg-name="RD | Telecentro" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Telecentro_ICON.jpg/125px-Telecentro_ICON.jpg" group-title="REPUBLICA DOMINICANA", En prueba | Telecentro || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Telecentro" tvg-name="DO | Telecentro" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Telecentro_ICON.jpg/125px-Telecentro_ICON.jpg" group-title="REPUBLICA DOMINICANA", En prueba | Telecentro || REPUBLICA DOMINICANA
 http://51.81.93.29:8084/hls/telecentro.m3u8
-#EXTINF:-1 tvg-id="RD | Catorce TV" tvg-name="RD | Catorce TV" channelId="En prueba" tvg-logo="http://14tv.live/logo.png" group-title="REPUBLICA DOMINICANA", En prueba | Catorce TV || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Catorce TV" tvg-name="DO | Catorce TV" channelId="En prueba" tvg-logo="http://14tv.live/logo.png" group-title="REPUBLICA DOMINICANA", En prueba | Catorce TV || REPUBLICA DOMINICANA
 https://video.misistemareseller.com/catorcetv/catorcetv/playlist.m3u8
-#EXTINF:-1 tvg-id="RD | Digital 15" tvg-name="RD | Digital 15" channelId="En prueba" tvg-logo="http://festivaldecineglobal.org/2014/wp-content/uploads/Digital15-228x176.png" group-title="REPUBLICA DOMINICANA", En prueba | Digital 15 || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Digital 15" tvg-name="DO | Digital 15" channelId="En prueba" tvg-logo="http://festivaldecineglobal.org/2014/wp-content/uploads/Digital15-228x176.png" group-title="REPUBLICA DOMINICANA", En prueba | Digital 15 || REPUBLICA DOMINICANA
 http://51.81.93.29:8084/hls/d15.m3u8
-#EXTINF:-1 tvg-id="RD | RTVD 17" tvg-name="RD | RTVD 17" channelId="En prueba" tvg-logo="https://canal17rd.com/wp-content/uploads/2020/09/cropped-logo.png" group-title="REPUBLICA DOMINICANA", En prueba | RTVD 17 || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | RTVD 17" tvg-name="DO | RTVD 17" channelId="En prueba" tvg-logo="https://canal17rd.com/wp-content/uploads/2020/09/cropped-logo.png" group-title="REPUBLICA DOMINICANA", En prueba | RTVD 17 || REPUBLICA DOMINICANA
 https://protvradiostream.com:1936/rtvd17/ngrp:rtvd17_all/playlist.m3u8
-#EXTINF:-1 tvg-id="RD | Cinevisión" tvg-name="RD | Cinevisión" channelId="En prueba" tvg-logo="https://canal19.do/wp-content/uploads/2021/06/cropped-Logos-Canal-19-Cinevision-1024x341.png" group-title="REPUBLICA DOMINICANA", En prueba | Cinevisión || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Cinevisión" tvg-name="DO | Cinevisión" channelId="En prueba" tvg-logo="https://canal19.do/wp-content/uploads/2021/06/cropped-Logos-Canal-19-Cinevision-1024x341.png" group-title="REPUBLICA DOMINICANA", En prueba | Cinevisión || REPUBLICA DOMINICANA
 https://live.teledom.info:3713/live/cinevisionlive.m3u8
-#EXTINF:-1 tvg-id="RD | Nexxo TV" tvg-name="RD | Nexxo TV" channelId="En prueba" tvg-logo="http://nexxo.tv/img/logo.png" group-title="REPUBLICA DOMINICANA", En prueba | Nexxo TV || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Nexxo TV" tvg-name="DO | Nexxo TV" channelId="En prueba" tvg-logo="http://nexxo.tv/img/logo.png" group-title="REPUBLICA DOMINICANA", En prueba | Nexxo TV || REPUBLICA DOMINICANA
 https://tutvonline.is-by.us:1936/nexxotv/nexxotv/playlist.m3u8
-#EXTINF:-1 tvg-id="RD | Antena 21" tvg-name="RD | Antena 21" channelId="508" tvg-logo="https://scontent.ftru4-1.fna.fbcdn.net/v/t31.18172-8/26240483_696593807395446_2456714757329890281_o.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeF6JLy50HveUSWtcy5soF0pqyumKz5p6vKrK6YrPmnq8qU-m2fHik5qfJ05K31v1aQ&_nc_ohc=YJC-vUcdyJIAX9MXQxq&_nc_ht=scontent.ftru4-1.fna&oh=00_AT8DTmN3mEQ1mcCGGsYFvMIxZ3qovEJUUNDPF9R8ew1lLA&oe=62026911" group-title="REPUBLICA DOMINICANA", 508 | Antena 21 || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Antena 21" tvg-name="DO | Antena 21" channelId="508" tvg-logo="https://scontent.ftru4-1.fna.fbcdn.net/v/t31.18172-8/26240483_696593807395446_2456714757329890281_o.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeF6JLy50HveUSWtcy5soF0pqyumKz5p6vKrK6YrPmnq8qU-m2fHik5qfJ05K31v1aQ&_nc_ohc=YJC-vUcdyJIAX9MXQxq&_nc_ht=scontent.ftru4-1.fna&oh=00_AT8DTmN3mEQ1mcCGGsYFvMIxZ3qovEJUUNDPF9R8ew1lLA&oe=62026911" group-title="REPUBLICA DOMINICANA", 508 | Antena 21 || REPUBLICA DOMINICANA
 http://51.81.93.239:8084/hls/a21.m3u8
-#EXTINF:-1 tvg-id="RD | Telefuturo canal 23" tvg-name="RD | Telefuturo canal 23" channelId="509" tvg-logo="http://telefuturo.com.do/home/wp-content/themes/telefuturo23/img/logo.png" group-title="REPUBLICA DOMINICANA", 509 | Telefuturo canal 23 || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Telefuturo canal 23" tvg-name="DO | Telefuturo canal 23" channelId="509" tvg-logo="http://telefuturo.com.do/home/wp-content/themes/telefuturo23/img/logo.png" group-title="REPUBLICA DOMINICANA", 509 | Telefuturo canal 23 || REPUBLICA DOMINICANA
 http://ss8.domint.net:2118/tf_str/futu/master.m3u8
-#EXTINF:-1 tvg-id="RD | Canal 25" tvg-name="RD | Canal 25" channelId="En prueba" tvg-logo="https://canal25rd.com/images/canal25_logo_2017_small.png" group-title="REPUBLICA DOMINICANA", En prueba | Canal 25 || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Canal 25" tvg-name="DO | Canal 25" channelId="En prueba" tvg-logo="https://canal25rd.com/images/canal25_logo_2017_small.png" group-title="REPUBLICA DOMINICANA", En prueba | Canal 25 || REPUBLICA DOMINICANA
 https://ss3.domint.net:3150/c25_str/canal25/playlist.m3u8
-#EXTINF:-1 tvg-id="RD | Red Nacional de Noticias" tvg-name="RD | Red Nacional de Noticias" channelId="En prueba" tvg-logo="https://i0.wp.com/rnn.com.do/wp-content/uploads/2021/11/LOGO-CUBOS-RNN-test-3.png?resize=1536%2C484&ssl=1" group-title="REPUBLICA DOMINICANA", En prueba | RNN || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Red Nacional de Noticias" tvg-name="DO | Red Nacional de Noticias" channelId="En prueba" tvg-logo="https://i0.wp.com/rnn.com.do/wp-content/uploads/2021/11/LOGO-CUBOS-RNN-test-3.png?resize=1536%2C484&ssl=1" group-title="REPUBLICA DOMINICANA", En prueba | RNN || REPUBLICA DOMINICANA
 http://cacatuaiptv.com/rnn.m3u8
-#EXTINF:-1 tvg-id="RD | EN Televisión" tvg-name="RD | EN Televisión" channelId="En prueba" tvg-logo="http://entelevision.com/wp-content/themes/entelevision/imagenes/logo-principal.png" group-title="REPUBLICA DOMINICANA", En prueba | EN Televisión || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | EN Televisión" tvg-name="DO | EN Televisión" channelId="En prueba" tvg-logo="http://entelevision.com/wp-content/themes/entelevision/imagenes/logo-principal.png" group-title="REPUBLICA DOMINICANA", En prueba | EN Televisión || REPUBLICA DOMINICANA
 https://video.misistemareseller.com/entelevision/entelevision/playlist.m3u8
-#EXTINF:-1 tvg-id="RD | Supercanal 33" tvg-name="RD | Supercanal 33" channelId="En prueba" tvg-logo="https://1.bp.blogspot.com/-apCuh7ef9oo/XiMXT7DxbiI/AAAAAAAAIWY/HvhzsoeWuck0a8_58dw4TdQyWuyGCQHbgCLcBGAsYHQ/s1600/img_super%2Bcanal%2B33%2Ben%2Bvivo%2Btv%2BDom.jpg" group-title="REPUBLICA DOMINICANA", En prueba | Supercanal 33 || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Supercanal 33" tvg-name="DO | Supercanal 33" channelId="En prueba" tvg-logo="https://1.bp.blogspot.com/-apCuh7ef9oo/XiMXT7DxbiI/AAAAAAAAIWY/HvhzsoeWuck0a8_58dw4TdQyWuyGCQHbgCLcBGAsYHQ/s1600/img_super%2Bcanal%2B33%2Ben%2Bvivo%2Btv%2BDom.jpg" group-title="REPUBLICA DOMINICANA", En prueba | Supercanal 33 || REPUBLICA DOMINICANA
 https://elgruposupercanal.streamgato.us:3658/live/supercanal33live.m3u8
-#EXTINF:-1 tvg-id="RD | Televisión del Este" tvg-name="RD | Televisión del Este" channelId="510" tvg-logo="https://televisiondeleste.net/wp-content/uploads/2021/04/LogoTVEste2.png" group-title="REPUBLICA DOMINICANA", 510 | Televisión del Este || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Sport Visión Canal 35" tvg-name="DO | Sport Visión Canal 35" channelId="En prueba" tvg-logo="https://canalesdominicanos.live/template/images/radios/small/sport-vision-canal-35.jpg" group-title="REPUBLICA DOMINICANA", En prueba | Sport Visión Canal 35 || REPUBLICA DOMINICANA
+https://5fa5de1a545ae.streamlock.net/sportvision35tv/sportvision35tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DO | CDN 37" tvg-name="DO | CDN 37" channelId="En prueba" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQaFlOLf2ETBNoLvzvPfnPDmChxG7FkUQJ5DkH0fg=s900-c-k-c0x00ffffff-no-rj" group-title="REPUBLICA DOMINICANA", En prueba | CDN Deportes || REPUBLICA DOMINICANA
+http://51.81.93.239:8084/hls/cdn.m3u8
+#EXTINF:-1 tvg-id="DO | Coral TV" tvg-name="DO | Coral TV" channelId="En prueba" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_01/large.Coral2017.PNG.5f4fc1a4dfac82acd43fccd93cffb82c.PNG" group-title="REPUBLICA DOMINICANA", En prueba | Coral TV || REPUBLICA DOMINICANA
+http://190.122.96.188:8888/http/005
+#EXTINF:-1 tvg-id="DO | Televisión del Este" tvg-name="DO | Televisión del Este" channelId="510" tvg-logo="https://televisiondeleste.net/wp-content/uploads/2021/04/LogoTVEste2.png" group-title="REPUBLICA DOMINICANA", 510 | Televisión del Este || REPUBLICA DOMINICANA
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="RD | Teleradio América" tvg-name="RD | Teleradio América" channelId="En prueba" tvg-logo="https://teleradioamerica.com/wp-content/themes/tra2017/imagenes/logo.png" group-title="REPUBLICA DOMINICANA", En prueba | Teleradio América || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Teleradio América" tvg-name="DO | Teleradio América" channelId="En prueba" tvg-logo="https://teleradioamerica.com/wp-content/themes/tra2017/imagenes/logo.png" group-title="REPUBLICA DOMINICANA", En prueba | Teleradio América || REPUBLICA DOMINICANA
 https://rctvhd.net:8081/teleradioamerica/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="DO | CDN Deportes" tvg-name="DO | CDN Deportes" channelId="En prueba" tvg-logo="https://cdndeportes.com.do/wp-content/uploads/2022/02/Logo_CDNDeportes.svg" group-title="REPUBLICA DOMINICANA", En prueba | CDN Deportes || REPUBLICA DOMINICANA
+http://51.81.93.29:8084/hls/cdnsm.m3u8
 #EXTINF:-1 tvg-id="ES | La 1" tvg-name="ES | La 1" channelId="511" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/125px-Logo_TVE-1.svg.png" group-title="ESPAÑA", 511 | La 1 || ESPAÑA
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="ES | La 2" tvg-name="ES | La 2" channelId="512" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/800px-Logo_TVE-2.svg.png" group-title="ESPAÑA", 5012 | La 2 || ESPAÑA
@@ -1321,5 +1329,5 @@ https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 https://917ebd53b511440f9669a926b4ba9153.mediatailor.us-east-1.amazonaws.com/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-VivaLive/18ee9e03-ce42-4d6f-8b98-8cc2e735ab3d/0.m3u8
 #EXTINF:-1 tvg-id="CL | Radio Recuerdos Retro TV" tvg-name="CL | Radio Recuerdos Retro TV" channelId="611" tvg-logo="https://recuerdosretro.com/radio/wp-content/uploads/2019/09/cropped-logo_new_web10.png" group-title="CANALES DE VIDEO", 611 | Radio Recuerdos Retro TV || CHILE
 https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Hits 360" tvg-name="USA | Hits 360" channelId="612" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1853-294x165-FFFFFF.jpg" group-title="CANALES DE VIDEO", 612 | Hits 360 || ESTADOS UNIDOS
+#EXTINF:-1 tvg-id="DO | Hits 360" tvg-name="DO | Hits 360" channelId="612" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1853-294x165-FFFFFF.jpg" group-title="CANALES DE VIDEO", 612 | Hits 360 || ESTADOS UNIDOS
 https://cm.hostlagarto.com:4445/hits360tv/hits360HD.myStream/playlist.m3u8
