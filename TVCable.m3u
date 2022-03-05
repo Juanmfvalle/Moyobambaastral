@@ -133,6 +133,8 @@ https://tunelive.net:3019/stream/play.m3u8
 http://45.225.93.154:8000/play/a02g
 #EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" channelId="59" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", 59 | Telemundo Internacional
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TELEMUNDO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEMUNDO_stream_fp&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1931631690&_cdn_session=150072643&_cdn_timestamp=1646575474&_cdn_token=68c4ca8c949edb3a4997acc68d5066e965d37eb9
+#EXTINF:-1 tvg-id="USA | Telemundo" tvg-name="USA | Telemundo" channelId="59.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 59.2 | Telemundo
+https://tunelive.net:3141/stream/play.m3u8
 #EXTINF:-1 tvg-id="USA | Galavisión" tvg-name="USA | Galavisión" channelId="60" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/160px-Galavision_Logo_2013.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 60 | Galavisión
 https://2.tunelive.net:3349/stream/play.m3u8
 #EXTINF:-1 tvg-id="USA | Unimas" tvg-name="USA | Unimas" channelId="61" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/100px-Logo_UniM%C3%A1s.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 61 | Unimás
