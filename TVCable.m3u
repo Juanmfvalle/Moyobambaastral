@@ -573,6 +573,8 @@ https://v4.tustreaming.cl/s1tv/playlist.m3u8
 https://servilive.com:3753/live/qosqotimeslive.m3u8
 #EXTINF:-1 tvg-id="PE | TV Sistemas" tvg-name="PE | TV Sistemas" channelId="270" tvg-logo="https://scontent.flim6-2.fna.fbcdn.net/v/t1.6435-9/155399550_277318890412303_7188947598099234633_n.png?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFAZfsmYY62zLsa6KsnVaAnmdKlWQ5Lo4KZ0qVZDkujgvwneUq3mCKA_6a6Z8B4m6k&_nc_ohc=oLPRd6_LdTAAX_lYKzq&_nc_ht=scontent.flim6-2.fna&oh=00_AT955qL1Z_SmPtWg-uqgqg9exBEOK7kpu5_G-QKTiHQhrg&oe=622E6AA9" group-title="REGIONALES", 270 | TV Sistemas || Cuzco
 https://panel.streamingtv-mediacp.online:1936/kdlrqjcp/kdlrqjcp/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | Uchu TV" tvg-name="PE | Uchu TV" channelId="En prueba" tvg-logo="https://uchutv.com/gallery_gen/9dc2fb58284d6eb1556ffd902b73cbdc_496x400.png" group-title="REGIONALES", 270 | Uchu TV || Cuzco
+https://tna5.bozztv.com/Cusco/index.m3u8
 #EXTINF:-1 tvg-id="PE | Quillavisión TV" tvg-name="PE | Quillavisión TV" channelId="271" tvg-logo="https://scontent.ftru4-2.fna.fbcdn.net/v/t1.6435-9/119165135_113085623871343_5973820231034478652_n.png?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeHVpQKHsoHaDIdtnLDHpQ9kDaRQVBqXqjcNpFBUGpeqNxPs_xgn6aeN6a61eaqZ0w8&_nc_ohc=4VRxEGH2b64AX8FF-ay&_nc_ht=scontent.ftru4-2.fna&oh=00_AT82RuIC_zQQTv30l6sPvk9RIr7NsJFPnB2YoepwaJvvbw&oe=6212AC1C" group-title="REGIONALES", 271 | Quillavisión TV || Quillabamba
 http://v4.tustreaming.cl/quillavision/index.m3u8
 #EXTINF:-1 tvg-id="PE | Pachatusan TV" tvg-name="PE | Pachatusan TV" channelId="272" tvg-logo="https://www.pachatusantelevision.com/wp-content/uploads/2021/01/LOGO-TV-1.png" group-title="REGIONALES", 272 | Pachatusan TV || Sicuani
@@ -591,6 +593,14 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 https://tv.portalexpress.es:3270/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="PE | Canal Sur" tvg-name="PE | Canal Sur" channelId="279" tvg-logo="https://graph.facebook.com/surtvilo/picture?width=320&height=320" group-title="REGIONALES", 279 | Canal Sur || Ilo
 https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | Telesur" tvg-name="PE | Telesur" channelId="En prueba" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png" group-title="REGIONALES", En prueba | Telesur || Ilo
+https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
+#EXTINF:-1 tvg-id="PE | Telesur" tvg-name="PE | Telesur" channelId="En prueba" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png" group-title="REGIONALES", En prueba | Telesur || Moquegua
+https://1667517699.rsc.cdn77.org/hls/moquegua.m3u8
+#EXTINF:-1 tvg-id="PE | Telesur" tvg-name="PE | Telesur" channelId="En prueba" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png" group-title="REGIONALES", En prueba | Telesur || Mollendo
+https://1667517699.rsc.cdn77.org/hls/mollendo.m3u8
+#EXTINF:-1 tvg-id="PE | Telesur" tvg-name="PE | Telesur" channelId="En prueba" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png" group-title="REGIONALES", En prueba | Telesur || Camana
+https://1667517699.rsc.cdn77.org/hls/camana.m3u8
 #EXTINF:-1 tvg-id="EC | Gamavisión" tvg-name="EC | Gamavisión" channelId="280" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ECUADOR", 280 | Gamavisión || ECUADOR
 http://daletvplay.xyz:8080/live/vicsalas/iZgTUEt2z6/94981.m3u8
 #EXTINF:-1 tvg-id="EC | Teleamazonas" tvg-name="EC | Teleamazonas" channelId="281" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/150px-Teleamazonas_Logo.png" group-title="ECUADOR", 281 | Teleamazonas || ECUADOR
@@ -1319,6 +1329,8 @@ http://server3.sit-mexico.com:8011/live
 https://audio-edge-es6pf.mia.g.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f
 #EXTINF:-1 tvg-id="ES | NSE Radio América" tvg-name="ES | NSE Radio América" channelId="606" tvg-logo="https://public-rf-upload.minhawebradio.net/166842/cover/73f0ce5e8eab2e197fc683cb50d7b20b.jpg" group-title="EMISORAS INTERNACIONALES", 606 | NSE (Nuestra Señora del Encuentro con Dios) Radio América || ESPAÑA
 https://mpc.mediacp.eu:8520/stream
+#EXTINF:-1 tvg-id="PE | Expresión Radio TV" tvg-name="PE | Expresión Radio TV" channelId="En prueba" tvg-logo="https://www.telesur.com.pe/recursos/page/expresion/images/logo.png" group-title="REGIONALES", En prueba | Expresión Radio TV || Ilo
+https://1667517699.rsc.cdn77.org/hls/radioilo.m3u8
 #EXTINF:-1 tvg-id="CL | TV Interactiva" tvg-name="CL | TV Interactiva" channelId="607" tvg-logo="http://radiointeractivafm.cl/player/v2/archivos/img/logo.jpg" group-title="CANALES DE AUDIO", 607 | TV Interactiva || CHILE
 https://live.tvcontrolcp.com:1936/interactiva/interactiva/playlist.m3u8?
 #EXTINF:-1 tvg-id="CA | Stingray Music Classic Rock" tvg-name="CA | Stingray Music Classic Rock" channelId="608" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", 608 | Stingray Music Classic Rock
