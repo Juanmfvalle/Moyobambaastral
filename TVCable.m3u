@@ -127,8 +127,6 @@ https://tunelive.net:3653/stream/play.m3u8
 https://tunelive.net:3019/stream/play.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" channelId="57" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", 57 | Telemundo Internacional
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TELEMUNDO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEMUNDO_stream_fp&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1547510270&_cdn_session=160727971&_cdn_timestamp=1648540271&_cdn_token=293f1a165c699d4e37a28487f394922f2ad30e2a
-#EXTINF:-1 tvg-id="USA | Telemundo" tvg-name="USA | Telemundo" channelId="57.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 57.2 | Telemundo
-https://tunelive.net:3141/stream/play.m3u8
 #EXTINF:-1 tvg-id="USA | Galavisión" tvg-name="USA | Galavisión" channelId="58" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/160px-Galavision_Logo_2013.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 58 | Galavisión
 https://2.tunelive.net:3349/stream/play.m3u8
 #EXTINF:-1 tvg-id="USA | Unimas" tvg-name="USA | Unimas" channelId="59" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/100px-Logo_UniM%C3%A1s.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 59 | Unimás
@@ -343,27 +341,27 @@ https://hvtrafico.ddns.net/migente720/migente720.stream/playlist.m3u8
 https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8
 #EXTINF:-1 tvg-id="USA | Nick Music" tvg-name="USA | Nick Music" channelId="164" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/220px-NickMusic.svg.png" group-title="MUSICA Y REALITIES", 164 | Nick Music
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/NICKMUSIC/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKTOONS_stream_vk&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1547510270&_cdn_session=160759795&_cdn_timestamp=1648546154&_cdn_token=441bb947e3b30392c67a24b32e115b95450c65b6
-#EXTINF:-1 tvg-id="CA | Music Choise Radio y Televisión" tvg-name="CA | Music Choise Radio y Televisión" channelId="165" tvg-logo="https://mcrt.ca/wp-content/uploads/2021/04/TORONTO-WEATHER.png" group-title="MUSICA Y REALITIES", 165 | MCRT 24/7 Hogar
+#EXTINF:-1 tvg-id="CA | Music Choise Radio y Televisión" tvg-name="CA | Music Choise Radio y Televisión" channelId="165" tvg-logo="https://play-lh.googleusercontent.com/eHF7A2N7jkQzC8BWfwVFWOiDgTHVbmFPZXoQTdZUtKuldMR_HVnQw7mk6yW5krADYYc=s200" group-title="MUSICA Y REALITIES", 165 | MCRT 24/7 Hogar
 https://stmv.negotv.com/mcrtele/mcrtele/playlist.m3u8
-#EXTINF:-1 tvg-id="CA | Music Choise Radio y Televisión" tvg-name="CA | Music Choise Radio y Televisión" channelId="165.2" tvg-logo="https://mcrt.ca/wp-content/uploads/2021/04/TORONTO-WEATHER.png" group-title="MUSICA Y REALITIES", 165.2 | MCRT 24/7 Banda
+#EXTINF:-1 tvg-id="CA | Music Choise Radio y Televisión" tvg-name="CA | Music Choise Radio y Televisión" channelId="165.2" tvg-logo="https://play-lh.googleusercontent.com/eHF7A2N7jkQzC8BWfwVFWOiDgTHVbmFPZXoQTdZUtKuldMR_HVnQw7mk6yW5krADYYc=s200" group-title="MUSICA Y REALITIES", 165.2 | MCRT 24/7 Banda
 https://stmv.negotv.com/bandamx/bandamx/playlist.m3u8
-#EXTINF:-1 tvg-id="CA | Music Choise Radio y Televisión" tvg-name="CA | Music Choise Radio y Televisión" channelId="165.3" tvg-logo="https://mcrt.ca/wp-content/uploads/2021/04/TORONTO-WEATHER.png" group-title="MUSICA Y REALITIES", 165.3 | MCRT 24/7 Cristiana
+#EXTINF:-1 tvg-id="CA | Music Choise Radio y Televisión" tvg-name="CA | Music Choise Radio y Televisión" channelId="165.3" tvg-logo="https://play-lh.googleusercontent.com/eHF7A2N7jkQzC8BWfwVFWOiDgTHVbmFPZXoQTdZUtKuldMR_HVnQw7mk6yW5krADYYc=s200" group-title="MUSICA Y REALITIES", 165.3 | MCRT 24/7 Cristiana
 https://stmv.negotv.com/religion2021/religion2021/playlist.m3u8
-#EXTINF:-1 tvg-id="CA | Music Choise Radio y Televisión" tvg-name="CA | Music Choise Radio y Televisión" channelId="165.4" tvg-logo="https://mcrt.ca/wp-content/uploads/2021/04/TORONTO-WEATHER.png" group-title="MUSICA Y REALITIES", 165.4 | MCRT 24/7 Gimnasio
+#EXTINF:-1 tvg-id="CA | Music Choise Radio y Televisión" tvg-name="CA | Music Choise Radio y Televisión" channelId="165.4" tvg-logo="https://play-lh.googleusercontent.com/eHF7A2N7jkQzC8BWfwVFWOiDgTHVbmFPZXoQTdZUtKuldMR_HVnQw7mk6yW5krADYYc=s200" group-title="MUSICA Y REALITIES", 165.4 | MCRT 24/7 Gimnasio
 https://stmv.negotv.com/gym2021/gym2021/playlist.m3u8
-#EXTINF:-1 tvg-id="CA | Music Choise Radio y Televisión" tvg-name="CA | Music Choise Radio y Televisión" channelId="165.5" tvg-logo="https://mcrt.ca/wp-content/uploads/2021/04/TORONTO-WEATHER.png" group-title="MUSICA Y REALITIES", 165.5 | MCRT 24/7 Español
+#EXTINF:-1 tvg-id="CA | Music Choise Radio y Televisión" tvg-name="CA | Music Choise Radio y Televisión" channelId="165.5" tvg-logo="https://play-lh.googleusercontent.com/eHF7A2N7jkQzC8BWfwVFWOiDgTHVbmFPZXoQTdZUtKuldMR_HVnQw7mk6yW5krADYYc=s200" group-title="MUSICA Y REALITIES", 165.5 | MCRT 24/7 Español
 https://stmv.negotv.com/espanolmusica/espanolmusica/playlist.m3u8
-#EXTINF:-1 tvg-id="CA | Music Choise Radio y Televisión" tvg-name="CA | Music Choise Radio y Televisión" channelId="165.6" tvg-logo="https://mcrt.ca/wp-content/uploads/2021/04/TORONTO-WEATHER.png" group-title="MUSICA Y REALITIES", 165.6 | MCRT 24/7 Regueton
+#EXTINF:-1 tvg-id="CA | Music Choise Radio y Televisión" tvg-name="CA | Music Choise Radio y Televisión" channelId="165.6" tvg-logo="https://play-lh.googleusercontent.com/eHF7A2N7jkQzC8BWfwVFWOiDgTHVbmFPZXoQTdZUtKuldMR_HVnQw7mk6yW5krADYYc=s200" group-title="MUSICA Y REALITIES", 165.6 | MCRT 24/7 Regueton
 https://stmv.negotv.com/regueton2021/regueton2021/playlist.m3u8
-#EXTINF:-1 tvg-id="CA | Music Choise Radio y Televisión" tvg-name="CA | Music Choise Radio y Televisión" channelId="165.7" tvg-logo="https://mcrt.ca/wp-content/uploads/2021/04/TORONTO-WEATHER.png" group-title="MUSICA Y REALITIES", 165.7 | MCRT 24/7 Actuales
+#EXTINF:-1 tvg-id="CA | Music Choise Radio y Televisión" tvg-name="CA | Music Choise Radio y Televisión" channelId="165.7" tvg-logo="https://play-lh.googleusercontent.com/eHF7A2N7jkQzC8BWfwVFWOiDgTHVbmFPZXoQTdZUtKuldMR_HVnQw7mk6yW5krADYYc=s200" group-title="MUSICA Y REALITIES", 165.7 | MCRT 24/7 Actuales
 https://stmv.negotv.com/top2021/top2021/playlist.m3u8
-#EXTINF:-1 tvg-id="CA | Music Choise Radio y Televisión" tvg-name="CA | Music Choise Radio y Televisión" channelId="165.8" tvg-logo="https://mcrt.ca/wp-content/uploads/2021/04/TORONTO-WEATHER.png" group-title="MUSICA Y REALITIES", 165.8 | MCRT 24/7 80'S
+#EXTINF:-1 tvg-id="CA | Music Choise Radio y Televisión" tvg-name="CA | Music Choise Radio y Televisión" channelId="165.8" tvg-logo="https://play-lh.googleusercontent.com/eHF7A2N7jkQzC8BWfwVFWOiDgTHVbmFPZXoQTdZUtKuldMR_HVnQw7mk6yW5krADYYc=s200" group-title="MUSICA Y REALITIES", 165.8 | MCRT 24/7 80'S
 https://stmv.negotv.com/80s2021/80s2021/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Music TV" tvg-name="USA | Music TV" channelId="166" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/125px-MTV-2021.svg.png" group-title="MUSICA Y REALITIES", 166 | MTV
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/MTV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DMTV_stream_3f&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1547510270&_cdn_session=160759339&_cdn_timestamp=1648546042&_cdn_token=31f9dba63d26f50fff35a51ed6e64fbae929929d
 #EXTINF:-1 tvg-id="CO | Telenostalgia" tvg-name="CO | Telenostalgia" channelId="167" tvg-logo="http://canaltelenostalgia.com/wp-content/uploads/2017/08/cropped-cropped-logo-TNL-2014.png" group-title="MUSICA Y REALITIES", 167 | Canal Telenostalgia
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TELENOSTALGIA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELENOSTALGIA_stream_or&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1547510270&_cdn_session=160759251&_cdn_timestamp=1648546023&_cdn_token=d9eb443208e87f2d94e46314e32c51bf7e2736d4
-#EXTINF:-1 tvg-id="CO | Amordiscos" tvg-name="CO | Amordiscos" channelId="168" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTbf0--Gh5nkG6h3bwKrsUj8jFXcyx0_h7QcsTe=s88-c-k-c0x00ffffff-no-rj" group-title="MUSICA Y REALITIES", 168 | Amordiscos TV
+#EXTINF:-1 tvg-id="CO | Amordiscos TV" tvg-name="CO | Amordiscos TV" channelId="168" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTbf0--Gh5nkG6h3bwKrsUj8jFXcyx0_h7QcsTe=s88-c-k-c0x00ffffff-no-rj" group-title="MUSICA Y REALITIES", 168 | Amordiscos TV
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:amordiscos_all/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Top Latino" tvg-name="PE | Top Latino" channelId="169" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png/150px-LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="MUSICA Y REALITIES", 169 | Top Latino TV
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
@@ -483,6 +481,8 @@ https://ott.streann.com/loadbalancer/services/public/channels/5e0689c82cdcb4fdbc
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
 #EXTINF:-1 tvg-id="BR | Perú Channel" tvg-name="BR | Perú Channel" channelId="225" tvg-logo="https://pbs.twimg.com/profile_images/1385792142329647107/iBTUTc12_400x400.jpg" group-title="INTERNACIONALES", 225 | Perú Channel
 https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | Perú Mágico" tvg-name="PE | Perú Mágico" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Peru_magico.png/200px-Peru_magico.png" group-title="INTERNACIONALES", En prueba | Perú Mágico
+http://ultra-premium-pro.xyz:8080/live/2022/2022/32661.m3u8
 #EXTINF:-1 tvg-id="PE | USMP TV" tvg-name="PE | USMP TV" channelId="226" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/USMP_TV_2017.svg/revision/latest/scale-to-width-down/56?cb=20210504214359&path-prefix=es" group-title="REGIONALES", 226 | USMP Televisión || Lima
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/USMPTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUSMPTV_stream_61&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1931631690&_cdn_session=160288947&_cdn_timestamp=1648472498&_cdn_token=bd088b235dca072d67bdb6928672b2b6b300e8d5
 #EXTINF:-1 tvg-id="PE | Bh TV" tvg-name="PE | Bh TV" channelId="227" tvg-logo="https://bhtv.pe/wp-content/uploads/2020/08/descarga-4.jpg" group-title="REGIONALES", 227 | BH Televisión || Lima
@@ -592,21 +592,21 @@ https://1667517699.rsc.cdn77.org/hls/mollendo.m3u8
 #EXTINF:-1 tvg-id="PE | Telesur" tvg-name="PE | Telesur" channelId="276.4" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png" group-title="REGIONALES", 276.4 | Telesur || Camana
 https://1667517699.rsc.cdn77.org/hls/camana.m3u8
 #EXTINF:-1 tvg-id="EC | Gamavisión" tvg-name="EC | Gamavisión" channelId="280" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ECUADOR", 280 | Gamavisión || ECUADOR
-http://daletvplay.xyz:8080/live/vicsalas/iZgTUEt2z6/94981.m3u8
+http://ultra-premium-pro.xyz:8080/live/2022/2022/37087.m3u8
 #EXTINF:-1 tvg-id="EC | Teleamazonas" tvg-name="EC | Teleamazonas" channelId="281" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/150px-Teleamazonas_Logo.png" group-title="ECUADOR", 281 | Teleamazonas || ECUADOR
-http://daletvplay.xyz:8080/live/vicsalas/iZgTUEt2z6/95006.m3u8
+http://ultra-premium-pro.xyz:8080/live/2022/2022/37116.m3u8
 #EXTINF:-1 tvg-id="EC | Televicentro" tvg-name="EC | Televicentro" channelId="282" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/TVCEC.png/150px-TVCEC.png" group-title="ECUADOR", 282 | TVC || ECUADOR
 https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQ4NTU1MzA4LCJzZXNzaW9uIjoiMTgxLjE3Ni42Ni4zOCIsIndoaXRlbGlzdCI6WyIxODEuMTc2LjY2LjM4Il19LCJzaWduYXR1cmUiOiIxMGU4MDBmNWNlZjA4ODNjYzU4ZTg4ZTBiYWJjZTZkZTBjYzdhMjIyIn0=
 #EXTINF:-1 tvg-id="EC | Ecuador TV" tvg-name="EC | Ecuador TV" channelId="283" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/150px-EcuadorTV_logo.png" group-title="ECUADOR", 283 | Ecuador TV || ECUADOR
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ECUADORTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DECUADORTV_stream_wj&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1547510270&_cdn_session=160759443&_cdn_timestamp=1648546074&_cdn_token=850a5da74ed8aabc65a691362ec5ea3e83ecb11a
 #EXTINF:-1 tvg-id="EC | Ecuavisa" tvg-name="EC | Ecuavisa" channelId="284" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/200px-Ecuavisa_Logo_2019.png" group-title="ECUADOR", 284 | Ecuavisa || ECUADOR
-http://daletvplay.xyz:8080/live/vicsalas/iZgTUEt2z6/94975.m3u8
+http://ultra-premium-pro.xyz:8080/live/2022/2022/37084.m3u8
 #EXTINF:-1 tvg-id="EC | Red Telesistema" tvg-name="EC | Red Telesistema" channelId="285" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/150px-Rts_logo.png" group-title="ECUADOR", 285 | RTS || ECUADOR
 https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQ4NTU1MzMzLCJzZXNzaW9uIjoiMTgxLjE3Ni42Ni4zOCIsIndoaXRlbGlzdCI6WyIxODEuMTc2LjY2LjM4Il19LCJzaWduYXR1cmUiOiIwOTZhYzk4MDAwMjliNGY1NGEzYzcxMDgwNGFiMTg0YWYxYzFhZDY0In0=
 #EXTINF:-1 tvg-id="EC | Televisora Central Ecuatoriana" tvg-name="EC | Telecentro" channelId="286" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png" group-title="ECUADOR", 286 | TC Televisión || ECUADOR
-http://daletvplay.xyz:8080/live/vicsalas/iZgTUEt2z6/94999.m3u8
+http://ultra-premium-pro.xyz:8080/live/2022/2022/37107.m3u8
 #EXTINF:-1 tvg-id="EC | Oromar TV" tvg-name="EC | Oromar TV" channelId="287" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="ECUADOR", 287 | Oromar Televisión || ECUADOR
-http://daletvplay.xyz:8080/live/vicsalas/iZgTUEt2z6/94989.m3u8
+http://ultra-premium-pro.xyz:8080/live/2022/2022/37097.m3u8
 #EXTINF:-1 tvg-id="EC | Canela TV" tvg-name="EC | Canela TV" channelId="288" tvg-logo="https://web.canelatv.com/wp-content/uploads/2020/10/ki.gif" group-title="ECUADOR", 288 | Canela TV || ECUADOR
 https://59d39900ebfb8.streamlock.net/canelatv/canelatv/chunklist_w1360767208.m3u8
 #EXTINF:-1 tvg-id="EC | Telerama" tvg-name="EC | Telerama" channelId="289" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_Telerama.png/250px-Logo_Telerama.png" group-title="ECUADOR", 289 | Telerama || ECUADOR
@@ -629,12 +629,16 @@ https://streamingwowza.com:1936/wuanplus/wuanplus/playlist.m3u8
 https://mediacpstreamchile.com:1936/sonoonda/sonoonda/chunklist_w1788970447.m3u8
 #EXTINF:-1 tvg-id="EC | UCSG Televisión" tvg-name="EC | UCSG Televisión" channelId="298" tvg-logo="https://ucsgrtv.com/tv/wp-content/uploads/2019/06/blanco.png" group-title="ECUADOR", 298 | UCSG Televisión || ECUADOR
 https://ecuastream.net:19360/ucsghd/ucsghd.m3u8
+#EXTINF:-1 tvg-id="EC | Zaracay Televisión" tvg-name="EC | Zaracay Televisión" channelId="En prueba" tvg-logo="" group-title="ECUADOR", 298 | Zaracay Televisión || ECUADOR
+https://streamingwowza.com:1936/zaracaytv/smil:zaracaytv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | Canal Capital" tvg-name="CO | Canal Capital" channelId="299" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/135px-2020_Canal_Capital_logo.svg.png" group-title="COLOMBIA", 299 | Canal Capital || COLOMBIA
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 #EXTINF:-1 tvg-id="CO | RCN +" tvg-name="CO | RCN +" channelId="300" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/RCN_HD2_2019.png/200px-RCN_HD2_2019.png" group-title="COLOMBIA", 300 | RCN + || COLOMBIA
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | Canal Caracol" tvg-name="CO | Canal Caracol" channelId="301" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="COLOMBIA", 301 | Canal Caracol || COLOMBIA
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:-1 tvg-id="CO | Canal 1" tvg-name="CO | Canal 1" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/125px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="COLOMBIA", En prueba | Canal 1 || COLOMBIA
+http://ultra-premium-pro.xyz:8080/live/2022/2022/56446.m3u8
 #EXTINF:-1 tvg-id="CO | Señal Colombia" tvg-name="CO | Señal Colombia" channelId="302" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/200px-Se%C3%B1al_Colombia_logo.svg.png" group-title="COLOMBIA", 302 | Señal Colombia || COLOMBIA
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | Canal Institucional" tvg-name="CO | Canal Institucional" channelId="303" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Se%C3%B1al_Institucional_logo.svg/140px-Se%C3%B1al_Institucional_logo.svg.png" group-title="COLOMBIA", 303 | Canal Institucional || COLOMBIA
@@ -666,7 +670,7 @@ https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1 tvg-id="VE | Venevisión" tvg-name="VE | Venevisión" channelId="315" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/90px-Logotipo_de_Venevisi%C3%B3n.svg.png" group-title="VENEZUELA", 315 | Venevisión || VENEZUELA
 http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="VE | Televen" tvg-name="VE | Televen" channelId="316" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Televen_logo.PNG/150px-Televen_logo.PNG" group-title="VENEZUELA", 316 | Televen || VENEZUELA
-https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8?PlaylistM3UCL
+http://120322.1222908.net:2086/live/9CdGgD6vni/lFybJms788/331141.m3u8
 #EXTINF:-1 tvg-id="VE | Venezolana de Televisión" tvg-name="VE | Venezolana de Televisión" channelId="317" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/1024px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" group-title="VENEZUELA", 317 | VTV || VENEZUELA
 https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLjirZvO1yKoJ02tQSm3OGd8)/dm/3/x828i6j/s/live-3.m3u8
 #EXTINF:-1 tvg-id="VE | Vepaco TV" tvg-name="VE | Vepaco TV" channelId="318" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Logo-Vepaco-TV.png/245px-Logo-Vepaco-TV.png" group-title="VENEZUELA", 318 | Vepaco TV || VENEZUELA
@@ -710,21 +714,24 @@ https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
 #EXTINF:-1 tvg-id="BO | Bolivia TV" tvg-name="BO | Bolivia TV" channelId="337" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Nueva_imagen_Bolivia_TV.jpg/245px-Nueva_imagen_Bolivia_TV.jpg" group-title="BOLIVIA", 337 | Bolivia TV || BOLIVIA
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Asociación de Teledifusoras Bolivianas" tvg-name="BO | Asociación de Teledifusoras Bolivianas" channelId="338" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/ATBBo2020Logo.png/150px-ATBBo2020Logo.png" group-title="BOLIVIA", 338 | ATB || BOLIVIA
-https://mediacp.hostradios.com.ar:19360/atbcom/atbcom.m3u8
+https://mediacp.hostradios.com.ar:19360/atbcochabamba/atbcochabamba.m3u8
 #EXTINF:-1 tvg-id="BO | Red Uno" tvg-name="BO | Red Uno" channelId="339" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/245px-Uno_logo.svg.png" group-title="BOLIVIA", 339 | Red Uno || BOLIVIA
 https://ott.streann.com/loadbalancer/services/public/channels/5ea9f3ab2cdc31ce152b0097/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Red Periodistas Asociados Televisión" tvg-name="BO | Red Periodistas Asociados Televisión" channelId="340" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Red_pat_new.jpg/220px-Red_pat_new.jpg" group-title="BOLIVIA", 340 | PAT || BOLIVIA
 https://master.tucableip.com//pat/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="BO | UPP TV" tvg-name="BO | UPP TV" channelId="341" tvg-logo="https://www.redbolivision.tv.bo/wp-content/uploads/2020/10/UPP-ULT.png" group-title="BOLIVIA", 341 | UPP TV || BOLIVIA
-https://bo-bolivision-santacruz-live.ned.media/bolivision/smil:santacruz.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQ3MDg5MTM3LCJzZXNzaW9uIjoiMTgxLjE3Ni4xMDQuNzEiLCJ3aGl0ZWxpc3QiOlsiMTgxLjE3Ni4xMDQuNzEiXX0sInNpZ25hdHVyZSI6ImYwYjBhY2I5ZjgwMzZlNGQyY2FmY2UxNmJmNDc5NzRmODEyZGNiMzkifQ==
-#EXTINF:-1 tvg-id="BO | Mega TV Canal 44" tvg-name="BO | Mega TV Canal 44" channelId="342" tvg-logo="https://i0.wp.com/megatvbolivia.com/wp-content/uploads/2022/01/megalog.png?w=1420&ssl=1" group-title="BOLIVIA", 342 | Mega TV || BOLIVIA
+#EXTINF:-1 tvg-id="BO | Cadena A" tvg-name="BO | Cadena A" channelId="341" tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2022/03/logoaweb.png" group-title="BOLIVIA", 341 | Cadena A || BOLIVIA
+https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
+#EXTINF:-1 tvg-id="BO | Mega TV" tvg-name="BO | Mega TV" channelId="342" tvg-logo="https://megatv.com.bo/wp-content/uploads/2022/02/cropped-MEGA-TV-LOGO-PNG.png" group-title="BOLIVIA", 342 | Mega TV || BOLIVIA
+https://stmv.panel.grupolimalive.com/mega/mega/playlist.m3u8
+#EXTINF:-1 tvg-id="BO | Mega TV Canal 44" tvg-name="BO | Mega TV Canal 44" channelId="En prueba" tvg-logo="https://i0.wp.com/megatvbolivia.com/wp-content/uploads/2022/01/megalog.png?w=1420&ssl=1" group-title="BOLIVIA", En prueba | Mega TV Canal 44 || BOLIVIA
+
 https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/chunklist_w104729669.m3u8
 #EXTINF:-1 tvg-id="BO | Cadena Coral" tvg-name="BO | Cadena Coral" channelId="343" tvg-logo="https://play-lh.googleusercontent.com/4GZtRfAZ36H4pyoxz1htoVE46eRt_M9sj2Y56En4h0Neezca7wFMaX7ec2n9sW5zJZo=s180-rw" group-title="BOLIVIA", 343 | Cadena Coral TV || BOLIVIA
 https://cp.serviaudio.com:1936/coraltv/coraltv/chunklist_w847914959.m3u8
 #EXTINF:-1 tvg-id="BO | TV Universitaria" tvg-name="BO | TV Universitaria" channelId="344" tvg-logo="http://tvmi.com.bo/wp-content/uploads/sites/2/2017/11/logotvu.png" group-title="BOLIVIA", 344 | TV Universitaria || BOLIVIA
 http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/chunklist_w526827989.m3u8
-#EXTINF:-1 tvg-id="BO | RTL" tvg-name="BO | RTL" channelId="345" tvg-logo="https://comteco.com.bo/img/upload/canales/96U37M.png" group-title="BOLIVIA", 345 | RTL || BOLIVIA
-http://live.cdn.comteco.com.bo/comgo/0217/index.m3u8
+#EXTINF:-1 tvg-id="BO | Veo TV" tvg-name="BO | Veo TV" channelId="345" tvg-logo="" group-title="BOLIVIA", 345 | Veo TV || BOLIVIA
+https://stmv.panel.grupolimalive.com/streamb/streamb/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Seo TV" tvg-name="BO | Seo TV" channelId="346" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png" group-title="BOLIVIA", 346 | Seo TV || BOLIVIA
 https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
 #EXTINF:-1 tvg-id="BO | Seo TV 2 Kids" tvg-name="BO | Seo TV 2 Kids" channelId="346.2" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png" group-title="BOLIVIA", 346.2 | Seo TV 2 Kids || BOLIVIA
@@ -737,10 +744,10 @@ https://inliveserver.com:1936/8158/8158/playlist.m3u8
 https://videohd.sistemareal.com:3290/live/tvoffhdlive.m3u8
 #EXTINF:-1 tvg-id="BO | Tele Estrella" tvg-name="BO | Tele Estrella" channelId="349" tvg-logo="https://play-lh.googleusercontent.com/_Og80NJnX-oAXxXB9NxF0F6U_blWK-vlgM9-QQPWic0zlqMwp6l2uJ8aPAcVTIsmKA" group-title="BOLIVIA", 349 | Tele Estrella || BOLIVIA
 http://hd.istbolivia.com:1935/Teleestrella/Teleestrella/playlist.m3u8
-#EXTINF:-1 tvg-id="BO | Neo TV Canal 31" tvg-name="BO | Neo TV Canal 31" channelId="350" tvg-logo="http://www.tucableip.com/canales/neotv.png" group-title="BOLIVIA", 350 | Neo TV || BOLIVIA
-https://master.tucableip.com/neotv/index.m3u8
-#EXTINF:-1 tvg-id="BO | Canal 35 TV Cable Camargo" tvg-name="BO | Canal 35 TV Cable Camargo" channelId="351" tvg-logo="http://www.tucableip.com/canales/35camargo.png" group-title="BOLIVIA", 351 | Canal 35 Camargo || BOLIVIA
-http://master.tucableip.com/35camargo/index.m3u8
+#EXTINF:-1 tvg-id="BO | Marvision TV de Potosi" tvg-name="BO | Marvision TV de Potosi" channelId="350" tvg-logo="https://marvisiontv.com/wp-content/uploads/elementor/thumbs/logoMV-ouzyrkgtwyns6td1jknv46cuol1f6qonx4cd92wb4y.png" group-title="BOLIVIA", 350 | Marvision TV de Potosi || BOLIVIA
+https://stmv.panel.grupolimalive.com/marvision/marvision/playlist.m3u8
+#EXTINF:-1 tvg-id="BO | Chaqueña de Televisión Canal 2" tvg-name="BO | Chaqueña de Televisión Canal 2" channelId="351" tvg-logo="https://play-lh.googleusercontent.com/RkJ_4G0OcBwu1U1tfCF7zyeSK-P8jKha2qGdUzGIvEFRHFMB-Jt14OyLbDpOagXrS-E=s200" group-title="BOLIVIA", 351 | Chaqueña de Televisión Canal 2 || BOLIVIA
+https://stmv.panel.grupolimalive.com/frecuencia/frecuencia/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | RTVE Canal 50" tvg-name="BO | RTVE Canal 50" channelId="352" tvg-logo="https://redencuentro.com/wp-content/uploads/2021/09/logo_rtve_oficial.png" group-title="BOLIVIA", 352 | Radio TV Encuentro || BOLIVIA
 https://stmv.panel.grupolimalive.com/encuentro/encuentro/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Ceacom TV" tvg-name="BO | Ceacom TV" channelId="353" tvg-logo="https://ceacomtv.com/wp-content/uploads/2021/01/Logo-CEACOM-web.png" group-title="BOLIVIA", 353 | Ceacom TV || BOLIVIA
@@ -751,8 +758,8 @@ https://master.tucableip.com/NetTv/index.m3u8
 https://livefocamundo.com:8081/megavisiontv/index.m3u8
 #EXTINF:-1 tvg-id="BO | Red Gigavisión" tvg-name="BO | Red Gigavisión" channelId="356" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTp8Fc0fC9r8pyXPU80A_oCKQ0x8_tJfAyCSGGe=s88-c-k-c0x00ffffff-no-rj" group-title="BOLIVIA", 356 | Red Gigavisión || BOLIVIA
 http://200.58.160.67:8081/envivo/gigavision/playlist.m3u8
-#EXTINF:-1 tvg-id="BO | FTV" tvg-name="BO | FTV" channelId="357" tvg-logo="https://pbs.twimg.com/profile_images/637288244506402816/D9GYBBZ3.jpg" group-title="BOLIVIA", 357 | Facetas Televisión || BOLIVIA
-https://master.tucableip.com/ftv/index.m3u8
+#EXTINF:-1 tvg-id="BO | Imperial TV" tvg-name="BO | Imperial TV" channelId="357" tvg-logo="https://imperialradiotv.com/wp-content/uploads/2021/02/logo-imperial-tv-oficial-alfa-fondo-blanco-768x461.jpg" group-title="BOLIVIA", 357 | Imperial Televisión || BOLIVIA
+https://stmv.panel.grupolimalive.com/imperial/imperial/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Bo Plus Televisión" tvg-name="BO | Bo Plus Televisión" channelId="358" tvg-logo="https://boplus.tv/wp-content/uploads/2021/08/LOGOTIPO-BOPLUS-uso-horizontal-1.png" group-title="BOLIVIA", 358 | Bo Plus Televisión || BOLIVIA
 https://servilive.com:3342/live/boplustvlive.m3u8
 #EXTINF:-1 tvg-id="BO | Ayni Televisión" tvg-name="BO | Ayni Televisión" channelId="359" tvg-logo="https://play-lh.googleusercontent.com/3LYp4KCoxAtKuMgDN5S6kHSxFuA7qxQoUNftznmnzyjcDp4bgqe6CGSQ4YMdFJ4rDAM" group-title="BOLIVIA", 359 | Ayni TV || BOLIVIA
@@ -760,7 +767,9 @@ http://hd.istbolivia.com:1935/aynitv/aynitv/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Xto TV" tvg-name="BO | Xto TV" channelId="360" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQfEUIGzraeGwUiQbZr6V7ElcOfcdhljNbB9BlQbA=s900-c-k-c0x00ffffff-no-rj" group-title="BOLIVIA", 360 | Xto TV || BOLIVIA
 http://136.243.3.70:1935/XtoTv/XtoTv/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | TVU Sucre" tvg-name="BO | TVU Sucre" channelId="361" tvg-logo="https://tvusucre.com/images/Cabeza-logo.png" group-title="BOLIVIA", 361 | TVU Sucre || BOLIVIA
-https://solo.disfrutaenlared.com:1936/tuch/mp4:tuch_720p/playlist.m3u8
+https://solo.disfrutaenlared.com:1936/tuch/mp4:tuch_1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="BO | Tu TV" tvg-name="BO | Tu TV" channelId="En prueba" tvg-logo="https://yt3.ggpht.com/U47VmnRDhgLjdt3il6T-qGIRgfsdVefCCbhJO6FdtjoRg3wP3a6_Jcg9zKboHqcrpBD-5hwGug=s88-c-k-c0x00ffffff-no-rj" group-title="BOLIVIA", En prueba | Tu TV || BOLIVIA
+https://stmv.panel.grupolimalive.com/tarija/tarija/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | La Red" tvg-name="CL | La Red" channelId="362" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Emblema_de_La_Red.png/200px-Emblema_de_La_Red.png" group-title="CHILE", 362 | La Red || CHILE
 https://unlimited2-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CL | TV Chile" tvg-name="CL | TV Chile" channelId="363" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/LogoTVCHILE.svg/100px-LogoTVCHILE.svg.png" group-title="CHILE", 363 | TV Chile || CHILE
@@ -782,37 +791,37 @@ http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AR | Encuentro TV" tvg-name="AR | Encuentro TV" channelId="370" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/150px-Logo_del_canal_Encuentro.svg.png" group-title="ARGENTINA", 370 | Encuentro TV || ARGENTINA
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist.m3u8
 #EXTINF:-1 tvg-id="UY | Canal 4" tvg-name="UY | Canal 4" channelId="373" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Canal4_uy.png/150px-Canal4_uy.png" group-title="URUGUAY", 373 | Canal 4 || URUGUAY
-https://edge3-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8
+http://ultra-premium-pro.xyz:8080/live/2022/2022/44771.m3u8
 #EXTINF:-1 tvg-id="UY | TV Ciudad" tvg-name="UY | TV Ciudad" channelId="374" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TVCiudad_logo_2020.png/140px-TVCiudad_logo_2020.png" group-title="URUGUAY", 374 | TV Ciudad || URUGUAY
-http://zpt2.0.bummerprime.xyz:25461/live/galera/aDSipmyJSR/38952.m3u8
+http://ultra-premium-pro.xyz:8080/live/2022/2022/44782.m3u8
 #EXTINF:-1 tvg-id="UY | Canal 10" tvg-name="UY | Canal 10" channelId="375" tvg-logo="https://static.wikia.nocookie.net/mediosuruguay/images/0/07/Canal_10_-_2006_%28Acortado%29.png/revision/latest/scale-to-width-down/350?cb=20210228102639&path-prefix=es" group-title="URUGUAY", 375 | Saeta TV Canal 10 || URUGUAY
-http://tv.mediame.xyz:25461/live/davidllovo/OGvnH65gFR/59826.m3u8
+http://ultra-premium-pro.xyz:8080/live/2022/2022/44781.m3u8
 #EXTINF:-1 tvg-id="UY | Teledoce" tvg-name="UY | Teledoce" channelId="376" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/LogoTeledoce2019Azul.png" group-title="URUGUAY", 376 | Teledoce || URUGUAY
-http://tv.mediame.xyz:25461/live/davidllovo/OGvnH65gFR/22173.m3u8
+http://ultra-premium-pro.xyz:8080/live/2022/2022/60303.m3u8
 #EXTINF:-1 tvg-id="UY | La Red" tvg-name="UY | La Red" channelId="377" tvg-logo="http://www.redtv.com.uy/wp-content/uploads/2019/10/logoheader2.png" group-title="URUGUAY", 377 | La Red || URUGUAY
 https://stmv1.srvif.com/laredtv/laredtv/chunklist_w1599297465.m3u8
-#EXTINF:-1 tvg-id="UY | Cardinal TV" tvg-name="UY | Cardinal TV" channelId="378" tvg-logo="https://cds-assets.cdn.antel.net.uy/imagenes/recursos/ujY5mpk7dGcr7OXHJiAaHhU3m4BITFo9qZpgjX99.jpeg" group-title="URUGUAY", 378 | Televisión Cardinal || URUGUAY
-https://vxlive.cdn.antel.net.uy/auth_V_Cardinal_TV,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQ2FyZGluYWxfVFYlMkZ2eGZtdCUzRGhscyUyRiUyQSZleHBpcnk9MTY0NTMwODY0OCZyYW5kb209YjJscmx5a0g5NiZjLWlwPTE5MC4yMzYuMjI0LjM3JmlkX3JlZmVyZW5jaWE9JmlkX2Rpc3Bvc2l0aXZvPTAmaWRfZnJvbnRlbmQ9MTE5NiZwdWJsaWNfaWQ9MnM2cHcsOTlhMWU5ZDljNDBmMTdjNDgwYWE0NDE1MGQ0NDA4Mzc4OGE3ZWY2ZGE1NmJlODY2NDYyMjc3ODFhZjFmNDRiZA==/vxfmt=hls/h_b501f7f9ef94e6a5e38f72686d1b7ff8/var1200000/playlist.m3u8
+#EXTINF:-1 tvg-id="UY | Canal 11 Punta del Este" tvg-name="UY | Canal 11 Punta del Este" channelId="378" tvg-logo="https://canal11.uy/wp-content/uploads/2015/12/log.png" group-title="URUGUAY", 378 | Canal 11 Punta del Este || URUGUAY
+http://ultra-premium-pro.xyz:8080/live/2022/2022/60327.m3u8
 #EXTINF:-1 tvg-id="UY | UCL TV" tvg-name="UY | UCL TV" channelId="379" tvg-logo="https://www.ucltelevision.com/wp-content/uploads/2021/04/cropped-Logo-UCL-TV-LATAM-horizontal-132x65.png" group-title="URUGUAY", 379 | Un Canal Latinoamericano TV || URUGUAY
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 tvg-id="PY | Noticias Paraguay" tvg-name="PY | Noticias Paraguay" channelId="380" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/NPY_%28Noticias_Paraguay%29.png/250px-NPY_%28Noticias_Paraguay%29.png" group-title="PARAGUAY", 380 | Noticias Paraguay || PARAGUAY
-http://tv.mediame.xyz:25461/live/davidllovo/OGvnH65gFR/60125.m3u8
+http://ultra-premium-pro.xyz:8080/live/2022/2022/66497.m3u8
 #EXTINF:-1 tvg-id="PY | Telefuturo" tvg-name="PY | Telefuturo" channelId="381" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Telefuturo2017.png/150px-Telefuturo2017.png" group-title="PARAGUAY", 381 | Telefuturo || PARAGUAY
-https://edge-live14-sl.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4-audio_20000=144800-video=1480000.m3u8
+http://ultra-premium-pro.xyz:8080/live/2022/2022/66501.m3u8
 #EXTINF:-1 tvg-id="PY | Paravisión" tvg-name="PY | Paravisión" channelId="382" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Paravision_logo.png/150px-Paravision_logo.png" group-title="PARAGUAY", 382 | Paravisión || PARAGUAY
-https://edge-live14-sl.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_SAGEMCOM/PARAVISION_C4-audio_20000=144800-video=1480000.m3u8
+http://ultra-premium-pro.xyz:8080/live/2022/2022/66508.m3u8
 #EXTINF:-1 tvg-id="PY | C9N" tvg-name="PY | C9N" channelId="383" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Canal_9_Noticias.jpg/125px-Canal_9_Noticias.jpg" group-title="PARAGUAY", 383 | Canal 9 Noticias || PARAGUAY
 https://py-c9n-c9n-live.ned.media/c9n/smil:c9n.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQ4NTU1MTExLCJzZXNzaW9uIjoiMTgxLjE3Ni42Ni4zOCIsIndoaXRlbGlzdCI6WyIxODEuMTc2LjY2LjM4Il19LCJzaWduYXR1cmUiOiJjMmQ5Y2ViNDE2MjE0YjYxYzlkOGI2YmRkYmYxZjgzY2I5ODlhYzZmIn0=
 #EXTINF:-1 tvg-id="PY | Sistema Nacional de Televisión" tvg-name="PY | Sistema Nacional de Televisión" channelId="384" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/SNT_LOGO.jpg/220px-SNT_LOGO.jpg" group-title="PARAGUAY", 384 | SNT || PARAGUAY
 https://py-snt-snt-live.ned.media/snt/smil:snt.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQ4NTU0ODQ2LCJzZXNzaW9uIjoiMTgxLjE3Ni42Ni4zOCIsIndoaXRlbGlzdCI6WyIxODEuMTc2LjY2LjM4Il19LCJzaWduYXR1cmUiOiI2YjdkOGI2MGE1NGZiYzFlNzM0MWU3OTc4NWI0ZDUxMzM1ODY1MTQ2In0=
 #EXTINF:-1 tvg-id="PY | Sur Televisión" tvg-name="PY | Sur Televisión" channelId="385" tvg-logo="https://cdn.mitvstatic.com/channels/116c52f1-8f55-4325-af6d-ab11f98e81d5_m.jpg" group-title="PARAGUAY", 385 | Sur Televisión || PARAGUAY
-http://zpt2.0.bummerprime.xyz:25461/live/galera/aDSipmyJSR/36567.m3u8
+http://ultra-premium-pro.xyz:8080/live/2022/2022/66500.m3u8
 #EXTINF:-1 tvg-id="PY | La Tele" tvg-name="PY | La Tele" channelId="386" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Latele_Paraguay.jpg" group-title="PARAGUAY", 386 | La Tele || PARAGUAY
-http://tv.mediame.xyz:25461/live/davidllovo/OGvnH65gFR/1251.m3u8
+http://ultra-premium-pro.xyz:8080/live/2022/2022/66496.m3u8
 #EXTINF:-1 tvg-id="PY | Trece" tvg-name="PY | Trece" channelId="387" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/100px-Logotrececanal.png" group-title="PARAGUAY", 387 | Trece || PARAGUAY
 https://stream.rpc.com.py/live/trece.m3u8
 #EXTINF:-1 tvg-id="PY | Paraguay TV" tvg-name="PY | Paraguay TV" channelId="388" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Paraguay_TV_logo_2019.png/245px-Paraguay_TV_logo_2019.png" group-title="PARAGUAY", 388 | Paraguay TV || PARAGUAY
-http://tv.mediame.xyz:25461/live/davidllovo/OGvnH65gFR/60126.m3u8
+http://ultra-premium-pro.xyz:8080/live/2022/2022/66498.m3u8
 #EXTINF:-1 tvg-id="PY | Unicanal" tvg-name="PY | Unicanal" channelId="389" tvg-logo="http://www.unicanal.com.py/public/img/LogoUnicanal452x70.png" group-title="PARAGUAY", 389 | Unicanal || PARAGUAY
 http://45.55.127.106/live/unicanal_mid.m3u8
 #EXTINF:-1 tvg-id="PY | ABC TV" tvg-name="PY | ABC TV" channelId="390" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Abc_color.PNG/245px-Abc_color.PNG" group-title="PARAGUAY", 390 | ABC TV || PARAGUAY
