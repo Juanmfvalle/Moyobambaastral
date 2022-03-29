@@ -266,7 +266,7 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="CO | Nuestra Tele Noticias 24" tvg-name="CO | Nuestra Tele Noticias 24" channelId="126" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NTN24_logo.svg/245px-NTN24_logo.svg.png" group-title="NOTICIAS E INFORMACION", 126 | NTN 24
 https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlxIN_wrLG1WtPCEInTJuH2s)/dm/3/x7w4okl/s/live-1.m3u8
 #EXTINF:-1 tvg-id="ESP | 24 Horas tve" tvg-name="ESP | 24 horas tve" channelId="127" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/125px-Logo_TVE-24h.svg.png" group-title="NOTICIAS E INFORMACION", 127 | 24 horas tve
-https://rtvelivestreamv3.akamaized.net/24h/24h_main_576.m3u8
+https://rtvelivestreamv3.akamaized.net/rtvesec/24h_bkp_4000.m3u8
 #EXTINF:-1 tvg-id="CL | Canal 24 Horas" tvg-name="CL | Canal 24 Horas" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_24HorasTVN.svg/200px-Logo_24HorasTVN.svg.png" group-title="NOTICIAS E INFORMACION", En prueba | Canal 24 Horas
 http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="USA | Más Chic" tvg-name="USA | Más Chic" channelId="128" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/125px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" group-title="ESTILOS DE VIDA", 128 | Más Chic
@@ -726,7 +726,6 @@ https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Mega TV" tvg-name="BO | Mega TV" channelId="342" tvg-logo="https://megatv.com.bo/wp-content/uploads/2022/02/cropped-MEGA-TV-LOGO-PNG.png" group-title="BOLIVIA", 342 | Mega TV || BOLIVIA
 https://stmv.panel.grupolimalive.com/mega/mega/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Mega TV Canal 44" tvg-name="BO | Mega TV Canal 44" channelId="En prueba" tvg-logo="https://i0.wp.com/megatvbolivia.com/wp-content/uploads/2022/01/megalog.png?w=1420&ssl=1" group-title="BOLIVIA", En prueba | Mega TV Canal 44 || BOLIVIA
-
 https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/chunklist_w104729669.m3u8
 #EXTINF:-1 tvg-id="BO | Cadena Coral" tvg-name="BO | Cadena Coral" channelId="343" tvg-logo="https://play-lh.googleusercontent.com/4GZtRfAZ36H4pyoxz1htoVE46eRt_M9sj2Y56En4h0Neezca7wFMaX7ec2n9sW5zJZo=s180-rw" group-title="BOLIVIA", 343 | Cadena Coral TV || BOLIVIA
 https://cp.serviaudio.com:1936/coraltv/coraltv/chunklist_w847914959.m3u8
