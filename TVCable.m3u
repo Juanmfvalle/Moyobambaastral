@@ -707,6 +707,8 @@ http://vcp1.myplaytv.com:1935/anzoateguitv/anzoateguitv/chunklist_w401602070.m3u
 http://200.6.154.43:1935/canal11/live/chunklist_w352293786.m3u8
 #EXTINF:-1 tvg-id="VE | Promar TV" tvg-name="VE | Promar TV" channelId="335" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Promar_Television.png/150px-Promar_Television.png" group-title="VENEZUELA", 335 | Promar TV || VENEZUELA
 http://vcp1.myplaytv.com:1935/promar/promar/chunklist_w601803015.m3u8
+#EXTINF:-1 tvg-id="VE | Americana de Televisión" tvg-name="VE | Americana de Televisión" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ATELTV_logo.png/200px-ATELTV_logo.png" group-title="VENEZUELA", En prueba | Americana de Televisión || VENEZUELA
+https://distrib010.noisypeak.com/d/ZNC912ALUX18TOYWN3J9/hls3/now_-1m_15s/m.m3u8
 #EXTINF:-1 tvg-id="BR | Rede TV" tvg-name="BR | Rede TV" channelId="336" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/89/Logotipo_da_RedeTV%21.png/200px-Logotipo_da_RedeTV%21.png" group-title="BRASIL", 336 | Rede TV || BRASIL
 https://livefocamundo.com:8081/tvjsid/index.m3u8
 #EXTINF:-1 tvg-id="BR | TV Globo" tvg-name="BR | TV Globo" channelId="337" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Rede_Globo_logo.svg/150px-Rede_Globo_logo.svg.png" group-title="BRASIL", 337 | TV Globo || BRASIL
