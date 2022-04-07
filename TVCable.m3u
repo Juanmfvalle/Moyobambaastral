@@ -95,6 +95,8 @@ https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
 https://videoserver.tmcreativos.com:19360/fdpbvagdfq/fdpbvagdfq.m3u8
 #EXTINF:-1 tvg-id="PE | Radio Televisión Oriente" tvg-name="PE | Radio Televisión Oriente" channelId="42" tvg-logo="https://www.planetaradios.com/content/radios_fm/bo49.png" group-title="REGIONALES", 42 | Radio Televisión Oriente | Yurimaguas
 https://stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | Telecolor" tvg-name="PE | Telecolor" channelId="En prueba" tvg-logo="https://telecolortv.pe/wp-content/uploads/2022/01/inicio_app.png" group-title="REGIONALES", En prueba | Telecolor | Yurimaguas
+https://live.obslivestream.com/telecolormux/index.m3u8
 #EXTINF:-1 tvg-id="PE | Loreto TV" tvg-name="PE | Loreto TV" channelId="43" tvg-logo="https://loretotv.com/wp-content/uploads/2021/01/logo-tv-nu-750x430.png" group-title="REGIONALES", 43 | Loreto TV | Iquitos
 https://stmv1.voxhdnet.com/diego7128/diego7128/chunklist_w1153100647.m3u8
 #EXTINF:-1 tvg-id="PE | CNC Digital TV" tvg-name="PE | CNC Digital TV" channelId="44" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTn3Ku6AtLAINRzjYqokAEMMzGE8tIjwUGY9dD2=s48-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", 44 | CNC Digital TV | Iquitos
@@ -103,6 +105,8 @@ https://cloudvideo.servers10.com:8081/8150/tracks-v1a1/mono.m3u8
 https://cloudvideo.servers10.com:8081/8098/index.m3u8
 #EXTINF:-1 tvg-id="PE | Oriental TV" tvg-name="PE | Oriental TV" channelId="46" tvg-logo="http://tv.10dailythings.com/images/channels/PE/oriental-tv-21-pucallpa-720p-not-247/normal.png" group-title="REGIONALES", 46 | Oriental TV || Pucallpa
 https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | Charapa TV" tvg-name="PE | Charapa TV" channelId="En prueba" tvg-logo="https://scontent-lim1-1.xx.fbcdn.net/v/t39.30808-6/271661890_901600960405006_4334679661299872769_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFo4m-8N4u66vZpbFqKJk3zsQdLFWCl8kOxB0sVYKXyQ5prpqSKI0J4p90VBc9kX_c&_nc_ohc=7cE0z8L1hmAAX_M5mYc&_nc_ht=scontent-lim1-1.xx&oh=00_AT84FMsk9dX_hf29FjiZ5-xi90eq2_fESeOaesElLa_zsA&oe=6253CCD2" group-title="REGIONALES", En prueba | Charapa TV || Pucallpa
+https://cloudvideo.servers10.com:8081/8168/index.m3u8
 #EXTINF:-1 tvg-id="PE | Millenium 49 TV" tvg-name="PE | Millenium 49 TV" channelId="47" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz3QqLZe7bodOdfmd7SH4JKngt-SAqscKxj8ISD5upFiveYI3TjsgK0qqVlAn5DG43HIM&usqp=CAU" group-title="REGIONALES", 47 | Millenium 49 TV || Pucallpa
 https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Top TV" tvg-name="PE | Top TV" channelId="48" tvg-logo="https://www.toptvaguaytia.com/wp-content/uploads/2020/12/toplogo.jpg" group-title="REGIONALES", 48 | Top TV || Aguaytía
@@ -553,6 +557,8 @@ https://servilive.com:3126/live/tele2000live.m3u8
 https://v4.tustreaming.cl/atmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="PE | Bella Abanquina Televisión" tvg-name="PE | Bella Abanquina Televisión" channelId="268" tvg-logo="https://image.winudf.com/v2/image1/YmVsbGEudHZjZW50cm9zZXJ2ZXJfaWNvbl8xNjAzNTc5ODQ0XzA4Mw/icon.png?w=170&fakeurl=1" group-title="REGIONALES", 268 | Bella Abanquina Televisión || Abancay
 https://v4.tustreaming.cl/bellatv/index.m3u8
+#EXTINF:-1 tvg-id="PE | Compañía de Televisión Cusqueña" tvg-name="PE | Compañía de Televisión Cusqueña" channelId="En prueba" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/CTC-Compa%C3%B1%C3%ADa-de-Televisi%C3%B3n-Cusque%C3%B1a-en-vivo-Online-100x70.png" group-title="REGIONALES", En prueba | CTC || Cuzco
+http://190.108.83.142:8000/play/a007/54081684.m3u8
 #EXTINF:-1 tvg-id="PE | DMJ Televisión" tvg-name="PE | DMJ Televisión" channelId="269" tvg-logo="https://www.dmjsur.com/wp-content/uploads/2016/08/dmj.png" group-title="REGIONALES", 269 | DMJ Televisión || Cuzco
 https://v4.tustreaming.cl/s1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | QT Televisión" tvg-name="PE | QT Televisión" channelId="270" tvg-logo="http://tv.10dailythings.com/images/channels/PE/qt-television-cuzco-720p-not-247/normal.png" group-title="REGIONALES", 270 | QT Televisión || Cuzco
@@ -579,13 +585,13 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 https://tv.portalexpress.es:3270/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="PE | Canal Sur" tvg-name="PE | Canal Sur" channelId="281" tvg-logo="https://graph.facebook.com/surtvilo/picture?width=320&height=320" group-title="REGIONALES", 281 | Canal Sur || Ilo
 https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Telesur" tvg-name="PE | Telesur" channelId="282" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png" group-title="REGIONALES", 282 | Telesur || Ilo
+#EXTINF:-1 tvg-id="PE | Telesur de Ilo" tvg-name="PE | Telesur de Ilo" channelId="282" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png" group-title="REGIONALES", 282 | Telesur || Ilo
 https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
-#EXTINF:-1 tvg-id="PE | Telesur" tvg-name="PE | Telesur" channelId="282.2" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png" group-title="REGIONALES", 282.2 | Telesur || Moquegua
+#EXTINF:-1 tvg-id="PE | Telesur de Moquegua" tvg-name="PE | Telesur de Moquegua" channelId="282.2" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png" group-title="REGIONALES", 282.2 | Telesur || Moquegua
 https://1667517699.rsc.cdn77.org/hls/moquegua.m3u8
-#EXTINF:-1 tvg-id="PE | Telesur" tvg-name="PE | Telesur" channelId="282.3" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png" group-title="REGIONALES", 282.3 | Telesur || Mollendo
+#EXTINF:-1 tvg-id="PE | Telesur de Mollendo" tvg-name="PE | Telesur de Mollendo" channelId="282.3" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png" group-title="REGIONALES", 282.3 | Telesur || Mollendo
 https://1667517699.rsc.cdn77.org/hls/mollendo.m3u8
-#EXTINF:-1 tvg-id="PE | Telesur" tvg-name="PE | Telesur" channelId="282.4" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png" group-title="REGIONALES", 282.4 | Telesur || Camana
+#EXTINF:-1 tvg-id="PE | Telesur de Camaná" tvg-name="PE | Telesur de Camaná" channelId="282.4" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png" group-title="REGIONALES", 282.4 | Telesur || Camana
 https://1667517699.rsc.cdn77.org/hls/camana.m3u8
 #EXTINF:-1 tvg-id="EC | Gamavisión" tvg-name="EC | Gamavisión" channelId="283" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ECUADOR", 283 | Gamavisión || ECUADOR
 http://ultra-premium-pro.xyz:8080/live/2022/2022/37087.m3u8
