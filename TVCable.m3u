@@ -37,7 +37,7 @@ https://v4.tustreaming.cl/odtvgo/index.m3u8
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1931631690&_cdn_session=168262379&_cdn_timestamp=1649415486&_cdn_token=60acf52c370ac5dcfb010c0ad8b2bbc4a88aec6f
 #EXTINF:-1 tvg-id="PE | Controversia TV" tvg-name="PE | Controversia TV" channelId="14" tvg-logo="https://playmax.tv/wp-content/uploads/2020/07/controversia.jpg" group-title="LOCALES", 14 | Controversia Televisión || Moyobamba
 https://live.obslivestream.com/controversiamux/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="PE | Sanjuanera TV" tvg-name="PE | Sanjuanera TV" channelId="15" tvg-logo="https://scontent-lim1-1.xx.fbcdn.net/v/t1.6435-9/118626307_188595892646652_1187031613098179773_n.png?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGXXQa1tlTtpC6fxvRWMNlgpCy-lv9wDAqkLL6W_3AMCggPR1KYHakxh4r-n79Hqqs&_nc_ohc=Tk1ndMBc_UEAX-qB97T&_nc_ht=scontent-lim1-1.xx&oh=00_AT_rCeM2jJCmGvqTK4gtKIPcQFRxufw5fiQCLF84T2BFvw&oe=62685770" group-title="LOCALES", 15 | Sanjuanera Televisión || Moyobamba
+#EXTINF:-1 tvg-id="PE | Sanjuanera TV" tvg-name="PE | Sanjuanera TV" channelId="15" tvg-logo="http://tv.10dailythings.com/images/channels/PE/sanjuaneratv-1080p-not-247/normal.png" group-title="LOCALES", 15 | Sanjuanera Televisión || Moyobamba
 https://live.obslivestream.com/sanjuaneramux/index.m3u8
 #EXTINF:-1 tvg-id="PE | Gobierno Regional de San Martin TV" tvg-name="PE | Gobierno Regional de San Martin TV" channelId="16" tvg-logo="https://moyobamba.com/wp-content/uploads/2021/10/LOGO2-1.png" group-title="LOCALES", 16 | Goresam TV | Moyobamba
 https://srv1.mediastreamperu.com:8081/8012/index.m3u8
@@ -181,7 +181,7 @@ https://cinereal-plex.amagi.tv/CineReal/master_6.m3u8
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/EUROPAEUROPA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DEUROPAEUROPA_stream_gf&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1931631690&_cdn_session=167730083&_cdn_timestamp=1649363434&_cdn_token=66012cf47c9f4ed31eb85ceb81ff8ce8b886bbac
 #EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" channelId="85" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="PELICULAS Y SERIES", 85 | Star Channel
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/STARCHANNEL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXCHANNEL_stream_1f&_cdn_hls_media=2&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1931631690&_cdn_session=167730595&_cdn_timestamp=1649363454&_cdn_token=ac4c50c5ee0949e7e91bc66859cfa4249460f38e
-#EXTINF:-1 tvg-id="USA | FMH Movies" tvg-name="USA | FMH Movies" channelId="86" tvg-logo="https://platcon.tv/img/p/1/0/8/108.jpg" group-title="PELICULAS Y SERIES", 86 | FMH Movies
+#EXTINF:-1 tvg-id="USA | FMH Movies" tvg-name="USA | FMH Movies" channelId="86" tvg-logo="https://www.fmhot.cl/images/team/logo_movies.png" group-title="PELICULAS Y SERIES", 86 | FMH Movies
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/chMOVIES/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DchMOVIES_stream_6s&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1931631690&_cdn_session=167731291&_cdn_timestamp=1649363484&_cdn_token=6896574bce73b103432cff3640c912e88fee6a6c
 #EXTINF:-1 tvg-id="USA | FX" tvg-name="USA | FX" channelId="87" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/125px-FX_International_logo.svg.png" group-title="PELICULAS Y SERIES", 87 | FX
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FX/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFX_stream_gv&_cdn_hls_media=1&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1931631690&_cdn_session=167732395&_cdn_timestamp=1649363534&_cdn_token=73e94cfa75054b9dfe15f80723e83fc690fa725c
@@ -531,11 +531,13 @@ https://eu1.servers10.com:8081/impactotv/index.m3u8
 https://stmv.panel.grupolimalive.com/xtv/xtv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Mega TV" tvg-name="PE | Mega TV" channelId="258" tvg-logo="https://pbs.twimg.com/profile_images/1313561244222267395/Y1TVAghs_400x400.jpg" group-title="REGIONALES", 258 | Mega TV || Jaen
 https://tv.portalexpress.es:3399/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="PE | Stereo TV" tvg-name="PE | Stereo TV" channelId="259" tvg-logo="https://api.radiostereotv.com/storage/2021/2021-03-05_0-1614957350.png" group-title="REGIONALES", 259 | Stereo TV || Jaen
+#EXTINF:-1 tvg-id="PE | Stereo TV" tvg-name="PE | Stereo TV" channelId="259" tvg-logo="https://radiostereotv.com/assets/logo.png" group-title="REGIONALES", 259 | Stereo TV || Jaen
 https://servers.amelbasoluciones.co:19360/5medialive/5medialive.m3u8
+#EXTINF:-1 tvg-id="PE | WTV" tvg-name="PE | WTV" channelId="En prueba" tvg-logo="http://tv.10dailythings.com/images/channels/PE/wtv-bambamarca-480p-not-247/normal.png" group-title="REGIONALES", En prueba | WTV || Bambamarca
+https://tv.inka.net.pe/wtv/wtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="PE | Innova FM TV" tvg-name="PE | Innova FM TV" channelId="260" tvg-logo="https://www.innovafm.com/wp-content/uploads/2020/12/logo-innovafm.png" group-title="REGIONALES", 260 | Innova FM TV || Bagua Grande
 https://live.tvcontrolcp.com:1936/8170/8170/chunklist_w1280264475.m3u8
-#EXTINF:-1 tvg-id="PE | Planea TV" tvg-name="PE | Planea TV" channelId="261" tvg-logo="https://scontent-lim1-1.xx.fbcdn.net/v/t1.6435-9/130983471_100549338640958_7064602025850697428_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFs04PmiZlBe4Aj6F0fSu6wjbVEiX8oTh-NtUSJfyhOHxCykSuDSXoienj7dcuqgPA&_nc_ohc=iUYV2vz0UicAX8OuXuU&_nc_ht=scontent-lim1-1.xx&oh=00_AT8hBxLWlN9ebTaPnWH1L0RBI76AnZBp28CZ3ZkzIqjseQ&oe=6245BF83" group-title="REGIONALES", 261 | Planea TV || Bagua
+#EXTINF:-1 tvg-id="PE | Planea TV" tvg-name="PE | Planea TV" channelId="261" tvg-logo="https://scontent-lim1-1.xx.fbcdn.net/v/t1.6435-9/130983471_100549338640958_7064602025850697428_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFs04PmiZlBe4Aj6F0fSu6wjbVEiX8oTh-NtUSJfyhOHxCykSuDSXoienj7dcuqgPA&_nc_ohc=VwOSxFR1_QgAX-T0ixa&_nc_ht=scontent-lim1-1.xx&oh=00_AT9p5x5oq3_c6-mu4W1Kbp3xxzfFfbJJ8Sml8c9t1NP1ZQ&oe=62753583" group-title="REGIONALES", 261 | Planea TV || Bagua
 https://stmv.panel.grupolimalive.com/planeatv/planeatv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Sistema 1 TV" tvg-name="PE | Sistema 1 TV" channelId="262" tvg-logo="https://sistema1tv.com/aplication/webroot/imgs/movil.png" group-title="REGIONALES", 262 | Sistema 1 TV || Huaraz
 https://tv.portalexpress.es:3839/live/sistema1tvlive.m3u8
@@ -547,19 +549,19 @@ https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8
 https://tvdatta.com:3262/live/cadenatvlive.m3u8
 #EXTINF:-1 tvg-id="PE | Tele 2000" tvg-name="PE | Tele 2000" channelId="266" tvg-logo="https://pbs.twimg.com/profile_images/961951866903986177/JHvXzvxd_400x400.jpg" group-title="REGIONALES", 266 | Tele 2000 || Huanta
 https://servilive.com:3126/live/tele2000live.m3u8
-#EXTINF:-1 tvg-id="PE | ATM Televisión Apurimeña" tvg-name="PE | ATM Televisión Apurimeña" channelId="267" tvg-logo="https://secureservercdn.net/198.71.233.110/j6z.120.myftpupload.com/wp-content/uploads/2021/09/Nuevo-Logo-ATM-3-HD.png?time=1637520722" group-title="REGIONALES", 267 | ATM Televisión Apurimeña || Abancay
+#EXTINF:-1 tvg-id="PE | ATM Televisión Apurimeña" tvg-name="PE | ATM Televisión Apurimeña" channelId="267" tvg-logo="https://yt3.ggpht.com/87SPh51GX9kSipWbymcGwaw6tfmYoAWCTZiHViJQCOLoczmDJgsAzbP_OEBfWT8AiH97ewiYug=s88-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", 267 | ATM Televisión Apurimeña || Abancay
 https://v4.tustreaming.cl/atmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="PE | Bella Abanquina Televisión" tvg-name="PE | Bella Abanquina Televisión" channelId="268" tvg-logo="https://image.winudf.com/v2/image1/YmVsbGEudHZjZW50cm9zZXJ2ZXJfaWNvbl8xNjAzNTc5ODQ0XzA4Mw/icon.png?w=170&fakeurl=1" group-title="REGIONALES", 268 | Bella Abanquina Televisión || Abancay
 https://v4.tustreaming.cl/bellatv/index.m3u8
 #EXTINF:-1 tvg-id="PE | DMJ Televisión" tvg-name="PE | DMJ Televisión" channelId="269" tvg-logo="https://www.dmjsur.com/wp-content/uploads/2016/08/dmj.png" group-title="REGIONALES", 269 | DMJ Televisión || Cuzco
 https://v4.tustreaming.cl/s1tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | QT Televisión" tvg-name="PE | QT Televisión" channelId="270" tvg-logo="https://scontent.flim6-3.fna.fbcdn.net/v/t1.6435-9/71324394_3272064969477980_70421224383053824_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFukyhmwYxliAFAGXM1Lsr-4UjzcJ1StJvhSPNwnVK0m6EAfmYYfcWk6Fu7Cq-jdbw&_nc_ohc=5zTtsJ9HtNQAX_W2ErV&_nc_ht=scontent.flim6-3.fna&oh=00_AT97F7JsmfCbxDvyPwukjlOorL6-CJLWB8Bzgz01TENZbw&oe=622B9CDA" group-title="REGIONALES", 270 | QT Televisión || Cuzco
+#EXTINF:-1 tvg-id="PE | QT Televisión" tvg-name="PE | QT Televisión" channelId="270" tvg-logo="http://tv.10dailythings.com/images/channels/PE/qt-television-cuzco-720p-not-247/normal.png" group-title="REGIONALES", 270 | QT Televisión || Cuzco
 https://servilive.com:3753/live/qosqotimeslive.m3u8
 #EXTINF:-1 tvg-id="PE | TV Sistemas" tvg-name="PE | TV Sistemas" channelId="271" tvg-logo="https://scontent.flim6-2.fna.fbcdn.net/v/t1.6435-9/155399550_277318890412303_7188947598099234633_n.png?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFAZfsmYY62zLsa6KsnVaAnmdKlWQ5Lo4KZ0qVZDkujgvwneUq3mCKA_6a6Z8B4m6k&_nc_ohc=oLPRd6_LdTAAX_lYKzq&_nc_ht=scontent.flim6-2.fna&oh=00_AT955qL1Z_SmPtWg-uqgqg9exBEOK7kpu5_G-QKTiHQhrg&oe=622E6AA9" group-title="REGIONALES", 271 | TV Sistemas || Cuzco
-https://panel.streamingtv-mediacp.online:1936/kdlrqjcp/kdlrqjcp/playlist.m3u8
+https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Uchu TV" tvg-name="PE | Uchu TV" channelId="272" tvg-logo="https://uchutv.com/gallery_gen/9dc2fb58284d6eb1556ffd902b73cbdc_496x400.png" group-title="REGIONALES", 272 | Uchu TV || Cuzco
 https://tna5.bozztv.com/Cusco/index.m3u8
-#EXTINF:-1 tvg-id="PE | Quillavisión TV" tvg-name="PE | Quillavisión TV" channelId="273" tvg-logo="https://scontent.ftru4-2.fna.fbcdn.net/v/t1.6435-9/119165135_113085623871343_5973820231034478652_n.png?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeHVpQKHsoHaDIdtnLDHpQ9kDaRQVBqXqjcNpFBUGpeqNxPs_xgn6aeN6a61eaqZ0w8&_nc_ohc=4VRxEGH2b64AX8FF-ay&_nc_ht=scontent.ftru4-2.fna&oh=00_AT82RuIC_zQQTv30l6sPvk9RIr7NsJFPnB2YoepwaJvvbw&oe=6212AC1C" group-title="REGIONALES", 273 | Quillavisión TV || Quillabamba
+#EXTINF:-1 tvg-id="PE | Quillavisión TV" tvg-name="PE | Quillavisión TV" channelId="273" tvg-logo="https://scontent-lim1-1.xx.fbcdn.net/v/t1.6435-9/119165135_113085623871343_5973820231034478652_n.png?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeHVpQKHsoHaDIdtnLDHpQ9kDaRQVBqXqjcNpFBUGpeqNxPs_xgn6aeN6a61eaqZ0w8&_nc_ohc=MGMEChCGV_8AX_IcTV2&_nc_ht=scontent-lim1-1.xx&oh=00_AT9o9YfgzeO7su-VDdhUdAG7-2BlCMHDERbQ6ipt08Etug&oe=62758C9C" group-title="REGIONALES", 273 | Quillavisión TV || Quillabamba
 http://v4.tustreaming.cl/quillavision/index.m3u8
 #EXTINF:-1 tvg-id="PE | Pachatusan TV" tvg-name="PE | Pachatusan TV" channelId="274" tvg-logo="https://www.pachatusantelevision.com/wp-content/uploads/2021/01/LOGO-TV-1.png" group-title="REGIONALES", 274 | Pachatusan TV || Sicuani
 https://tvdatta.com:3413/live/pachatusanlive.m3u8
@@ -623,7 +625,7 @@ https://streamingwowza.com:1936/wuanplus/wuanplus/playlist.m3u8
 https://mediacpstreamchile.com:1936/sonoonda/sonoonda/chunklist_w1788970447.m3u8
 #EXTINF:-1 tvg-id="EC | UCSG Televisión" tvg-name="EC | UCSG Televisión" channelId="301" tvg-logo="https://ucsgrtv.com/tv/wp-content/uploads/2019/06/blanco.png" group-title="ECUADOR", 301 | UCSG Televisión || ECUADOR
 https://ecuastream.net:19360/ucsghd/ucsghd.m3u8
-#EXTINF:-1 tvg-id="EC | Zaracay Televisión" tvg-name="EC | Zaracay Televisión" channelId="302" tvg-logo="" group-title="ECUADOR", 302 | Zaracay Televisión || ECUADOR
+#EXTINF:-1 tvg-id="EC | Zaracay Televisión" tvg-name="EC | Zaracay Televisión" channelId="302" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRrbURdrB5H3lMCizVyGzkuHp7zH9M_KXJssOsO=s88-c-k-c0x00ffffff-no-rj" group-title="ECUADOR", 302 | Zaracay Televisión || ECUADOR
 https://streamingwowza.com:1936/zaracaytv/smil:zaracaytv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | Canal Capital" tvg-name="CO | Canal Capital" channelId="303" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/135px-2020_Canal_Capital_logo.svg.png" group-title="COLOMBIA", 303 | Canal Capital || COLOMBIA
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
@@ -725,7 +727,7 @@ https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/chunklist_w104729669.m3u8
 https://cp.serviaudio.com:1936/coraltv/coraltv/chunklist_w847914959.m3u8
 #EXTINF:-1 tvg-id="BO | TV Universitaria" tvg-name="BO | TV Universitaria" channelId="351" tvg-logo="http://tvmi.com.bo/wp-content/uploads/sites/2/2017/11/logotvu.png" group-title="BOLIVIA", 351 | TV Universitaria || BOLIVIA
 http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/chunklist_w526827989.m3u8
-#EXTINF:-1 tvg-id="BO | Veo TV" tvg-name="BO | Veo TV" channelId="352" tvg-logo="" group-title="BOLIVIA", 352 | Veo TV || BOLIVIA
+#EXTINF:-1 tvg-id="BO | Veo TV" tvg-name="BO | Veo TV" channelId="352" tvg-logo="https://scontent-lim1-1.xx.fbcdn.net/v/t1.6435-9/125469940_122628856318526_1894550823960964139_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeE0srSU4HwJTCoacnzKFU0HJkL9UIX_x3QmQv1Qhf_HdCdnAbudTcQXmC3ABHZrEQo&_nc_ohc=ZvI__MSb_2cAX-Pu9nB&_nc_ht=scontent-lim1-1.xx&oh=00_AT-HqpdReZ8BA2_D9B8QWIw3887zblo54V08pZcq7AucBw&oe=627492B5" group-title="BOLIVIA", 352 | Veo TV || BOLIVIA
 https://stmv.panel.grupolimalive.com/streamb/streamb/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Seo TV" tvg-name="BO | Seo TV" channelId="353" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png" group-title="BOLIVIA", 353 | Seo TV || BOLIVIA
 https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
@@ -975,9 +977,9 @@ http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/playlist.m3u8
 http://23.237.102.58:80/live/marta/12345/1927.m3u8
 #EXTINF:-1 tvg-id="HN | Hondured Canal 13" tvg-name="HN | Hondured Canal 13" channelId="470" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Hondured-TV-en-vivo-Online-100x70.png" group-title="HONDURAS", 470 | Hondured || HONDURAS
 https://stream-03.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm40oBhY3aiLCfExHcU6i2Qdo)/dm/3/x83axzj/s/live-1.m3u8
-#EXTINF:-1 tvg-id="HN | LTV" tvg-name="HN | LTV" channelId="471" tvg-logo="https://images.tigocloud.net/brllnm7d8gre/4wUethBN3YmtWSDso4knkq/886bd5c23df975532c27045d6e89a5f3/ic-canal-ltv.png?q=70" group-title="HONDURAS", 471 | LTV || HONDURAS
+#EXTINF:-1 tvg-id="HN | LTV" tvg-name="HN | LTV" channelId="471" tvg-logo="https://d3ld16hid784z2.cloudfront.net/media/2021/01/logo-ltv-top.png" group-title="HONDURAS", 471 | LTV || HONDURAS
 https://5e85d90130e77.streamlock.net/6022/6022/chunklist_w911572265.m3u8
-#EXTINF:-1 tvg-id="HN | DTV Canal 15" tvg-name="HN | DTV Canal 15" channelId="472" tvg-logo="https://images.tigocloud.net/brllnm7d8gre/7KuVbZTDBKeYoq4asJwFhU/4848cb6347e9d297e4b4d27a8c63d8ab/ic-canal-dtv.png?q=70" group-title="HONDURAS", 472 | DTV || HONDURAS
+#EXTINF:-1 tvg-id="HN | DTV Canal 15" tvg-name="HN | DTV Canal 15" channelId="472" tvg-logo="https://www.hn504.net/img/tv/DTP-Canal-15.png" group-title="HONDURAS", 472 | DTV || HONDURAS
 https://emisoras.hn:8081/dtp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HN | Hable Como Habla TV" tvg-name="HN | Hable Como Habla TV" channelId="473" tvg-logo="https://hch.tv/wp-content/uploads/2021/09/logos-hch-bueno-1.png" group-title="HONDURAS", 473 | HCH || HONDURAS
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x81za5c
