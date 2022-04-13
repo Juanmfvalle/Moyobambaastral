@@ -77,6 +77,8 @@ https://videoserver.tmcreativos.com:19360/viatv2021/viatv2021.m3u8
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 #EXTINF:-1 tvg-id="PE | Tpto Channel" tvg-name="PE | Tpto Channel" channelId="34" tvg-logo="https://www.tpto.org/assets/images/logosmal4.png" group-title="PROVINCIALES", 34 | Tarapoto Channel || Tarapoto
 https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | Innova TV" tvg-name="PE | Innova TV" channelId="En prueba" tvg-logo="https://yt3.ggpht.com/LwObXIX7IQVXWNqLBA0GXlJ3B-STlxrWPrR4vu6_3fCTtga32AySAbBIXnQ-sTeO9gl7ZgFdKg=s88-c-k-c0x00ffffff-no-rj" group-title="PROVINCIALES", En prueba | Innova TV || Tarapoto
+http://200.48.184.156:1935/innovatv/innovatv/chunklist_w996620163.m3u8
 #EXTINF:-1 tvg-id="PE | Millenium TV" tvg-name="PE | Millenium TV" channelId="35" tvg-logo="http://milleniumrtv.com/logo.png" group-title="PROVINCIALES", 35 | Millenium TV || Lamas
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 #EXTINF:-1 tvg-id="PE | Radio TV Juanjui" tvg-name="PE | Radio TV Juanjui" channelId="36" tvg-logo="https://radiotvjuanjui.com/wp-content/uploads/2021/01/Siralogo.png" group-title="PROVINCIALES", 36 | Radio TV Juanjui || Juanjui
@@ -539,6 +541,8 @@ https://stream-01.nyc.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqt7BWP6SpHYxp5HBGQ
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Sol TV" tvg-name="PE | Sol TV" channelId="253" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/150px-Sol_tv_pe.png" group-title="REGIONALES", 253 | Sol TV || Trujillo
 https://stmv1.srvif.com/topagency2/topagency2/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | Caribe TV" tvg-name="PE | Caribe TV" channelId="En prueba" tvg-logo="https://play-lh.googleusercontent.com/RWwrMM2sqjOulasmAQhS86CiDLLJa66Kan9ru_cypXFu97qaPIECyEI5ilrzKF9sHg=s180-rw" group-title="REGIONALES", En prueba | Caribe TV || Otuzco
+http://200.48.184.156:1935/caribetv/caribetv/chunklist_w880922403.m3u8
 #EXTINF:-1 tvg-id="PE | Cajamarca TV" tvg-name="PE | Cajamarca TV" channelId="254" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Cajamarca_TV.png" group-title="REGIONALES", 254 | Cajamarca TV || Cajamarca
 https://tv.inka.net.pe/cajamarcatv/cajamarcatv/index.m3u8
 #EXTINF:-1 tvg-id="PE | Creo TV" tvg-name="PE | Creo TV" channelId="255" tvg-logo="https://graph.facebook.com/CanalCreoTv/picture?width=320&height=320" group-title="REGIONALES", 255 | Creo TV || Cajamarca
