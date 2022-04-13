@@ -72,7 +72,7 @@ https://videoserver.tmcreativos.com:19360/televisiontpp/televisiontpp.m3u8
 #EXTINF:-1 tvg-id="PE | Master TV" tvg-name="PE | Master TV" channelId="31" tvg-logo="https://mastertvradio.com/img/logo.png" group-title="PROVINCIALES", 31 | Master Televisión || Tarapoto
 https://tv.oyotunstream.com:1936/master/master/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Via Televisión" tvg-name="PE | Via Televisión" channelId="32" tvg-logo="https://viatelevision.pe/wp-content/uploads/2021/11/logo-retina.png" group-title="PROVINCIALES", 32 | Vía Televisión || Tarapoto
-https://videoserver.tmcreativos.com:19360/viatv2021/viatv2021.m3u8
+https://multimedia.tmcreativos.com:1936/viatelevision/viatelevision/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | TV Tropical" tvg-name="PE | TV Tropical" channelId="33" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILk-jY1zv90_cln_aHQVRYRO2VEvi7tDWxSaym1za11jp-36P7vBbdIQKJbWOEj9Na4Y&usqp=CAU" group-title="PROVINCIALES", 33 | TV Tropical || Tarapoto
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 #EXTINF:-1 tvg-id="PE | Tpto Channel" tvg-name="PE | Tpto Channel" channelId="34" tvg-logo="https://www.tpto.org/assets/images/logosmal4.png" group-title="PROVINCIALES", 34 | Tarapoto Channel || Tarapoto
@@ -88,7 +88,7 @@ https://lamasremixes.com/hls/cadenasurrtv/index.m3u8
 #EXTINF:-1 tvg-id="PE | Super Canal" tvg-name="PE | Super Canal" channelId="38" tvg-logo="http://www.supercanal.com.pe/wp-content/uploads/2020/10/favicon-super-2020.png" group-title="REGIONALES", 38 | Super Canal Televisión || Yurimaguas
 https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8
 #EXTINF:-1 tvg-id="PE | Uranio TV" tvg-name="PE | Uranio TV" channelId="39" tvg-logo="https://yt3.ggpht.com/DA2asU0w91KyOcHQWUFEtBECgv-NG1pUtRrWw78Negq5uH6gEeLaaxTJkxe8f9CNTDHZJHLfpJM=s88-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", 39 | Uranio TV || Yurimaguas
-https://live.obslivestream.com/uraniomux/tracks-v1a1/mono.m3u8
+https://live.obslivestream.com/uraniomux/index.m3u8
 #EXTINF:-1 tvg-id="PE | RTV Total" tvg-name="PE | RTV Total" channelId="40" tvg-logo="https://rtvtotal.pe/img/img/logo.png" group-title="REGIONALES", 40 | RTV Total || Yurimaguas
 https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
 #EXTINF:-1 tvg-id="PE | RN Noticias Televisión" tvg-name="PE | RN Noticias Televisión" channelId="41" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTWeyq-mB4uJE2dSkA_ywzCGRfmu1PRDYmrPV7y=s88-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", 41 | RN Noticias Televisión || Yurimaguas
