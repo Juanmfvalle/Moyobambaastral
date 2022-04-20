@@ -1,5 +1,4 @@
 #EXTM3U
-http://138.186.20.245:8000/play/a06l
 #EXTINF:-1 tvg-id="PE | Willax Televisión" tvg-name="PE | Willax Televisión" channelId="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Willax_Televisi%C3%B3n_2020.png/245px-Willax_Televisi%C3%B3n_2020.png" group-title="PERU", 1 | Willax Televisión
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/WILLAX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1931631690&_cdn_session=176085011&_cdn_timestamp=1650483371&_cdn_token=95b25d1da9a98fef8634ca65852603f28fe69059
 #EXTINF:-1 tvg-id="PE | Latina Televisión" tvg-name="PE | Latina Televisión" channelId="2" tvg-logo="https://www.latina.pe/wp-content/themes/genesis-latina/img/latina_pe.png" group-title="PERU", 2 | Latina Televisión
@@ -705,7 +704,7 @@ https://vcp.myplaytv.com/coll/coll/playlist.m3u8
 #EXTINF:-1 tvg-id="VE | TV Familia" tvg-name="VE | TV Familia" channelId="342" tvg-logo="https://secureservercdn.net/45.40.146.28/1xm.7a5.myftpupload.com/wp-content/uploads/2020/07/loop-TVF-Tex-Blanco-Fondo-Negro.gif?time=1637455454" group-title="VENEZUELA", 342 | TV Familia || VENEZUELA
 https://cdn01.yowi.tv/KPFPGJU8A6/live-600.m3u8
 #EXTINF:-1 tvg-id="VE | IVC" tvg-name="VE | IVC" channelId="343" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/IVC_Network_Logo.png/150px-IVC_Network_Logo.png" group-title="VENEZUELA", 343 | IVC Networks || VENEZUELA
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/IVCNETWORKS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DIVCNETWORKS_stream_fl&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1931631690&_cdn_session=176101219&_cdn_timestamp=1650485213&_cdn_token=f2c05b25b3e74d637c3a72db95c1aa2244ab522a
+http://138.186.20.245:8000/play/a06l
 #EXTINF:-1 tvg-id="VE | Promociones Telemaracay C.A." tvg-name="VE | Promociones Telemaracay C.A." channelId="344" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TVS_Venezuela.png" group-title="VENEZUELA", 344 | TVS || VENEZUELA
 http://vcp1.myplaytv.com:1935/tvs/tvs/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="VE | TVO" tvg-name="VE | TVO" channelId="345" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/TVO-2015.png/245px-TVO-2015.png" group-title="VENEZUELA", 345 | Televisora de Oriente || VENEZUELA
