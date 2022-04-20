@@ -102,7 +102,7 @@ https://live.obslivestream.com/telecolormux/index.m3u8
 #EXTINF:-1 tvg-id="PE | Loreto TV" tvg-name="PE | Loreto TV" channelId="46" tvg-logo="https://loretotv.com/wp-content/uploads/2021/01/logo-tv-nu-750x430.png" group-title="REGIONALES", 46 | Loreto TV | Iquitos
 https://stmv1.voxhdnet.com/diego7128/diego7128/chunklist_w1153100647.m3u8
 #EXTINF:-1 tvg-id="PE | CNC Digital TV" tvg-name="PE | CNC Digital TV" channelId="47" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTn3Ku6AtLAINRzjYqokAEMMzGE8tIjwUGY9dD2=s48-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", 47 | CNC Digital TV | Iquitos
-https://cloudvideo.servers10.com:8081/8150/tracks-v1a1/mono.m3u8
+https://cloudvideo.servers10.com:8081/8150/index.m3u8
 #EXTINF:-1 tvg-id="PE | Ribereña TV" tvg-name="PE | Ribereña TV" channelId="48" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEIe9woyw9o10m4PFmtVnyaHMgMtRARA5HCoCr7_JO2UhgRZ6GgGBhVj_nBbIJ63gSS-U&usqp=CAU" group-title="REGIONALES", 48 | Ribereña TV || Pucallpa
 https://cloudvideo.servers10.com:8081/8098/index.m3u8
 #EXTINF:-1 tvg-id="PE | Millenium 49 TV" tvg-name="PE | Millenium 49 TV" channelId="49" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz3QqLZe7bodOdfmd7SH4JKngt-SAqscKxj8ISD5upFiveYI3TjsgK0qqVlAn5DG43HIM&usqp=CAU" group-title="REGIONALES", 49 | Millenium 49 TV || Pucallpa
@@ -444,7 +444,7 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 #EXTINF:-1 tvg-id="AR | Orbe 21" tvg-name="AR | Orbe 21" channelId="217" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Canal_Orbe_21_logo.svg/245px-Canal_Orbe_21_logo.svg.png" group-title="RELIGIOSOS", 217 | Orbe 21
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | ESNE TV" tvg-name="USA | ESNE TV" channelId="218" tvg-logo="https://elsembradorministries.com/esne_deployment/images/logo_azul.png" group-title="RELIGIOSOS", 218 | El Sembrador Televisión
-https://zypelive-lh.akamaihd.net/i/default_1@44045/index_720_av-p.m3u8?F38b1dF4=625f9a1aacf9040001a3a546&6pLKMQ3y=Sqi3Ng90&video_id=5f978263e036f600019f66c2&sd=10&dw=10800&rebase=on&hdntl=exp=1650518943~acl=%2f*%4044045%2f*~data=hdntl~hmac=04a3a438f05da516c3fcfbb741c1eb6c32fe5bf5ae12b11c3e69112b89b92db8
+https://zypelive-lh.akamaihd.net/i/default_1@44045/index_720_av-p.m3u8?F38b1dF4=62601a4c14eb3f00016220b4&6pLKMQ3y=Sqi3Ng90&video_id=5f978263e036f600019f66c2&sd=10&dw=10800&rebase=on&hdntl=exp=1650551763~acl=%2f*%4044045%2f*~data=hdntl~hmac=08dbe05aa5df52ab1305fc3cbc7a4a96f06db8b518af353f36b82477da5e1596
 #EXTINF:-1 tvg-id="PE | JN19" tvg-name="PE | JN19" channelId="219" tvg-logo="http://www.jn19television.com/templates/televid_23/images/object979167786.png" group-title="RELIGIOSOS", 219 | JN19 Televisión
 https://servilive.com:3149/live/jn19tvlive.m3u8
 #EXTINF:-1 tvg-id="CR | Telefides" tvg-name="CR | Telefides" channelId="220" tvg-logo="https://costaricatelevision.com/sites/default/files/styles/tv_list/public/2020-07/telefides-costa-rica.png.webp?itok=XzDap4zR" group-title="RELIGIOSOS", 220 | Telefides
@@ -614,15 +614,15 @@ https://1667517699.rsc.cdn77.org/hls/camana.m3u8
 #EXTINF:-1 tvg-id="EC | Gamavisión" tvg-name="EC | Gamavisión" channelId="297" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ECUADOR", 297 | Gamavisión || ECUADOR
 http://45.71.185.142:8500/play/a027
 #EXTINF:-1 tvg-id="EC | Teleamazonas" tvg-name="EC | Teleamazonas" channelId="298" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/150px-Teleamazonas_Logo.png" group-title="ECUADOR", 298 | Teleamazonas || ECUADOR
-https://playback.akamaized.net/streams/1359588_9942377_lsijnd6fbbbmlz00fae_1/media/1359588_9942377_lsijnd6fbbbmlz00fae_1@2756000p.m3u8?dw=14400&ts=1650434400&hdnts=exp=1650608508~acl=/streams/1359588_9942377_lsijnd6fbbbmlz00fae_1/media*~hmac=4630912b75336bb21a5b3c837687d36f563455c3a39151df42fb4aa5c75c4f2d
+https://playback.akamaized.net/streams/1359588_9942377_lsijnd6fbbbmlz00fae_1/media/1359588_9942377_lsijnd6fbbbmlz00fae_1@2756000p.m3u8?dw=14400&ts=1650463200&hdnts=exp=1650637980~acl=/streams/1359588_9942377_lsijnd6fbbbmlz00fae_1/media*~hmac=fbf1caf393e17cafa2801a3e5a050c4d13c62ddeeb7ab403385c4aa95f21c6df
 #EXTINF:-1 tvg-id="EC | Televicentro" tvg-name="EC | Televicentro" channelId="299" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/TVCEC.png/150px-TVCEC.png" group-title="ECUADOR", 299 | TVC || ECUADOR
-https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjUwNDEzNzAwLCJzZXNzaW9uIjoiMTkwLjIzNy40OC4yMjEiLCJ3aGl0ZWxpc3QiOlsiMTkwLjIzNy40OC4yMjEiXX0sInNpZ25hdHVyZSI6ImEwZDFjNmQ1YmM2YmUwZGNlM2RhYTQzOGJjYTRmYTQ4YzZhZGUxMzgifQ==
+https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjUwNTQ3NTY4LCJzZXNzaW9uIjoiMTgxLjE3Ni4xMjguMTMzIiwid2hpdGVsaXN0IjpbIjE4MS4xNzYuMTI4LjEzMyJdfSwic2lnbmF0dXJlIjoiYTU1NzVjYzkwYWE4MzkxYWFjMjU3YjRlYTcyNWQ2YWMzZGYxMGVkMiJ9
 #EXTINF:-1 tvg-id="EC | Ecuador TV" tvg-name="EC | Ecuador TV" channelId="300" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/150px-EcuadorTV_logo.png" group-title="ECUADOR", 300 | Ecuador TV || ECUADOR
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ECUADORTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DECUADORTV_stream_wj&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1931631690&_cdn_session=176101051&_cdn_timestamp=1650485198&_cdn_token=596d1f6859468113e78d26ee52f4cc5806813cae
 #EXTINF:-1 tvg-id="EC | Ecuavisa" tvg-name="EC | Ecuavisa" channelId="301" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/200px-Ecuavisa_Logo_2019.png" group-title="ECUADOR", 301 | Ecuavisa || ECUADOR
 http://vps-c97214f4.vps.ovh.net:80/hls/ecutv4.m3u8
 #EXTINF:-1 tvg-id="EC | Red Telesistema" tvg-name="EC | Red Telesistema" channelId="302" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/150px-Rts_logo.png" group-title="ECUADOR", 302 | RTS || ECUADOR
-https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjUwNDI2MjQ1LCJzZXNzaW9uIjoiMTgxLjE3Ni4xMjguMTY3Iiwid2hpdGVsaXN0IjpbIjE4MS4xNzYuMTI4LjE2NyJdfSwic2lnbmF0dXJlIjoiZjI3YTQyZjZjYjMwYWFiN2EwZmZiNmVlMDQ1ZTY4YTczODAxNTAzZSJ9
+https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjUwNTQ3Njg2LCJzZXNzaW9uIjoiMTgxLjE3Ni4xMjguMTMzIiwid2hpdGVsaXN0IjpbIjE4MS4xNzYuMTI4LjEzMyJdfSwic2lnbmF0dXJlIjoiOWNiMGI1NDJhZTFhZGUxMTg2NjJjNDA4NDc4ZjdmMzhiMjIzODhlOCJ9
 #EXTINF:-1 tvg-id="EC | Televisora Central Ecuatoriana" tvg-name="EC | Telecentro" channelId="303" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png" group-title="ECUADOR", 303 | TC Televisión || ECUADOR
 http://45.71.185.142:8500/play/a02d
 #EXTINF:-1 tvg-id="EC | Oromar TV" tvg-name="EC | Oromar TV" channelId="304" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="ECUADOR", 304 | Oromar Televisión || ECUADOR
@@ -858,7 +858,7 @@ http://ky-iptv.com:80/20282028/20282028/180863.m3u8
 #EXTINF:-1 tvg-id="PY | Paravisión" tvg-name="PY | Paravisión" channelId="413" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Paravision_logo.png/150px-Paravision_logo.png" group-title="PARAGUAY", 413 | Paravisión || PARAGUAY
 http://ultra-premium-pro.xyz:8080/live/2022/2022/66508.m3u8
 #EXTINF:-1 tvg-id="PY | Canal 9 Noticias" tvg-name="PY | Canal 9 Noticias" channelId="414" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Canal_9_Noticias.jpg/125px-Canal_9_Noticias.jpg" group-title="PARAGUAY", 414 | C9N || PARAGUAY
-https://py-c9n-c9n-live.ned.media/c9n/smil:c9n.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjUwNTAxMTIxLCJzZXNzaW9uIjoiMTkwLjIzNy40OC4yMjEiLCJ3aGl0ZWxpc3QiOlsiMTkwLjIzNy40OC4yMjEiXX0sInNpZ25hdHVyZSI6ImQ2NzMyZDUwZTI2ODJmOWNhYzkxMzIwMjZjYmEzMDc3ODYzYmZlYzYifQ==
+https://py-c9n-c9n-live.ned.media/c9n/smil:c9n.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjUwNTQ3NzcyLCJzZXNzaW9uIjoiMTgxLjE3Ni4xMjguMTMzIiwid2hpdGVsaXN0IjpbIjE4MS4xNzYuMTI4LjEzMyJdfSwic2lnbmF0dXJlIjoiNjIzNGZmYTcwOGE1YWY0MDc1OGE0MmMxMTI5OGNkMGMwZTU2OTA1YiJ9
 #EXTINF:-1 tvg-id="PY | Sistema Nacional de Televisión" tvg-name="PY | Sistema Nacional de Televisión" channelId="415" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/SNT_LOGO.jpg/220px-SNT_LOGO.jpg" group-title="PARAGUAY", 415 | SNT || PARAGUAY
 https://py-snt-snt-live.ned.media/snt/smil:snt.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjUwNTAwNzg0LCJzZXNzaW9uIjoiMTkwLjIzNy40OC4yMjEiLCJ3aGl0ZWxpc3QiOlsiMTkwLjIzNy40OC4yMjEiXX0sInNpZ25hdHVyZSI6IjkyNzFiMTJjYWFlOTI3NzljOGFhZTE4MzNkZWY0NTBiYzlkYjY2MGMifQ==
 #EXTINF:-1 tvg-id="PY | Sur Televisión" tvg-name="PY | Sur Televisión" channelId="416" tvg-logo="https://cdn.mitvstatic.com/channels/116c52f1-8f55-4325-af6d-ab11f98e81d5_m.jpg" group-title="PARAGUAY", 416 | Sur Televisión || PARAGUAY
