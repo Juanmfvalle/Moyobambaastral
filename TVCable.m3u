@@ -413,9 +413,13 @@ https://917ebd53b511440f9669a926b4ba9153.mediatailor.us-east-1.amazonaws.com/v1/
 https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8
 #EXTINF:-1 tvg-id="DO | Hits 360" tvg-name="DO | Hits 360" channelId="197" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1853-294x165-FFFFFF.jpg" group-title="MUSICA Y REALITIES", 197 | Hits 360
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="MX | Visión Televisión" tvg-name="MX | Visión Televisión" channelId="En prueba" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9lPhyOcDjaoJ4wXoeZrt4AyE_xsEsSUm3SWH-m6fuPfWdxPqdSDtHUUp5J5KNY_3lP2A&usqp=CAU" group-title="MUSICA Y REALITIES", En prueba | Visión Televisión
+https://cloudvideo.servers10.com:8081/8016/index.m3u8
 #EXTINF:-1 tvg-id="CL | Zapping Music" tvg-name="CL | Zapping Music" channelId="198" tvg-logo="http://tv-online.cl/zapping-music-en-vivo.jpg?210921113151" group-title="MUSICA Y REALITIES", 198 | Zapping Music
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | E Music" tvg-name="PE | E Music" channelId="En prueba" tvg-logo="https://scontent.flim6-3.fna.fbcdn.net/v/t39.30808-6/278573477_10159923206923571_8297661775070279729_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeHsR4jowqT01LtGz5n3hr8qfGKlUh5UJPh8YqVSHlQk-IP2vLHcFtNv3tBgVLaodiA&_nc_ohc=_v_MEtEz0mcAX_hn-lu&_nc_ht=scontent.flim6-3.fna&oh=00_AT8-V_C47GQhXqtNmVqv1uLURIuTYzDjxD7FNzPbYcq4Qg&oe=626A6DDE" group-title="MUSICA Y REALITIES", 198 | E Music
+#EXTINF:-1 tvg-id="ES | Cadena Elite" tvg-name="ES | Cadena Elite" channelId="En prueba" tvg-logo="https://www.cadenaelite.es/img/logoMenu.png" group-title="MUSICA Y REALITIES", En prueba | Cadena Elite
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
+#EXTINF:-1 tvg-id="PE | E Music" tvg-name="PE | E Music" channelId="En prueba" tvg-logo="https://scontent.flim6-3.fna.fbcdn.net/v/t39.30808-6/278573477_10159923206923571_8297661775070279729_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeHsR4jowqT01LtGz5n3hr8qfGKlUh5UJPh8YqVSHlQk-IP2vLHcFtNv3tBgVLaodiA&_nc_ohc=_v_MEtEz0mcAX_hn-lu&_nc_ht=scontent.flim6-3.fna&oh=00_AT8-V_C47GQhXqtNmVqv1uLURIuTYzDjxD7FNzPbYcq4Qg&oe=626A6DDE" group-title="MUSICA Y REALITIES", En prueba | E Music
 https://srv1.mediastreamperu.com:8081/8018/index.m3u8
 #EXTINF:-1 tvg-id="CL | TV Salud" tvg-name="CL | TV Salud" channelId="199" tvg-logo="https://image.roku.com/developer_channels/prod/0cb910829e2a34c241e0da4d1f66747f7fa849da691d65ffa6d9b47af3880f6e.png" group-title="CULTURA Y EDUCACION", 199 | TV Salud
 https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w1709921774.m3u8
@@ -626,11 +630,11 @@ https://1667517699.rsc.cdn77.org/hls/camana.m3u8
 #EXTINF:-1 tvg-id="EC | Gamavisión" tvg-name="EC | Gamavisión" channelId="297" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ECUADOR", 297 | Gamavisión || ECUADOR
 http://45.71.185.142:8500/play/a027
 #EXTINF:-1 tvg-id="EC | Teleamazonas" tvg-name="EC | Teleamazonas" channelId="298" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/150px-Teleamazonas_Logo.png" group-title="ECUADOR", 298 | Teleamazonas || ECUADOR
-https://playback.akamaized.net/streams/1359588_9942377_lsim6y807zvqj49hln6_1/media/1359588_9942377_lsim6y807zvqj49hln6_1@2756000p.m3u8?dw=14400&ts=1650855600&hdnts=exp=1651031779~acl=/streams/1359588_9942377_lsim6y807zvqj49hln6_1/media*~hmac=c022568df093ca52cc2b962870924d69e3044177b79356abf2f1f7a0d59d2a1f
+https://playback.akamaized.net/streams/1359588_9942377_lsim6y807zvqj49hln6_1/media/1359588_9942377_lsim6y807zvqj49hln6_1@2756000p.m3u8?dw=14400&ts=1650862800&hdnts=exp=1651037774~acl=/streams/1359588_9942377_lsim6y807zvqj49hln6_1/media*~hmac=9ac5e9a3a67cd6135e2a19c144a634d5b3a20e9ea2bfc5df691a1f065a9e5b3f
 #EXTINF:-1 tvg-id="EC | Televicentro" tvg-name="EC | Televicentro" channelId="299" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/TVCEC.png/150px-TVCEC.png" group-title="ECUADOR", 299 | TVC || ECUADOR
 https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjUwNzE1Mjc3LCJzZXNzaW9uIjoiMTgxLjE3Ni4xMjguMTM0Iiwid2hpdGVsaXN0IjpbIjE4MS4xNzYuMTI4LjEzNCJdfSwic2lnbmF0dXJlIjoiYTZkM2E1MGYzNzVhNDkzMTRkMWVlOTA5ZWM4YWRmZGRmMDg4YzBjMSJ9
 #EXTINF:-1 tvg-id="EC | Ecuador TV" tvg-name="EC | Ecuador TV" channelId="300" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/150px-EcuadorTV_logo.png" group-title="ECUADOR", 300 | Ecuador TV || ECUADOR
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ECUADORTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DECUADORTV_stream_wj&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1547510270&_cdn_session=178909123&_cdn_timestamp=1650905181&_cdn_token=5e4d956b3b693053f61e59ec43203d63c6cb6bb1
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ECUADORTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DECUADORTV_stream_wj&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1547510270&_cdn_session=179218027&_cdn_timestamp=1650937132&_cdn_token=0f76bd49c3e6d2f6069b33c7a01c8ea636c5482d
 #EXTINF:-1 tvg-id="EC | Ecuavisa" tvg-name="EC | Ecuavisa" channelId="301" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/200px-Ecuavisa_Logo_2019.png" group-title="ECUADOR", 301 | Ecuavisa || ECUADOR
 http://vps-c97214f4.vps.ovh.net:80/hls/ecutv4.m3u8
 #EXTINF:-1 tvg-id="EC | Red Telesistema" tvg-name="EC | Red Telesistema" channelId="302" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/150px-Rts_logo.png" group-title="ECUADOR", 302 | RTS || ECUADOR
@@ -638,7 +642,7 @@ https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/playlist.m3u8?iu
 #EXTINF:-1 tvg-id="EC | Televisora Central Ecuatoriana" tvg-name="EC | Telecentro" channelId="303" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png" group-title="ECUADOR", 303 | TC Televisión || ECUADOR
 http://45.71.185.142:8500/play/a02d
 #EXTINF:-1 tvg-id="EC | Oromar TV" tvg-name="EC | Oromar TV" channelId="304" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="ECUADOR", 304 | Oromar Televisión || ECUADOR
-https://live-ak.vimeocdn.com/exp=1650862689~acl=%2F01821826-88de-4b08-9723-bd3a97295c1d%2F%2A~hmac=221477fb78c256066bd9f4d299b153775e75262b7e067de0c4a1d6ada5a7d9ce/01821826-88de-4b08-9723-bd3a97295c1d/chunklist_b6256000.m3u8?max_segments=10
+https://live-ak.vimeocdn.com/exp=1650868653~acl=%2F01821826-88de-4b08-9723-bd3a97295c1d%2F%2A~hmac=776fa2319f13337e4f1908e884bb3306b2b246d26030904e7a4fbeb0337b6e26/01821826-88de-4b08-9723-bd3a97295c1d/chunklist_b6256000.m3u8?max_segments=10
 #EXTINF:-1 tvg-id="EC | Canela TV" tvg-name="EC | Canela TV" channelId="305" tvg-logo="https://web.canelatv.com/wp-content/uploads/2020/10/ki.gif" group-title="ECUADOR", 305 | Canela TV || ECUADOR
 https://59d39900ebfb8.streamlock.net/canelatv/canelatv/chunklist_w1360767208.m3u8
 #EXTINF:-1 tvg-id="EC | Telerama" tvg-name="EC | Telerama" channelId="306" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_Telerama.png/250px-Logo_Telerama.png" group-title="ECUADOR", 306 | Telerama || ECUADOR
@@ -1233,6 +1237,8 @@ https://cdn1.streamgato.us/morrotv/morrotv.myStream/playlist.m3u8
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_4.m3u8
 #EXTINF:-1 tvg-id="MX | Canal 9" tvg-name="MX | Canal 9" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nueve_%282018_logo%29.png/175px-Nueve_%282018_logo%29.png" group-title="MEXICO", En prueba | Canal 9
 https://tunelive.net:3734/stream/play.m3u8
+#EXTINF:-1 tvg-id="MX | Canal 11" tvg-name="MX | Canal 11" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_Actual_Canal_Once.png/200px-Logo_Actual_Canal_Once.png" group-title="MEXICO", En prueba | Canal 11
+https://d24sa4vr9gvjv.cloudfront.net/index_720.m3u8
 #EXTINF:-1 tvg-id="ES | La 1" tvg-name="ES | La 1" channelId="594" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/125px-Logo_TVE-1.svg.png" group-title="ESPAÑA", 594 | La 1 || ESPAÑA
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="ES | La 2" tvg-name="ES | La 2" channelId="595" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/800px-Logo_TVE-2.svg.png" group-title="ESPAÑA", 595 | La 2 || ESPAÑA
@@ -1243,6 +1249,8 @@ https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid
 https://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 #EXTINF:-1 tvg-id="ES | Antena 3" tvg-name="ES | Antena 3" channelId="598" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/125px-Antena_3_%282017%29.svg.png" group-title="ESPAÑA", 598 | Antena 3 || ESPAÑA
 https://mdstrm.com/live-stream-playlist/5cae574f875a4e1adebe5c39.m3u8?access_token=DSTa8e7881c9f2118f08d2376239f3292d8
+#EXTINF:-1 tvg-id="ES | Córdoba TV" tvg-name="ES | Córdoba TV" channelId="En prueba" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSgVgo2JIuWIRczlo8FaYXvLw9PdUl9-wMezPIEyg=s900-c-k-c0x00ffffff-no-rj" group-title="ESPAÑA", En prueba | Córdoba TV || ESPAÑA
+https://cloudvideo.servers10.com:8081/8020/index.m3u8
 #EXTINF:-1 tvg-id="ES | Odisea" tvg-name="ES | Odisea" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/ODISEA.png/220px-ODISEA.png" group-title="ESPAÑA", En prueba | Odisea || ESPAÑA
 https://srv1.mediastreamperu.com:8081/8016/index.m3u8
 #EXTINF:-1 tvg-id="JP | NHK World" tvg-name="JP | NHK World" channelId="599" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/245px-NHK_World.svg.png" group-title="JAPON", 599 | NHK World || JAPON
@@ -1397,12 +1405,16 @@ http://radios-ec.cdn.nedmedia.io/radios/ec-fabu-gy.m3u8
 https://online.radioecuantena.com:8443/transmision.mp3
 #EXTINF:-1 tvg-id="CO | RCN Radio" tvg-name="CO | RCN Radio" channelId="674" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RCN_Radio_Colombia_logo.svg/250px-RCN_Radio_Colombia_logo.svg.png" group-title="EMISORAS INTERNACIONALES", 674 | RCN Radio 93.9 FM || COLOMBIA
 https://21933.live.streamtheworld.com/RCN_RADIO_FMAAC.aac
+#EXTINF:-1 tvg-id="CO | W Radio" tvg-name="CO | W Radio" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/W_Radio_Colombia_logo.svg/225px-W_Radio_Colombia_logo.svg.png" group-title="EMISORAS INTERNACIONALES", En prueba | W Radio 99.9 FM || COLOMBIA
+https://20833.live.streamtheworld.com/WRADIOAAC.aac
 #EXTINF:-1 tvg-id="CO | Radio Caracol" tvg-name="CO | Radio Caracol" channelId="675" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Caracol_Radio_logo.svg/1280px-Caracol_Radio_logo.svg.png" group-title="EMISORAS INTERNACIONALES", 675 | Radio Caracol 100.9 FM || COLOMBIA
 https://19793.live.streamtheworld.com/CARACOL_RADIOAAC_SC
 #EXTINF:-1 tvg-id="CO | Antena 2 Radio" tvg-name="CO | Antena 2 Radio" channelId="676" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Antena_2_logo.svg/225px-Antena_2_logo.svg.png" group-title="EMISORAS INTERNACIONALES", 676 | Antena 2 Radio 650 AM || COLOMBIA
 http://20823.live.streamtheworld.com/ANTENA_2_BOGAAC.aac
 #EXTINF:-1 tvg-id="CO | Radio Años Maravillosos" tvg-name="CO | Radio Años Maravillosos" channelId="677" tvg-logo="https://www.rcnmundo.com/wp-content/uploads/2016/01/aM60-701.png" group-title="EMISORAS INTERNACIONALES", 677 | Radio Años Maravillosos || COLOMBIA
 https://20833.live.streamtheworld.com/ANOS_MARAVILLOSOS_BOGAAC.aac
+#EXTINF:-1 tvg-id="VE | Unión Radio" tvg-name="VE | Unión Radio" channelId="En prueba" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/48s2CFcwQF.png" group-title="EMISORAS INTERNACIONALES", En prueba | Unión Radio || VENEZUELA
+https://acp4.lorini.net/proxy/ur2080?mp=/stream
 #EXTINF:-1 tvg-id="VE | La Radio del Sur" tvg-name="VE | La Radio del Sur" channelId="678" tvg-logo="http://www.laradiodelsur.com.ve/wp-content/uploads/2020/03/c300.png" group-title="EMISORAS INTERNACIONALES", 678 | La Radio del Sur || VENEZUELA
 http://190.202.130.61:8000/lrds
 #EXTINF:-1 tvg-id="VE | Radio Caracas Radio" tvg-name="VE | Radio Caracas Radio" channelId="679" tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/0/59730.v8.png" group-title="EMISORAS INTERNACIONALES", 679 | Radio Caracas Radio || VENEZUELA
@@ -1425,6 +1437,8 @@ https://radios-gt.cdn.nedmedia.io/radios/gt/joya.m3u8
 http://54.39.106.215:9314/;
 #EXTINF:-1 tvg-id="GT | Radio Panamericana 1030 AM" tvg-name="GT | Radio Panamericana 1030 AM" channelId="688" tvg-logo="https://cdn-profiles.tunein.com/s138009/images/logod.png?t=156821" group-title="EMISORAS INTERNACIONALES", 688 | Radio Panamericana 1030 AM || GUATEMALA
 http://server3.sit-mexico.com:8011/live
+#EXTINF:-1 tvg-id="MX | Radio México Internacional" tvg-name="MX | Radio México Internacional" channelId="En prueba" tvg-logo="https://dbs.radioline.fr/pictures/radio_77ffed9be8fe88f1a6b4fc56810bb64e/logo200.jpg?size=600" group-title="EMISORAS INTERNACIONALES", 688 | Radio México Internacional || MEXICO
+https://s2.mexside.net/8020/stream
 #EXTINF:-1 tvg-id="USA | Red de Radiodifusión Bíblica" tvg-name="USA | Red de Radiodifusión Bíblica" channelId="689" tvg-logo="https://bbn1.bbnradio.org/spanish/wp-content/uploads/sites/5/2020/12/50thLogoSP.png" group-title="EMISORAS INTERNACIONALES", 689 | BBN (Bible Broadcasting Network) Radio || ESTADOS UNIDOS
 https://audio-edge-es6pf.mia.g.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f
 #EXTINF:-1 tvg-id="ES | NSE Radio América" tvg-name="ES | NSE Radio América" channelId="690" tvg-logo="https://public-rf-upload.minhawebradio.net/166842/cover/73f0ce5e8eab2e197fc683cb50d7b20b.jpg" group-title="EMISORAS INTERNACIONALES", 690 | NSE (Nuestra Señora del Encuentro con Dios) Radio América || ESPAÑA
