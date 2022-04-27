@@ -410,7 +410,7 @@ https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="USA | Vallenato Internacional Radio & TV" tvg-name="USA | Vallenato Internacional Radio & TV" channelId="194" tvg-logo="https://cdn.colombia.com/canales/vallenato-internacional-radio-tv-3172.jpg" group-title="MUSICA Y REALITIES", 194 | Vallenato Internacional Radio & TV
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Rockola Televisión" tvg-name="USA | Rockola Televisión" channelId="195" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2718-294x165-FFFFFF.jpg" group-title="MUSICA Y REALITIES", 195 | Rockola Televisión
-https://917ebd53b511440f9669a926b4ba9153.mediatailor.us-east-1.amazonaws.com/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-VivaLive/a961a310-6819-45cf-be70-fb8ad7f80d2f/0.m3u8
+https://917ebd53b511440f9669a926b4ba9153.mediatailor.us-east-1.amazonaws.com/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-VivaLive/4db4e22c-f2a8-4d40-ab10-2581fee71ae2/0.m3u8
 #EXTINF:-1 tvg-id="CL | Radio Recuerdos Retro TV" tvg-name="CL | Radio Recuerdos Retro TV" channelId="196" tvg-logo="https://recuerdosretro.com/wp-content/uploads/2022/03/cropped-logo_new_web10.png" group-title="MUSICA Y REALITIES", 196 | Radio Recuerdos Retro TV
 https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8
 #EXTINF:-1 tvg-id="DO | Hits 360" tvg-name="DO | Hits 360" channelId="197" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1853-294x165-FFFFFF.jpg" group-title="MUSICA Y REALITIES", 197 | Hits 360
@@ -1148,9 +1148,9 @@ https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8
 #EXTINF:-1 tvg-id="DO | Telemicro" tvg-name="DO | Telemicro" channelId="549" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png/revision/latest/scale-to-width-down/170?cb=20191125192220&path-prefix=es" group-title="REPUBLICA DOMINICANA", 549 | Telemicro || REPUBLICA DOMINICANA
 http://51.81.93.29:8084/hls/tmicro.m3u8
 #EXTINF:-1 tvg-id="DO | Antena 7" tvg-name="DO | Antena 7" channelId="550" tvg-logo="https://www.antena7.com.do/wp-content/themes/albavision-theme/parts-web/8da00b1c/logo.png" group-title="REPUBLICA DOMINICANA", 550 | Antena 7 || REPUBLICA DOMINICANA
-https://do-antena7-antena7-live.ned.media/antena7/smil:antena7.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjUwNzE0NzAzLCJzZXNzaW9uIjoiMTgxLjE3Ni4xMjguMTM0Iiwid2hpdGVsaXN0IjpbIjE4MS4xNzYuMTI4LjEzNCJdfSwic2lnbmF0dXJlIjoiMjNiODJhOWFhNGIwOGM0M2I4MWQ2YmE0MmJiNjE3NGZjY2I5NzVkOCJ9
+https://do-antena7-antena7-live.ned.media/antena7/smil:antena7.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjUxMTY1NDQ3LCJzZXNzaW9uIjoiMTkwLjIzNy4xNTUuMjAyIiwid2hpdGVsaXN0IjpbIjE5MC4yMzcuMTU1LjIwMiJdfSwic2lnbmF0dXJlIjoiNDFhZTQ4YWFjNjQ0ZmZkMmRmNzUxOGM0NmY2Mjg2ODFmYzkwNzgxOSJ9
 #EXTINF:-1 tvg-id="DO | Color Visión" tvg-name="DO | Color Visión" channelId="551" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ec05bd74826e90977bf051086434a04d.webp" group-title="REPUBLICA DOMINICANA", 551 | Color Visión || REPUBLICA DOMINICANA
-http://51.81.93.239:8084/hls/colorABR.m3u8
+https://stream-01.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY7DysihL6YuMeyLqCfFvuDdWFl4qGz4abj-soajRSgjk)/dm/3/x7gy059/d/live-4.m3u8
 #EXTINF:-1 tvg-id="DO | Telesistema" tvg-name="DO | Telesistema" channelId="552" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/telesistemac-100x70.png" group-title="REPUBLICA DOMINICANA", 552 | Telesistema || REPUBLICA DOMINICANA
 http://51.81.93.29:8084/hls/tsistemas.m3u8
 #EXTINF:-1 tvg-id="DO | Telecentro" tvg-name="DO | Telecentro" channelId="553" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Telecentro_ICON.jpg/125px-Telecentro_ICON.jpg" group-title="REPUBLICA DOMINICANA", 553 | Telecentro || REPUBLICA DOMINICANA
