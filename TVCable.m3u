@@ -244,7 +244,7 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DISNEYCHANNEL/40-hls/live-med
 #EXTINF:-1 tvg-id="USA | Disney Junior" tvg-name="USA | Disney Junior" channelId="111" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Disney_Junior_logo.png/170px-Disney_Junior_logo.png" group-title="INFANTILES", 111 | Disney Junior
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DISNEYJR/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISNEYJUNIOR_stream_ec&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1547510270&_cdn_session=182127171&_cdn_timestamp=1651338811&_cdn_token=50d67757047aa5879f0a6f35065b34ff9329116f
 #EXTINF:-1 tvg-id="PE | Identidad Peruana" tvg-name="PE | Identidad Peruana" channelId="112" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/190px-Identidad_Peruana_ipe_2020.png" group-title="INFANTILES", 112 | IPE Televisión
-http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+http://190.122.96.186:8888/http/006
 #EXTINF:-1 tvg-id="USA | Nickelodeon" tvg-name="USA | Nickelodeon" channelId="113" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/245px-Nickelodeon_2009_logo.svg.png" group-title="INFANTILES", 113 | Nickelodeon
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/NICKELODEON/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKELODEON_stream_g4&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1547510270&_cdn_session=182127843&_cdn_timestamp=1651338832&_cdn_token=f54f7de22baab85479b4686593dfbba962a45efa
 #EXTINF:-1 tvg-id="USA | Nick Jr." tvg-name="USA | Nick Jr." channelId="114" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/250px-Nick_Jr._logo_2009.svg.png" group-title="INFANTILES", 114 | Nick Jr.
@@ -264,7 +264,7 @@ https://2.tunelive.net:3734/stream/play.m3u8
 #EXTINF:-1 tvg-id="CU | Cubavisión Internacional" tvg-name="CU | Cubavisión Internacional" channelId="121" tvg-logo="https://www.tvcubana.icrt.cu/images/logos-canales/logo-mascara/cvi.jpg" group-title="INTERNACIONALES", 121 | Cubavisión Internacional
 http://190.122.96.187:8888/http/010
 #EXTINF:-1 tvg-id="RU | RT" tvg-name="RU | RT" channelId="122" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png" group-title="NOTICIAS E INFORMACION", 122 | RT Noticias
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+http://177.53.152.186:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="VE | Globovisión" tvg-name="VE | Globovisión" channelId="123" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo-Globovisi%C3%B3n.png/140px-Logo-Globovisi%C3%B3n.png" group-title="NOTICIAS E INFORMACION", 123 | Globovisión
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/Globovision
 #EXTINF:-1 tvg-id="VE | Telesur" tvg-name="VE | Telesur" channelId="124" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/150px-TeleSUR-Logo.svg.png" group-title="NOTICIAS E INFORMACION", 124 | Telesur
@@ -321,7 +321,7 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/GOURMET/40-hls/live-media.m3u
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOODNETWORK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOODNETWORK_stream_l5&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1547510270&_cdn_session=182135355&_cdn_timestamp=1651339091&_cdn_token=f71926b44d21187f3dd8bf69fcbd40e25a3f1f69
 #EXTINF:-1 tvg-id="CL | Mundo & Sabor" tvg-name="CL | Mundo & Sabor" channelId="149" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MUNDO-Y-SABOR-FONDO-2-300x169.jpg" group-title="ESTILOS DE VIDA", 149 | Mundo & Sabor
 http://177.53.152.186:8000/play/a009/index.m3u8
-#EXTINF:-1 tvg-id="MX | Sazón TV" tvg-name="MX | Sazón TV" channelId="150" tvg-logo="https://scontent.flim6-3.fna.fbcdn.net/v/t39.30808-6/277791757_10159904567618571_3764050485844243941_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeEeP30FS_SsLcRK9hcYW5AMBeD0IckPpCYF4PQhyQ-kJsiCBESrd_efKWTPnhVWMS8&_nc_ohc=2DWoTz9alR8AX8bWBLU&tn=kwz14dFPv-K5cpdE&_nc_ht=scontent.flim6-3.fna&oh=00_AT-393kjVVZrKssD-MACi9orc9qEl4e-SFCDy0uG3QlZTg&oe=626F8D19" group-title="ESTILOS DE VIDA", 150 | Sazón TV
+#EXTINF:-1 tvg-id="PE | Sazón TV" tvg-name="PE | Sazón TV" channelId="150" tvg-logo="https://scontent.flim6-3.fna.fbcdn.net/v/t39.30808-6/277791757_10159904567618571_3764050485844243941_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeEeP30FS_SsLcRK9hcYW5AMBeD0IckPpCYF4PQhyQ-kJsiCBESrd_efKWTPnhVWMS8&_nc_ohc=2DWoTz9alR8AX8bWBLU&tn=kwz14dFPv-K5cpdE&_nc_ht=scontent.flim6-3.fna&oh=00_AT-393kjVVZrKssD-MACi9orc9qEl4e-SFCDy0uG3QlZTg&oe=626F8D19" group-title="ESTILOS DE VIDA", 150 | Sazón TV
 http://177.53.152.186:8000/play/a014/index.m3u8
 #EXTINF:-1 tvg-id="EC | Inti TV" tvg-name="EC | Inti TV" channelId="151" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/INTI_Network_TV.png/600px-INTI_Network_TV.png" group-title="ESTILOS DE VIDA", 151 | Inti TV
 http://s846397078.mialojamiento.es/w2jy/inti.php/media_w1203630815_3721.m3u8
@@ -423,6 +423,8 @@ https://cloudvideo.servers10.com:8081/8016/index.m3u8
 https://inliveserver.com:1936/17504/17504/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Megabox" tvg-name="NI | Megabox" channelId="En prueba" tvg-logo="https://pbs.twimg.com/profile_images/1108879740893622273/naY8KsoE_400x400.jpg" group-title="MUSICA Y REALITIES", En prueba | Megabox
 https://inliveserver.com:1936/17508/17508/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | Urbano TV" tvg-name="PE | Urbano TV" channelId="En prueba" tvg-logo="https://scontent-lim1-1.xx.fbcdn.net/v/t39.30808-6/279274483_10159931687198571_2446584643878824765_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeEH5Hm_7JUfoUXVFcXh2IBP5qnBPVo1YsPmqcE9WjViw4Kyy77m4eJUdfE9jVt6Bac&_nc_ohc=X2CT4XRsyNAAX8PShEf&_nc_ht=scontent-lim1-1.xx&oh=00_AT9rBHmaRCbCsXAzqu5jfYC-TCdP0So3hp0g4CWkktxjYg&oe=6271AA30" group-title="MUSICA Y REALITIES", En prueba | Urbano TV
+http://177.53.152.186:8000/play/a012/index.m3u8
 #EXTINF:-1 tvg-id="CL | Zapping Music" tvg-name="CL | Zapping Music" channelId="198" tvg-logo="http://tv-online.cl/zapping-music-en-vivo.jpg?210921113151" group-title="MUSICA Y REALITIES", 198 | Zapping Music
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ES | Cadena Elite" tvg-name="ES | Cadena Elite" channelId="En prueba" tvg-logo="https://www.cadenaelite.es/img/logoMenu.png" group-title="MUSICA Y REALITIES", En prueba | Cadena Elite
@@ -525,6 +527,8 @@ http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
 https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Perú Mágico" tvg-name="PE | Perú Mágico" channelId="242" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Peru_magico.png/200px-Peru_magico.png" group-title="INTERNACIONALES", 242 | Perú Mágico
 http://tv.plusk.xyz:28000/live/gigitbl/2DKYzhvEke/59875.m3u8
+#EXTINF:-1 tvg-id="PE | Fuego TV" tvg-name="PE | Fuego TV" channelId="En prueba" tvg-logo="https://fuegotvlima.pe/wp-content/uploads/elementor/thumbs/fuego512-pkprjgrasbgn1fzse2pqkhg4gv2sidlyxyjorl0xpq.png" group-title="REGIONALES", En prueba | Fuego TV || Lima
+http://177.53.152.186:8000/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="PE | USMP TV" tvg-name="PE | USMP TV" channelId="243" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/USMP_TV_2017.svg/revision/latest/scale-to-width-down/56?cb=20210504214359&path-prefix=es" group-title="REGIONALES", 243 | USMP Televisión || Lima
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/USMPTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUSMPTV_stream_61&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1547510270&_cdn_session=182149803&_cdn_timestamp=1651339630&_cdn_token=6527470787fba256b1e70293b4b44fd3b89b600a
 #EXTINF:-1 tvg-id="PE | Bh TV" tvg-name="PE | Bh TV" channelId="244" tvg-logo="https://bhtv.pe/wp-content/uploads/2020/08/descarga-4.jpg" group-title="REGIONALES", 244 | BH Televisión || Lima
