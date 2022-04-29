@@ -419,6 +419,8 @@ https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | Visión Televisión" tvg-name="MX | Visión Televisión" channelId="En prueba" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9lPhyOcDjaoJ4wXoeZrt4AyE_xsEsSUm3SWH-m6fuPfWdxPqdSDtHUUp5J5KNY_3lP2A&usqp=CAU" group-title="MUSICA Y REALITIES", En prueba | Visión Televisión
 https://cloudvideo.servers10.com:8081/8016/index.m3u8
+#EXTINF:-1 tvg-id="MX | La Bomba Urbana TV" tvg-name="MX | La Bomba Urbana TV" channelId="En prueba" tvg-logo="http://eltoquefm.com/LA%20BOMBA%20URBANA%20TV.jpg" group-title="MUSICA Y REALITIES", En prueba | La Bomba Urbana TV
+https://inliveserver.com:1936/17504/17504/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Megabox" tvg-name="NI | Megabox" channelId="En prueba" tvg-logo="https://pbs.twimg.com/profile_images/1108879740893622273/naY8KsoE_400x400.jpg" group-title="MUSICA Y REALITIES", En prueba | Megabox
 https://inliveserver.com:1936/17508/17508/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Zapping Music" tvg-name="CL | Zapping Music" channelId="198" tvg-logo="http://tv-online.cl/zapping-music-en-vivo.jpg?210921113151" group-title="MUSICA Y REALITIES", 198 | Zapping Music
@@ -471,6 +473,8 @@ https://zypelive-lh.akamaihd.net/i/default_1@44045/index_720_av-p.m3u8?F38b1dF4=
 https://servilive.com:3149/live/jn19tvlive.m3u8
 #EXTINF:-1 tvg-id="CR | Telefides" tvg-name="CR | Telefides" channelId="220" tvg-logo="https://costaricatelevision.com/sites/default/files/styles/tv_list/public/2020-07/telefides-costa-rica.png.webp?itok=XzDap4zR" group-title="RELIGIOSOS", 220 | Telefides
 https://s2.cwebtv.net:4433/telefides/telefides/chunklist.m3u8
+#EXTINF:-1 tvg-id="DO | La Voz de María" tvg-name="DO | La Voz de María" channelId="En prueba" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTRyXwicJcx52VUr5lYKMVMnrvlwvhS4HFMFr-W=s900-c-k-c0x00ffffff-no-rj" group-title="RELIGIOSOS", En prueba | La Voz de María TV
+http://190.122.96.186:8888/http/003
 #EXTINF:-1 tvg-id="NI | JBN Canal 39" tvg-name="NI | JBN Canal 39" channelId="221" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSFAwOxRl_Q_NdWj-oIOGI7e7VC7UoNrdt3Kqm3=s88-c-k-c0x00ffffff-no-rj" group-title="RELIGIOSOS", 221 | JBN Canal 39
 https://inliveserver.com:1936/17510/17510/playlist.m3u8
 #EXTINF:-1 tvg-id="AR | Canal Luz" tvg-name="AR | Canal Luz" channelId="222" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Canal_Luz_actual.png/125px-Canal_Luz_actual.png" group-title="RELIGIOSOS", 222 | Canal Luz
@@ -487,11 +491,13 @@ https://hcinteram.mmdlive.lldns.net/hcinteram/e7086b61ed15451c9d46b46b59716f61/m
 https://hcintlinc.mmdlive.lldns.net/hcintlinc/7af1df165bec4333b62c59afce9c9e49/manifest.m3u8
 #EXTINF:-1 tvg-id="USA | 3ABN Latino" tvg-name="USA | 3ABN Latino" channelId="228" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/3ABN_logo.svg/250px-3ABN_logo.svg.png" group-title="RELIGIOSOS", 228 | 3ABN Latino
 https://3abn-live.akamaized.net/hls/live/2010547/Latino/master.m3u8
+#EXTINF:-1 tvg-id="NI | TV 45 - 3ABN" tvg-name="NI | TV 45 - 3ABN" channelId="228" tvg-logo="https://www.3abnnicaragua.tv/Imagenes/Inicio/Logos/LogoAdventista2.svg" group-title="RELIGIOSOS", En prueba | TV 45 - 3ABN
+https://inliveserver.com:1936/17514/17514/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Red Advenir" tvg-name="BO | Red Advenir" channelId="229" tvg-logo="http://redadvenir.org/pagina/wp-content/themes/redadvenir/images/logo.png" group-title="RELIGIOSOS", 229 | Red Advenir
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/chunklist_w484510804.m3u8
 #EXTINF:-1 tvg-id="USA | CBN" tvg-name="USA | CBN" channelId="230" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/CBN_Network_logo.svg/245px-CBN_Network_logo.svg.png" group-title="RELIGIOSOS", 230 | CBN
 https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
-#EXTINF:-1 tvg-id="RD | Cielo TV" tvg-name="RD | Cielo TV" channelId="231" tvg-logo="https://cielotv.do/wp-content/uploads/2021/07/logotipoctv.png" group-title="RELIGIOSOS", 231 | Cielo TV
+#EXTINF:-1 tvg-id="DO | Cielo TV" tvg-name="DO | Cielo TV" channelId="231" tvg-logo="https://cielotv.do/wp-content/uploads/2021/07/logotipoctv.png" group-title="RELIGIOSOS", 231 | Cielo TV
 https://mycloudstream.akamaized.net/hls/live/2035990/ymty1j6r/index.m3u8
 #EXTINF:-1 tvg-id="NI | Enlace Canal 21" tvg-name="NI | Enlace Canal 21" channelId="232" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT7bjw4NmODI49wGnBEv2KuF80_smXElW0mXdk0Ig=s900-c-k-c0x00ffffff-no-rj" group-title="RELIGIOSOS", 232 | Enlace 21 || Nicaragua
 http://nicatv.rylco.com:8075/channel21/playlist.m3u8
@@ -1180,7 +1186,7 @@ https://live.teledom.info:3713/live/cinevisionlive.m3u8
 #EXTINF:-1 tvg-id="DO | Antena 21" tvg-name="DO | Antena 21" channelId="558" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Antena_21_2017.png/revision/latest/scale-to-width-down/300?cb=20210512152824&path-prefix=es" group-title="REPUBLICA DOMINICANA", 558 | Antena 21 || REPUBLICA DOMINICANA
 http://51.81.93.239:8084/hls/a21.m3u8
 #EXTINF:-1 tvg-id="DO | Telefuturo canal 23" tvg-name="DO | Telefuturo canal 23" channelId="559" tvg-logo="http://telefuturo.com.do/home/wp-content/themes/telefuturo23/img/logo.png" group-title="REPUBLICA DOMINICANA", 559 | Telefuturo canal 23 || REPUBLICA DOMINICANA
-https://ss9.domint.net:3054/tf_str/telefuturo/playlist.m3u8
+http://190.122.96.186:8888/http/001
 #EXTINF:-1 tvg-id="DO | Red Nacional de Noticias" tvg-name="DO | Red Nacional de Noticias" channelId="560" tvg-logo="https://i0.wp.com/rnn.com.do/wp-content/uploads/2021/11/LOGO-CUBOS-RNN-test-3.png?resize=1536%2C484&ssl=1" group-title="REPUBLICA DOMINICANA", 560 | RNN || REPUBLICA DOMINICANA
 http://cacatuaiptv.com/rnn.m3u8
 #EXTINF:-1 tvg-id="DO | EN Televisión" tvg-name="DO | EN Televisión" channelId="561" tvg-logo="http://entelevision.com/wp-content/themes/entelevision/imagenes/logo-principal.png" group-title="REPUBLICA DOMINICANA", 561 | EN Televisión || REPUBLICA DOMINICANA
