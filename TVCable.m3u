@@ -675,6 +675,8 @@ https://mediacpstreamchile.com:1936/sonoonda/sonoonda/chunklist_w1788970447.m3u8
 https://ecuastream.net:19360/ucsghd/ucsghd.m3u8
 #EXTINF:-1 tvg-id="EC | Zaracay Televisión" tvg-name="EC | Zaracay Televisión" channelId="316" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRrbURdrB5H3lMCizVyGzkuHp7zH9M_KXJssOsO=s88-c-k-c0x00ffffff-no-rj" group-title="ECUADOR", 316 | Zaracay Televisión || ECUADOR
 https://streamingwowza.com:1936/zaracaytv/smil:zaracaytv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="EC | Educa Televisión" tvg-name="EC | En prueba" channelId="316" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Educa_Ecuador.png/100px-Educa_Ecuador.png" group-title="ECUADOR", En prueba | Educa Televisión || ECUADOR
+https://cloud7.streamingcnt.net/cnt/educa/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | Canal Capital" tvg-name="CO | Canal Capital" channelId="317" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/135px-2020_Canal_Capital_logo.svg.png" group-title="COLOMBIA", 317 | Canal Capital || COLOMBIA
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 #EXTINF:-1 tvg-id="CO | RCN +" tvg-name="CO | RCN +" channelId="318" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/RCN_HD2_2019.png/200px-RCN_HD2_2019.png" group-title="COLOMBIA", 318 | RCN + || COLOMBIA
@@ -847,6 +849,8 @@ https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
 https://videostreaming.cloudserverlatam.com:443/8040/8040/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CL | Canal Latino 54" tvg-name="CL | Canal Latino 54" channelId="397" tvg-logo="http://radio1latina.cl/wp-content/uploads/2015/01/logo.png" group-title="CHILE", 397 | Canal Latino 54 || CHILE
 http://190.3.169.119:8080/latina/latina/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="CL | Holvoet Televisión" tvg-name="CL | Holvoet Televisión" channelId="En prueba" tvg-logo="https://newses.cgtn.com/n/BfJAA-CIA-HAA/BHJeGAA.jpg" group-title="CHILE", En prueba | Holvoet Televisión || CHILE
+http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-id="AR | Telefe" tvg-name="AR | Telefe" channelId="398" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Telefe_Internacional_%282018%29.png/150px-Telefe_Internacional_%282018%29.png" group-title="INTERNACIONALES", 398 | Telefe Internacional || ARGENTINA
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TELEFE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEFE_stream_te&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1931631690&_cdn_session=181552563&_cdn_timestamp=1651265514&_cdn_token=0e44d4c63a5f9fce024e2aba06dcc12e00997661
 #EXTINF:-1 tvg-id="AR | Telefe Rosario" tvg-name="AR | Telefe Rosario" channelId="398.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/133px-Telefe_Rosario_%282018%29.png" group-title="ARGENTINA", 398.2 | Telefe Rosario || ARGENTINA
