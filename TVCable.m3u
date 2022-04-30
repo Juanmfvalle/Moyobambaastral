@@ -127,9 +127,11 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AZCORAZON/40-hls/live-media.m
 https://tunelive.net:3645/stream/play.m3u8
 #EXTINF:-1 tvg-id="USA | Univisión TL Novelas" tvg-name="USA | Univisión TL Novelas" channelId="58" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/180px-Univision_tlnovelas_%282019%29.svg.png" group-title="NOVELAS", 58 | Univisión TLNovelas
 https://tunelive.net:3415/stream/play.m3u8
-#EXTINF:-1 tvg-id="USA | Univisión Latinoamérica" tvg-name="USA | Univisión Latinoamérica" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="INTERNACIONALES", En prueba | Univisión Latinoamérica
+#EXTINF:-1 tvg-id="USA | Univisión Latinoamérica" tvg-name="USA | Univisión Latinoamérica" channelId="59" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="INTERNACIONALES", 59 | Univisión Latinoamérica
 http://45.189.117.36:7879/play/a0g9
-#EXTINF:-1 tvg-id="MX | Las Estrellas" tvg-name="MX | Las Estrellas" channelId="59" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/180px-Las_Estrellas.svg.png" group-title="MEXICO", 59 | Las Estrellas
+#EXTINF:-1 tvg-id="USA | Univisión" tvg-name="USA | Univisión" channelId="59.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/150px-Logo_Univision_2019.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 59.2 | Univisión
+https://tunelive.net:3653/stream/play.m3u8
+#EXTINF:-1 tvg-id="MX | Las Estrellas" tvg-name="MX | Las Estrellas" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/180px-Las_Estrellas.svg.png" group-title="MEXICO", En prueba | Las Estrellas
 https://tunelive.net:3864/stream/play.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" channelId="60" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", 60 | Telemundo Internacional
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TELEMUNDO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEMUNDO_stream_fp&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1547510270&_cdn_session=182112011&_cdn_timestamp=1651338260&_cdn_token=dade9727edd43ab490192a949a8053aa6c3a86dd
@@ -265,8 +267,6 @@ https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u
 https://2.tunelive.net:3734/stream/play.m3u8
 #EXTINF:-1 tvg-id="CU | Cubavisión Internacional" tvg-name="CU | Cubavisión Internacional" channelId="121" tvg-logo="https://www.tvcubana.icrt.cu/images/logos-canales/logo-mascara/cvi.jpg" group-title="INTERNACIONALES", 121 | Cubavisión Internacional
 http://190.122.96.187:8888/http/010
-#EXTINF:-1 tvg-id="USA | Univisión Noticias 24/7" tvg-name="USA | Univisión Noticias 24/7" channelId="En prueba" tvg-logo="https://st1.uvnimg.com/14/d5/0170ef7f436cac49f7dd6264549e/24.16.9.png" group-title="NOTICIAS E INFORMACION", En prueba | Univisión Noticias 24/7
-https://tunelive.net:3653/stream/play.m3u8
 #EXTINF:-1 tvg-id="RU | RT" tvg-name="RU | RT" channelId="122" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png" group-title="NOTICIAS E INFORMACION", 122 | RT Noticias
 http://177.53.152.186:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="VE | Globovisión" tvg-name="VE | Globovisión" channelId="123" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo-Globovisi%C3%B3n.png/140px-Logo-Globovisi%C3%B3n.png" group-title="NOTICIAS E INFORMACION", 123 | Globovisión
