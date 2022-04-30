@@ -725,6 +725,8 @@ https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
 https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CO | Canal Visión Dorada" tvg-name="CO | Canal Visión Dorada" channelId="335" tvg-logo="https://play-lh.googleusercontent.com/YQi6JN3KWozh0yLl5S83_pMdeoD0nsvBMT-MPpbvGf0Aq_wJgiS0DA7UgEnMtfQjSRID" group-title="COLOMBIA", 335 | Canal Visión Dorada || COLOMBIA
 https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1 tvg-id="CO | Canal 14 de Agustín Codazzi" tvg-name="CO | Canal 14 de Agustín Codazzi" channelId="En prueba" tvg-logo="https://play-lh.googleusercontent.com/fJ6TKmzdPANhI24NH8ULV8pbEsBhWPT3e6O6xchiQmsnlWLhViE904dJd5rvfZUwwQ" group-title="COLOMBIA", En prueba | Canal 14 de Agustín Codazzi || COLOMBIA
+https://cloudvideo.servers10.com:8081/8014/index.m3u8
 #EXTINF:-1 tvg-id="VE | Venevisión" tvg-name="VE | Venevisión" channelId="336" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/90px-Logotipo_de_Venevisi%C3%B3n.svg.png" group-title="VENEZUELA", 336 | Venevisión || VENEZUELA
 http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="VE | Televen" tvg-name="VE | Televen" channelId="337" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Televen_logo.PNG/150px-Televen_logo.PNG" group-title="VENEZUELA", 337 | Televen || VENEZUELA
@@ -1279,6 +1281,10 @@ https://mdstrm.com/live-stream-playlist/5cae574f875a4e1adebe5c39.m3u8?access_tok
 https://cloudvideo.servers10.com:8081/8020/index.m3u8
 #EXTINF:-1 tvg-id="ES | Odisea" tvg-name="ES | Odisea" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/ODISEA.png/220px-ODISEA.png" group-title="ESPAÑA", En prueba | Odisea || ESPAÑA
 http://185.79.153.9:6500/play/a02f
+#EXTINF:-1 tvg-id="ES | Radio Televisión Mogan" tvg-name="ES | Radio Televisión Mogan" channelId="En prueba" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR9a3Cn4uJLbEkRS4XPaymSOXxbfkwIpfbvSF_P=s900-c-k-c0x00ffffff-no-rj" group-title="ESPAÑA", En prueba | Radio Televisión Mogan || ESPAÑA
+https://cloudvideo.servers10.com:8081/8028/index.m3u8
+#EXTINF:-1 tvg-id="ES | Noroeste TV" tvg-name="ES | Noroeste TV" channelId="En prueba" tvg-logo="http://www.noroestetv.es/LOGOS/logo%20tv.jpg" group-title="ESPAÑA", En prueba | Noroeste TV || ESPAÑA
+https://cloudvideo.servers10.com:8081/8032/index.m3u8
 #EXTINF:-1 tvg-id="JP | NHK World" tvg-name="JP | NHK World" channelId="599" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/245px-NHK_World.svg.png" group-title="JAPON", 599 | NHK World || JAPON
 https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
 #EXTINF:-1 tvg-id="KR | Asian TV" tvg-name="KR | Asian TV" channelId="600" tvg-logo="https://tv-iteractiva-prod.s3.amazonaws.com/media/brand/ASIANTV_LOGO_PRETO-01_menor_DURXi6G.png" group-title="KOREA DEL SUR", 600 | Asian TV || KOREA DEL SUR
@@ -1509,3 +1515,5 @@ https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
 https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
 #EXTINF:-1 tvg-id="CA | Stingray Music Classica" tvg-name="CA | Stingray Music Classica" channelId="693.15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE VIDEO", 693.15 | Stingray Music Classica
 https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
+#EXTINF:-1 tvg-id="ES | Melodía de baladas 60 + 70 y algo más" tvg-name="ES | Melodía de baladas 60 + 70 y algo más" channelId="694" tvg-logo="https://play-lh.googleusercontent.com/WrMg6XsDM5oL4FHNVmnYPCX_QOKgPci93vVTQN0f1q1oeFrgpUu0EjyB3pj0GIu_A7U" group-title="CANALES DE VIDEO", 694 | Melodía de baladas 60 + 70 y algo más
+https://cloudvideo.servers10.com:8081/8046/index.m3u8
