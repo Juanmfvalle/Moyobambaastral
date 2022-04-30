@@ -127,6 +127,8 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AZCORAZON/40-hls/live-media.m
 https://tunelive.net:3645/stream/play.m3u8
 #EXTINF:-1 tvg-id="USA | Univisión TL Novelas" tvg-name="USA | Univisión TL Novelas" channelId="58" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/180px-Univision_tlnovelas_%282019%29.svg.png" group-title="NOVELAS", 58 | Univisión TLNovelas
 https://tunelive.net:3415/stream/play.m3u8
+#EXTINF:-1 tvg-id="USA | Univisión Latinoamérica" tvg-name="USA | Univisión Latinoamérica" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="INTERNACIONALES", En prueba | Univisión Latinoamérica
+http://45.189.117.36:7879/play/a0g9
 #EXTINF:-1 tvg-id="MX | Las Estrellas" tvg-name="MX | Las Estrellas" channelId="59" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/180px-Las_Estrellas.svg.png" group-title="MEXICO", 59 | Las Estrellas
 https://tunelive.net:3864/stream/play.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" channelId="60" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", 60 | Telemundo Internacional
@@ -173,6 +175,8 @@ http://177.53.152.186:8000/play/a002/index.m3u8
 http://177.53.152.186:8000/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="CL | MX Prime" tvg-name="CL | MX Prime" channelId="80" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FONDO-2-300x169.jpg" group-title="PELICULAS Y SERIES", 80 | MX Prime
 http://177.53.152.186:8000/play/a001/index.m3u8
+#EXTINF:-1 tvg-id="CL | MX Old" tvg-name="CL | MX Old" channelId="En prueba" tvg-logo="https://scontent.flim6-4.fna.fbcdn.net/v/t39.30808-6/278708786_10159931984498571_1356173914259844007_n.jpg?stp=cp0_dst-jpg&_nc_cat=101&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeFE4iX3ZPTW7b9ug-MVWiglrrwbprktbl-uvBumuS1uX1o_NueBoCsQvAxfpy6zEms&_nc_ohc=YFM9b9KHWEsAX-Tv24D&tn=kwz14dFPv-K5cpdE&_nc_ht=scontent.flim6-4.fna&oh=00_AT8WxoM3lGK-ZiaYaL6SbE2ygg0A0RIqKut1b-xPWuQxWQ&oe=62714CB2" group-title="PELICULAS Y SERIES", En prueba | MX Old
+http://45.160.15.130:8111/play/a0de/index.m3u8
 #EXTINF:-1 tvg-id="USA | Studio Universal" tvg-name="USA | Studio Universal" channelId="81" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/175px-StudioUniversal2016.png" group-title="PELICULAS Y SERIES", 81 | Studio Universal
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/STUDIOUNIVERSAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSTUDIOUNIVERSAL_stream_w1&_cdn_hls_media=2&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1547510270&_cdn_session=182117859&_cdn_timestamp=1651338472&_cdn_token=0bc9b3cc8df36cb89a7952b73adba0f52f846d9c
 #EXTINF:-1 tvg-id="USA | Syfy" tvg-name="USA | Syfy" channelId="82" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/150px-SYFY.svg.png" group-title="PELICULAS Y SERIES", 82 | Syfy
@@ -292,7 +296,7 @@ https://live.presstv.ir/live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CH | CGTN Español" tvg-name="CH | CGTN Español" channelId="134" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/180px-CGTN_Espanol.png" group-title="NOTICIAS E INFORMACION", 134 | CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="CO | Nuestra Tele Noticias 24" tvg-name="CO | Nuestra Tele Noticias 24" channelId="135" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NTN24_logo.svg/245px-NTN24_logo.svg.png" group-title="NOTICIAS E INFORMACION", 135 | NTN 24
-https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlziy4Kq3HDubiH6YvJbhuKL5S0Ky89GONajs4e53GjJp)/dm/3/x7w4okl/s/live-1.m3u8
+https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlziy4Kq3HDubiH6YvJbhuKL5S0Ky89GONajs4e53GjJp)/dm/3/x7w4okl/s/live-1.m3u8
 #EXTINF:-1 tvg-id="ESP | 24 Horas tve" tvg-name="ESP | 24 horas tve" channelId="136" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/125px-Logo_TVE-24h.svg.png" group-title="NOTICIAS E INFORMACION", 136 | 24 horas tve
 https://rtvelivestreamv3.akamaized.net/rtvesec/24h_bkp_4000.m3u8
 #EXTINF:-1 tvg-id="CL | Canal 24 Horas" tvg-name="CL | Canal 24 Horas" channelId="137" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_24HorasTVN.svg/200px-Logo_24HorasTVN.svg.png" group-title="NOTICIAS E INFORMACION", 137 | Canal 24 Horas
@@ -898,7 +902,7 @@ http://ky-iptv.com:80/20282028/20282028/180863.m3u8
 #EXTINF:-1 tvg-id="PY | Paravisión" tvg-name="PY | Paravisión" channelId="413" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Paravision_logo.png/150px-Paravision_logo.png" group-title="PARAGUAY", 413 | Paravisión || PARAGUAY
 http://ultra-premium-pro.xyz:8080/live/2022/2022/66508.m3u8
 #EXTINF:-1 tvg-id="PY | Canal 9 Noticias" tvg-name="PY | Canal 9 Noticias" channelId="414" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Canal_9_Noticias.jpg/125px-Canal_9_Noticias.jpg" group-title="PARAGUAY", 414 | C9N || PARAGUAY
-https://py-c9n-c9n-live.ned.media/c9n/smil:c9n.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjUxMjc1NTI3LCJzZXNzaW9uIjoiMTkwLjIzNy4xNTUuMjAyIiwid2hpdGVsaXN0IjpbIjE5MC4yMzcuMTU1LjIwMiJdfSwic2lnbmF0dXJlIjoiMmUxZTZiZGEwZTI0MGRjYWQ3ZDY0ZGJmODY2MzllYjBlMjE4ZmZiNyJ9
+https://py-c9n-c9n-live.ned.media/c9n/smil:c9n.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjUxMzczMjQ2LCJzZXNzaW9uIjoiMTgxLjE3Ni4xMjguMjIiLCJ3aGl0ZWxpc3QiOlsiMTgxLjE3Ni4xMjguMjIiXX0sInNpZ25hdHVyZSI6Ijc4Y2FjNDJhMDQ1NzYxZTA3ZmNmNzRiNzllODdjNjNjZDUxNmQzOWEifQ==
 #EXTINF:-1 tvg-id="PY | Sistema Nacional de Televisión" tvg-name="PY | Sistema Nacional de Televisión" channelId="415" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/SNT_LOGO.jpg/220px-SNT_LOGO.jpg" group-title="PARAGUAY", 415 | SNT || PARAGUAY
 https://py-snt-snt-live.ned.media/snt/smil:snt.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjUxMTQ2NjU4LCJzZXNzaW9uIjoiMTgxLjE3Ni4xMjguNzciLCJ3aGl0ZWxpc3QiOlsiMTgxLjE3Ni4xMjguNzciXX0sInNpZ25hdHVyZSI6Ijg0NWJhOTM2MmZiNjhkNjFmMTA4ZGRkZmQ2ZGMxNWQwMmI1ZDQ0MGIifQ==
 #EXTINF:-1 tvg-id="PY | Sur Televisión" tvg-name="PY | Sur Televisión" channelId="416" tvg-logo="https://cdn.mitvstatic.com/channels/116c52f1-8f55-4325-af6d-ab11f98e81d5_m.jpg" group-title="PARAGUAY", 416 | Sur Televisión || PARAGUAY
@@ -942,7 +946,7 @@ https://d30zjikdv9ntds.cloudfront.net/repretel/canal4/smil:live.smil/chunklist_b
 #EXTINF:-1 tvg-id="CR | Canal 6" tvg-name="CR | Canal 6" channelId="435" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Canal6CR.png/150px-Canal6CR.png" group-title="COSTA RICA", 435 | Canal 6 Telecentro || COSTA RICA
 https://d30zjikdv9ntds.cloudfront.net/repretel/canal6/smil:live.smil/chunklist_b1248000.m3u8
 #EXTINF:-1 tvg-id="CR | Teletica Canal 7" tvg-name="CR | Teletica Canal 7" channelId="436" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Teletica.png/120px-Teletica.png" group-title="COSTA RICA", 436 | Teletica || COSTA RICA
-https://stream-03.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5wol6D37WnOHPjro1hx99YTYXukwbQAPTADuVOy1jqXD)/dm/3/x29e3wg/d/live-2.m3u8
+https://stream-04.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5wol6D37WnOHPjro1hx99YTYXukwbQAPTADuVOy1jqXD)/dm/3/x29e3wg/d/live-2.m3u8
 #EXTINF:-1 tvg-id="CR | Canal 8 de Costa Rica" tvg-name="CR | Canal 8 de Costa Rica" channelId="437" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Multi8.png/150px-Multi8.png" group-title="COSTA RICA", 437 | Canal 8 || COSTA RICA
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?uid=C3a7PpdAuZC3sabLt30lYaR3f8eZ4Cmi&sid=2quC4ekWQnoJZeHFhE8blHNWjoZquyAQ&pid=QzfOlvABGmd0T4Aqvnp6zBdfoSC9a9BR&an=screen&at=web-app&av=v5.2.190&ref=https%3A%2F%2Fwww.telediario.cr%2F&res=363x220&without_cookies=false&dnt=true
 #EXTINF:-1 tvg-id="CR | Canal 11" tvg-name="CR | Canal 11" channelId="438" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/150px-Repretel_11_logo.png" group-title="COSTA RICA", 438 | Canal 11 || COSTA RICA
@@ -1032,13 +1036,13 @@ https://algochivo.com:1936/canal57/canal57/playlist.m3u8
 #EXTINF:-1 tvg-id="SLV | Sol TV Canal 99 Morazan" tvg-name="SLV | Sol TV Canal 99 Morazan" channelId="480" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ce9a3a96e0a17bbc1e2dd075a0c49f35.webp" group-title="EL SALVADOR", 480 | Sol TV || EL SALVADOR
 https://rtmp.info/soltv/envivo/playlist.m3u8
 #EXTINF:-1 tvg-id="HN | TSi Canal 3" tvg-name="HN | TSi Canal 3" channelId="481" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/TSi_logo.png/195px-TSi_logo.png" group-title="HONDURAS", 481 | Telesistema Informativo || HONDURAS
-https://stream-01.nyc.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRBJS2u7dK5gF3qEjCRFPEsKtw5vWDF4OLxia-BT-kJeu)/dm/3/x88jdft/s/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRBJS2u7dK5gF3qEjCRFPEsKtw5vWDF4OLxia-BT-kJeu)/dm/3/x88jdft/s/live-3.m3u8
 #EXTINF:-1 tvg-id="HN | Canal 5" tvg-name="HN | Canal 5" channelId="482" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_5_HN_logo_2019.png/150px-Canal_5_HN_logo_2019.png" group-title="HONDURAS", 482 | Canal 5 El Lider || HONDURAS
-https://stream-03.nyc.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRCKDlkHeHuAFx1rVU9FUmIe8L-wImgFxIDlbThVjCNwN)/dm/3/x88jd1d/s/live-3.m3u8
+https://stream-02.nyc.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRJI2c4U4LmnPmgkppKiWMiU86XnlLHzkeipyczn7kR2O)/dm/3/x88jd1d/s/live-3.m3u8
 #EXTINF:-1 tvg-id="HN | Telecadena 7 y 4" tvg-name="HN | Telecadena 7 y 4" channelId="483" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Telecadena7y42018.png/150px-Telecadena7y42018.png" group-title="HONDURAS", 483 | Telecadena 7 y 4 || HONDURAS
 http://190.61.37.173:9010/play/a040/index.m3u8
 #EXTINF:-1 tvg-id="HN | Vica TV" tvg-name="HN | Vica TV" channelId="484" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/VTV_HN_logo_2019.png/210px-VTV_HN_logo_2019.png" group-title="HONDURAS", 484 | VTV || HONDURAS
-https://hn-vtv-vtv-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjUxMzUxNzM5LCJzZXNzaW9uIjoiMTgxLjE3Ni4xMjguMjIiLCJ3aGl0ZWxpc3QiOlsiMTgxLjE3Ni4xMjguMjIiXX0sInNpZ25hdHVyZSI6ImMzN2ZjNjg2MDMyNzZlYzgwNzRhYWMxNDE4ODlmMTlhNThkNWEyMzkifQ==
+https://hn-vtv-vtv-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjUxMzczMzkxLCJzZXNzaW9uIjoiMTgxLjE3Ni4xMjguMjIiLCJ3aGl0ZWxpc3QiOlsiMTgxLjE3Ni4xMjguMjIiXX0sInNpZ25hdHVyZSI6IjZhNjg3NzYyNGQ2MzYxYmYwNjhjOGMyOGM1NDRiZmY2ZTFjM2Q1NmEifQ==
 #EXTINF:-1 tvg-id="HN | TEN Canal 10" tvg-name="HN | TEN Canal 10" channelId="485" tvg-logo="https://1.bp.blogspot.com/-WYepFcQLrXc/XQka9TmZ0uI/AAAAAAAAHz8/eTOqew4vGoocd66uqlPHccAeYN74huzmgCLcBGAs/w350-h350-p-k-no-nu/TEN%2BCanal%2B10.png" group-title="HONDURAS", 485 | TEN Canal 10 || HONDURAS
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HN | Canal 11 HN" tvg-name="HN | Canal 11 HN" channelId="486" tvg-logo="https://canal11.hn/wp-content/themes/streamit/assets/images/logo.png" group-title="HONDURAS", 486 | Canal 11 HN || HONDURAS
@@ -1515,5 +1519,5 @@ https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
 https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
 #EXTINF:-1 tvg-id="CA | Stingray Music Classica" tvg-name="CA | Stingray Music Classica" channelId="693.15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE VIDEO", 693.15 | Stingray Music Classica
 https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
-#EXTINF:-1 tvg-id="ES | Melodía de baladas 60 + 70 y algo más" tvg-name="ES | Melodía de baladas 60 + 70 y algo más" channelId="694" tvg-logo="https://play-lh.googleusercontent.com/WrMg6XsDM5oL4FHNVmnYPCX_QOKgPci93vVTQN0f1q1oeFrgpUu0EjyB3pj0GIu_A7U" group-title="CANALES DE VIDEO", 694 | Melodía de baladas 60 + 70 y algo más
+#EXTINF:-1 tvg-id="ES | Melodía de baladas 60'S, 70'S y algo más" tvg-name="ES | Melodía de baladas 60'S, 70'S y algo más" channelId="694" tvg-logo="https://play-lh.googleusercontent.com/WrMg6XsDM5oL4FHNVmnYPCX_QOKgPci93vVTQN0f1q1oeFrgpUu0EjyB3pj0GIu_A7U" group-title="CANALES DE VIDEO", 694 | Melodía de baladas 60'S, 70'S y algo más
 https://cloudvideo.servers10.com:8081/8046/index.m3u8
