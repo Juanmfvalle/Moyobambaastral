@@ -111,7 +111,7 @@ https://cloudvideo.servers10.com:8081/8098/index.m3u8
 https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Oriental TV" tvg-name="PE | Oriental TV" channelId="50" tvg-logo="http://tv.10dailythings.com/images/channels/PE/oriental-tv-21-pucallpa-720p-not-247/normal.png" group-title="REGIONALES", 50 | Oriental TV || Pucallpa
 https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Charapa TV" tvg-name="PE | Charapa TV" channelId="51" tvg-logo="https://scontent.flim6-3.fna.fbcdn.net/v/t39.30808-6/271661890_901600960405006_4334679661299872769_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFo4m-8N4u66vZpbFqKJk3zsQdLFWCl8kOxB0sVYKXyQ5prpqSKI0J4p90VBc9kX_c&_nc_ohc=tq1O1zYtvj8AX-f9I_L&_nc_ht=scontent.flim6-3.fna&oh=00_AT-4jeCP4ntoi7yyv6ly15ytMGM-u5Qpnjau_chDiEfTAw&oe=626F7C52" group-title="REGIONALES", 51 | Charapa TV || Pucallpa
+#EXTINF:-1 tvg-id="PE | Charapa TV" tvg-name="PE | Charapa TV" channelId="51" tvg-logo="https://scontent.flim6-3.fna.fbcdn.net/v/t39.30808-6/271661890_901600960405006_4334679661299872769_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFo4m-8N4u66vZpbFqKJk3zsQdLFWCl8kOxB0sVYKXyQ5prpqSKI0J4p90VBc9kX_c&_nc_ohc=bt-Fa8NlCCEAX8ARS1d&_nc_ht=scontent.flim6-3.fna&oh=00_AT_YViUq_1MaXOouxKM4di4IKY57z8ta4xH9-uzgHCiVFQ&oe=62756B12" group-title="REGIONALES", 51 | Charapa TV || Pucallpa
 https://cloudvideo.servers10.com:8081/8168/index.m3u8
 #EXTINF:-1 tvg-id="PE | Top TV" tvg-name="PE | Top TV" channelId="52" tvg-logo="https://www.toptvaguaytia.com/wp-content/uploads/2020/12/toplogo.jpg" group-title="REGIONALES", 52 | Top TV || Aguaytía
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
@@ -177,7 +177,7 @@ https://servilive.com:3176/live/cineclublive.m3u8
 https://tunelive.net:3998/stream/play.m3u8
 #EXTINF:-1 tvg-id="USA | Paramount Network" tvg-name="USA | Paramount Network" channelId="77" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/150px-Paramount_Network.svg.png" group-title="PELICULAS Y SERIES", 77 | Paramount Network
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PARAMOUNT/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPARAMOUNTCHANNEL_stream_5p&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1547510270&_cdn_session=184082635&_cdn_timestamp=1651530957&_cdn_token=cc93886a0c1408923ff8e8f75d383377d376368b
-#EXTINF:-1 tvg-id="USA | Comedy Central" tvg-name="USA | Comedy Central" channelId="En prueba" tvg-logo="" group-title="PELICULAS Y SERIES", En prueba | Comedy Central
+#EXTINF:-1 tvg-id="USA | Comedy Central" tvg-name="USA | Comedy Central" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/250px-Comedy_Central_2018.svg.png" group-title="PELICULAS Y SERIES", En prueba | Comedy Central
 http://45.189.117.36:7879/play/a0gk
 #EXTINF:-1 tvg-id="USA | Sony Channel" tvg-name="USA | Sony Channel" channelId="78" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/120px-Sony_Channel_Logo.png" group-title="PELICULAS Y SERIES", 78 | Sony Channel
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/SONY/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONY_stream_ew&_cdn_hls_media=2&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1547510270&_cdn_session=184082923&_cdn_timestamp=1651530988&_cdn_token=d7515cec7883f835b40d1ab8505c76ec3ade2dc4
@@ -548,7 +548,7 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 #EXTINF:-1 tvg-id="AR | Orbe 21" tvg-name="AR | Orbe 21" channelId="217" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Canal_Orbe_21_logo.svg/245px-Canal_Orbe_21_logo.svg.png" group-title="RELIGIOSOS", 217 | Orbe 21
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | ESNE TV" tvg-name="USA | ESNE TV" channelId="218" tvg-logo="https://elsembradorministries.com/esne_deployment/images/logo_azul.png" group-title="RELIGIOSOS", 218 | El Sembrador Televisión
-https://zypelive-lh.akamaihd.net/i/default_1@44045/index_720_av-p.m3u8?F38b1dF4=626f3c9743b3300001e157fc&6pLKMQ3y=Sqi3Ng90&video_id=5f978263e036f600019f66c2&sd=10&dw=10800&rebase=on&hdntl=exp=1651543581~acl=%2f*%4044045%2f*~data=hdntl~hmac=7248e2d47f7f89d200a8ee0c82a9ac0555203142473d673632336c8856b4b317
+https://zypelive-lh.akamaihd.net/i/default_1@44045/index_720_av-p.m3u8?F38b1dF4=626f9eb274dc6b000186fefe&6pLKMQ3y=Sqi3Ng90&video_id=5f978263e036f600019f66c2&sd=10&dw=10800&rebase=on&hdntl=exp=1651568696~acl=%2f*%4044045%2f*~data=hdntl~hmac=584136977ddc4f846d3c6168e127ef60e6ba2e626f9b8a3bd3e8a829690a339c
 #EXTINF:-1 tvg-id="PE | JN19" tvg-name="PE | JN19" channelId="219" tvg-logo="http://www.jn19television.com/templates/televid_23/images/object979167786.png" group-title="RELIGIOSOS", 219 | JN19 Televisión
 https://servilive.com:3149/live/jn19tvlive.m3u8
 #EXTINF:-1 tvg-id="CR | Telefides" tvg-name="CR | Telefides" channelId="220" tvg-logo="https://costaricatelevision.com/sites/default/files/styles/tv_list/public/2020-07/telefides-costa-rica.png.webp?itok=XzDap4zR" group-title="RELIGIOSOS", 220 | Telefides
@@ -738,7 +738,7 @@ https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/playlist.m3u8?iu
 #EXTINF:-1 tvg-id="EC | Televisora Central Ecuatoriana" tvg-name="EC | Telecentro" channelId="303" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png" group-title="ECUADOR", 303 | TC Televisión || ECUADOR
 http://45.71.185.142:8500/play/a02d
 #EXTINF:-1 tvg-id="EC | Oromar TV" tvg-name="EC | Oromar TV" channelId="304" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="ECUADOR", 304 | Oromar Televisión || ECUADOR
-https://live-ak.vimeocdn.com/exp=1651470915~acl=%2F82130e0b-4d12-4776-9b26-56cca8c03c07%2F%2A~hmac=6488c663efc227eadd26acf55c3482e6d8c85da05a37d6b14a1ebe1da923be1f/82130e0b-4d12-4776-9b26-56cca8c03c07/chunklist_b6256000.m3u8?max_segments=10
+https://live-ak.vimeocdn.com/exp=1651486079~acl=%2F82130e0b-4d12-4776-9b26-56cca8c03c07%2F%2A~hmac=52312927a811ccb619fd47512e8ce8a178e9c1de387594c29a17cb4a87e9d2c9/82130e0b-4d12-4776-9b26-56cca8c03c07/chunklist_b6256000.m3u8?max_segments=10
 #EXTINF:-1 tvg-id="EC | Canela TV" tvg-name="EC | Canela TV" channelId="305" tvg-logo="https://web.canelatv.com/wp-content/uploads/2020/10/ki.gif" group-title="ECUADOR", 305 | Canela TV || ECUADOR
 https://59d39900ebfb8.streamlock.net/canelatv/canelatv/chunklist_w1360767208.m3u8
 #EXTINF:-1 tvg-id="EC | Telerama" tvg-name="EC | Telerama" channelId="306" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_Telerama.png/250px-Logo_Telerama.png" group-title="ECUADOR", 306 | Telerama || ECUADOR
@@ -976,9 +976,9 @@ http://ky-iptv.com:80/20282028/20282028/180863.m3u8
 #EXTINF:-1 tvg-id="PY | Paravisión" tvg-name="PY | Paravisión" channelId="413" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Paravision_logo.png/150px-Paravision_logo.png" group-title="PARAGUAY", 413 | Paravisión || PARAGUAY
 http://ultra-premium-pro.xyz:8080/live/2022/2022/66508.m3u8
 #EXTINF:-1 tvg-id="PY | Canal 9 Noticias" tvg-name="PY | Canal 9 Noticias" channelId="414" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Canal_9_Noticias.jpg/125px-Canal_9_Noticias.jpg" group-title="PARAGUAY", 414 | C9N || PARAGUAY
-https://py-c9n-c9n-live.ned.media/c9n/smil:c9n.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjUxMzczMjQ2LCJzZXNzaW9uIjoiMTgxLjE3Ni4xMjguMjIiLCJ3aGl0ZWxpc3QiOlsiMTgxLjE3Ni4xMjguMjIiXX0sInNpZ25hdHVyZSI6Ijc4Y2FjNDJhMDQ1NzYxZTA3ZmNmNzRiNzllODdjNjNjZDUxNmQzOWEifQ==
+https://py-c9n-c9n-live.ned.media/c9n/smil:c9n.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjUxNTY5MDIwLCJzZXNzaW9uIjoiMTgxLjE3Ni4xMjguMjIiLCJ3aGl0ZWxpc3QiOlsiMTgxLjE3Ni4xMjguMjIiXX0sInNpZ25hdHVyZSI6IjRhMTAwNWU5ZDQ5MDgzMDA2ZWVlZjlmNmE2MjJhNGY3MzM3MmU3NWMifQ==
 #EXTINF:-1 tvg-id="PY | Sistema Nacional de Televisión" tvg-name="PY | Sistema Nacional de Televisión" channelId="415" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/SNT_LOGO.jpg/220px-SNT_LOGO.jpg" group-title="PARAGUAY", 415 | SNT || PARAGUAY
-https://py-snt-snt-live.ned.media/snt/smil:snt.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjUxMTQ2NjU4LCJzZXNzaW9uIjoiMTgxLjE3Ni4xMjguNzciLCJ3aGl0ZWxpc3QiOlsiMTgxLjE3Ni4xMjguNzciXX0sInNpZ25hdHVyZSI6Ijg0NWJhOTM2MmZiNjhkNjFmMTA4ZGRkZmQ2ZGMxNWQwMmI1ZDQ0MGIifQ==
+https://py-snt-snt-live.ned.media/snt/smil:snt.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjUxNTY4ODk5LCJzZXNzaW9uIjoiMTgxLjE3Ni4xMjguMjIiLCJ3aGl0ZWxpc3QiOlsiMTgxLjE3Ni4xMjguMjIiXX0sInNpZ25hdHVyZSI6ImVjMjllMDc2MjU5MmNmZWQyODE5MTUxOGRhOTM5MzE1NTUzMWVjMDgifQ==
 #EXTINF:-1 tvg-id="PY | Sur Televisión" tvg-name="PY | Sur Televisión" channelId="416" tvg-logo="https://cdn.mitvstatic.com/channels/116c52f1-8f55-4325-af6d-ab11f98e81d5_m.jpg" group-title="PARAGUAY", 416 | Sur Televisión || PARAGUAY
 http://ky-iptv.com:80/20282028/20282028/180862.m3u8
 #EXTINF:-1 tvg-id="PY | La Tele" tvg-name="PY | La Tele" channelId="417" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Latele_Paraguay.jpg" group-title="PARAGUAY", 417 | La Tele || PARAGUAY
