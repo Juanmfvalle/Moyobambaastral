@@ -173,8 +173,10 @@ http://177.53.152.186:8000/play/a002/index.m3u8
 http://177.53.152.186:8000/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="CL | MX Prime" tvg-name="CL | MX Prime" channelId="81" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FONDO-2-300x169.jpg" group-title="PELICULAS Y SERIES", 81 | MX Prime
 http://177.53.152.186:8000/play/a001/index.m3u8
-#EXTINF:-1 tvg-id="CL | MX Old" tvg-name="CL | MX Old" channelId="82" tvg-logo="https://scontent.flim6-4.fna.fbcdn.net/v/t39.30808-6/278708786_10159931984498571_1356173914259844007_n.jpg?stp=cp0_dst-jpg&_nc_cat=101&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeFE4iX3ZPTW7b9ug-MVWiglrrwbprktbl-uvBumuS1uX1o_NueBoCsQvAxfpy6zEms&_nc_ohc=YFM9b9KHWEsAX-Tv24D&tn=kwz14dFPv-K5cpdE&_nc_ht=scontent.flim6-4.fna&oh=00_AT8WxoM3lGK-ZiaYaL6SbE2ygg0A0RIqKut1b-xPWuQxWQ&oe=62714CB2" group-title="PELICULAS Y SERIES", 82 | MX Old
-http://45.160.15.130:8111/play/a0de/index.m3u8
+#EXTINF:-1 tvg-id="MX | Multipremier" tvg-name="MX | Multipremier" channelId="82" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/150px-Multipremier_logo.svg.png" group-title="PELICULAS Y SERIES", 82 | Multipremier
+http://45.189.117.36:7879/play/a0fs
+#EXTINF:-1 tvg-id="MX | Multicinema" tvg-name="MX | Multicinema" channelId="En prueba" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mc-mediano.png" group-title="PELICULAS Y SERIES", En prueba | Multicinema
+http://45.189.117.36:7879/play/a0h4
 #EXTINF:-1 tvg-id="USA | Studio Universal" tvg-name="USA | Studio Universal" channelId="83" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/175px-StudioUniversal2016.png" group-title="PELICULAS Y SERIES", 83 | Studio Universal
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/STUDIOUNIVERSAL/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSTUDIOUNIVERSAL_stream_w1&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1547510270&_cdn_session=184084115&_cdn_timestamp=1651531088&_cdn_token=9cfc4fd5574ddf91cff459fe3802b5bbff00bbc4
 #EXTINF:-1 tvg-id="USA | Syfy" tvg-name="USA | Syfy" channelId="84" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/150px-SYFY.svg.png" group-title="PELICULAS Y SERIES", 84 | Syfy
@@ -226,7 +228,11 @@ https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="UY | Latino Kids" tvg-name="UY | Latino Kids" channelId="102" tvg-logo="https://graph.facebook.com/LatinoKidsTvUruguay/picture?width=300&height=300" group-title="INFANTILES", 102 | Latino Kids TV
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Cartoon Network" tvg-name="USA | Cartoon Network" channelId="103" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/150px-Cartoon_Network_2010_logo.svg.png" group-title="INFANTILES", 103 | Cartoon Network
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+http://45.189.117.36:7879/play/a0gx
+#EXTINF:-1 tvg-id="USA | Cartoonito" tvg-name="USA | Cartoonito" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/259px-Cartoonito_-_Logo_2021.svg.png" group-title="INFANTILES", En prueba | Cartoonito
+http://45.189.117.36:7879/play/a0ee
+#EXTINF:-1 tvg-id="USA | Tooncast" tvg-name="USA | Tooncast" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/200px-Tooncast_logo.svg.png" group-title="INFANTILES", En prueba | Tooncast
+http://45.189.117.36:7879/play/a03i
 #EXTINF:-1 tvg-id="USA | Retro Cartoon" tvg-name="USA | Retro Cartoon" channelId="104" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b0be1e3ddbc37ae133fd52e75a94fe0.webp" group-title="INFANTILES", 104 | Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="USA | Toon Goggles" tvg-name="USA | Toon Goggles" channelId="105" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/Toon_Goggles_logo.png/220px-Toon_Goggles_logo.png" group-title="INFANTILES", 105 | Toon Goggles TV
@@ -249,14 +255,20 @@ http://190.122.96.186:8888/http/006
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/NICKELODEON/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKELODEON_stream_g4&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1547510270&_cdn_session=184092403&_cdn_timestamp=1651531480&_cdn_token=dbfd9362b2fbe0a001c8d6ca9035b95533825b68
 #EXTINF:-1 tvg-id="USA | Nick Jr." tvg-name="USA | Nick Jr." channelId="114" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/250px-Nick_Jr._logo_2009.svg.png" group-title="INFANTILES", 114 | Nick Jr.
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/NICKJR/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKJR_stream_y9&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1547510270&_cdn_session=184092667&_cdn_timestamp=1651531492&_cdn_token=4dd2fac776023debc20170a826e4eb25c0298543
+#EXTINF:-1 tvg-id="USA | TeenNick" tvg-name="USA | TeenNick" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/245px-TeenNick_2019_logo.svg.png" group-title="INFANTILES", En prueba | TeenNick
+http://45.189.117.36:7879/play/a0j6
 #EXTINF:-1 tvg-id="SK | Duck TV" tvg-name="SK | Duck TV" channelId="115" tvg-logo="https://www.ducktv.tv/wp-content/uploads/2019/07/ducktv-logo.svg" group-title="INFANTILES", 115 | Duck TV
 https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee512f.m3u8
 #EXTINF:-1 tvg-id="USA | Canal Infantil" tvg-name="USA | Canal Infantil" channelId="116" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/canal-infantil.png" group-title="INFANTILES", 116 | Canal Infantil
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/CANALINFANTIL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALINFANTIL_stream_0a&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1547510270&_cdn_session=184093699&_cdn_timestamp=1651531537&_cdn_token=7069024423ff673cd225335b0dcddaa088f2a492
 #EXTINF:-1 tvg-id="USA | BabyFirst" tvg-name="USA | BabyFirst" channelId="117" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/babyfirst_tv-mediano.png" group-title="INFANTILES", 117 | BabyFirst
 https://babyfirst.akamaized.net/hls/live/2028842/bftvusaott/playlist.m3u8
+#EXTINF:-1 tvg-id="USA | Baby TV" tvg-name="USA | Baby TV" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Babytvv.png/200px-Babytvv.png" group-title="INFANTILES", En prueba | Baby TV
+http://45.189.117.36:7879/play/a0gy
 #EXTINF:-1 tvg-id="AR | Pakapaka" tvg-name="AR | Pakapaka" channelId="118" tvg-logo="http://www.pakapaka.gob.ar/img/botones/logo-pakapaka-2.png" group-title="INFANTILES", 118 | Pakapaka
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="USA | Semillitas" tvg-name="USA | Semillitas" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Semillitas2011.png/245px-Semillitas2011.png" group-title="INFANTILES", En prueba | Semillitas
+http://45.189.117.36:7879/play/a0ef
 #EXTINF:-1 tvg-id="MX | El Chavo del 8 TV" tvg-name="MX | El Chavo del 8 TV" channelId="119" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/245px-El_Chavo_%28simple_logo%29.svg.png" group-title="INFANTILES", 119 | El Chavo del 8 TV
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="MX | Distrito Comedia" tvg-name="MX | Distrito Comedia" channelId="120" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/175px-DistritoComediaLOGO2018.png" group-title="ENTRETENIMIENTO", 120 | Distrito Comedia
@@ -305,6 +317,8 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/MASCHIC/40-hls/live-media.m3u
 https://mdstrm.com/live-stream-playlist/5b8ff7b9d78b521f2ea819d7.m3u8?access_token=DSTa8e7881c9f2118f08d2376239f3292d8
 #EXTINF:-1 tvg-id="VE | Ve Plus" tvg-name="VE | Ve Plus" channelId="140" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ve_Plus_Logo_2019.png/130px-Ve_Plus_Logo_2019.png" group-title="MISCELANEO", 140 | Ve Plus
 http://190.122.96.187:8888/http/006
+#EXTINF:-1 tvg-id="MX | Azteca Clic" tvg-name="MX | Azteca Clic" channelId="En prueba" tvg-logo="https://forounivers.com/uploads/monthly_2021_10/large.689596225_TVAztecaInternacionalClic.png.c88137fa0b273d8f4b8a868acc711828.png" group-title="MISCELANEO", En prueba | Azteca Clic
+http://45.189.117.36:7879/play/a0f5
 #EXTINF:-1 tvg-id="USA | Lifetime" tvg-name="USA | Lifetime" channelId="141" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/150px-Logo_Lifetime_2020.svg.png" group-title="MISCELANEO", 141 | Lifetime
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/LIFETIME/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLIFETIME_stream_sl&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1547510270&_cdn_session=184097075&_cdn_timestamp=1651531701&_cdn_token=70a9fc07cae4563249b570f2b0d1a2b6da859c43
 #EXTINF:-1 tvg-id="USA | film&arts" tvg-name="USA | film&arts" channelId="142" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Film%26Arts2016.png/200px-Film%26Arts2016.png" group-title="DOCUMENTALES Y SERIES", 142 | Film & Arts
@@ -333,6 +347,8 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TLC/40-hls/live-media.m3u8?_c
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/HOMEANDHEALTH/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHOMEANDHEALTH_stream_qp&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1547510270&_cdn_session=184099363&_cdn_timestamp=1651531870&_cdn_token=09f52341060442043910dbfc55146d194b828848
 #EXTINF:-1 tvg-id="PE | Best Cable Sports" tvg-name="PE | Best Cable Sports" channelId="154" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=239x10000:format=jpg/path/s86a1480785a470a0/image/i3cd2b522eae1ddb2/version/1637874672/image.jpg" group-title="DEPORTES", 154 | Best Cable Sports
 https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
+#EXTINF:-1 tvg-id="AR | TyC Sports" tvg-name="AR | TyC Sports" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/245px-TyC_Sports_logo.svg.png" group-title="DEPORTES", En prueba | TyC Sports
+http://45.189.117.36:7879/play/a01n
 #EXTINF:-1 tvg-id="USA | Sky Sports" tvg-name="USA | Sky Sports" channelId="155" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/220px-Sky_Sports_logo_2017.svg.png" group-title="DEPORTES", 155 | Sky Sports
 https://tunelive.net:3592/stream/play.m3u8
 #EXTINF:-1 tvg-id="USA | Fox Sports 2" tvg-name="USA | Fox Sports 2" channelId="156" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/175px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES", 156 | Fox Sports 2
@@ -1097,7 +1113,7 @@ https://5e50264bd6766.streamlock.net/tvusac/videotvusac/playlist.m3u8
 http://51.161.12.229:1935/CanalAntigua/myStream/chunklist_w1313531480.m3u8
 #EXTINF:-1 tvg-id="GT | VEA Canal" tvg-name="GT | VEA Canal" channelId="En prueba" tvg-logo="http://veacanal.tv/wp-content/uploads/2017/05/logoveacanal.png" group-title="GUATEMALA", En prueba | VEA Canal || GUATEMALA
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/veacanalgt
-#EXTINF:-1 tvg-id="GT | Canal Gobierno" tvg-name="GT | Canal Gobierno" channelId="En prueba" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR_Hm3vKJu8-yXqyi7Q66F8ME2CsBddRLq4JnyVcQ=s88-c-k-c0x00ffffff-no-rj" group-title="GUATEMALA", En prueba | Canal Gobierno || GUATEMALA
+#EXTINF:-1 tvg-id="GT | Canal de Gobierno" tvg-name="GT | Canal de Gobierno" channelId="En prueba" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR_Hm3vKJu8-yXqyi7Q66F8ME2CsBddRLq4JnyVcQ=s88-c-k-c0x00ffffff-no-rj" group-title="GUATEMALA", En prueba | Canal de Gobierno || GUATEMALA
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/GobiernodeGuatemala
 #EXTINF:-1 tvg-id="GT | TVS Retro" tvg-name="GT | TVS Retro" channelId="512" tvg-logo="https://static.wixstatic.com/media/7acae1_cedb3160f2f54e378f9990c5a5a49a1d~mv2.png" group-title="GUATEMALA", 512 | TVS Retro || GUATEMALA
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
