@@ -67,8 +67,6 @@ http://200.48.184.156:1935/imagentv/imagentv/playlist.m3u8
 https://stream.plixitv.live/westv/westv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Documentales E" tvg-name="PE | Documentales E" channelId="29.2" tvg-logo="https://scontent.flim6-4.fna.fbcdn.net/v/t39.30808-6/261676232_10159655713918571_6233556809162340915_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeH3RZ-fJqTFSzfmqfWrqOzgraIVDxLN5futohUPEs3l-youO2KTvW7Q5iD0vmi8alk&_nc_ohc=GNomzL71FNQAX-93Esg&_nc_ht=scontent.flim6-4.fna&oh=00_AT9iSd6dCvrrxZ1YsFOPaTvBwqU-Z2VPYdAfI5Al4odayw&oe=6275377F" group-title="PROVINCIALES", 29.2 | Documentales E || Nueva Cajamarca
 https://stream.plixitv.live/docue/docue/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Documentales E +" tvg-name="PE | Documentales E +" channelId="29.3" tvg-logo="https://scontent.flim6-3.fna.fbcdn.net/v/t39.30808-6/260324951_10159655714098571_8778423362158439509_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeFcAK7LxCwSOfz0HIv-puK9VpjA6nLCl4RWmMDqcsKXhEfRCTv7a4BvdgpQG4FE1pA&_nc_ohc=77C4FQ-QD1AAX-zqCsJ&_nc_ht=scontent.flim6-3.fna&oh=00_AT9a-HJPjyWZCeHN5Q1CBGAfuB_m9SC0gCRNLpatvDnpEA&oe=62750EB9" group-title="PROVINCIALES", 29.3 | Documentales E + || Nueva Cajamarca
-https://stream.plixitv.live/docue+/docue+/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Antares TV Tarapoto" tvg-name="PE | Antares TV Tarapoto" channelId="30" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/antarestv.png" group-title="PROVINCIALES", 30 | Antares Televisión || Tarapoto
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | TV Tarapoto" tvg-name="PE | TV Tarapoto" channelId="31" tvg-logo="https://www.televisiontarapoto.pe/wp-content/uploads/2019/05/logo_tv_tarapoto.png" group-title="PROVINCIALES", 31 | Televisión Tarapoto || Tarapoto
@@ -116,7 +114,7 @@ https://cloudvideo.servers10.com:8081/8168/index.m3u8
 #EXTINF:-1 tvg-id="PE | Top TV" tvg-name="PE | Top TV" channelId="52" tvg-logo="https://www.toptvaguaytia.com/wp-content/uploads/2020/12/toplogo.jpg" group-title="REGIONALES", 52 | Top TV || Aguaytía
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 #EXTINF:-1 tvg-id="CO | RCN Novelas" tvg-name="CO | RCN Novelas" channelId="53" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/RCN_Novelas_logo.svg/165px-RCN_Novelas_logo.svg.png" group-title="NOVELAS", 53 | RCN Novelas
-http://138.186.20.245:8000/play/a01w
+https://tunelive.net:3952/stream/play.m3u8
 #EXTINF:-1 tvg-id="USA | Pasiones" tvg-name="USA | Pasiones" channelId="54" tvg-logo="https://us.tvpasiones.com/wp-content/uploads/2017/06/logo_pasiones.png" group-title="NOVELAS", 54 | Pasiones
 https://tunelive.net:3407/stream/play.m3u8
 #EXTINF:-1 tvg-id="TR | Kanal D Drama" tvg-name="TR | Kanal D Drama" channelId="55" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Kanal_D_Drama_%28Latin_America%29.png/revision/latest/scale-to-width-down/200?cb=20200317052444&path-prefix=es" group-title="NOVELAS", 55 | Kanal D Drama
@@ -133,6 +131,8 @@ http://45.189.117.36:7879/play/a0g9
 https://tunelive.net:3864/stream/play.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" channelId="61" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", 61 | Telemundo Internacional
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TELEMUNDO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEMUNDO_stream_fp&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1547510270&_cdn_session=184843395&_cdn_timestamp=1651653607&_cdn_token=2b8db341f262ba51d530a32a60ae0bbf97ae3587
+#EXTINF:-1 tvg-id="USA | Telemundo 52" tvg-name="USA | Telemundo 52" channelId="61.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Telemundo_52_2018.png/220px-Telemundo_52_2018.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 61.2 | Telemundo 52
+https://tunelive.net:3882/stream/play.m3u8
 #EXTINF:-1 tvg-id="USA | Galavisión" tvg-name="USA | Galavisión" channelId="62" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/160px-Galavision_Logo_2013.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 62 | Galavisión
 https://2.tunelive.net:3349/stream/play.m3u8
 #EXTINF:-1 tvg-id="USA | Unimas" tvg-name="USA | Unimas" channelId="63" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/100px-Logo_UniM%C3%A1s.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 63 | Unimás
