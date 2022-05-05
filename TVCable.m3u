@@ -133,7 +133,9 @@ http://45.189.117.36:7879/play/a0g9
 https://tunelive.net:3864/stream/play.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" channelId="61" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", 61 | Telemundo Internacional
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TELEMUNDO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEMUNDO_stream_fp&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1931631690&_cdn_session=185804627&_cdn_timestamp=1651770385&_cdn_token=7e6ed23d5541edab8a20d7cf420b525247c87fe6
-#EXTINF:-1 tvg-id="USA | Telemundo 52" tvg-name="USA | Telemundo 52" channelId="61.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Telemundo_52_2018.png/220px-Telemundo_52_2018.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 61.2 | Telemundo 52
+#EXTINF:-1 tvg-id="USA | Telemundo Internacional (Panregional)" tvg-name="USA | Telemundo Internacional (Panregional)" channelId="61.2" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png" group-title="INTERNACIONALES", 61.2 | Telemundo Internacional (Panregional)
+https://tunelive.net:3141/stream/play.m3u8
+#EXTINF:-1 tvg-id="USA | Telemundo 52" tvg-name="USA | Telemundo 52" channelId="61.3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Telemundo_52_2018.png/220px-Telemundo_52_2018.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 61.3 | Telemundo 52
 https://tunelive.net:3882/stream/play.m3u8
 #EXTINF:-1 tvg-id="USA | Galavisión" tvg-name="USA | Galavisión" channelId="62" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/160px-Galavision_Logo_2013.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 62 | Galavisión
 https://2.tunelive.net:3349/stream/play.m3u8
@@ -215,6 +217,8 @@ http://200.48.184.156:1935/ecine/ecine/playlist.m3u8
 http://200.48.184.156:1935/eplay/eplay/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Retro" tvg-name="PE | Retro" channelId="En prueba" tvg-logo="https://scontent.flim6-2.fna.fbcdn.net/v/t39.30808-6/278583314_10159923211173571_2504240809403098717_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeFGbNjtO6FBojY4Wv1-8HT-CA6syA6yh0gIDqzIDrKHSGq_ZOuY6TO_d67fuVfGsV0&_nc_ohc=9Qc0Xkx4veAAX84q6fK&_nc_ht=scontent.flim6-2.fna&oh=00_AT9rv4frA5oHbTY3PdXwrsdRJiQC446GGG8YfwL833ITsA&oe=6274E88E" group-title="PELICULAS Y SERIES", En prueba | Retro
 http://200.48.184.156:1935/eretro/eretro/playlist.m3u8
+#EXTINF:-1 tvg-id="USA | Fox Kids" tvg-name="USA | Fox Kids" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/FOX_Kids_logo.svg/150px-FOX_Kids_logo.svg.png" group-title="INFANTILES", En prueba | Fox Kids
+http://foxkidsjahh21.duckdns.org/hls/stream/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CL | Kids 90's TV" tvg-name="CL | Kids 90's TV" channelId="98" tvg-logo="https://i2.paste.pics/4a39976590ab0bd4fe7a0bbbd4411822.png" group-title="INFANTILES", 98 | Kids 90's TV
 https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="USA | ZooMoo" tvg-name="USA | ZooMoo" channelId="99" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/120px-ZooMoo_logo.svg.png" group-title="INFANTILES", 99 | ZooMoo
@@ -430,7 +434,7 @@ https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ES | Cadena Elite" tvg-name="ES | Cadena Elite" channelId="En prueba" tvg-logo="https://www.cadenaelite.es/img/logoMenu.png" group-title="MUSICA Y REALITIES", En prueba | Cadena Elite
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
 #EXTINF:-1 tvg-id="PE | E Music" tvg-name="PE | E Music" channelId="En prueba" tvg-logo="https://scontent.flim6-3.fna.fbcdn.net/v/t39.30808-6/278573477_10159923206923571_8297661775070279729_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeHsR4jowqT01LtGz5n3hr8qfGKlUh5UJPh8YqVSHlQk-IP2vLHcFtNv3tBgVLaodiA&_nc_ohc=nx0B_9i9r24AX-Myl9v&_nc_ht=scontent.flim6-3.fna&oh=00_AT_xcNJL4DMb1fDXB_k77GFa7KQnnbH6GRSJbD6OduHSFw&oe=62705C9E" group-title="MUSICA Y REALITIES", En prueba | E Music
-https://srv1.mediastreamperu.com:8081/8018/index.m3u8
+https://stream.plixitv.live/emusic/emusic/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | TV Salud" tvg-name="CL | TV Salud" channelId="199" tvg-logo="https://image.roku.com/developer_channels/prod/0cb910829e2a34c241e0da4d1f66747f7fa849da691d65ffa6d9b47af3880f6e.png" group-title="CULTURA Y EDUCACION", 199 | TV Salud
 https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w1709921774.m3u8
 #EXTINF:-1 tvg-id="AR | Rural TV" tvg-name="AR | Rural TV" channelId="200" tvg-logo="https://www.elrural.com/wp-content/themes/el-rural2016/images/canal-rural.png" group-title="CULTURA Y EDUCACION", 200 | Canal Rural
