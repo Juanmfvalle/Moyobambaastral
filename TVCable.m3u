@@ -328,7 +328,7 @@ http://177.53.152.186:8000/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="PE | Sazón TV" tvg-name="PE | Sazón TV" channelId="150" tvg-logo="https://scontent.flim6-3.fna.fbcdn.net/v/t39.30808-6/277791757_10159904567618571_3764050485844243941_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeEeP30FS_SsLcRK9hcYW5AMBeD0IckPpCYF4PQhyQ-kJsiCBESrd_efKWTPnhVWMS8&_nc_ohc=2DWoTz9alR8AX8bWBLU&tn=kwz14dFPv-K5cpdE&_nc_ht=scontent.flim6-3.fna&oh=00_AT-393kjVVZrKssD-MACi9orc9qEl4e-SFCDy0uG3QlZTg&oe=626F8D19" group-title="ESTILOS DE VIDA", 150 | Sazón TV
 http://177.53.152.186:8000/play/a014/index.m3u8
 #EXTINF:-1 tvg-id="EC | Inti TV" tvg-name="EC | Inti TV" channelId="151" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/INTI_Network_TV.png/600px-INTI_Network_TV.png" group-title="ESTILOS DE VIDA", 151 | Inti TV
-http://s846397078.mialojamiento.es/w2jy/inti.php/media_w1203630815_3721.m3u8
+http://s846397078.mialojamiento.es/w2jy/inti.php/media_w1046428513_6314.m3u8
 #EXTINF:-1 tvg-id="USA | TLC" tvg-name="USA | TLC" channelId="152" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/150px-TLC_Logo.svg.png" group-title="ESTILOS DE VIDA", 152 | Travel & Living Channel
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TLC/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRAVELANDLIVING_stream_z3&_cdn_hls_media=0&_cdn_meta=userID%3D1829852807%2CdeviceID%3D1931631690&_cdn_session=186498867&_cdn_timestamp=1651859379&_cdn_token=92917f28dc8ac6a3e72a972456eee9083a978203
 #EXTINF:-1 tvg-id="USA | Discovery Home & Health" tvg-name="USA | Discovery Home & Health" channelId="153" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png" group-title="ESTILOS DE VIDA", 153 | Discovery Home & Health
@@ -660,7 +660,7 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ECUADORTV/40-hls/live-media.m
 #EXTINF:-1 tvg-id="EC | Ecuavisa" tvg-name="EC | Ecuavisa" channelId="301" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/200px-Ecuavisa_Logo_2019.png" group-title="ECUADOR", 301 | Ecuavisa || ECUADOR
 http://vps-c97214f4.vps.ovh.net:80/hls/ecutv4.m3u8
 #EXTINF:-1 tvg-id="EC | Red Telesistema" tvg-name="EC | Red Telesistema" channelId="302" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/150px-Rts_logo.png" group-title="ECUADOR", 302 | RTS || ECUADOR
-https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjUxOTI0NDMwLCJzZXNzaW9uIjoiMTgxLjE3Ni4xMjguMjIiLCJ3aGl0ZWxpc3QiOlsiMTgxLjE3Ni4xMjguMjIiXX0sInNpZ25hdHVyZSI6ImNjOGY1NDY2ODk2MzhmNGUzYzhmMTVhMDgzODRjODAxNGQ2MjQ1NDcifQ==
+https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjUxOTc5NTQ5LCJzZXNzaW9uIjoiMTgxLjE3Ni4xMjguMjIiLCJ3aGl0ZWxpc3QiOlsiMTgxLjE3Ni4xMjguMjIiXX0sInNpZ25hdHVyZSI6IjY4YTk2MjUyYThiZmNjNTYwZDJjZTVmNjk5ZmM2MDliNDcxN2Y2NjMifQ==
 #EXTINF:-1 tvg-id="EC | Televisora Central Ecuatoriana" tvg-name="EC | Telecentro" channelId="303" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png" group-title="ECUADOR", 303 | TC Televisión || ECUADOR
 http://45.71.185.142:8500/play/a02d
 #EXTINF:-1 tvg-id="EC | Oromar TV" tvg-name="EC | Oromar TV" channelId="304" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="ECUADOR", 304 | Oromar Televisión || ECUADOR
