@@ -109,7 +109,7 @@ https://cloudvideo.servers10.com:8081/8098/index.m3u8
 https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Oriental TV" tvg-name="PE | Oriental TV" channelId="50" tvg-logo="http://tv.10dailythings.com/images/channels/PE/oriental-tv-21-pucallpa-720p-not-247/normal.png" group-title="REGIONALES", 50 | Oriental TV || Pucallpa
 https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Charapa TV" tvg-name="PE | Charapa TV" channelId="51" tvg-logo="https://scontent.flim6-3.fna.fbcdn.net/v/t39.30808-6/271661890_901600960405006_4334679661299872769_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFo4m-8N4u66vZpbFqKJk3zsQdLFWCl8kOxB0sVYKXyQ5prpqSKI0J4p90VBc9kX_c&_nc_ohc=bt-Fa8NlCCEAX8ARS1d&_nc_ht=scontent.flim6-3.fna&oh=00_AT_YViUq_1MaXOouxKM4di4IKY57z8ta4xH9-uzgHCiVFQ&oe=62756B12" group-title="REGIONALES", 51 | Charapa TV || Pucallpa
+#EXTINF:-1 tvg-id="PE | Charapa TV" tvg-name="PE | Charapa TV" channelId="51" tvg-logo="https://pbs.twimg.com/media/FSNn2t5XIAIcQLk?format=jpg&name=medium" group-title="REGIONALES", 51 | Charapa TV || Pucallpa
 https://cloudvideo.servers10.com:8081/8168/index.m3u8
 #EXTINF:-1 tvg-id="PE | Top TV" tvg-name="PE | Top TV" channelId="52" tvg-logo="https://www.toptvaguaytia.com/wp-content/uploads/2020/12/toplogo.jpg" group-title="REGIONALES", 52 | Top TV || Aguaytía
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
@@ -1338,14 +1338,14 @@ https://sp.dattavolt.com/8062/stream
 #EXTINF:-1 tvg-id="PE | Radio Moyobamba" tvg-name="PE | Radio Moyobamba" channelId="En prueba" tvg-logo="https://radiomoyobamba.com/wp-content/uploads/2021/10/Logo-Radio-Moyobamba-para-web-1536x607.png" group-title="EMISORAS LOCALES", En prueba | Radio Moyobamba || Moyobamba; Perú
 https://conectperu.com/8236/stream
 #EXTINF:-1 tvg-id="PE | Radio Nor Selva" tvg-name="PE | Radio Nor Selva" channelId="607" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/norselva-98-7.png" group-title="EMISORAS PROVINCIALES", 607 | Radio Nor Selva 98.7 FM || Rioja; Perú
-https://sp.onliveperu.com/8166/stream/;type=mp3
+https://sonicpanel.tmcreativos.com/8078/stream
 #EXTINF:-1 tvg-id="PE | Radio Rioja" tvg-name="PE | Radio Rioja" channelId="608" tvg-logo="https://www.radioriojaperu.com/panel/archivos-panel/logotipo/Logo-ie4jb-1.png" group-title="EMISORAS PROVINCIALES", 608 | Radio Rioja 101.1 FM || Rioja; Perú
 https://sonic.whitelabelservers.co.uk:7025/;
 #EXTINF:-1 tvg-id="PE | Radio Via Alto Mayo" tvg-name="PE | Radio Via Alto Mayo" channelId="609" tvg-logo="https://www.viaaltomayotv.com/img/logotipo_radioref.png" group-title="EMISORAS PROVINCIALES", 609 | Radio Vía Alto Mayo || Rioja; Perú
 https://sonic.whitelabelservers.co.uk:7016/;/live
 #EXTINF:-1 tvg-id="PE | Radio California" tvg-name="PE | Radio California" channelId="610" tvg-logo="https://www.planetaradios.com/content/radios_fm/lradio-california-nueva-cajamarca.png" group-title="EMISORAS PROVINCIALES", 610 | Radio California 102.9 FM || Nueva Cajamarca; Perú
 https://sp01.servidor.stream/8026/stream
-#EXTINF:-1 tvg-id="PE | Radio Ondas del Río Mayo" tvg-name="PE | Radio Ondas del Río Mayo" channelId="611" tvg-logo="https://cdn-planetaradios.com/imgio/Radio-Ondas-del-Rio-Mayo-FM-nueva-cajamarca.png" group-title="EMISORAS PROVINCIALES", 611 | Radio Ondas del Río Mayo 105.7 FM || Nueva Cajamarca; Perú
+#EXTINF:-1 tvg-id="PE | Radio Ondas del Río Mayo" tvg-name="PE | Radio Ondas del Río Mayo" channelId="611" tvg-logo="https://play-lh.googleusercontent.com/dW1vUmmvg33AvAYIX9wlpQhe015pXfQG2ynFAUtpPtZVh_YXJOg29_GqdcozsFhMmeI" group-title="EMISORAS PROVINCIALES", 611 | Radio Ondas del Río Mayo 105.7 FM || Nueva Cajamarca; Perú
 https://sp.onliveperu.com/8090/stream
 #EXTINF:-1 tvg-id="PE | Radio Fans" tvg-name="PE | Radio Fans" channelId="612" tvg-logo="https://static-media.streema.com/media/cache/0c/f0/0cf0fce695bd125e78e44ff5fc8badf6.jpg" group-title="EMISORAS PROVINCIALES", 612 | Radio Fans 95.5 FM || Picota; Perú
 http://eu1.serviaudio.com:8066/stream/;
@@ -1424,27 +1424,27 @@ https://5c3fb01839654.streamlock.net:1963/ipradioovacion1/liveovacion1radio/play
 #EXTINF:-1 tvg-id="PE | Radio Integridad" tvg-name="PE | Radio Integridad" channelId="649" tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/1/25521.v9.png" group-title="EMISORAS NACIONALES", 649 | Red Radio Integridad 700 AM || Lima; Perú
 https://dattavolt.com/8164/stream
 #EXTINF:-1 tvg-id="PE | Radio Bienestar" tvg-name="PE | Radio Bienestar" channelId="650" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/bienestar.png" group-title="EMISORAS NACIONALES", 650 | Radio Bienestar 760 AM || Lima; Perú
-https://17963.live.streamtheworld.com/BIENESTAR_SC?csegid=20001&dist=20001&ttag=20001
+https://16643.live.streamtheworld.com/BIENESTAR_SC?csegid=20001&dist=20001&ttag=20001
 #EXTINF:-1 tvg-id="PE | Radio Victoria" tvg-name="PE | Radio Victoria" channelId="651" tvg-logo="http://www.radiovictoria.com.pe/imgs/logo_4.png" group-title="EMISORAS NACIONALES", 651 | Radio Victoria 780 AM || Lima; Perú
 http://65.60.45.74:8156/;
-#EXTINF:-1 tvg-id="PE | Radio Libertad" tvg-name="PE | Radio Libertad" channelId="652" tvg-logo="https://www.radiolibertad.com.pe/wp-content/uploads/elementor/thumbs/logo-oy9txjgucti7d3xei4rmxj5yy0mtuy7dinuop8vrv4.jpg" group-title="EMISORAS NACIONALES", 652 | Radio Libertad 820 AM || Lima; Perú
+#EXTINF:-1 tvg-id="PE | Radio Libertad" tvg-name="PE | Radio Libertad" channelId="652" tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/5fb35d0c937166520cc7699bcc829cd5.jpg" group-title="EMISORAS NACIONALES", 652 | Radio Libertad 820 AM || Lima; Perú
 https://radio.pjcks.com/9972/stream
 #EXTINF:-1 tvg-id="PE | Radio Latina" tvg-name="PE | Radio Latina" channelId="653" tvg-logo="http://www.radiolatina.com.pe/admin/assets/img/logo.png" group-title="EMISORAS NACIONALES", 653 | Radio Latina 990 AM || Lima; Perú
 http://server07.srvsh.com.br:8016/;
 #EXTINF:-1 tvg-id="PE | Radio Cielo" tvg-name="PE | Radio Cielo" channelId="654" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/cielo-lima.png" group-title="EMISORAS NACIONALES", 654 | Radio Cielo 1010 AM || Lima; Perú
 https://serverssl.innovatestream.pe:8080/http://167.114.118.120:7342/;
 #EXTINF:-1 tvg-id="PE | Radio Metropolitana" tvg-name="PE | Radio Metropolitana" channelId="655" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/metropolitana-lima.png" group-title="EMISORAS NACIONALES", 655 | Radio Metropolitana 1040 AM || Lima; Perú
-http://www.turadio.pro:8130/stream/1/
+http://99.198.110.162:8130/stream/1/
 #EXTINF:-1 tvg-id="PE | Radio Éxito" tvg-name="PE | Radio Éxito" channelId="656" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/DVUYtwjYv9.jpg" group-title="EMISORAS NACIONALES", 656 | Radio Éxito 1060 AM || Lima; Perú
 http://67.212.179.138:7200/;stream/1
 #EXTINF:-1 tvg-id="PE | Radio La Luz" tvg-name="PE | Radio La Luz" channelId="657" tvg-logo="http://radiolaluz.com/wp-content/themes/laluz/images/logo_rad.png" group-title="EMISORAS NACIONALES", 657 | Radio La Luz 1080 AM || Lima; Perú
 http://radio.transmite.pe:9310/stream?icy=http
-#EXTINF:-1 tvg-id="PE | NSE Radio" tvg-name="PE | NSE Radio" channelId="658" tvg-logo="https://2.bp.blogspot.com/-lMCriJJNr24/XcmPLZk2CmI/AAAAAAAAOdk/qp5TOY47OXAnjhO7QZilSDgZFAlq3KlsgCLcBGAsYHQ/s200/nsearequipa.jpg" group-title="EMISORAS NACIONALES", 658 | NSE (Nuestra Señora del Encuentro con Dios) Radio 1180 AM || Lima; Perú
-https://mpc.mediacp.eu/stream/nseradio
+#EXTINF:-1 tvg-id="PE | NSE Radio" tvg-name="PE | NSE Radio" channelId="658" tvg-logo="https://2.bp.blogspot.com/-lMCriJJNr24/XcmPLZk2CmI/AAAAAAAAOdk/qp5TOY47OXAnjhO7QZilSDgZFAlq3KlsgCLcBGAsYHQ/s200/nsearequipa.jpg" group-title="EMISORAS NACIONALES", 658 | NSE Radio 1180 AM || Lima; Perú
+https://servidor18-2.brlogic.com:7440/live
 #EXTINF:-1 tvg-id="PE | Nueva Cadena Radio" tvg-name="PE | Nueva Cadena Radio" channelId="659" tvg-logo="https://files.secure.website/wscfus/10124728/25671317/logo-cadena-2020-w300-o.png" group-title="EMISORAS NACIONALES", 659 | Nueva Cadena Radio 1200 AM || Lima; Perú
 http://radio.transmite.pe:9300/stream
-#EXTINF:-1 tvg-id="PE | Radio Comas" tvg-name="PE | Radio Comas" channelId="660" tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/9/25939.v12.png" group-title="EMISORAS NACIONALES", 660 | Radio Comas 1300 AM || Lima; Perú
-http://65.60.2.26:8046/;
+#EXTINF:-1 tvg-id="PE | Radio Comas" tvg-name="PE | Radio Comas" channelId="660" tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/9/25939.v12.png" group-title="EMISORAS NACIONALES", 660 | Radio Comas 101.7 FM y 1300 AM || Lima; Perú
+http://65.60.2.26:8044/stream?icy=http
 #EXTINF:-1 tvg-id="PE | Radio Nuevo Tiempo" tvg-name="PE | Radio Nuevo Tiempo" channelId="661" tvg-logo="https://api.raddios.com/api/radios/723/image/miniaturamovil?2020-04-20%2010:38:56" group-title="EMISORAS NACIONALES", 661 | Radio Nuevo Tiempo 1380 AM || Lima; Perú
 https://stream.live.novotempo.com/radio/smil:radionuevotiempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Radio Callao" tvg-name="PE | Radio Callao" channelId="662" tvg-logo="https://4.bp.blogspot.com/-IqFb6Dms7jw/XWZDFkyNUTI/AAAAAAAAN2E/1e0bymrhggcIIRH36LnD-fRGFrRjMPqewCLcBGAs/s200/callao.jpg" group-title="EMISORAS NACIONALES", 662 | Radio Callao 1400 AM || Lima; Perú
@@ -1509,8 +1509,8 @@ http://server3.sit-mexico.com:8011/live
 https://s2.mexside.net/8020/stream
 #EXTINF:-1 tvg-id="USA | Red de Radiodifusión Bíblica" tvg-name="USA | Red de Radiodifusión Bíblica" channelId="689" tvg-logo="https://bbn1.bbnradio.org/spanish/wp-content/uploads/sites/5/2020/12/50thLogoSP.png" group-title="EMISORAS INTERNACIONALES", 689 | BBN (Bible Broadcasting Network) Radio || ESTADOS UNIDOS
 https://audio-edge-es6pf.mia.g.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f
-#EXTINF:-1 tvg-id="ES | NSE Radio América" tvg-name="ES | NSE Radio América" channelId="690" tvg-logo="https://public-rf-upload.minhawebradio.net/166842/cover/73f0ce5e8eab2e197fc683cb50d7b20b.jpg" group-title="EMISORAS INTERNACIONALES", 690 | NSE (Nuestra Señora del Encuentro con Dios) Radio América || ESPAÑA
-https://mpc.mediacp.eu:8520/stream
+#EXTINF:-1 tvg-id="ES | NSE (Nuestra Señora del Encuentro con Dios) Radio" tvg-name="ES | NSE (Nuestra Señora del Encuentro con Dios) Radio" channelId="690" tvg-logo="https://public-rf-upload.minhawebradio.net/166842/cover/73f0ce5e8eab2e197fc683cb50d7b20b.jpg" group-title="EMISORAS INTERNACIONALES", 690 | NSE Radio || ESPAÑA
+https://evcast.mediacp.eu:2060/stream
 #EXTINF:-1 tvg-id="PE | Expresión Radio TV" tvg-name="PE | Expresión Radio TV" channelId="691" tvg-logo="https://www.telesur.com.pe/recursos/page/expresion/images/logo.png" group-title="EMISORAS DE RADIO POR TV", 691 | Expresión Radio TV || Ilo
 https://1667517699.rsc.cdn77.org/hls/radioilo.m3u8
 #EXTINF:-1 tvg-id="EC | Radio Soberana 98.7 FM" tvg-name="EC | Radio Soberana 98.7 FM" channelId="692" tvg-logo="https://play-lh.googleusercontent.com/n-g2gEIh3jnuxzDo7h4exKiEVBal8ztsjFdej0zrbtoIob1uFe2MWsoK5DA91_2Lskc=s200" group-title="EMISORAS DE RADIO POR TV", 692 | Radio Soberana 98.7 FM || ECUADOR
