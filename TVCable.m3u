@@ -451,6 +451,8 @@ https://inliveserver.com:1936/17504/17504/playlist.m3u8
 https://inliveserver.com:1936/17508/17508/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Urbano TV" tvg-name="PE | Urbano TV" channelId="En prueba" tvg-logo="https://pbs.twimg.com/media/FSNggaeXwAAxgBQ?format=jpg&name=small" group-title="MUSICA Y REALITIES", En prueba | Urbano TV
 http://177.53.152.186:8000/play/a012/index.m3u8
+#EXTINF:-1 tvg-id="PE | Tribus Urbanas TV" tvg-name="PE | Tribus Urbanas TV" channelId="En prueba" tvg-logo="https://pbs.twimg.com/media/FSWIl8bXwAE1B6b?format=png&name=small" group-title="MUSICA Y REALITIES", En prueba | Tribus Urbanas TV
+http://177.53.152.186:8000/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="CL | Zapping Music" tvg-name="CL | Zapping Music" channelId="198" tvg-logo="http://tv-online.cl/zapping-music-en-vivo.jpg?210921113151" group-title="MUSICA Y REALITIES", 198 | Zapping Music
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ES | Cadena Elite" tvg-name="ES | Cadena Elite" channelId="En prueba" tvg-logo="https://www.cadenaelite.es/img/logoMenu.png" group-title="MUSICA Y REALITIES", En prueba | Cadena Elite
@@ -496,7 +498,7 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 #EXTINF:-1 tvg-id="AR | Orbe 21" tvg-name="AR | Orbe 21" channelId="217" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Canal_Orbe_21_logo.svg/245px-Canal_Orbe_21_logo.svg.png" group-title="RELIGIOSOS", 217 | Orbe 21
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | ESNE TV" tvg-name="USA | ESNE TV" channelId="218" tvg-logo="https://elsembradorministries.com/esne_deployment/images/logo_azul.png" group-title="RELIGIOSOS", 218 | El Sembrador Televisión
-https://zypelive-lh.akamaihd.net/i/default_1@44045/index_720_av-p.m3u8?F38b1dF4=627966aaa7955d00019968dc&6pLKMQ3y=Sqi3Ng90&video_id=5f978263e036f600019f66c2&sd=10&dw=10800&rebase=on&hdntl=exp=1652209716~acl=%2f*%4044045%2f*~data=hdntl~hmac=0d39b922b29c09ff180533e6545dc5b9c4892569856f251079d687590994645d
+https://zypelive-lh.akamaihd.net/i/default_1@44045/index_720_av-p.m3u8?F38b1dF4=627987d6d303040001fe9a40&6pLKMQ3y=Sqi3Ng90&video_id=5f978263e036f600019f66c2&sd=10&dw=10800&rebase=on&hdntl=exp=1652218211~acl=%2f*%4044045%2f*~data=hdntl~hmac=1faae582891ee5ec7808e195f88d035dd69b024096116e839a73898b27fd326b
 #EXTINF:-1 tvg-id="PE | JN19" tvg-name="PE | JN19" channelId="219" tvg-logo="http://www.jn19television.com/templates/televid_23/images/object979167786.png" group-title="RELIGIOSOS", 219 | JN19 Televisión
 https://servilive.com:3149/live/jn19tvlive.m3u8
 #EXTINF:-1 tvg-id="CR | Telefides" tvg-name="CR | Telefides" channelId="220" tvg-logo="https://costaricatelevision.com/sites/default/files/styles/tv_list/public/2020-07/telefides-costa-rica.png.webp?itok=XzDap4zR" group-title="RELIGIOSOS", 220 | Telefides
@@ -686,7 +688,7 @@ https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/playlist.m3u8?iu
 #EXTINF:-1 tvg-id="EC | Televisora Central Ecuatoriana" tvg-name="EC | Telecentro" channelId="303" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png" group-title="ECUADOR", 303 | TC Televisión || ECUADOR
 http://45.71.185.142:8500/play/a02d
 #EXTINF:-1 tvg-id="EC | Oromar TV" tvg-name="EC | Oromar TV" channelId="304" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="ECUADOR", 304 | Oromar Televisión || ECUADOR
-https://live-ak.vimeocdn.com/exp=1652080328~acl=%2F4a896e2a-e757-4358-a048-855da144d8aa%2F%2A~hmac=0ea84fb12968201c35407848c8f31b47b7dda6fcec125e0ffdcc4670d8e41354/4a896e2a-e757-4358-a048-855da144d8aa/chunklist_b6256000.m3u8?max_segments=10
+https://live-ak.vimeocdn.com/exp=1652135481~acl=%2F122f1342-4e4c-4612-bbc1-ef8a63619308%2F%2A~hmac=c54966bd88049886f03157c896acb32918822ae08446ba38e66751655cbbb5b1/122f1342-4e4c-4612-bbc1-ef8a63619308/chunklist_b6256000.m3u8?max_segments=10
 #EXTINF:-1 tvg-id="EC | Canela TV" tvg-name="EC | Canela TV" channelId="305" tvg-logo="https://web.canelatv.com/wp-content/uploads/2020/10/ki.gif" group-title="ECUADOR", 305 | Canela TV || ECUADOR
 https://59d39900ebfb8.streamlock.net/canelatv/canelatv/chunklist_w1360767208.m3u8
 #EXTINF:-1 tvg-id="EC | Telerama" tvg-name="EC | Telerama" channelId="306" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_Telerama.png/250px-Logo_Telerama.png" group-title="ECUADOR", 306 | Telerama || ECUADOR
@@ -716,7 +718,7 @@ https://cloud7.streamingcnt.net/cnt/educa/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | Canal Capital" tvg-name="CO | Canal Capital" channelId="317" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/135px-2020_Canal_Capital_logo.svg.png" group-title="COLOMBIA", 317 | Canal Capital || COLOMBIA
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 #EXTINF:-1 tvg-id="CO | RCN" tvg-name="CO | RCN" channelId="318" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/140px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA", 318 | RCN || COLOMBIA
-http://viperos.net:8080/live/lucas/123456/1627.m3u8
+http://138.186.20.245:8000/play/a02j
 #EXTINF:-1 tvg-id="CO | RCN +" tvg-name="CO | RCN +" channelId="318.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/RCN_HD2_2019.png/200px-RCN_HD2_2019.png" group-title="COLOMBIA", 318.2 | RCN + || COLOMBIA
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | Canal Caracol" tvg-name="CO | Canal Caracol" channelId="319" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="COLOMBIA", 319 | Canal Caracol || COLOMBIA
