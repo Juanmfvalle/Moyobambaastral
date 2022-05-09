@@ -54,7 +54,7 @@ https://live.obslivestream.com/crtvmux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="PE | Contacto Televisión" tvg-name="PE | Contacto Televisión" channelId="23" tvg-logo="https://pbs.twimg.com/media/FSKSw5dXIAA7yZV?format=jpg&name=240x240" group-title="LOCALES", 23 | Contacto TV || Moyobamba
 https://live.obslivestream.com/cdeportivomux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="PE | Ok Teve" tvg-name="PE | Ok Teve" channelId="24" tvg-logo="https://playmax.tv/wp-content/uploads/2021/07/OKTVLOG.jpg" group-title="PROVINCIALES", 24 | OK Televisión || Soritor
-https://srv1.mediastreamperu.com:8081/8020/index.m3u8
+https://stream.plixitv.live/oktv/oktv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | TV5" tvg-name="PE | TV5" channelId="25" tvg-logo="https://tv5soritor.com/wp-content/uploads/2021/07/LOGO-TV5.png" group-title="PROVINCIALES", 25 | TV5 || Soritor
 https://live.obslivestream.com/tv5mux/index.m3u8
 #EXTINF:-1 tvg-id="PE | Vía Alto Mayo TV" tvg-name="PE | Vía Alto Mayo TV" channelId="26" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqOFVbZI_DEQWBcj9Fjt3OpP7xILbtOuEgaw&usqp=CAU" group-title="PROVINCIALES", 26 | Vía Alto Mayo Televisión || Rioja
@@ -350,7 +350,7 @@ http://177.53.152.186:8000/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="PE | Sazón TV" tvg-name="PE | Sazón TV" channelId="150" tvg-logo="https://pbs.twimg.com/media/FSNbVw7XMAAFsuc?format=jpg&name=small" group-title="ESTILOS DE VIDA", 150 | Sazón TV
 http://177.53.152.186:8000/play/a014/index.m3u8
 #EXTINF:-1 tvg-id="EC | Inti TV" tvg-name="EC | Inti TV" channelId="151" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/INTI_Network_TV.png/600px-INTI_Network_TV.png" group-title="ESTILOS DE VIDA", 151 | Inti TV
-http://s846397078.mialojamiento.es/w2jy/inti.php/media_w1046428513_6314.m3u8
+http://s846397078.mialojamiento.es/w2jy/inti.php/media_w688298564_1271.m3u8
 #EXTINF:-1 tvg-id="USA | TLC" tvg-name="USA | TLC" channelId="152" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/150px-TLC_Logo.svg.png" group-title="ESTILOS DE VIDA", 152 | Travel & Living Channel
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TLC/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRAVELANDLIVING_stream_z3&_cdn_session=193561211&_cdn_timestamp=1652108056&_cdn_token=1c65b051a9b9767013ea71fd91de2f3bdc802d1c
 #EXTINF:-1 tvg-id="USA | Discovery Home & Health" tvg-name="USA | Discovery Home & Health" channelId="153" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png" group-title="ESTILOS DE VIDA", 153 | Discovery Home & Health
@@ -458,7 +458,7 @@ https://cloudvideo.servers10.com:8081/8004/index.m3u8
 #EXTINF:-1 tvg-id="PE | E Music" tvg-name="PE | E Music" channelId="En prueba" tvg-logo="https://pbs.twimg.com/media/FSNUydQXoAIcS1L?format=jpg&name=240x240" group-title="MUSICA Y REALITIES", En prueba | E Music
 https://stream.plixitv.live/emusic/emusic/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | TV Salud" tvg-name="CL | TV Salud" channelId="199" tvg-logo="https://image.roku.com/developer_channels/prod/0cb910829e2a34c241e0da4d1f66747f7fa849da691d65ffa6d9b47af3880f6e.png" group-title="CULTURA Y EDUCACION", 199 | TV Salud
-https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w1709921774.m3u8
+https://srv3.zcast.com.br/mastermedia/mastermedia/tvsalud.cl.m3u8
 #EXTINF:-1 tvg-id="AR | Rural TV" tvg-name="AR | Rural TV" channelId="200" tvg-logo="https://www.elrural.com/wp-content/themes/el-rural2016/images/canal-rural.png" group-title="CULTURA Y EDUCACION", 200 | Canal Rural
 https://cda2.alsolnet.com/elrural/live/chunklist_w1152779177.m3u8
 #EXTINF:-1 tvg-id="CO | TV Agro" tvg-name="CO | TV Agro" channelId="201" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/TV_Agro_logo.svg/245px-TV_Agro_logo.svg.png" group-title="CULTURA Y EDUCACION", 201 | TV Agro
