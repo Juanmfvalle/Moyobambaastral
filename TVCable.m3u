@@ -689,8 +689,10 @@ https://mediacpstreamchile.com:1936/sonoonda/sonoonda/chunklist_w1788970447.m3u8
 https://ecuastream.net:19360/ucsghd/ucsghd.m3u8
 #EXTINF:-1 tvg-id="EC | Zaracay Televisión" tvg-name="EC | Zaracay Televisión" channelId="316" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRrbURdrB5H3lMCizVyGzkuHp7zH9M_KXJssOsO=s88-c-k-c0x00ffffff-no-rj" group-title="ECUADOR", 316 | Zaracay Televisión || ECUADOR
 https://streamingwowza.com:1936/zaracaytv/smil:zaracaytv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="EC | Educa Televisión" tvg-name="EC | En prueba" channelId="316" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Educa_Ecuador.png/100px-Educa_Ecuador.png" group-title="ECUADOR", En prueba | Educa Televisión || ECUADOR
+#EXTINF:-1 tvg-id="EC | Educa Televisión" tvg-name="EC | Educa Televisión" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Educa_Ecuador.png/100px-Educa_Ecuador.png" group-title="ECUADOR", En prueba | Educa Televisión || ECUADOR
 https://cloud7.streamingcnt.net/cnt/educa/playlist.m3u8
+#EXTINF:-1 tvg-id="EC | Ondas Quevedeñas Televisión" tvg-name="EC | Ondas Quevedeñas Televisión" channelId="En prueba" tvg-logo="https://pbs.twimg.com/media/FSfj7O3WQAAgMgq?format=png&name=small" group-title="ECUADOR", En prueba | Ondas Quevedeñas Televisión || ECUADOR
+https://cloudvideo.servers10.com:8081/8104/index.m3u8
 #EXTINF:-1 tvg-id="CO | Canal Capital" tvg-name="CO | Canal Capital" channelId="317" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/135px-2020_Canal_Capital_logo.svg.png" group-title="COLOMBIA", 317 | Canal Capital || COLOMBIA
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 #EXTINF:-1 tvg-id="CO | RCN" tvg-name="CO | RCN" channelId="318" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/140px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA", 318 | RCN || COLOMBIA
