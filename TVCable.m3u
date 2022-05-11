@@ -111,6 +111,8 @@ https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8
 https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Charapa TV" tvg-name="PE | Charapa TV" channelId="51" tvg-logo="https://pbs.twimg.com/media/FSNn2t5XIAIcQLk?format=jpg&name=medium" group-title="REGIONALES", 51 | Charapa TV || Pucallpa
 https://cloudvideo.servers10.com:8081/8168/index.m3u8
+#EXTINF:-1 tvg-id="PE | Activa TV" tvg-name="PE | Activa TV" channelId="En prueba" tvg-logo="https://play-lh.googleusercontent.com/6ZdZAeMBKP96MJ21H7FpgAZrtDSp1PCprQ54k1eIBMi-ZO8yfQN2PkrGcutGEbq_DGg=s180-rw" group-title="REGIONALES", En prueba | Activa TV || Manantay
+https://cloudvideo.servers10.com:8081/8126/index.m3u8
 #EXTINF:-1 tvg-id="PE | Top TV" tvg-name="PE | Top TV" channelId="52" tvg-logo="https://www.toptvaguaytia.com/wp-content/uploads/2020/12/toplogo.jpg" group-title="REGIONALES", 52 | Top TV || Aguaytía
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 #EXTINF:-1 tvg-id="CO | RCN Novelas" tvg-name="CO | RCN Novelas" channelId="53" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/RCN_Novelas_logo.svg/165px-RCN_Novelas_logo.svg.png" group-title="NOVELAS", 53 | RCN Novelas
@@ -383,6 +385,8 @@ https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?Playlist
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/MTV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DMTV_stream_3f&_cdn_session=197630307&_cdn_timestamp=1652308200&_cdn_token=5004ee82f84ed444a6d08fed873a5a4511dc309f
 #EXTINF:-1 tvg-id="CO | Telenostalgia" tvg-name="CO | Telenostalgia" channelId="179" tvg-logo="https://canaltelenostalgia.com/wp-content/uploads/2022/03/logo_telenostalgia.png" group-title="MUSICA Y REALITIES", 179 | Canal Telenostalgia
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TELENOSTALGIA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELENOSTALGIA_stream_or&_cdn_session=197630971&_cdn_timestamp=1652308218&_cdn_token=a3594d8d2134ffa13cc09a965a800476ffb203da
+#EXTINF:-1 tvg-id="USA | Memorias TV" tvg-name="USA | Memorias TV" channelId="En prueba" tvg-logo="https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1-224x96.png" group-title="MUSICA Y REALITIES", En prueba | Memorias TV
+https://play.amelbasoluciones.co:3759/live/memoriastvlive.m3u8
 #EXTINF:-1 tvg-id="PE | Top Latino" tvg-name="PE | Top Latino" channelId="180" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png/150px-LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="MUSICA Y REALITIES", 180 | Top Latino TV
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="DO | Fuego 40 El canal del pueblo" tvg-name="DO | Fuego 40 El canal del pueblo" channelId="181" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUsURmYDu5MKZt_f59t-k2RIegQiWUbRp4X4PTLhm9BXR2qWUfuuYrCMWbaxVb3lhRhLk&usqp=CAU" group-title="MUSICA Y REALITIES", 181 | Fuego 40 TV
@@ -483,6 +487,8 @@ https://s2.cwebtv.net:4433/telefides/telefides/chunklist.m3u8
 http://190.122.96.186:8888/http/003
 #EXTINF:-1 tvg-id="NI | JBN Canal 39" tvg-name="NI | JBN Canal 39" channelId="221" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSFAwOxRl_Q_NdWj-oIOGI7e7VC7UoNrdt3Kqm3=s88-c-k-c0x00ffffff-no-rj" group-title="RELIGIOSOS", 221 | JBN Canal 39
 https://inliveserver.com:1936/17510/17510/playlist.m3u8
+#EXTINF:-1 tvg-id="GT | Jesús TV" tvg-name="GT | Jesús TV" channelId="En prueba" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=451x10000:format=png/path/s198f7be6c90b5aac/image/i8fae4ee760f1a4c4/version/1512317356/image.png" group-title="RELIGIOSOS", En prueba | Jesús TV
+http://tv.streamgt.tk:25461/playgt/123456/132
 #EXTINF:-1 tvg-id="AR | Canal Luz" tvg-name="AR | Canal Luz" channelId="222" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Canal_Luz_actual.png/125px-Canal_Luz_actual.png" group-title="RELIGIOSOS", 222 | Canal Luz
 https://g5.vxral-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_1080p.m3u8
 #EXTINF:-1 tvg-id="AR | Solidaria TV" tvg-name="AR | Solidaria TV" channelId="223" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRvGzClf1TW0zlf861XH256v1NGLQ0FdkvMJ8Sc7g=s88-c-k-c0x00ffffff-no-rj" group-title="RELIGIOSOS", 223 | Solidaria Televisión
@@ -693,6 +699,8 @@ https://streamingwowza.com:1936/zaracaytv/smil:zaracaytv.smil/playlist.m3u8
 https://cloud7.streamingcnt.net/cnt/educa/playlist.m3u8
 #EXTINF:-1 tvg-id="EC | Ondas Quevedeñas Televisión" tvg-name="EC | Ondas Quevedeñas Televisión" channelId="En prueba" tvg-logo="https://pbs.twimg.com/media/FSfj7O3WQAAgMgq?format=png&name=small" group-title="ECUADOR", En prueba | Ondas Quevedeñas Televisión || ECUADOR
 https://cloudvideo.servers10.com:8081/8104/index.m3u8
+#EXTINF:-1 tvg-id="EC | Radio y TV Alegría" tvg-name="EC | Radio y TV Alegría" channelId="En prueba" tvg-logo="https://www.radioytvalegria.com/wp-content/uploads/elementor/thumbs/LOGO-DISENO_Mesa-de-trabajo-1-pd336jsm014f326bileb5jqvhxr3ruur8ypw4k3ilk.png" group-title="ECUADOR", En prueba | Radio y TV Alegría || ECUADOR
+https://cloudvideo.servers10.com:8081/8122/index.m3u8
 #EXTINF:-1 tvg-id="CO | Canal Capital" tvg-name="CO | Canal Capital" channelId="317" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/135px-2020_Canal_Capital_logo.svg.png" group-title="COLOMBIA", 317 | Canal Capital || COLOMBIA
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 #EXTINF:-1 tvg-id="CO | RCN" tvg-name="CO | RCN" channelId="318" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/140px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA", 318 | RCN || COLOMBIA
@@ -1297,6 +1305,8 @@ http://45.189.117.36:7879/play/a0f6
 https://cloudvideo.servers10.com:8081/8028/index.m3u8
 #EXTINF:-1 tvg-id="ES | Noroeste TV" tvg-name="ES | Noroeste TV" channelId="En prueba" tvg-logo="http://www.noroestetv.es/LOGOS/logo%20tv.jpg" group-title="ESPAÑA", En prueba | Noroeste TV || ESPAÑA
 https://cloudvideo.servers10.com:8081/8032/index.m3u8
+#EXTINF:-1 tvg-id="ES | Onda Valencia TV" tvg-name="ES | Onda Valencia TV" channelId="En prueba" tvg-logo="https://www.ondavalencia.es/templates/jsn_boot_pro/images/logo5.png" group-title="ESPAÑA", En prueba | Onda Valencia TV || ESPAÑA
+https://cloudvideo.servers10.com:8081/8116/index.m3u8
 #EXTINF:-1 tvg-id="JP | NHK World" tvg-name="JP | NHK World" channelId="599" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/245px-NHK_World.svg.png" group-title="JAPON", 599 | NHK World || JAPON
 https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
 #EXTINF:-1 tvg-id="KR | Asian TV" tvg-name="KR | Asian TV" channelId="600" tvg-logo="https://tv-iteractiva-prod.s3.amazonaws.com/media/brand/ASIANTV_LOGO_PRETO-01_menor_DURXi6G.png" group-title="KOREA DEL SUR", 600 | Asian TV || KOREA DEL SUR
@@ -1531,3 +1541,5 @@ https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
 https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
 #EXTINF:-1 tvg-id="CA | Stingray Music Classica" tvg-name="CA | Stingray Music Classica" channelId="694.15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE VIDEO", 694.15 | Stingray Music Classica
 https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
+#EXTINF:-1 tvg-id="PE | Música electro" tvg-name="PE | Música electro" channelId="695" tvg-logo="http://1.bp.blogspot.com/-qeaYW6pE6xk/T1bNl2j_-_I/AAAAAAAAAso/6HdB40IhS4c/s1600/electro_music.jpg" group-title="CANALES DE VIDEO", 695 | Música electro
+https://cloudvideo.servers10.com:8081/8124/index.m3u8
