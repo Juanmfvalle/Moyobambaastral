@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="PE | Willax Televisión" tvg-name="PE | Willax Televisión" channelId="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Willax_Televisi%C3%B3n_2020.png/245px-Willax_Televisi%C3%B3n_2020.png" group-title="PERU", 1 | Willax Televisión
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/WILLAX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=198282867&_cdn_timestamp=1652347561&_cdn_token=4555aadb1b61cf0c7b6ae54d6310c231fb2d7a3d
+http://177.53.152.186:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="PE | Latina Televisión" tvg-name="PE | Latina Televisión" channelId="2" tvg-logo="https://www.latina.pe/wp-content/themes/genesis-latina/img/latina_pe.png" group-title="PERU", 2 | Latina Televisión
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/LATINA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINA_stream_hj&_cdn_session=198282987&_cdn_timestamp=1652347566&_cdn_token=10e2c6add090e1aef366170d53d366c4b23532cd
 #EXTINF:-1 tvg-id="PE | Nacional TV" tvg-name="PE | Nacional TV" channelId="3" tvg-logo="https://pbs.twimg.com/media/FSIIqcqXIAAG2My?format=jpg&name=small" group-title="PERU", 3 | Nacional TV
@@ -261,6 +261,8 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/CANALINFANTIL/10-hls/live-med
 http://51.222.241.122:8000/play/a00j
 #EXTINF:-1 tvg-id="AR | Pakapaka" tvg-name="AR | Pakapaka" channelId="118" tvg-logo="http://www.pakapaka.gob.ar/img/botones/logo-pakapaka-2.png" group-title="INFANTILES", 118 | Pakapaka
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="CL | Dos Kids" tvg-name="CL | Dos Kids" channelId="En prueba" tvg-logo="https://pbs.twimg.com/media/FShNaZJWQAErDfo?format=png&name=120x120" group-title="INFANTILES", En prueba | Dos Kids
+http://177.53.152.186:8000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="MX | El Chavo del 8 TV" tvg-name="MX | El Chavo del 8 TV" channelId="119" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/245px-El_Chavo_%28simple_logo%29.svg.png" group-title="INFANTILES", 119 | El Chavo del 8 TV
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="MX | Distrito Comedia" tvg-name="MX | Distrito Comedia" channelId="120" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/175px-DistritoComediaLOGO2018.png" group-title="ENTRETENIMIENTO", 120 | Distrito Comedia
@@ -387,6 +389,8 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/MTV/20-hls/live-media.m3u8?_c
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TELENOSTALGIA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELENOSTALGIA_stream_or&_cdn_session=197630971&_cdn_timestamp=1652308218&_cdn_token=a3594d8d2134ffa13cc09a965a800476ffb203da
 #EXTINF:-1 tvg-id="USA | Memorias TV" tvg-name="USA | Memorias TV" channelId="En prueba" tvg-logo="https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1-224x96.png" group-title="MUSICA Y REALITIES", En prueba | Memorias TV
 https://play.amelbasoluciones.co:3759/live/memoriastvlive.m3u8
+#EXTINF:-1 tvg-id="PE | Recuerdos TV" tvg-name="PE | Recuerdos TV" channelId="En prueba" tvg-logo="https://pbs.twimg.com/media/FShlHtHXoAI26ES?format=png&name=small" group-title="MUSICA Y REALITIES", En prueba | Recuerdos TV
+http://177.53.152.186:8000/play/a01b/index.m3u8
 #EXTINF:-1 tvg-id="PE | Top Latino" tvg-name="PE | Top Latino" channelId="180" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png/150px-LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="MUSICA Y REALITIES", 180 | Top Latino TV
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="DO | Fuego 40 El canal del pueblo" tvg-name="DO | Fuego 40 El canal del pueblo" channelId="181" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUsURmYDu5MKZt_f59t-k2RIegQiWUbRp4X4PTLhm9BXR2qWUfuuYrCMWbaxVb3lhRhLk&usqp=CAU" group-title="MUSICA Y REALITIES", 181 | Fuego 40 TV
@@ -660,7 +664,7 @@ http://45.71.185.142:8500/play/a027
 #EXTINF:-1 tvg-id="EC | Teleamazonas" tvg-name="EC | Teleamazonas" channelId="298" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/150px-Teleamazonas_Logo.png" group-title="ECUADOR", 298 | Teleamazonas || ECUADOR
 http://138.186.20.245:8000/play/a02l
 #EXTINF:-1 tvg-id="EC | Televicentro" tvg-name="EC | Televicentro" channelId="299" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/TVCEC.png/150px-TVCEC.png" group-title="ECUADOR", 299 | TVC || ECUADOR
-https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjUyMzY5NzgwLCJzZXNzaW9uIjoiMTkwLjIzOC4xODcuNzMiLCJ3aGl0ZWxpc3QiOlsiMTkwLjIzOC4xODcuNzMiXX0sInNpZ25hdHVyZSI6ImNjOGNjYjY0ZmQxZGUzZTNjZTc3YmUxZTI3NmYwZWEwY2I3NTBiYzIifQ==
+https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjUyNDAyNDY4LCJzZXNzaW9uIjoiMTgxLjE3Ni4xMjguOTAiLCJ3aGl0ZWxpc3QiOlsiMTgxLjE3Ni4xMjguOTAiXX0sInNpZ25hdHVyZSI6ImY5ZjA1NjJlYzc3ZDkwNjJiY2VmYzFlYTc5ZjYyMmRmOTk3NjRiMmYifQ==
 #EXTINF:-1 tvg-id="EC | Ecuador TV" tvg-name="EC | Ecuador TV" channelId="300" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/150px-EcuadorTV_logo.png" group-title="ECUADOR", 300 | Ecuador TV || ECUADOR
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ECUADORTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DECUADORTV_stream_wj&_cdn_session=197641187&_cdn_timestamp=1652308532&_cdn_token=1f202c5a8177c4f08c6f823dc02562313cbbb976
 #EXTINF:-1 tvg-id="EC | Ecuavisa" tvg-name="EC | Ecuavisa" channelId="301" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/200px-Ecuavisa_Logo_2019.png" group-title="ECUADOR", 301 | Ecuavisa || ECUADOR
