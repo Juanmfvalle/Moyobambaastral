@@ -197,6 +197,8 @@ https://tucine-plex.amagi.tv/TuCine-xumo/master_6.m3u8
 https://cinereal-plex.amagi.tv/CineReal/master_6.m3u8
 #EXTINF:-1 tvg-id="USA | Europa Europa" tvg-name="USA | Europa Europa" channelId="89" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/EUROPAEUROPALOGO2016.png/120px-EUROPAEUROPALOGO2016.png" group-title="PELICULAS Y SERIES", 89 | Europa Europa
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/EUROPAEUROPA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DEUROPAEUROPA_stream_gf&_cdn_session=199517147&_cdn_timestamp=1652408549&_cdn_token=e09637ac68b7a4e35d5340c04f9a2c7c35788c2c
+#EXTINF:-1 tvg-id="PE | Smart Películas" tvg-name="PE | Smart Películas" channelId="En prueba" tvg-logo="https://pbs.twimg.com/media/FSlkGKTXwBAllT1?format=png&name=120x120" group-title="PELICULAS Y SERIES", En prueba | Smart Películas
+http://177.53.152.186:8000/play/a00z/index.m3u8
 #EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" channelId="90" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="PELICULAS Y SERIES", 90 | Star Channel
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/STARCHANNEL/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXCHANNEL_stream_1f&_cdn_session=199517587&_cdn_timestamp=1652408566&_cdn_token=357607a2b86fd2ef7632d2313de57706b593f55b
 #EXTINF:-1 tvg-id="USA | FMH Movies" tvg-name="USA | FMH Movies" channelId="91" tvg-logo="https://www.fmhot.cl/images/team/logo_movies.png" group-title="PELICULAS Y SERIES", 91 | FMH Movies
@@ -227,10 +229,12 @@ http://177.53.152.186:8000/play/a01s/index.m3u8
 https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="USA | ZooMoo" tvg-name="USA | ZooMoo" channelId="99" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/120px-ZooMoo_logo.svg.png" group-title="INFANTILES", 99 | ZooMoo
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ZOOMOO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DZOOMOO_stream_sr&_cdn_session=199521715&_cdn_timestamp=1652408755&_cdn_token=15f216e72e70236251ea421617434084e710dda9
-#EXTINF:-1 tvg-id="USA | Dios TV Kids" tvg-name="USA | Dios TV Kids" channelId="100" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/hn-dios-te-ve-kids-8087-300x225.jpg" group-title="INFANTILES", 100 | Dios TV Kids
-https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="USA | Planeta Junior TV" tvg-name="USA | Planeta Junior TV" channelId="101" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni_--nfDx7dY1f6hpnTgv3hrKLPeD4-B-4MeB5K2A=s900-c-k-c0x00ffffff-no-rj" group-title="INFANTILES", 101 | Planeta Junior TV
+#EXTINF:-1 tvg-id="USA | Planeta Junior TV" tvg-name="USA | Planeta Junior TV" channelId="100" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni_--nfDx7dY1f6hpnTgv3hrKLPeD4-B-4MeB5K2A=s900-c-k-c0x00ffffff-no-rj" group-title="INFANTILES", 100 | Planeta Junior TV
 https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-id="USA | Dios TV Kids" tvg-name="USA | Dios TV Kids" channelId="101" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/hn-dios-te-ve-kids-8087-300x225.jpg" group-title="INFANTILES", 101 | Dios TV Kids
+https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="PE | Smart Junior Televisión" tvg-name="PE | Smart Junior Televisión" channelId="101" tvg-logo="https://pbs.twimg.com/media/FSlgQi_XwAQX0X5?format=png&name=small" group-title="INFANTILES", En prueba | Smart Junior Televisión
+http://177.53.152.186:8000/play/a00y/index.m3u8
 #EXTINF:-1 tvg-id="UY | Latino Kids" tvg-name="UY | Latino Kids" channelId="102" tvg-logo="https://graph.facebook.com/LatinoKidsTvUruguay/picture?width=300&height=300" group-title="INFANTILES", 102 | Latino Kids TV
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Cartoon Network" tvg-name="USA | Cartoon Network" channelId="103" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/150px-Cartoon_Network_2010_logo.svg.png" group-title="INFANTILES", 103 | Cartoon Network
@@ -265,14 +269,12 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/CANALINFANTIL/20-hls/live-med
 http://51.222.241.122:8000/play/a00j
 #EXTINF:-1 tvg-id="AR | Pakapaka" tvg-name="AR | Pakapaka" channelId="118" tvg-logo="http://www.pakapaka.gob.ar/img/botones/logo-pakapaka-2.png" group-title="INFANTILES", 118 | Pakapaka
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="CL | Dos Kids" tvg-name="CL | Dos Kids" channelId="En prueba" tvg-logo="https://pbs.twimg.com/media/FShNaZJWQAErDfo?format=png&name=120x120" group-title="INFANTILES", En prueba | Dos Kids
+#EXTINF:-1 tvg-id="CL | Dos Kids" tvg-name="CL | Dos Kids" channelId="119" tvg-logo="https://pbs.twimg.com/media/FShNaZJWQAErDfo?format=png&name=120x120" group-title="INFANTILES", 119 | Dos Kids
 http://177.53.152.186:8000/play/a00b/index.m3u8
-#EXTINF:-1 tvg-id="MX | El Chavo del 8 TV" tvg-name="MX | El Chavo del 8 TV" channelId="119" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/245px-El_Chavo_%28simple_logo%29.svg.png" group-title="INFANTILES", 119 | El Chavo del 8 TV
+#EXTINF:-1 tvg-id="MX | El Chavo del 8 TV" tvg-name="MX | El Chavo del 8 TV" channelId="120" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/245px-El_Chavo_%28simple_logo%29.svg.png" group-title="INFANTILES", 120 | El Chavo del 8 TV
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="MX | Distrito Comedia" tvg-name="MX | Distrito Comedia" channelId="120" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/175px-DistritoComediaLOGO2018.png" group-title="ENTRETENIMIENTO", 120 | Distrito Comedia
+#EXTINF:-1 tvg-id="MX | Distrito Comedia" tvg-name="MX | Distrito Comedia" channelId="121" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/175px-DistritoComediaLOGO2018.png" group-title="ENTRETENIMIENTO", 121 | Distrito Comedia
 https://2.tunelive.net:3734/stream/play.m3u8
-#EXTINF:-1 tvg-id="CU | Cubavisión Internacional" tvg-name="CU | Cubavisión Internacional" channelId="121" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Cubavisi%C3%B3n-Internacional-en-vivo-Online.png" group-title="INTERNACIONALES", 121 | Cubavisión Internacional
-http://190.122.96.187:8888/http/010
 #EXTINF:-1 tvg-id="RU | RT" tvg-name="RU | RT" channelId="122" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png" group-title="NOTICIAS E INFORMACION", 122 | RT Noticias
 http://177.53.152.186:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="VE | Globovisión" tvg-name="VE | Globovisión" channelId="123" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo-Globovisi%C3%B3n.png/140px-Logo-Globovisi%C3%B3n.png" group-title="NOTICIAS E INFORMACION", 123 | Globovisión
@@ -361,6 +363,8 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/40-hls/live-media.m
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPNMAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPNMAS2_stream_l4&_cdn_session=199532403&_cdn_timestamp=1652409310&_cdn_token=be8c55bf0eeea83189dbb8f761212e3238d51535
 #EXTINF:-1 tvg-id="QAT | beIN Sports Ñ" tvg-name="QAT | beIN Sports Ñ" channelId="163" tvg-logo="https://epg.beinsports.com/us_sports/Spanish.svg" group-title="DEPORTES", 163 | Bein Sports Ñ
 https://tunelive.net:3423/stream/play.m3u8
+#EXTINF:-1 tvg-id="CL | Sport Ext" tvg-name="CL | Sport Ext" channelId="En prueba" tvg-logo="https://pbs.twimg.com/media/FSlFIMnXEAE92yW?format=png&name=240x240" group-title="DEPORTES", En prueba | Sport Ext
+http://177.53.152.186:8000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="GT | Tigo Sports" tvg-name="GT | Tigo Sports" channelId="164" tvg-logo="https://www.tigosports.gt/sites/default/files/mainlogo_5_0.png" group-title="DEPORTES", 164 | Tigo Sports || Guatemala
 https://tunelive.net:3877/stream/play.m3u8
 #EXTINF:-1 tvg-id="MX | Televisa Univision Deportes Network" tvg-name="MX | Televisa Univision Deportes Network" channelId="165" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/200px-TUDN_Logo.svg.png" group-title="DEPORTES", 165 | TUDN
@@ -375,8 +379,12 @@ http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | Afizzionados" tvg-name="MX | Afizzionados" channelId="170" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/245px-Afizzionados_Logo.svg.png" group-title="DEPORTES", 170 | Afizzionados TV
 https://tunelive.net:3569/stream/play.m3u8
+#EXTINF:-1 tvg-id="ES | Titan Channel" tvg-name="ES | Titan Channel" channelId="En prueba" tvg-logo="https://titanchannel.com/blog/wp-content/uploads/2018/01/LOGO_TITAN_CORREO.png" group-title="DEPORTES", En prueba | Titan Channel
+http://190.122.96.187:8888/http/010
 #EXTINF:-1 tvg-id="CL | Fit TV" tvg-name="CL | Fit TV" channelId="171" tvg-logo="https://pbs.twimg.com/media/FSNWx2LXwAEneGk?format=jpg&name=240x240" group-title="DEPORTES", 171 | Fit TV
 http://177.53.152.186:8000/play/a018/index.m3u8
+#EXTINF:-1 tvg-id="CL | Fitmaxx TV" tvg-name="CL | Fitmaxx TV" channelId="En prueba" tvg-logo="https://pbs.twimg.com/media/FSk6Zq7WQAA7Cp8?format=png&name=240x240" group-title="DEPORTES", En prueba | Fitmaxx TV
+http://177.53.152.186:8000/play/a00k/index.m3u8
 #EXTINF:-1 tvg-id="PE | Ritmo X" tvg-name="PE | Ritmo X" channelId="172" tvg-logo="https://pbs.twimg.com/media/FSNXFbLXEAAfwbH?format=jpg&name=small" group-title="MUSICA Y REALITIES", 172 | Ritmo X
 http://177.53.152.186:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="CL | Portal Foxmix" tvg-name="CL | Portal Foxmix" channelId="173" tvg-logo="http://www.portalfoxmix.cl/web/wp-content/uploads/2016/03/logoPFM.png" group-title="MUSICA Y REALITIES", 173 | Portal Foxmix TV
@@ -451,6 +459,8 @@ https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
 #EXTINF:-1 tvg-id="KR | K Pop" tvg-name="KR | K Pop" channelId="En prueba" tvg-logo="https://pbs.twimg.com/media/FSiqLLSWQAIxK78?format=png&name=240x240" group-title="MUSICA Y REALITIES", En prueba | K Pop
 http://177.53.152.186:8000/play/a00j/index.m3u8
+#EXTINF:-1 tvg-id="KR | K-TV" tvg-name="KR | K-TV" channelId="En prueba" tvg-logo="https://pbs.twimg.com/media/FSlU0awWUAINkEL?format=png&name=240x240" group-title="MUSICA Y REALITIES", En prueba | K-TV
+http://177.53.152.186:8000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="PE | E Music" tvg-name="PE | E Music" channelId="En prueba" tvg-logo="https://pbs.twimg.com/media/FSNUydQXoAIcS1L?format=jpg&name=240x240" group-title="MUSICA Y REALITIES", En prueba | E Music
 https://stream.plixitv.live/emusic/emusic/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | TV Salud" tvg-name="CL | TV Salud" channelId="199" tvg-logo="https://image.roku.com/developer_channels/prod/0cb910829e2a34c241e0da4d1f66747f7fa849da691d65ffa6d9b47af3880f6e.png" group-title="CULTURA Y EDUCACION", 199 | TV Salud
@@ -479,6 +489,8 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/HISTORY1/40-hls/live-media.m3
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/HISTORYCH2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHISTORYCH2_stream_z0&_cdn_session=199538899&_cdn_timestamp=1652409645&_cdn_token=e3d656f437ef3c722cf67d01d627acffcaf48f10
 #EXTINF:-1 tvg-id="CA | Love Nature" tvg-name="CA | Love Nature" channelId="211" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2019/11/love_nature_logo_rgb_colour.png" group-title="CULTURA Y EDUCACION", 211 | Love Nature
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ES | Doc TV" tvg-name="ES | Doc TV" channelId="En prueba" tvg-logo="https://caaci-iberoamerica.org/doctv/wp-content/uploads/2017/03/doctv-logo-white.png" group-title="CULTURA Y EDUCACION", En prueba | Doc TV
+http://177.53.152.186:8000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="CO | Avivamiento TV" tvg-name="CO | Avivamiento TV" channelId="212" tvg-logo="https://avivamiento.com/images/all-images/tv/tv.png" group-title="RELIGIOSOS", 212 | Avivamiento Televisión
 https://s2.abntelevision.com/avivamientoabr/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | Vida Nueva TV" tvg-name="CO | Vida Nueva TV" channelId="213" tvg-logo="https://mividanueva.org/wp-content/uploads/2021/02/Logo-Horizontal.png" group-title="RELIGIOSOS", 213 | Vida Nueva Televisión
@@ -1305,6 +1317,8 @@ https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_4.m3u8
 https://tunelive.net:3734/stream/play.m3u8
 #EXTINF:-1 tvg-id="MX | Canal 11" tvg-name="MX | Canal 11" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_Actual_Canal_Once.png/200px-Logo_Actual_Canal_Once.png" group-title="MEXICO", En prueba | Canal 11
 https://d24sa4vr9gvjv.cloudfront.net/index_720.m3u8
+#EXTINF:-1 tvg-id="USA | NBC" tvg-name="USA | NBC" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/120px-NBC_logo.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | NBC
+http://190.122.96.187:8888/http/005
 #EXTINF:-1 tvg-id="ES | La 1" tvg-name="ES | La 1" channelId="594" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/125px-Logo_TVE-1.svg.png" group-title="ESPAÑA", 594 | La 1 || ESPAÑA
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="ES | La 2" tvg-name="ES | La 2" channelId="595" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/800px-Logo_TVE-2.svg.png" group-title="ESPAÑA", 595 | La 2 || ESPAÑA
@@ -1563,3 +1577,5 @@ https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
 https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
 #EXTINF:-1 tvg-id="PE | Música electro" tvg-name="PE | Música electro" channelId="695" tvg-logo="http://1.bp.blogspot.com/-qeaYW6pE6xk/T1bNl2j_-_I/AAAAAAAAAso/6HdB40IhS4c/s1600/electro_music.jpg" group-title="CANALES DE VIDEO", 695 | Música electro
 https://cloudvideo.servers10.com:8081/8124/index.m3u8
+#EXTINF:-1 tvg-id="PE | Smart Perú Música" tvg-name="PE | Smart Perú Música" channelId="696" tvg-logo="https://pbs.twimg.com/media/FSlXsUcWUBQqMGq?format=jpg&name=large" group-title="CANALES DE VIDEO", 696 | Smart Perú Música
+http://177.53.152.186:8000/play/a00x/index.m3u8
