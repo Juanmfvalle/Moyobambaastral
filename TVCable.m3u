@@ -177,6 +177,8 @@ http://177.53.152.186:8000/play/a002/index.m3u8
 http://177.53.152.186:8000/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="CL | MX Prime" tvg-name="CL | MX Prime" channelId="81" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FONDO-2-300x169.jpg" group-title="PELICULAS Y SERIES", 81 | MX Prime
 http://177.53.152.186:8000/play/a001/index.m3u8
+#EXTINF:-1 tvg-id="CL | MX Old" tvg-name="CL | MX Old" channelId="En prueba" tvg-logo="https://pbs.twimg.com/media/FSiok8rXIAECASi?format=jpg&name=120x120" group-title="PELICULAS Y SERIES", En prueba | MX Old
+http://177.53.152.186:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="USA | Studio Universal" tvg-name="USA | Studio Universal" channelId="82" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/175px-StudioUniversal2016.png" group-title="PELICULAS Y SERIES", 82 | Studio Universal
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/STUDIOUNIVERSAL/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSTUDIOUNIVERSAL_stream_w1&_cdn_session=199515939&_cdn_timestamp=1652408498&_cdn_token=f8c676dac82eb273ac8146caba48c1f1d657c56e
 #EXTINF:-1 tvg-id="USA | Syfy" tvg-name="USA | Syfy" channelId="83" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/150px-SYFY.svg.png" group-title="PELICULAS Y SERIES", 83 | Syfy
@@ -337,6 +339,8 @@ http://s846397078.mialojamiento.es/w2jy/inti.php/media_w688298564_1271.m3u8
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TLC/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRAVELANDLIVING_stream_z3&_cdn_session=199529779&_cdn_timestamp=1652409167&_cdn_token=fd103b2b37ef1375d0e8aa00979c1f517601e85e
 #EXTINF:-1 tvg-id="USA | Discovery Home & Health" tvg-name="USA | Discovery Home & Health" channelId="153" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png" group-title="ESTILOS DE VIDA", 153 | Discovery Home & Health
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/HOMEANDHEALTH/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHOMEANDHEALTH_stream_qp&_cdn_session=199530035&_cdn_timestamp=1652409182&_cdn_token=233d575e7d244272c94ba37c3e46ff0490a12824
+#EXTINF:-1 tvg-id="CL | On Tour Channel" tvg-name="CL | On Tour Channel" channelId="En prueba" tvg-logo="https://pbs.twimg.com/media/FSiiFtPXIAAjZZ8?format=png&name=120x120" group-title="ESTILOS DE VIDA", En prueba | On Tour Channel
+http://177.53.152.186:8000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="PE | Best Cable Sports" tvg-name="PE | Best Cable Sports" channelId="154" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=239x10000:format=jpg/path/s86a1480785a470a0/image/i3cd2b522eae1ddb2/version/1637874672/image.jpg" group-title="DEPORTES", 154 | Best Cable Sports
 https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
 #EXTINF:-1 tvg-id="USA | Sky Sports" tvg-name="USA | Sky Sports" channelId="155" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/220px-Sky_Sports_logo_2017.svg.png" group-title="DEPORTES", 155 | Sky Sports
@@ -393,6 +397,8 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TELENOSTALGIA/40-hls/live-med
 https://play.amelbasoluciones.co:3759/live/memoriastvlive.m3u8
 #EXTINF:-1 tvg-id="PE | Recuerdos TV" tvg-name="PE | Recuerdos TV" channelId="En prueba" tvg-logo="https://pbs.twimg.com/media/FShlHtHXoAI26ES?format=png&name=small" group-title="MUSICA Y REALITIES", En prueba | Recuerdos TV
 http://177.53.152.186:8000/play/a01b/index.m3u8
+#EXTINF:-1 tvg-id="CL | Old Music TV" tvg-name="CL | Old Music TV" channelId="En prueba" tvg-logo="https://pbs.twimg.com/media/FSimCx8X0AI_8QI?format=png&name=small" group-title="MUSICA Y REALITIES", En prueba | Old Music Televisión
+http://177.53.152.186:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-id="PE | Top Latino" tvg-name="PE | Top Latino" channelId="180" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png/150px-LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="MUSICA Y REALITIES", 180 | Top Latino TV
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="DO | Fuego 40 El canal del pueblo" tvg-name="DO | Fuego 40 El canal del pueblo" channelId="181" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUsURmYDu5MKZt_f59t-k2RIegQiWUbRp4X4PTLhm9BXR2qWUfuuYrCMWbaxVb3lhRhLk&usqp=CAU" group-title="MUSICA Y REALITIES", 181 | Fuego 40 TV
@@ -443,6 +449,8 @@ http://177.53.152.186:8000/play/a013/index.m3u8
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ES | Cadena Elite" tvg-name="ES | Cadena Elite" channelId="En prueba" tvg-logo="https://www.cadenaelite.es/img/logoMenu.png" group-title="MUSICA Y REALITIES", En prueba | Cadena Elite
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
+#EXTINF:-1 tvg-id="KR | K Pop" tvg-name="KR | K Pop" channelId="En prueba" tvg-logo="https://pbs.twimg.com/media/FSiqLLSWQAIxK78?format=png&name=240x240" group-title="MUSICA Y REALITIES", En prueba | K Pop
+http://177.53.152.186:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="PE | E Music" tvg-name="PE | E Music" channelId="En prueba" tvg-logo="https://pbs.twimg.com/media/FSNUydQXoAIcS1L?format=jpg&name=240x240" group-title="MUSICA Y REALITIES", En prueba | E Music
 https://stream.plixitv.live/emusic/emusic/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | TV Salud" tvg-name="CL | TV Salud" channelId="199" tvg-logo="https://image.roku.com/developer_channels/prod/0cb910829e2a34c241e0da4d1f66747f7fa849da691d65ffa6d9b47af3880f6e.png" group-title="CULTURA Y EDUCACION", 199 | TV Salud
@@ -680,7 +688,7 @@ https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/playlist.m3u8?iu
 #EXTINF:-1 tvg-id="EC | Televisora Central Ecuatoriana" tvg-name="EC | Telecentro" channelId="303" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png" group-title="ECUADOR", 303 | TC Televisión || ECUADOR
 http://45.71.185.142:8500/play/a02d
 #EXTINF:-1 tvg-id="EC | Oromar TV" tvg-name="EC | Oromar TV" channelId="304" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="ECUADOR", 304 | Oromar Televisión || ECUADOR
-https://live-ak.vimeocdn.com/exp=1652329212~acl=%2F2f70d582-edf6-403e-838d-912ae9399acb%2F%2A~hmac=f166982540f9501aef4f2580026ff584118e9cc6f6f949ad819cadcb94ad82ab/2f70d582-edf6-403e-838d-912ae9399acb/chunklist_b6256000.m3u8?max_segments=10
+https://live-ak.vimeocdn.com/exp=1652345222~acl=%2F2f70d582-edf6-403e-838d-912ae9399acb%2F%2A~hmac=6fbf6042f580878a1e075c08652fcb24b30e6bd616a23609bda1d2472a8e9860/2f70d582-edf6-403e-838d-912ae9399acb/chunklist_b6256000.m3u8?max_segments=10
 #EXTINF:-1 tvg-id="EC | Canela TV" tvg-name="EC | Canela TV" channelId="305" tvg-logo="https://web.canelatv.com/wp-content/uploads/2020/10/ki.gif" group-title="ECUADOR", 305 | Canela TV || ECUADOR
 https://59d39900ebfb8.streamlock.net/canelatv/canelatv/chunklist_w1360767208.m3u8
 #EXTINF:-1 tvg-id="EC | Telerama" tvg-name="EC | Telerama" channelId="306" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_Telerama.png/250px-Logo_Telerama.png" group-title="ECUADOR", 306 | Telerama || ECUADOR
