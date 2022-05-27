@@ -1130,7 +1130,7 @@ http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/chunklist_w15214477
 #EXTINF:-1 tvg-id="GT | Canal 3" tvg-name="GT | Canal 3" channelId="503" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Canal3.png/200px-Canal3.png" group-title="GUATEMALA", 503 | Canal 3 el super canal || GUATEMALA
 https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal3.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="GT | Televisiete" tvg-name="GT | Televisiete" channelId="504" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Televisiete.png/200px-Televisiete.png" group-title="GUATEMALA", 504 | Televisiete || GUATEMALA
-https://tunelive.net:3904/stream/play.m3u8
+https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal7.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="GT | Teleonce" tvg-name="GT | Teleonce" channelId="505" tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-11-guatemala_m.png" group-title="GUATEMALA", 505 | Teleonce || GUATEMALA
 https://tunelive.net:3733/stream/play.m3u8
 #EXTINF:-1 tvg-id="GT | Trecevisión" tvg-name="GT | Trecevisión" channelId="506" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/9/9f/TreceVision.jpg/revision/latest/scale-to-width-down/120?cb=20170304043418&path-prefix=es" group-title="GUATEMALA", 506 | Trecevisión || GUATEMALA
@@ -1541,6 +1541,8 @@ https://audio-edge-es6pf.mia.g.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f
 https://evcast.mediacp.eu:2060/stream
 #EXTINF:-1 tvg-id="PE | Expresión Radio TV" tvg-name="PE | Expresión Radio TV" channelId="691" tvg-logo="https://www.telesur.com.pe/recursos/page/expresion/images/logo.png" group-title="EMISORAS DE RADIO POR TV", 691 | Expresión Radio TV || Ilo
 https://1667517699.rsc.cdn77.org/hls/radioilo.m3u8
+#EXTINF:-1 tvg-id="PE | Flow Radio TV" tvg-name="PE | Flow Radio TV" channelId="En prueba" tvg-logo="http://www.flowradio.fm/wp-content/uploads/2020/10/Logo2020FlowRadio.png" group-title="EMISORAS DE RADIO POR TV", En prueba | Flow Radio TV
+https://tv.portalexpress.es:3226/stream/play.m3u8
 #EXTINF:-1 tvg-id="EC | Radio Soberana 98.7 FM" tvg-name="EC | Radio Soberana 98.7 FM" channelId="692" tvg-logo="https://play-lh.googleusercontent.com/n-g2gEIh3jnuxzDo7h4exKiEVBal8ztsjFdej0zrbtoIob1uFe2MWsoK5DA91_2Lskc=s200" group-title="EMISORAS DE RADIO POR TV", 692 | Radio Soberana 98.7 FM || ECUADOR
 https://cloudvideo.servers10.com:8081/8060/index.m3u8
 #EXTINF:-1 tvg-id="EC | Son de Oriente Radio TV" tvg-name="EC | Son de Oriente Radio TV" channelId="En prueba" tvg-logo="https://www.radiosondeoriente.com/images/061121202338_IMG-20211105-WA0011.jpg" group-title="EMISORAS DE RADIO POR TV", En prueba | Son de Oriente Radio TV || ECUADOR
