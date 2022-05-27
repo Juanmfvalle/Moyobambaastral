@@ -1,4 +1,4 @@
- #EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-id="PE | Willax Televisión" tvg-name="PE | Willax Televisión" channelId="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Willax_Televisi%C3%B3n_2020.png/245px-Willax_Televisi%C3%B3n_2020.png" group-title="PERU", 1 | Willax Televisión
 http://177.53.152.186:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="PE | Latina Televisión" tvg-name="PE | Latina Televisión" channelId="2" tvg-logo="https://www.latina.pe/wp-content/themes/genesis-latina/img/latina_pe.png" group-title="PERU", 2 | Latina Televisión
@@ -6,13 +6,13 @@ http://177.53.152.186:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-id="PE | Nacional TV" tvg-name="PE | Nacional TV" channelId="3" tvg-logo="https://pbs.twimg.com/media/FSIIqcqXIAAG2My?format=jpg&name=small" group-title="PERU", 3 | Nacional TV
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" channelId="4" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | América Televisión
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AMERICATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERICATV_stream_wn&_cdn_session=216426403&_cdn_timestamp=1653673988&_cdn_token=01050c47f73cc2f97019b0db9fc23acae008b82d
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AMERICATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERICATV_stream_wn&_cdn_session=216988515&_cdn_timestamp=1653730922&_cdn_token=d7f02c54bc9cb48b417f2cbd60bc5a07b42c556c
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" channelId="5" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana Televisión
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=216426619&_cdn_timestamp=1653674008&_cdn_token=e124af925fd2cd4fb48a8a6666b1f19ab2a3bc46
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=216988563&_cdn_timestamp=1653730927&_cdn_token=8a0bef0c237a6200941cad19ab13ab189ad3f917
 #EXTINF:-1 tvg-id="PE | Exitosa Televisión" tvg-name="PE | Exitosa Televisión" channelId="6" tvg-logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2021/01/LOGO-EXITOSA-ROJO.png" group-title="PERU", 6 | Exitosa Televisión
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/EXITOSATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DEXITOSATV_stream_o1&_cdn_session=216426747&_cdn_timestamp=1653674024&_cdn_token=a95a6d45f84c6d2477d4262b98aadf93abb6a85f
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/EXITOSATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DEXITOSATV_stream_o1&_cdn_session=216988771&_cdn_timestamp=1653730956&_cdn_token=5960585ccc3e6b84ec6fcfa6546615601d10156e
 #EXTINF:-1 tvg-id="PE | TV Perú" tvg-name="PE | TV Perú" channelId="7" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="PERU", 7 | TV Perú
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TVPERU/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVPERU_stream_p5&_cdn_session=216427427&_cdn_timestamp=1653674086&_cdn_token=6cff6667c958075f8cb6a4023d7eb4462cda9471
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TVPERU/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVPERU_stream_p5&_cdn_session=216989171&_cdn_timestamp=1653731014&_cdn_token=5008ab4a88abedbdb154bba0f55056a820b97cb3
 #EXTINF:-1 tvg-id="PE | TV Perú Noticias" tvg-name="PE | TV Perú Noticias" channelId="7.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/220px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="NOTICIAS E INFORMACION", 7.2 | TV Perú Noticias
 https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1 tvg-id="PE | TV Perú Internacional" tvg-name="PE | TV Perú Internacional" channelId="7.3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/250px-TV_Per%C3%BA_Internacional_2019_-_copia.png" group-title="INTERNACIONALES", 7.3 | TV Perú Internacional
@@ -129,6 +129,8 @@ https://tunelive.net:3645/stream/play.m3u8
 https://tunelive.net:3415/stream/play.m3u8
 #EXTINF:-1 tvg-id="USA | Univisión Internacional" tvg-name="USA | Univisión Internacional" channelId="59" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="INTERNACIONALES", 59 | Univisión Internacional
 https://tunelive.net:3653/stream/play.m3u8
+#EXTINF:-1 tvg-id="USA | Univisión Latinoamérica" tvg-name="USA | Univisión Latinoamérica" channelId="59.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="INTERNACIONALES", 59.2 | Univisión Latinoamérica
+http://45.189.117.36:7879/play/a0g9
 #EXTINF:-1 tvg-id="MX | Las Estrellas" tvg-name="MX | Las Estrellas" channelId="60" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/180px-Las_Estrellas.svg.png" group-title="MEXICO", 60 | Las Estrellas
 https://tunelive.net:3864/stream/play.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" channelId="61" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", 61 | Telemundo Internacional
@@ -223,7 +225,6 @@ http://200.48.184.156:1935/eretro/eretro/playlist.m3u8
 http://foxkidsjahh21.duckdns.org/hls/stream/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="ES | Clan" tvg-name="ES | Clan" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tve_clan.png/150px-Tve_clan.png" group-title="INFANTILES", En prueba | Clan
 http://177.53.152.186:8000/play/a01s/index.m3u8
-
 #EXTINF:-1 tvg-id="CL | Kids 90's TV" tvg-name="CL | Kids 90's TV" channelId="100" tvg-logo="https://i2.paste.pics/4a39976590ab0bd4fe7a0bbbd4411822.png" group-title="INFANTILES", 100 | Kids 90's TV
 https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="USA | ZooMoo" tvg-name="USA | ZooMoo" channelId="101" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/120px-ZooMoo_logo.svg.png" group-title="INFANTILES", 101 | ZooMoo
@@ -399,7 +400,7 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/MTV/20-hls/live-media.m3u8?_c
 #EXTINF:-1 tvg-id="CO | Telenostalgia" tvg-name="CO | Telenostalgia" channelId="179" tvg-logo="https://canaltelenostalgia.com/wp-content/uploads/2022/03/logo_telenostalgia.png" group-title="MUSICA Y REALITIES", 179 | Canal Telenostalgia
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TELENOSTALGIA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELENOSTALGIA_stream_or&_cdn_session=216467347&_cdn_timestamp=1653677423&_cdn_token=f721b6265541faab7456d5f1c5e7960132ccb126
 #EXTINF:-1 tvg-id="USA | Memorias TV" tvg-name="USA | Memorias TV" channelId="En prueba" tvg-logo="https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1-224x96.png" group-title="MUSICA Y REALITIES", En prueba | Memorias TV
-https://play.amelbasoluciones.co:3759/live/memoriastvlive.m3u8
+https://cloud10.vsgtech.co:3729/live/memoriastvlive.m3u8
 #EXTINF:-1 tvg-id="PE | Recuerdos TV" tvg-name="PE | Recuerdos TV" channelId="En prueba" tvg-logo="https://pbs.twimg.com/media/FShlHtHXoAI26ES?format=png&name=small" group-title="MUSICA Y REALITIES", En prueba | Recuerdos TV
 http://177.53.152.186:8000/play/a01b/index.m3u8
 #EXTINF:-1 tvg-id="CL | Old Music TV" tvg-name="CL | Old Music TV" channelId="En prueba" tvg-logo="https://pbs.twimg.com/media/FSimCx8X0AI_8QI?format=png&name=small" group-title="MUSICA Y REALITIES", En prueba | Old Music Televisión
@@ -695,17 +696,17 @@ http://45.71.185.142:8500/play/a027
 #EXTINF:-1 tvg-id="EC | Teleamazonas" tvg-name="EC | Teleamazonas" channelId="298" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/150px-Teleamazonas_Logo.png" group-title="ECUADOR", 298 | Teleamazonas || ECUADOR
 http://138.186.20.245:8000/play/a02l
 #EXTINF:-1 tvg-id="EC | Televicentro" tvg-name="EC | Televicentro" channelId="299" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/TVCEC.png/150px-TVCEC.png" group-title="ECUADOR", 299 | TVC || ECUADOR
-https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjUyNTI5MzUyLCJzZXNzaW9uIjoiMTgxLjE3Ni4xMjguNjYiLCJ3aGl0ZWxpc3QiOlsiMTgxLjE3Ni4xMjguNjYiXX0sInNpZ25hdHVyZSI6ImI2YzE4ZjJlZGY5NmJmZjM5ZDFhZTdiNzkxMDI3ZDdiYTg1Mzg4YTUifQ==
+https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjUzNzQyNTE4LCJzZXNzaW9uIjoiMTgxLjE3Ni4xMjguMzAiLCJ3aGl0ZWxpc3QiOlsiMTgxLjE3Ni4xMjguMzAiXX0sInNpZ25hdHVyZSI6ImFkMDk1Mzc2YzU3Y2IzNGE2NGNlNjNjZWFiYjg2ZjQxMzdmMjk5M2QifQ==
 #EXTINF:-1 tvg-id="EC | Ecuador TV" tvg-name="EC | Ecuador TV" channelId="300" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/150px-EcuadorTV_logo.png" group-title="ECUADOR", 300 | Ecuador TV || ECUADOR
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ECUADORTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DECUADORTV_stream_wj&_cdn_session=216474539&_cdn_timestamp=1653678010&_cdn_token=b3cfb7b622ed6ed3cb6bf32af56f1459d37bd5f6
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ECUADORTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DECUADORTV_stream_wj&_cdn_session=216988027&_cdn_timestamp=1653730878&_cdn_token=ae5d2b54d476a98b0c2139875c73ef0f90f9025f
 #EXTINF:-1 tvg-id="EC | Ecuavisa" tvg-name="EC | Ecuavisa" channelId="301" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/200px-Ecuavisa_Logo_2019.png" group-title="ECUADOR", 301 | Ecuavisa || ECUADOR
 http://vps-c97214f4.vps.ovh.net:80/hls/ecutv4.m3u8
 #EXTINF:-1 tvg-id="EC | Red Telesistema" tvg-name="EC | Red Telesistema" channelId="302" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/150px-Rts_logo.png" group-title="ECUADOR", 302 | RTS || ECUADOR
-https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjUyNTI5NDI5LCJzZXNzaW9uIjoiMTgxLjE3Ni4xMjguNjYiLCJ3aGl0ZWxpc3QiOlsiMTgxLjE3Ni4xMjguNjYiXX0sInNpZ25hdHVyZSI6ImQ1ZjcyMGQ4NTA4ODJjNjUxZGJjMGI2OTg5Y2E4OGM1NmU4MTFjMzgifQ==
+https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjUzNzQyNTY2LCJzZXNzaW9uIjoiMTgxLjE3Ni4xMjguMzAiLCJ3aGl0ZWxpc3QiOlsiMTgxLjE3Ni4xMjguMzAiXX0sInNpZ25hdHVyZSI6IjY0ZTNhY2ZlOGExNDBkNDMzMTMxOWZkNWRjYjlkMmIyZGY5NTc2ZjIifQ==
 #EXTINF:-1 tvg-id="EC | Televisora Central Ecuatoriana" tvg-name="EC | Telecentro" channelId="303" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png" group-title="ECUADOR", 303 | TC Televisión || ECUADOR
 http://45.71.185.142:8500/play/a02d
 #EXTINF:-1 tvg-id="EC | Oromar TV" tvg-name="EC | Oromar TV" channelId="304" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="ECUADOR", 304 | Oromar Televisión || ECUADOR
-https://live-ak.vimeocdn.com/exp=1652449304~acl=%2F564ac86f-fcc6-4a25-97ff-0b7d2e32a8b7%2F%2A~hmac=76518a2463996eb7db4e5198d9171db9a559c2ed11eeaa3cf2d44800bc0bdefb/564ac86f-fcc6-4a25-97ff-0b7d2e32a8b7/chunklist_b6256000.m3u8?max_segments=10
+https://live-ak.vimeocdn.com/exp=1653662413~acl=%2F3f6e7690-67fc-46c7-af80-73b3c1de9761%2F%2A~hmac=2382ef7771ad02cb726822ad50948397406832f02230ad43aa08e28f152042e6/3f6e7690-67fc-46c7-af80-73b3c1de9761/chunklist_b6256000.m3u8?max_segments=10
 #EXTINF:-1 tvg-id="EC | Canela TV" tvg-name="EC | Canela TV" channelId="305" tvg-logo="https://web.canelatv.com/wp-content/uploads/2020/10/ki.gif" group-title="ECUADOR", 305 | Canela TV || ECUADOR
 https://59d39900ebfb8.streamlock.net/canelatv/canelatv/chunklist_w1360767208.m3u8
 #EXTINF:-1 tvg-id="EC | Telerama" tvg-name="EC | Telerama" channelId="306" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_Telerama.png/250px-Logo_Telerama.png" group-title="ECUADOR", 306 | Telerama || ECUADOR
@@ -949,7 +950,7 @@ http://viperos.net:8080/live/lucas/123456/305887.m3u8
 #EXTINF:-1 tvg-id="PY | Paravisión" tvg-name="PY | Paravisión" channelId="413" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Paravision_logo.png/150px-Paravision_logo.png" group-title="PARAGUAY", 413 | Paravisión || PARAGUAY
 http://viperos.net:8080/live/lucas/123456/102413.m3u8
 #EXTINF:-1 tvg-id="PY | Canal 9 Noticias" tvg-name="PY | Canal 9 Noticias" channelId="414" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Canal_9_Noticias.jpg/125px-Canal_9_Noticias.jpg" group-title="PARAGUAY", 414 | C9N || PARAGUAY
-https://py-c9n-c9n-live.ned.media/c9n/smil:c9n.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjUyNTMwNTQ5LCJzZXNzaW9uIjoiMTgxLjE3Ni4xMjguNjYiLCJ3aGl0ZWxpc3QiOlsiMTgxLjE3Ni4xMjguNjYiXX0sInNpZ25hdHVyZSI6IjMzNDhiYmFhOWEyYjUzZDg1Nzg1MjA5M2ZkZTk2YzVjYTkyOTdkYzgifQ==
+https://py-c9n-c9n-live.ned.media/c9n/smil:c9n.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjUzNzQ1MDkwLCJzZXNzaW9uIjoiMTgxLjE3Ni4xMjguMzAiLCJ3aGl0ZWxpc3QiOlsiMTgxLjE3Ni4xMjguMzAiXX0sInNpZ25hdHVyZSI6ImZhZjA0M2M4ZDMyZjkyOWE0N2NjMWQ2MWUwNTJjNjJhYzc2NmVjZjYifQ==
 #EXTINF:-1 tvg-id="PY | Sistema Nacional de Televisión" tvg-name="PY | Sistema Nacional de Televisión" channelId="415" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/SNT_LOGO.jpg/220px-SNT_LOGO.jpg" group-title="PARAGUAY", 415 | SNT || PARAGUAY
 https://py-snt-snt-live.ned.media/snt/smil:snt.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjUyNDAxNzE1LCJzZXNzaW9uIjoiMTgxLjE3Ni4xMjguOTAiLCJ3aGl0ZWxpc3QiOlsiMTgxLjE3Ni4xMjguOTAiXX0sInNpZ25hdHVyZSI6ImI5ZGIxZGU1MGIxNTBmZTZiOTlmNDUxZjI1NWQ1NzFlMDE2YmNjNjkifQ==
 #EXTINF:-1 tvg-id="PY | Sur Televisión" tvg-name="PY | Sur Televisión" channelId="416" tvg-logo="https://cdn.mitvstatic.com/channels/116c52f1-8f55-4325-af6d-ab11f98e81d5_m.jpg" group-title="PARAGUAY", 416 | Sur Televisión || PARAGUAY
@@ -987,17 +988,17 @@ http://tv.dominiotv.xyz:25461/live/cliente212a/jdkdowjnd/111560.m3u8
 #EXTINF:-1 tvg-id="PA | Eco TV" tvg-name="PA | Eco TV" channelId="432" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Ecotv.jpg/120px-Ecotv.jpg" group-title="PANAMÁ", 432 | Eco TV || PANAMÁ
 http://tv.dominiotv.xyz:25461/live/cliente212a/jdkdowjnd/103987.m3u8
 #EXTINF:-1 tvg-id="CR | Canal 2 Central de Radios" tvg-name="CR | Canal 2 Central de Radios" channelId="433" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Repretel_2_CDR.png/120px-Repretel_2_CDR.png" group-title="COSTA RICA", 433 | Canal 2 CDR || COSTA RICA
-https://d30zjikdv9ntds.cloudfront.net/repretel/canal2/smil:live.smil/chunklist_b698000.m3u8
+https://d3ou4v1ntyo64z.cloudfront.net/repretel/canal2/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CR | Canal 4" tvg-name="CR | Canal 4" channelId="434" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/150px-Repretel_4_logo.png" group-title="COSTA RICA", 434 | Canal 4 || COSTA RICA
-https://d30zjikdv9ntds.cloudfront.net/repretel/canal4/smil:live.smil/chunklist_b698000.m3u8
+https://d3ou4v1ntyo64z.cloudfront.net/repretel/canal4/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CR | Canal 6" tvg-name="CR | Canal 6" channelId="435" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Canal6CR.png/150px-Canal6CR.png" group-title="COSTA RICA", 435 | Canal 6 Telecentro || COSTA RICA
-https://d30zjikdv9ntds.cloudfront.net/repretel/canal6/smil:live.smil/chunklist_b1248000.m3u8
+https://d3ou4v1ntyo64z.cloudfront.net/repretel/canal6/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CR | Teletica Canal 7" tvg-name="CR | Teletica Canal 7" channelId="436" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Teletica.png/120px-Teletica.png" group-title="COSTA RICA", 436 | Teletica || COSTA RICA
-https://stream-02.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO59OM2k9FVlV2JM5yUWjODKYFfi0ERg3XfYXLfYv2RI8s)/dm/3/x29e3wg/d/live-2.m3u8
+https://stream-03.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO56H5s7GPjjOj7wVkrgvLpHfTNF-ZM2WKDWuYNXPp-aPy)/dm/3/x29e3wg/d/live-2.m3u8
 #EXTINF:-1 tvg-id="CR | Canal 8 de Costa Rica" tvg-name="CR | Canal 8 de Costa Rica" channelId="437" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Multi8.png/150px-Multi8.png" group-title="COSTA RICA", 437 | Canal 8 || COSTA RICA
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?uid=C3a7PpdAuZC3sabLt30lYaR3f8eZ4Cmi&sid=2quC4ekWQnoJZeHFhE8blHNWjoZquyAQ&pid=QzfOlvABGmd0T4Aqvnp6zBdfoSC9a9BR&an=screen&at=web-app&av=v5.2.190&ref=https%3A%2F%2Fwww.telediario.cr%2F&res=363x220&without_cookies=false&dnt=true
 #EXTINF:-1 tvg-id="CR | Canal 11" tvg-name="CR | Canal 11" channelId="438" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/150px-Repretel_11_logo.png" group-title="COSTA RICA", 438 | Canal 11 || COSTA RICA
-https://d30zjikdv9ntds.cloudfront.net/repretel/canal11/smil:live.smil/chunklist_b1248000.m3u8
+https://d3ou4v1ntyo64z.cloudfront.net/repretel/canal11/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CR | Trece Costa Rica Televisión" tvg-name="CR | Trece Costa Rica Televisión" channelId="439" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/canal-13-trece-costa-rica-televisin-1576.png" group-title="COSTA RICA", 439 | Trece Costa Rica Televisión || COSTA RICA
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/sinart
 #EXTINF:-1 tvg-id="CR | TV Sur Canal 14" tvg-name="CR | TV Sur Canal 14" channelId="440" tvg-logo="https://www.tvsur.co.cr/wp-content/uploads/2020/05/tvsur-logo.png" group-title="COSTA RICA", 440 | TV Sur Canal 14 || COSTA RICA
@@ -1025,7 +1026,7 @@ http://nicatv.rylco.com:8075/channel8/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Canal 9" tvg-name="NI | Canal 9" channelId="451" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Canal_9_Nicaragua_nuevo.png/200px-Canal_9_Nicaragua_nuevo.png" group-title="NICARAGUA", 451 | Canal 9 || NICARAGUA
 http://nicatv.rylco.com:8075/channel9/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Canal 10" tvg-name="NI | Canal 10" channelId="452" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Canal_10_Nicaragua.png/190px-Canal_10_Nicaragua.png" group-title="NICARAGUA", 452 | Canal 10 || NICARAGUA
-https://ni-canal10-canal10-live.ned.media/canal10/smil:canal10.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjUyNDQ3ODIyLCJzZXNzaW9uIjoiMTgxLjE3Ni4xMjguOTAiLCJ3aGl0ZWxpc3QiOlsiMTgxLjE3Ni4xMjguOTAiXX0sInNpZ25hdHVyZSI6ImFiNjBhNzA4OTk5YTQyYTU1MzBmODllZWE1YzczNzcyYmIwZWQxOTkifQ==
+http://nicatv.rylco.com:8075/channel10/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Canal 11 TV Red" tvg-name="NI | Canal 11 TV Red" channelId="453" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Canal-11-Nicaragua-en-vivo-Online-100x70.png" group-title="NICARAGUA", 453 | Canal 11 TV Red || NICARAGUA
 http://nicatv.rylco.com:8075/channel11/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Nicavisión Canal 12" tvg-name="NI | Nicavisión Canal 12" channelId="454" tvg-logo="http://www.canal12.com.ni/assets/logo_horizontal-b7fe143ebd9e9dab2e72ffea436db26fce21c81b7ae6ac430ede875f5df30657.png" group-title="NICARAGUA", 454 | Canal 12 Nicavisión || NICARAGUA
@@ -1085,13 +1086,13 @@ https://rtmp.info/soltv/envivo/playlist.m3u8
 #EXTINF:-1 tvg-id="SLV | RD Click TV" tvg-name="SLV | RD Click TV" channelId="En prueba" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSoMCXVxLXziWM9-DaCj8zwCpV9-nCyTcTTRa5Jow=s88-c-k-c0x00ffffff-no-rj" group-title="EL SALVADOR", En prueba | RD Click TV || EL SALVADOR
 https://cloudvideo.servers10.com:8081/8064/index.m3u8
 #EXTINF:-1 tvg-id="HN | TSi Canal 3" tvg-name="HN | TSi Canal 3" channelId="481" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/TSi_logo.png/195px-TSi_logo.png" group-title="HONDURAS", 481 | Telesistema Informativo || HONDURAS
-https://stream-03.nyc.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRG9s-QI_smWWHELs2r4MpcRM-H_rY70-usmfiIPgY_Vn)/dm/3/x88jdft/s/live-3.m3u8
+https://stream-04.nyc.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRPppui3zaahb1hEzSDAokBj4qd16AgqQyflykBvc0UGc)/dm/3/x88jdft/s/live-3.m3u8
 #EXTINF:-1 tvg-id="HN | Canal 5" tvg-name="HN | Canal 5" channelId="482" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_5_HN_logo_2019.png/150px-Canal_5_HN_logo_2019.png" group-title="HONDURAS", 482 | Canal 5 El Lider || HONDURAS
-https://stream-02.nyc.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRBtK5k138WGKSRwLgbGzQagPVzutShRpY7OFOKWYQNQg)/dm/3/x88jd1d/s/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRLcAzwEPVcv0NF1uiwynb-_hY8kw5rBdSHIbhqejw-h3)/dm/3/x88jd1d/s/live-3.m3u8
 #EXTINF:-1 tvg-id="HN | Telecadena 7 y 4" tvg-name="HN | Telecadena 7 y 4" channelId="483" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Telecadena7y42018.png/150px-Telecadena7y42018.png" group-title="HONDURAS", 483 | Telecadena 7 y 4 || HONDURAS
 http://190.61.37.173:9010/play/a040/index.m3u8
 #EXTINF:-1 tvg-id="HN | Vica TV" tvg-name="HN | Vica TV" channelId="484" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/VTV_HN_logo_2019.png/210px-VTV_HN_logo_2019.png" group-title="HONDURAS", 484 | VTV || HONDURAS
-https://hn-vtv-vtv-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjUyNTMwMDE2LCJzZXNzaW9uIjoiMTgxLjE3Ni4xMjguNjYiLCJ3aGl0ZWxpc3QiOlsiMTgxLjE3Ni4xMjguNjYiXX0sInNpZ25hdHVyZSI6ImQxMjE4YWQ4Y2NkMTA4ZTBkZDZiNTllMmZiYzUwOWIwNzVjNzNhZDcifQ==
+https://hn-vtv-vtv-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjUzNzQ0MTU1LCJzZXNzaW9uIjoiMTgxLjE3Ni4xMjguMzAiLCJ3aGl0ZWxpc3QiOlsiMTgxLjE3Ni4xMjguMzAiXX0sInNpZ25hdHVyZSI6IjNhY2RlOWQwM2I0NmIwNTgxYmZiMTA4ZWM0NjY0MjVlZWQyOWMxNjkifQ==
 #EXTINF:-1 tvg-id="HN | TEN Canal 10" tvg-name="HN | TEN Canal 10" channelId="485" tvg-logo="https://1.bp.blogspot.com/-WYepFcQLrXc/XQka9TmZ0uI/AAAAAAAAHz8/eTOqew4vGoocd66uqlPHccAeYN74huzmgCLcBGAs/w350-h350-p-k-no-nu/TEN%2BCanal%2B10.png" group-title="HONDURAS", 485 | TEN Canal 10 || HONDURAS
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HN | Canal 11 HN" tvg-name="HN | Canal 11 HN" channelId="486" tvg-logo="https://canal11.hn/wp-content/themes/streamit/assets/images/logo.png" group-title="HONDURAS", 486 | Canal 11 HN || HONDURAS
