@@ -1497,10 +1497,14 @@ http://167.114.118.120:7440
 http://server06.srvsh.com.br:7358/stream/1/
 #EXTINF:-1 tvg-id="EC | Radio Fabu" tvg-name="EC | Radio Fabu" channelId="672" tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/9/29849.v4.png" group-title="EMISORAS INTERNACIONALES", 672 | Radio Fabu 105.7 FM || ECUADOR
 http://radios-ec.cdn.nedmedia.io/radios/ec-fabu-gy.m3u8
-#EXTINF:-1 tvg-id="EC | Radio Ecuantena" tvg-name="EC | Radio Ecuantena" channelId="673" tvg-logo="https://radioecuantena.com/wp-content/uploads/2021/06/cropped-qqqqqq-2-e1624587750485.png" group-title="EMISORAS INTERNACIONALES", 673 | Radio Ecuantena 1030 AM || ECUADOR
-https://online.radioecuantena.com:8443/transmision.mp3
+#EXTINF:-1 tvg-id="EC | Radio Atalaya" tvg-name="EC | Radio Atalaya" channelId="En prueba" tvg-logo="https://radioatalaya.net/wp-content/uploads/2017/08/cropped-LOGO-ATALAYA.png" group-title="EMISORAS INTERNACIONALES", En prueba | Radio Atalaya 680 AM || ECUADOR
+https://streaming.ecuastreaming.com/9978/stream
+#EXTINF:-1 tvg-id="EC | Radio Sucre" tvg-name="EC | Radio Sucre" channelId="En prueba" tvg-logo="https://radiosucre.com.ec/wp-content/uploads/2020/07/OK.png" group-title="EMISORAS INTERNACIONALES", En prueba | Radio Sucre 700 AM || ECUADOR
+https://streamingecuador.net:8076/radiosucre
 #EXTINF:-1 tvg-id="EC | Radio Cristal" tvg-name="EC | Radio Cristal" channelId="En prueba" tvg-logo="http://us0-cdn.onlineradiobox.com/img/l/1/29911.v8.png" group-title="EMISORAS INTERNACIONALES", En prueba | Radio Cristal 870 AM || ECUADOR
 http://78.47.60.149/9958/;
+#EXTINF:-1 tvg-id="EC | Radio Ecuantena" tvg-name="EC | Radio Ecuantena" channelId="673" tvg-logo="https://radioecuantena.com/wp-content/uploads/2021/06/cropped-qqqqqq-2-e1624587750485.png" group-title="EMISORAS INTERNACIONALES", 673 | Radio Ecuantena 1030 AM || ECUADOR
+https://online.radioecuantena.com:8443/transmision.mp3
 #EXTINF:-1 tvg-id="CO | RCN Radio" tvg-name="CO | RCN Radio" channelId="674" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RCN_Radio_Colombia_logo.svg/250px-RCN_Radio_Colombia_logo.svg.png" group-title="EMISORAS INTERNACIONALES", 674 | RCN Radio 93.9 FM || COLOMBIA
 https://21933.live.streamtheworld.com/RCN_RADIO_FMAAC.aac
 #EXTINF:-1 tvg-id="CO | W Radio" tvg-name="CO | W Radio" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/W_Radio_Colombia_logo.svg/225px-W_Radio_Colombia_logo.svg.png" group-title="EMISORAS INTERNACIONALES", En prueba | W Radio 99.9 FM || COLOMBIA
