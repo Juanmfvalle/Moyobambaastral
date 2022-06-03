@@ -22,9 +22,9 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/congres
 #EXTINF:-1 tvg-id="PE | Conectad2 TV" tvg-name="PE | Conectad2 TV" channelId="8" tvg-logo="https://conecta2peru.com/wp-content/uploads/2020/04/logo.png" group-title="PERU", 8 | Conectad2 Televisión
 https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:-1 tvg-id="PE | Andina Televisión" tvg-name="PE | Andina Televisión" channelId="9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" group-title="PERU", 9 | ATV
-https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
+https://dysmuyxh5vstv.cloudfront.net/hls/live_1080p30.m3u8
 #EXTINF:-1 tvg-id="PE | Andina Televisión Plus" tvg-name="PE | Andina Televisión Plus" channelId="9.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/175px-ATV%2B_logo_2020.png" group-title="PERU", 9.2 | ATV +
-https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8
 #EXTINF:-1 tvg-id="PE | Nativa TV" tvg-name="PE | Nativa TV" channelId="10" tvg-logo="https://yt3.ggpht.com/3oP0XiYioBa3XKBAmJCxeHRbVuY_90fClsKM46sAzfUE5sgrEycmxFegOL5ttLrpUK6D-nRy=s88-c-k-c0x00ffffff-no-rj" group-title="PERU", 10 | Nativa Televisión
 https://servilive.com:3449/live/mlecaroslive.m3u8
 #EXTINF:-1 tvg-id="PE | Justicia TV" tvg-name="PE | Justicia TV" channelId="11" tvg-logo="https://justiciatv.pj.gob.pe/wp-content/uploads/2016/05/logo.png" group-title="PERU", 11 | Justicia TV
@@ -694,13 +694,13 @@ http://45.71.185.142:8500/play/a027
 #EXTINF:-1 tvg-id="EC | Teleamazonas" tvg-name="EC | Teleamazonas" channelId="298" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/150px-Teleamazonas_Logo.png" group-title="ECUADOR", 298 | Teleamazonas || ECUADOR
 http://138.186.20.245:8000/play/a02l
 #EXTINF:-1 tvg-id="EC | Televicentro" tvg-name="EC | Televicentro" channelId="299" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/TVCEC.png/150px-TVCEC.png" group-title="ECUADOR", 299 | TVC || ECUADOR
-https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjU0MjYyNDY4LCJzZXNzaW9uIjoiMTc5LjYuODQuMCIsIndoaXRlbGlzdCI6WyIxNzkuNi44NC4wIl19LCJzaWduYXR1cmUiOiIwNDE0NTkwMDViMzMwNzgzMjY5MzE4NmFjMTcxMGU2NDIzYzQ2ZTkxIn0=
+https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjU0MzQ0OTg1LCJzZXNzaW9uIjoiMTc5LjYuODMuMTY3Iiwid2hpdGVsaXN0IjpbIjE3OS42LjgzLjE2NyJdfSwic2lnbmF0dXJlIjoiYThkNTAxM2MyMzY4ZTc3ZmE3MjU2NDE1YTEyYTEwNWUyZWNhOWQ4ZCJ9
 #EXTINF:-1 tvg-id="EC | Ecuador TV" tvg-name="EC | Ecuador TV" channelId="300" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/150px-EcuadorTV_logo.png" group-title="ECUADOR", 300 | Ecuador TV || ECUADOR
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ECUADORTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DECUADORTV_stream_wj&_cdn_session=221446563&_cdn_timestamp=1654248417&_cdn_token=ee24295f207382364bb87c1e81c3699cb398b16a
 #EXTINF:-1 tvg-id="EC | Ecuavisa" tvg-name="EC | Ecuavisa" channelId="301" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/200px-Ecuavisa_Logo_2019.png" group-title="ECUADOR", 301 | Ecuavisa || ECUADOR
 http://vps-c97214f4.vps.ovh.net:80/hls/ecutv4.m3u8
 #EXTINF:-1 tvg-id="EC | Red Telesistema" tvg-name="EC | Red Telesistema" channelId="302" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/150px-Rts_logo.png" group-title="ECUADOR", 302 | RTS || ECUADOR
-https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjU0MjYyNTI2LCJzZXNzaW9uIjoiMTc5LjYuODQuMCIsIndoaXRlbGlzdCI6WyIxNzkuNi44NC4wIl19LCJzaWduYXR1cmUiOiI0MDkxMTdkNzk4YWIxZGE3ODI5MzhiMWNjMmRlZjhlNjI0ZmQwZjYxIn0=
+https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjU0MzQ1MDA3LCJzZXNzaW9uIjoiMTc5LjYuODMuMTY3Iiwid2hpdGVsaXN0IjpbIjE3OS42LjgzLjE2NyJdfSwic2lnbmF0dXJlIjoiMmYzMjdhODBjOThiNmI2YmNmNTBjNzI4NmQ3Y2QyOTE4OGNjNTdkNyJ9
 #EXTINF:-1 tvg-id="EC | Televisora Central Ecuatoriana" tvg-name="EC | Telecentro" channelId="303" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png" group-title="ECUADOR", 303 | TC Televisión || ECUADOR
 http://45.71.185.142:8500/play/a02d
 #EXTINF:-1 tvg-id="EC | Oromar TV" tvg-name="EC | Oromar TV" channelId="304" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="ECUADOR", 304 | Oromar Televisión || ECUADOR
@@ -950,7 +950,7 @@ http://tv.wolkplay.com:8880/Paul2021/Paul2021/24488
 #EXTINF:-1 tvg-id="PY | Paravisión" tvg-name="PY | Paravisión" channelId="413" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Paravision_logo.png/150px-Paravision_logo.png" group-title="PARAGUAY", 413 | Paravisión || PARAGUAY
 http://viperos.net:8080/live/lucas/123456/102413.m3u8
 #EXTINF:-1 tvg-id="PY | Canal 9 Noticias" tvg-name="PY | Canal 9 Noticias" channelId="414" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Canal_9_Noticias.jpg/125px-Canal_9_Noticias.jpg" group-title="PARAGUAY", 414 | C9N || PARAGUAY
-https://py-c9n-c9n-live.ned.media/c9n/smil:c9n.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjU0MjYzMDk3LCJzZXNzaW9uIjoiMTc5LjYuODQuMCIsIndoaXRlbGlzdCI6WyIxNzkuNi44NC4wIl19LCJzaWduYXR1cmUiOiIzMzE2ZWVjYWY3YmQ2ZDdiODRjNjc3MWFhZTk2MzFmMjFkZTM2ODdlIn0=
+https://py-c9n-c9n-live.ned.media/c9n/smil:c9n.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjU0MzQ1NzgxLCJzZXNzaW9uIjoiMTc5LjYuODMuMTY3Iiwid2hpdGVsaXN0IjpbIjE3OS42LjgzLjE2NyJdfSwic2lnbmF0dXJlIjoiMWFjOTM3OThmYjE1MTZkZjQ2NmIwZWQzMzk0OTMzZTU3OGFjZWJjZCJ9
 #EXTINF:-1 tvg-id="PY | Sistema Nacional de Televisión" tvg-name="PY | Sistema Nacional de Televisión" channelId="415" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/SNT_LOGO.jpg/220px-SNT_LOGO.jpg" group-title="PARAGUAY", 415 | SNT || PARAGUAY
 https://py-snt-snt-live.ned.media/snt/smil:snt.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjU0MTc0NDM0LCJzZXNzaW9uIjoiMTc5LjYuODAuMzEiLCJ3aGl0ZWxpc3QiOlsiMTc5LjYuODAuMzEiXX0sInNpZ25hdHVyZSI6IjAyMWRjYzg3ZmVjMzFlNmNkNGEzMTUyMGVhNTkzOTI0Yzk1YjczMjcifQ==
 #EXTINF:-1 tvg-id="PY | Sur Televisión" tvg-name="PY | Sur Televisión" channelId="416" tvg-logo="https://cdn.mitvstatic.com/channels/116c52f1-8f55-4325-af6d-ab11f98e81d5_m.jpg" group-title="PARAGUAY", 416 | Sur Televisión || PARAGUAY
