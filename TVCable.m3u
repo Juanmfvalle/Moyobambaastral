@@ -118,7 +118,7 @@ https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 #EXTINF:-1 tvg-id="CO | RCN Novelas" tvg-name="CO | RCN Novelas" channelId="53" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/RCN_Novelas_logo.svg/165px-RCN_Novelas_logo.svg.png" group-title="NOVELAS", 53 | RCN Novelas
 https://tunelive.net:3952/stream/play.m3u8
 #EXTINF:-1 tvg-id="USA | Pasiones" tvg-name="USA | Pasiones" channelId="54" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQgm8S3Mil5Ktp0FUdBBNl7hfDdzPq3eIrNKWgy=s900-c-k-c0x00ffffff-no-rj" group-title="NOVELAS", 54 | Pasiones
-https://tunelive.net:3407/stream/play.m3u8
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PASIONES/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPASIONES_stream_42&_cdn_session=224661395&_cdn_timestamp=1654566010&_cdn_token=048d02eb6f1cb3cc86c6c2a17d1af32ec90fdc9f
 #EXTINF:-1 tvg-id="TR | Kanal D Drama" tvg-name="TR | Kanal D Drama" channelId="55" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Kanal_D_Drama_%28Latin_America%29.png/revision/latest/scale-to-width-down/200?cb=20200317052444&path-prefix=es" group-title="NOVELAS", 55 | Kanal D Drama
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/KANALD/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DKANALD_stream_b7&_cdn_session=224656619&_cdn_timestamp=1654565338&_cdn_token=4211994872baa03a82b40678b8c5322c895336f8
 #EXTINF:-1 tvg-id="MX | Azteca Corazón" tvg-name="MX | Azteca Corazón" channelId="56" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/200px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="NOVELAS", 56 | Azteca Corazón
@@ -572,7 +572,7 @@ https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Best Cable TV" tvg-name="PE | Best Cable TV" channelId="245" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=268x10000:format=png/path/s86a1480785a470a0/image/ie269f4983a26afca/version/1641318191/best-cable-tv.png" group-title="REGIONALES", 245 | Best Cable Televisión || Lima
 https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
 #EXTINF:-1 tvg-id="PE | Visión Noticias Perú" tvg-name="PE | Visión Noticias Perú" channelId="En prueba" tvg-logo="https://www.vnp.pe/wp-content/uploads/2020/11/logo-vnp-color.png" group-title="REGIONALES", En prueba | VNP || Lima
-https://videoserver.tmcreativos.com:19360/vnpnoticias/vnpnoticias.m3u8
+https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Asiri TV" tvg-name="PE | Asiri TV" channelId="246" tvg-logo="https://graph.facebook.com/904990302901417/picture?type=large" group-title="REGIONALES", 246 | Asiri Televisión || Lima
 https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTINF:-1 tvg-id="PE | Bextreme TV" tvg-name="PE | Bextreme TV" channelId="247" tvg-logo="https://i.imgur.com/d9n0sOZ.png" group-title="REGIONALES", 247 | Bextreme TV || Lima
@@ -698,7 +698,7 @@ http://138.186.20.245:8000/play/a02l
 #EXTINF:-1 tvg-id="EC | Televicentro" tvg-name="EC | Televicentro" channelId="299" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/TVCEC.png/150px-TVCEC.png" group-title="ECUADOR", 299 | TVC || ECUADOR
 https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjU0MzQ0OTg1LCJzZXNzaW9uIjoiMTc5LjYuODMuMTY3Iiwid2hpdGVsaXN0IjpbIjE3OS42LjgzLjE2NyJdfSwic2lnbmF0dXJlIjoiYThkNTAxM2MyMzY4ZTc3ZmE3MjU2NDE1YTEyYTEwNWUyZWNhOWQ4ZCJ9
 #EXTINF:-1 tvg-id="EC | Ecuador TV" tvg-name="EC | Ecuador TV" channelId="300" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/150px-EcuadorTV_logo.png" group-title="ECUADOR", 300 | Ecuador TV || ECUADOR
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ECUADORTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DECUADORTV_stream_wj&_cdn_session=224090771&_cdn_timestamp=1654527071&_cdn_token=4a4217dee3c5c17403e84cbdec290287a9871de8
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ECUADORTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DECUADORTV_stream_wj&_cdn_session=224661507&_cdn_timestamp=1654566029&_cdn_token=1d5757f4483ef890506aafd6b162cc9b3d675132
 #EXTINF:-1 tvg-id="EC | Ecuavisa" tvg-name="EC | Ecuavisa" channelId="301" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/200px-Ecuavisa_Logo_2019.png" group-title="ECUADOR", 301 | Ecuavisa || ECUADOR
 http://vps-c97214f4.vps.ovh.net:80/hls/ecutv4.m3u8
 #EXTINF:-1 tvg-id="EC | Red Telesistema" tvg-name="EC | Red Telesistema" channelId="302" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/150px-Rts_logo.png" group-title="ECUADOR", 302 | RTS || ECUADOR
@@ -814,7 +814,7 @@ https://distrib010.noisypeak.com/d/ZNC912ALUX18TOYWN3J9/hls3/now_-1m_15s/m.m3u8
 #EXTINF:-1 tvg-id="VE | Vene TV" tvg-name="VE | Vene TV" channelId="352" tvg-logo="https://pbs.twimg.com/media/FSNhTK4WQAACh5Q?format=jpg&name=900x900" group-title="VENEZUELA", 352 | Vene TV || VENEZUELA
 http://177.53.152.186:8000/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="BR | SBT" tvg-name="BR | SBT" channelId="En prueba" tvg-logo="https://www.adlatina.com/uploads/img/fotoNoticiaG44044.jpg" group-title="BRASIL", En prueba | SBT || BRASIL
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/SBTBRASIL/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSBTBRASIL_stream_7j&_cdn_session=224096723&_cdn_timestamp=1654527487&_cdn_token=4e43da04a753b3ce98ccb8c457ad1079b12a6a59
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/SBTBRASIL/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSBTBRASIL_stream_7j&_cdn_session=224661787&_cdn_timestamp=1654566066&_cdn_token=0b7e271db23b105fe58c4d850772187d73c4bb88
 #EXTINF:-1 tvg-id="BR | Rede TV" tvg-name="BR | Rede TV" channelId="353" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/89/Logotipo_da_RedeTV%21.png/200px-Logotipo_da_RedeTV%21.png" group-title="BRASIL", 353 | Rede TV || BRASIL
 https://livefocamundo.com:8081/tvjsid/index.m3u8
 #EXTINF:-1 tvg-id="BR | TVN" tvg-name="BR | TVN" channelId="354" tvg-logo="http://www.tvnbrasil.com.br/wp-content/uploads/2019/02/www.tvnbrasil.com_.br_-e1549740456806.jpg" group-title="BRASIL", 354 | TVN|| BRASIL
@@ -890,7 +890,7 @@ https://stmv.panel.grupolimalive.com/tarija/tarija/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | La Red" tvg-name="CL | La Red" channelId="387" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Emblema_de_La_Red.png/200px-Emblema_de_La_Red.png" group-title="CHILE", 387 | La Red || CHILE
 https://unlimited2-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CL | TV Chile" tvg-name="CL | TV Chile" channelId="388" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/LogoTVCHILE.svg/100px-LogoTVCHILE.svg.png" group-title="CHILE", 388 | TV Chile || CHILE
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TVCHILE/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVCHILE_stream_w4&_cdn_session=224097427&_cdn_timestamp=1654527540&_cdn_token=5381abf9930ca807461ef81a7fbfc90cc0fa91c7
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TVCHILE/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVCHILE_stream_w4&_cdn_session=224661547&_cdn_timestamp=1654566035&_cdn_token=7e3124b02b5d20194a74441616557085cc5af16a
 #EXTINF:-1 tvg-id="CL | Mega" tvg-name="CL | Mega" channelId="389" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mega_Chile_2020.png/145px-Mega_Chile_2020.png" group-title="CHILE", 389 | Mega || CHILE
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CL | UChile TV" tvg-name="CL | UChile TV" channelId="390" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/UChile_TV_logo_2020.png/245px-UChile_TV_logo_2020.png" group-title="CHILE", 390 | UChile TV || CHILE
