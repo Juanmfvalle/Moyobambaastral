@@ -381,6 +381,8 @@ http://190.122.96.187:8888/http/010
 http://177.53.152.186:8000/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="CL | Fitmaxx TV" tvg-name="CL | Fitmaxx TV" channelId="En prueba" tvg-logo="https://pbs.twimg.com/media/FSk6Zq7WQAA7Cp8?format=png&name=240x240" group-title="DEPORTES", En prueba | Fitmaxx TV
 http://177.53.152.186:8000/play/a00k/index.m3u8
+#EXTINF:-1 tvg-id="MX | TVC Deportes" tvg-name="MX | TVC Deportes" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/TVCDeportes.png" group-title="DEPORTES", En prueba | TVC Deportes
+https://2.tunelive.net:3273/stream/play.m3u8
 #EXTINF:-1 tvg-id="PE | Ritmo X" tvg-name="PE | Ritmo X" channelId="172" tvg-logo="https://pbs.twimg.com/media/FSNXFbLXEAAfwbH?format=jpg&name=small" group-title="MUSICA Y REALITIES", 172 | Ritmo X
 http://177.53.152.186:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="CL | Portal Foxmix" tvg-name="CL | Portal Foxmix" channelId="173" tvg-logo="http://www.portalfoxmix.cl/web/wp-content/uploads/2016/03/logoPFM.png" group-title="MUSICA Y REALITIES", 173 | Portal Foxmix TV
@@ -1317,10 +1319,20 @@ https://5790d294af2dc.streamlock.net/8224/8224/playlist.m3u8
 https://cdn1.streamgato.us/morrotv/morrotv.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | N+ Media" tvg-name="MX | N+ Media" channelId="En prueba" tvg-logo="https://www.eleconomista.com.mx/__export/1648521768298/sites/eleconomista/img/2022/03/28/nmas-televisa-univision-cortesia-twitter.png_423392900.png" group-title="MEXICO", En prueba | N+ Media
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_4.m3u8
+#EXTINF:-1 tvg-id="MX | Azteca Uno" tvg-name="MX | Azteca Uno" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Azteca_Uno_logo.webp/245px-Azteca_Uno_logo.webp.png" group-title="MEXICO", En prueba | Azteca Uno
+https://2.tunelive.net:3475/stream/play.m3u8
+#EXTINF:-1 tvg-id="MX | El 5" tvg-name="MX | El 5" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/120px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO", En prueba | El 5
+https://2.tunelive.net:3503/stream/play.m3u8
+#EXTINF:-1 tvg-id="MX | Canal 6 Multimedios" tvg-name="MX | Canal 6 Multimedios" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/150px-Multimedios_Canal_Seis_Logo.svg.png" group-title="MEXICO", En prueba | Canal 6 Multimedios Televisión
+https://2.tunelive.net:3255/stream/play.m3u8
+#EXTINF:-1 tvg-id="MX | Azteca 7" tvg-name="MX | Azteca 7" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/150px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO", En prueba | Azteca 7
+https://2.tunelive.net:3189/stream/play.m3u8
 #EXTINF:-1 tvg-id="MX | Canal 9" tvg-name="MX | Canal 9" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nueve_%282018_logo%29.png/175px-Nueve_%282018_logo%29.png" group-title="MEXICO", En prueba | Canal 9
 https://tunelive.net:3734/stream/play.m3u8
 #EXTINF:-1 tvg-id="MX | Canal 11" tvg-name="MX | Canal 11" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_Actual_Canal_Once.png/200px-Logo_Actual_Canal_Once.png" group-title="MEXICO", En prueba | Canal 11
 https://d24sa4vr9gvjv.cloudfront.net/index_720.m3u8
+#EXTINF:-1 tvg-id="MX | Unicable" tvg-name="MX | Unicable" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/100px-Unicable_logo.svg.png" group-title="MEXICO", En prueba | Unicable
+https://2.tunelive.net:3141/stream/play.m3u8
 #EXTINF:-1 tvg-id="USA | NBC" tvg-name="USA | NBC" channelId="En prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/120px-NBC_logo.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | NBC
 http://190.122.96.187:8888/http/005
 #EXTINF:-1 tvg-id="ES | La 1" tvg-name="ES | La 1" channelId="594" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/125px-Logo_TVE-1.svg.png" group-title="ESPAÑA", 594 | La 1 || ESPAÑA
