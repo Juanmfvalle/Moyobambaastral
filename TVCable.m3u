@@ -65,8 +65,8 @@ https://videoserver.tmcreativos.com:19360/norselva/norselva.m3u8
 http://200.48.184.156:1935/imagentv/imagentv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Canal E Altomayo TV 8 (Evelyn S.A.C)" tvg-name="PE | Canal E Altomayo TV 8 (Evelyn S.A.C)" tvg-logo="https://evelynsac.com/img/logo_01.png" group-title="PROVINCIALES", 29 | Canal E TV 8 Altomayo || Nueva Cajamarca
 https://stream.plixitv.live/westv/westv/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Documentales E" tvg-name="PE | Documentales E" tvg-logo="https://pbs.twimg.com/media/FSKT_wSXwAYXu3D?format=jpg&name=240x240" group-title="PROVINCIALES", 29.2 | Documentales E || Nueva Cajamarca
-https://stream.plixitv.live/docue/docue/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | California TV" tvg-name="PE | California TV" tvg-logo="" group-title="PROVINCIALES", En prueba | California TV || Nueva Cajamarca
+http://200.48.184.156:1935/californiatv/californiatv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Antares TV Tarapoto" tvg-name="PE | Antares TV Tarapoto" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/antarestv.png" group-title="PROVINCIALES", 30 | Antares Televisión || Tarapoto
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | TV Tarapoto" tvg-name="PE | TV Tarapoto" tvg-logo="https://www.televisiontarapoto.pe/wp-content/uploads/2019/05/logo_tv_tarapoto.png" group-title="PROVINCIALES", 31 | Televisión Tarapoto || Tarapoto
@@ -191,6 +191,8 @@ http://200.48.184.156:1935/eplay/eplay/playlist.m3u8
 http://200.48.184.156:1935/eretro/eretro/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Fox Kids" tvg-name="USA | Fox Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/FOX_Kids_logo.svg/150px-FOX_Kids_logo.svg.png" group-title="INFANTILES", 91 | Fox Kids
 http://foxkidsjahh21.duckdns.org/hls/stream/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="USA | Jetix" tvg-name="USA | Jetix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Jetix_Logotype.png/200px-Jetix_Logotype.png" group-title="INFANTILES", En prueba | Jetix
+http://jetixjahh21.duckdns.org/hls/stream/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="ES | Clan" tvg-name="ES | Clan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tve_clan.png/150px-Tve_clan.png" group-title="INFANTILES", 92 | Clan
 http://177.53.152.186:8000/play/a01s/index.m3u8
 #EXTINF:-1 tvg-id="CL | Kids 90's TV" tvg-name="CL | Kids 90's TV" tvg-logo="https://i2.paste.pics/4a39976590ab0bd4fe7a0bbbd4411822.png" group-title="INFANTILES", 93 | Kids 90's TV
@@ -235,10 +237,10 @@ https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee51
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CL | Dos Kids" tvg-name="CL | Dos Kids" tvg-logo="https://pbs.twimg.com/media/FShNaZJWQAErDfo?format=png&name=120x120" group-title="INFANTILES", 113 | Dos Kids
 http://177.53.152.186:8000/play/a00b/index.m3u8
-#EXTINF:-1 tvg-id="MX | El Chavo del 8 TV" tvg-name="MX | El Chavo del 8 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/245px-El_Chavo_%28simple_logo%29.svg.png" group-title="INFANTILES", 114 | El Chavo del 8 TV
+#EXTINF:-1 tvg-id="PE | E Kids" tvg-name="PE | E Kids" tvg-logo="" group-title="INFANTILES", 114 | E Kids
+https://stream.plixitv.live/ekids/ekids/playlist.m3u8
+#EXTINF:-1 tvg-id="MX | El Chavo del 8 TV" tvg-name="MX | El Chavo del 8 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/245px-El_Chavo_%28simple_logo%29.svg.png" group-title="ENTRETENIMIENTO", 115 | El Chavo del 8 TV
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="MX | Distrito Comedia" tvg-name="MX | Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/175px-DistritoComediaLOGO2018.png" group-title="ENTRETENIMIENTO", 115 | Distrito Comedia
-https://2.tunelive.net:3734/stream/play.m3u8
 #EXTINF:-1 tvg-id="CL | Solo Stand Up Televisión" tvg-name="CL | Solo Stand Up Televisión" tvg-logo="https://pbs.twimg.com/media/FSls04XWYAUst5U?format=png&name=360x360" group-title="ENTRETENIMIENTO", 116 | Solo Stand Up Televisión
 http://177.53.152.186:8000/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="RU | RT" tvg-name="RU | RT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png" group-title="NOTICIAS E INFORMACION", 117 | RT Noticias
@@ -335,16 +337,18 @@ https://5fe2654d6127d.streamlock.net/tododeportesplus/smil:tododeportesplus.smil
 http://186.0.233.76:1935/Garage/garage.smil/.m3u8
 #EXTINF:-1 tvg-id="AR | DeporTV" tvg-name="AR | DeporTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Deportv.svg/200px-Deportv.svg.png" group-title="DEPORTES", 163 | DeporTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-#EXTINF:-1 tvg-id="MX | Afizzionados" tvg-name="MX | Afizzionados" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/245px-Afizzionados_Logo.svg.png" group-title="DEPORTES", 164 | Afizzionados TV
-https://tunelive.net:3569/stream/play.m3u8
-#EXTINF:-1 tvg-id="ES | Titan Channel" tvg-name="ES | Titan Channel" tvg-logo="https://titanchannel.com/blog/wp-content/uploads/2018/01/LOGO_TITAN_CORREO.png" group-title="DEPORTES", 165 | Titan Channel
+#EXTINF:-1 tvg-id="ES | Titan Channel" tvg-name="ES | Titan Channel" tvg-logo="https://titanchannel.com/blog/wp-content/uploads/2018/01/LOGO_TITAN_CORREO.png" group-title="DEPORTES", 164 | Titan Channel
 http://190.122.96.187:8888/http/010
-#EXTINF:-1 tvg-id="CL | Fit TV" tvg-name="CL | Fit TV" tvg-logo="https://pbs.twimg.com/media/FSNWx2LXwAEneGk?format=jpg&name=240x240" group-title="DEPORTES", 166 | Fit TV
+#EXTINF:-1 tvg-id="CL | Fit TV" tvg-name="CL | Fit TV" tvg-logo="https://pbs.twimg.com/media/FSNWx2LXwAEneGk?format=jpg&name=240x240" group-title="DEPORTES", 165 | Fit TV
 http://177.53.152.186:8000/play/a018/index.m3u8
-#EXTINF:-1 tvg-id="CL | Fitmaxx TV" tvg-name="CL | Fitmaxx TV" tvg-logo="https://pbs.twimg.com/media/FSk6Zq7WQAA7Cp8?format=png&name=240x240" group-title="DEPORTES", 167 | Fitmaxx TV
+#EXTINF:-1 tvg-id="CL | Fitmaxx TV" tvg-name="CL | Fitmaxx TV" tvg-logo="https://pbs.twimg.com/media/FSk6Zq7WQAA7Cp8?format=png&name=240x240" group-title="DEPORTES", 166 | Fitmaxx TV
 http://177.53.152.186:8000/play/a00k/index.m3u8
-#EXTINF:-1 tvg-id="MX | TVC Deportes" tvg-name="MX | TVC Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/TVCDeportes.png" group-title="DEPORTES", 168 | TVC Deportes
+#EXTINF:-1 tvg-id="MX | TVC Deportes" tvg-name="MX | TVC Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/TVCDeportes.png" group-title="DEPORTES", 167 | TVC Deportes
 https://2.tunelive.net:3273/stream/play.m3u8
+#EXTINF:-1 tvg-id="PE | EdX TV" tvg-name="PE | EdX TV" tvg-logo="https://pbs.twimg.com/media/FVzsfVnWUAc1ffp?format=png&name=240x240" group-title="DEPORTES", 168 | EdX TV
+https://stream.plixitv.live/edx/edx/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | EX TV" tvg-name="PE | EX TV" tvg-logo="https://pbs.twimg.com/media/FVztCFoWQAIlskp?format=png&name=240x240" group-title="DEPORTES", 168.2 | EX TV
+https://stream.plixitv.live/ex/ex/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Ritmo X" tvg-name="PE | Ritmo X" tvg-logo="https://pbs.twimg.com/media/FSNXFbLXEAAfwbH?format=jpg&name=small" group-title="MUSICA Y REALITIES", 169 | Ritmo X
 http://177.53.152.186:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="CL | Portal Foxmix" tvg-name="CL | Portal Foxmix" tvg-logo="http://www.portalfoxmix.cl/web/wp-content/uploads/2016/03/logoPFM.png" group-title="MUSICA Y REALITIES", 170 | Portal Foxmix TV
@@ -449,6 +453,10 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/HISTORYCH2/20-hls/live-media.
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ES | Doc TV" tvg-name="ES | Doc TV" tvg-logo="https://caaci-iberoamerica.org/doctv/wp-content/uploads/2017/03/doctv-logo-white.png" group-title="CULTURA Y EDUCACION", 220 | Doc TV
 http://177.53.152.186:8000/play/a00v/index.m3u8
+#EXTINF:-1 tvg-id="PE | Documentales E" tvg-name="PE | Documentales E" tvg-logo="https://pbs.twimg.com/media/FSKT_wSXwAYXu3D?format=jpg&name=240x240" group-title="CULTURA Y EDUCACION", En prueba | Documentales E
+https://stream.plixitv.live/docue/docue/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | Documentales E +" tvg-name="PE | Documentales E +" tvg-logo="https://pbs.twimg.com/media/FSNTiYiXwAEcuyN?format=jpg&name=240x240" group-title="CULTURA Y EDUCACION", En prueba.2 | Documentales E +
+https://stream.plixitv.live/docue2/docue2/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | Avivamiento TV" tvg-name="CO | Avivamiento TV" tvg-logo="https://avivamiento.com/images/all-images/tv/tv.png" group-title="RELIGIOSOS", 221 | Avivamiento Televisión
 https://s2.abntelevision.com/avivamientoabr/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | Vida Nueva TV" tvg-name="CO | Vida Nueva TV" tvg-logo="https://mividanueva.org/wp-content/uploads/2021/02/Logo-Horizontal.png" group-title="RELIGIOSOS", 222 | Vida Nueva Televisión
