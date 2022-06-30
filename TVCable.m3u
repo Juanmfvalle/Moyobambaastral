@@ -17,6 +17,8 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TVPERU/40-hls/live-media.m3u8
 https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1 tvg-id="PE | TV Perú Internacional" tvg-name="PE | TV Perú Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/250px-TV_Per%C3%BA_Internacional_2019_-_copia.png" group-title="INTERNACIONALES", 7.3 | TV Perú Internacional
 https://cdnh74.iblups.com/hls/irtp.m3u8
+#EXTINF:-1 tvg-id="PE | Congreso TV" tvg-name="PE | Congreso TV" tvg-logo="https://comunicaciones.congreso.gob.pe/wpuploads/2021/02/logo-web-4.png" group-title="PERU", 7.4 | Congreso TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/congresodelarepublicadelper%C3%BAtvenvivo/live
 #EXTINF:-1 tvg-id="PE | Conectad2 TV" tvg-name="PE | Conectad2 TV" tvg-logo="https://conecta2peru.com/wp-content/uploads/2020/04/logo.png" group-title="PERU", 8 | Conectad2 Televisión
 https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:-1 tvg-id="PE | Andina Televisión" tvg-name="PE | Andina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" group-title="PERU", 9 | ATV
@@ -560,7 +562,7 @@ http://v4.tustreaming.cl/matices/index.m3u8
 #EXTINF:-1 tvg-id="PE | Central TV" tvg-name="PE | Central TV" tvg-logo="https://graph.facebook.com/CentralTVperuLima/picture?width=320&height=320" group-title="REGIONALES", 270 | Central TV || Lima
 https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Nuestra TV" tvg-name="PE | Nuestra TV" tvg-logo="https://pbs.twimg.com/media/FSNYpjRWQAEFGRd?format=jpg&name=small" group-title="REGIONALES", 271 | Nuestra TV || Lima
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CoYFZGKFtBIN-0UiN0JUbrVNJuCy_os3L6WS7uTjRIl_ywNX-iINFaQvh4D9htM0KJ8h-PnIQZbJn-ZrHL2Fxae_enNhsS9K6BOB0YMgAnPwMnZAm8gbseo7AvlwJ0PLDipQhN5W-nSdmKnVgjpIJcF6t6RWf0Wdal-xNU4T0r-1_Zv8puhbfsuaIAfkBJuvT_HmjE1lRizvlWP-e1rGnERBCyHyVBhsXUfso7oCEEJKXxxtoYnDOH6V4CF7XTbCYAIDzjV1Du_NUCsLRaYDcW2jgOppWKc19cE_2GmNNzVMNGNzwOCZiGXoCRAkV9nmmHZ5kFy6ZA0jwLAvXRyMwVHOIbfptAVEj75inR8VX0mghXvYHPb9-i_chMXcZVH8BP9IwZmM_SzvfgxLIfM3LhGNhibXA0smTvFna5pJo5hL3oxkmQgdlA8dUjLIQg0uNlzc926-U0BtHiTy1t8drfL4KRMu8PwGoBitDYKlMsMNd6RO35Toa8WGAw4q4kALqNrXf_RamrzMSaenEfCrXY_v0jIQl400z-FKFsEKDHUNwQbegoIhenuqKJr_DzWBLcxIPSQLudl46ZoOsEJSB9UYHUp3UT0MzhT1iq_lN3uEhtZL0dQzZeOjWNBZITXsyWwDtjx_bSKbZHYTUaPEzCR79FwElBQ6Pht5NQL2gmVvSOOqxmO1qGZWabL5DgciJYIBiURT_dzf5Ve78FVq6-u0_fyxC4Dx4UsJkkh3660BFEMHqPk6WKt7ZGnaGKPxi8BJIOAAUhyS3SUYxF3ze4sRLqLIYMkgaL1IlMKMn20Vc2G8U35B1up4Q94jKmrlwj2C67eR1OGGdB6tGpBXLiFqKNKwGkssXhoMAypWXAy4rBZVHpW-IAEqCXVzLXdlc3QtMjCJBA.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/nuestratvlima
 #EXTINF:-1 tvg-id="PE | Intuitiva TV" tvg-name="PE | Intuitiva TV" tvg-logo="https://pbs.twimg.com/media/FVyWpMHXsAUe7UU?format=png&name=small" group-title="REGIONALES", En prueba | Intuitiva TV || Lima
 https://video2.lhdserver.es/cableperu/live.m3u8
 #EXTINF:-1 tvg-id="PE | Región TV" tvg-name="PE | Región TV" tvg-logo="https://regionteve.com/wp-content/uploads/2020/12/REGIONTV7.png" group-title="REGIONALES", 272 | Región TV || Callao
@@ -578,9 +580,9 @@ https://srv.panelcast.net/palmerastv/palmerastv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Clips TV" tvg-name="PE | Clips TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSf-gnmJJq2Q_TJ4yCg_ZpuMp--UUb_MrHN5D7Z=s900-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", 278 | Clips TV || Sechura; Piura
 https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
 #EXTINF:-1 tvg-id="PE | TV Norte Canal 30" tvg-name="PE | TV Norte Canal 30" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/TV-Norte-Chiclayo-en-vivo-Online.png" group-title="REGIONALES", 279 | TV Norte Canal 30 || Piura
-https://stream-01.nyc.dailymotion.com/sec(aE_3iv22WXhaqr9Sd1pX_GoGtcI-8T2T7AYeFaqorYNeuFyv2xyZEJNF0XLQDJaq)/dm/3/x5zgcjf/s/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/sec(aE_3iv22WXhaqr9Sd1pX_EZqzqLjNEg24hlv6JS-9rG8oDUy-DKrFzaLrm3CcfdA)/dm/3/x5zgcjf/s/live-3.m3u8
 #EXTINF:-1 tvg-id="PE | TV Norte" tvg-name="PE | TV Norte" tvg-logo="https://appnew.megainfoapp.com/files/1/tvnorte.jpg" group-title="REGIONALES", 279.2 | TV Norte || Chiclayo
-https://stream-01.nyc.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJquJqy6hRNS7vmgE3UCcgLCm6vgQmkSHafaxm3k8Z6CCz)/dm/3/x7uk62a/s/live-3.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/TVNORTEHD
 #EXTINF:-1 tvg-id="PE | Lot Plus TV" tvg-name="PE | Lot Plus TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR6iGa3A35AnYAm29YkkDJahn0mzAQZYDU9q5LJ=s88-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", 280 | Lot Plus TV || Chiclayo
 https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | TV Cosmos" tvg-name="PE | TV Cosmos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Tv_cosmos.jpg/245px-Tv_cosmos.jpg" group-title="REGIONALES", 281 | TV Cosmos || Trujillo
@@ -644,7 +646,7 @@ https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/chunklist_w497662503.m3u8
 #EXTINF:-1 tvg-id="PE | Tropical TV" tvg-name="PE | Tropical TV" tvg-logo="https://pbs.twimg.com/media/FSNe1ybXIAAz2_e?format=jpg&name=small" group-title="REGIONALES", 310 | Tropical TV || Puerto Maldonado
 https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Quatro TV" tvg-name="PE | Quatro TV" tvg-logo="http://tv.10dailythings.com/images/channels/PE/quattro-tv-720p-not-247/normal.png" group-title="REGIONALES", 311 | Quatro Televisión || Arequipa
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CvwEPgvwve6B_IvJDZGueKiuEM7DRMK0egrJDO0jY_wgm8RkwhkPGSstOv4qtBNVeOifOV5Hg4dQr0qZrp-s3Kj7f52tcBYz3wLH5AFTC9CFNUhVjDzb3CjMbsXGodmTmSnfc_G2k0SUsTD7gjm5cIoEzmfzVTeeLMeOsRGI8Dn5Q5LxlsX3YLzsUmRjoqwV3-V8xIGjui1IBesp9RsEQE4mc8St3evMfc-bkWnQ2iQldj8YP_iXq0CJJPC0xnG4ip2KZr65XFzz9J4SsQDD68Tzd1i3BK2V8blGp9U8HWDAPbe2eteWwshr6bw8FnJsn-skm7qjh62-MY8hYvdQfzws3P3wvdSiK5JTeqWtA0_0kAQJBM11o6oon9jqziMf5dW9PQVqwKZnzmGHuNhozGphHtgC9gZnN31dhWnMFRaBRphjxgcKqsRQZWqKNJ2kXXg8O-RTHxWvsWEl3-Hg8KVlYJyG-kl9JSot6ojhc18vM6QuW5DVuMqeLvq-_Xrv5M2HaWzkVOyektyFSgCZzxB6wD_y_0GrMkxz6ahZ5uvNfBJJGDDsDtAwPYAcs0rfpe9QWmN78ROcAreD9wV8AkyD6GSNAbHZPSQ22oiKTQ46CFgw72I2_X6_fF6pMHwUUovdJAwesEcCn3P8zOdDYf2sYZwAx6LEt-Vnh7j4naA0SMguBCiUZJY1BgYC1EqyPJdlkE1XY3Xvb0uxix08KCxD99l6vXrTrbzXkSqDJL0Autglfn_KbTo89tybPvttitzzN54MxJvuMfPWzJsogi4oeJbNz9_u8_s5St5rQi_pKi_JHJIvAOUZ1LqbRTkraEmk9Mds74qIbo_VcLCyGgwlBdKD__Dr6HgSzMkgASoJdXMtZWFzdC0xML8C.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/quatrotvgo
 #EXTINF:-1 tvg-id="PE | Mega TV" tvg-name="PE | Mega TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Mega-TV-Arequipa-en-vivo-Online-100x70.png" group-title="REGIONALES", 312 | Mega TV || Arequipa
 https://video.servidor.stream:3831/live/megatvlive.m3u8
 #EXTINF:-1 tvg-id="PE | TV Mundo" tvg-name="PE | TV Mundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Tvmundosur.jpg/245px-Tvmundosur.jpg" group-title="REGIONALES", 313 | TV Mundo || Arequipa
@@ -972,7 +974,7 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?uid=C3a7Pp
 #EXTINF:-1 tvg-id="CR | Canal 11" tvg-name="CR | Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/150px-Repretel_11_logo.png" group-title="COSTA RICA", 465 | Canal 11 || COSTA RICA
 https://d3ou4v1ntyo64z.cloudfront.net/repretel/canal11/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CR | Trece Costa Rica Televisión" tvg-name="CR | Trece Costa Rica Televisión" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/canal-13-trece-costa-rica-televisin-1576.png" group-title="COSTA RICA", 466 | Trece Costa Rica Televisión || COSTA RICA
-https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZehNIcgNyZkJKXevj76kiCdB6KU3srYt2MLXQ-D92GIk)/dm/3/x7vh8g3/d/live-3.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/sinart
 #EXTINF:-1 tvg-id="CR | TV Sur Canal 14" tvg-name="CR | TV Sur Canal 14" tvg-logo="https://www.tvsur.co.cr/wp-content/uploads/2020/05/tvsur-logo.png" group-title="COSTA RICA", 467 | TV Sur Canal 14 || COSTA RICA
 https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
 #EXTINF:-1 tvg-id="CR | TV Norte" tvg-name="CR | TV Norte" tvg-logo="https://www.tvn14.com/wp-content/uploads/2021/02/TVN-HD_LOGO_COLOR-SIN-FONDO.png" group-title="COSTA RICA", 468 | TV Norte || COSTA RICA
@@ -1004,7 +1006,7 @@ http://nicatv.rylco.com:8075/channel11/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Nicavisión Canal 12" tvg-name="NI | Nicavisión Canal 12" tvg-logo="http://www.canal12.com.ni/assets/logo_horizontal-b7fe143ebd9e9dab2e72ffea436db26fce21c81b7ae6ac430ede875f5df30657.png" group-title="NICARAGUA", 481 | Canal 12 Nicavisión || NICARAGUA
 https://5ca9af4645e15.streamlock.net/canal12/videocanal12/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDIyIDExOjI2OjQwIFBNJmhhc2hfdmFsdWU9ODFqT05xK0J2SUhrc0tKTXFMQkJmdz09JnZhbGlkbWludXRlcz0xMCZpZD0=
 #EXTINF:-1 tvg-id="NI | Viva Nicaragua Canal 13" tvg-name="NI | Viva Nicaragua Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Logo_Viva_Nicaragua_Canal_13.png/200px-Logo_Viva_Nicaragua_Canal_13.png" group-title="NICARAGUA", 482 | Viva Nicaragua Canal 13 || NICARAGUA
-https://stream-04.nyc.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqqfsfv58aQFnf56MH7QrMu1yw2xN7vhRQFLxWirbvEWm)/dm/3/x7u200z/s/live-1.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vivanicaragua13
 #EXTINF:-1 tvg-id="NI | Vos TV Canal 14" tvg-name="NI | Vos TV Canal 14" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/14_de_nicaragua-mediano.png" group-title="NICARAGUA", 483 | Vos TV || NICARAGUA
 http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Canal 15" tvg-name="NI | Canal 15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Canal_15_Nicarag%C3%BCense_2019.png/150px-Canal_15_Nicarag%C3%BCense_2019.png" group-title="NICARAGUA", 484 | Canal 15 || NICARAGUA
@@ -1060,15 +1062,15 @@ https://rtmp.info/soltv/envivo/playlist.m3u8
 #EXTINF:-1 tvg-id="SLV | RD Click TV" tvg-name="SLV | RD Click TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSoMCXVxLXziWM9-DaCj8zwCpV9-nCyTcTTRa5Jow=s88-c-k-c0x00ffffff-no-rj" group-title="EL SALVADOR", 508 | RD Click TV || EL SALVADOR
 https://cloudvideo.servers10.com:8081/8064/index.m3u8
 #EXTINF:-1 tvg-id="HN | TSi Canal 3" tvg-name="HN | TSi Canal 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/TSi_logo.png/195px-TSi_logo.png" group-title="HONDURAS", 509 | Telesistema Informativo || HONDURAS
-https://stream-02.nyc.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRD4WWhiEqVqvgZ6iJTVAjt_-7mMIPhYXAnkgoFqHGOxY)/dm/3/x88jdft/s/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRP2VGEtR1ouriOPAVGdq0PoDYZ5FAU3XKKO2Pe394zy5)/dm/3/x88jdft/s/live-3.m3u8
 #EXTINF:-1 tvg-id="HN | Canal 5" tvg-name="HN | Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_5_HN_logo_2019.png/150px-Canal_5_HN_logo_2019.png" group-title="HONDURAS", 510 | Canal 5 El Lider || HONDURAS
-https://stream-01.nyc.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRMOqW3vJFYHZ1L9jlr6pKZPZAXmGdgeI4p0sHttDxQfl)/dm/3/x88jd1d/s/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVROpxj5kPKVH-1aeYDuxvR-96kWnAUlkPhtWxKeS8k8ya)/dm/3/x88jd1d/s/live-3.m3u8
 #EXTINF:-1 tvg-id="HN | Canal 6 CBC" tvg-name="HN | Canal 6 CBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Canal6.jpg/125px-Canal6.jpg" group-title="HONDURAS", 522 | Canal 6 CBC || HONDURAS
 http://quality-restream.com:8080/Fullitalia/52806fdf/7173
 #EXTINF:-1 tvg-id="HN | Telecadena 7 y 4" tvg-name="HN | Telecadena 7 y 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Telecadena7y42018.png/150px-Telecadena7y42018.png" group-title="HONDURAS", 511 | Telecadena 7 y 4 || HONDURAS
 http://quality-restream.com:8080/Fullitalia/52806fdf/48216
 #EXTINF:-1 tvg-id="HN | Vica TV" tvg-name="HN | Vica TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/VTV_HN_logo_2019.png/210px-VTV_HN_logo_2019.png" group-title="HONDURAS", 512 | VTV || HONDURAS
-https://hn-vtv-vtv-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjU2NjMyNzE0LCJzZXNzaW9uIjoiMTkwLjIzNi4yMjQuMTM1Iiwid2hpdGVsaXN0IjpbIjE5MC4yMzYuMjI0LjEzNSJdfSwic2lnbmF0dXJlIjoiMjI1NTVkYTI4NmY5NTAxM2VlYTdhYmRhZWRjMzYwMWNiMGM5ZTAxNyJ9
+https://hn-vtv-vtv-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjU2NzE0NzUxLCJzZXNzaW9uIjoiMTkwLjIzNi4yMjQuMTM1Iiwid2hpdGVsaXN0IjpbIjE5MC4yMzYuMjI0LjEzNSJdfSwic2lnbmF0dXJlIjoiNTU2YzdkNGYyMTlkZjQ3OGMyZjEyZjM3MjA4ODlhYjZhNWExNTViNSJ9
 #EXTINF:-1 tvg-id="HN | TEN Canal 10" tvg-name="HN | TEN Canal 10" tvg-logo="https://1.bp.blogspot.com/-WYepFcQLrXc/XQka9TmZ0uI/AAAAAAAAHz8/eTOqew4vGoocd66uqlPHccAeYN74huzmgCLcBGAs/w350-h350-p-k-no-nu/TEN%2BCanal%2B10.png" group-title="HONDURAS", 513 | TEN Canal 10 || HONDURAS
 https://62418d5684c12.streamlock.net/TENHD/TENLive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HN | Canal 11 HN" tvg-name="HN | Canal 11 HN" tvg-logo="https://canal11.hn/wp-content/themes/streamit/assets/images/logo.png" group-title="HONDURAS", 514 | Canal 11 HN || HONDURAS
@@ -1122,9 +1124,9 @@ https://5e50264bd6766.streamlock.net/tvusac/videotvusac/playlist.m3u8
 #EXTINF:-1 tvg-id="GT | Canal Antigua" tvg-name="GT | Canal Antigua" tvg-logo="https://i2.wp.com/canalantigua.tv/wp-content/uploads/2020/12/cropped-cropped-544-x-180-logo-300x99-1.png?fit=300%2C99&ssl=1" group-title="GUATEMALA", 539 | Canal Antigua || GUATEMALA
 http://51.161.12.229:1935/CanalAntigua/myStream/chunklist_w1313531480.m3u8
 #EXTINF:-1 tvg-id="GT | VEA Canal" tvg-name="GT | VEA Canal" tvg-logo="http://veacanal.tv/wp-content/uploads/2017/05/logoveacanal.png" group-title="GUATEMALA", 540 | VEA Canal || GUATEMALA
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CvsEnsocKl51-RmFBBgCc1xFMF3o2qJPYz2-O3dQDk-TX0VCzyGd0BDkAO7d3pWKz8kIv19w6Bi3MHYSe2zd9-2IqYQbgAyoGsBEbaSY6DJglQx43wAh5ScI05LKyynww748IzKs4MvOmh2Zz_UwCINvzEBANiP6Ur0mMSSWLbmUhtkCDs3Su2o1acn5lAkZcXeuNgCBYbsW9DujdIIxPkedorDyneyCdG1ugR4SP06wPsJ29-zWw1Dw2iWVfuRYb7xwRsvSYarr8bPJhnJrJqw5u6KoyWTyfbwJXtEKoJSw33cwX7j9_5cHo5K4MmkJKHSIOuyiGw66WWH4yAw581KTPvaJVQ6uizy-Zb5MOqIGuATAA7V3iqP_u1N_69ERvfC84LNB1mwsAbnQa5HNz53QGeudMWJcM0DhCpq_G7e7HJLrvY7EdmJ3vCKaH5pGGFplcWlhKkLyxquz-xcbedPXgqew56htnkIcUDfEwYKjSbsMwyv_ddI1pVdQoi1HF3zonK8neMWz5zU_glJnm0w_d2luEmNp7aUY_1DO5_XS_PQgeohG8F_B1KD-bHEf1iOwBItbRIA4sK0VywCpV7Jv4B7C1lja9hn-UGhbWd-I-iZsC8UHlhe23WK_PjKFCvRkJQo05vlwOV3VMoDMsz66PYJONkAtnDIwRPRVR6GNBc_SPeL2Kwtq-J6sZVPakGO16ggtzD0KK5aO9l-F86tmjhWAlHxHmRlQrvLyx51jC1Ox2CVQAlRpXnlD56KbvtYmeeopEvosaP6821vfXx0LzYpKZLqrsr4cs9mkGtiaKOBrsAxXRoHsL67rqh_ATgfZYut4X0IysvLM7uEaDD8g4vxRppKLwFATeyABKgl1cy13ZXN0LTIwiQQ.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/veacanalgt
 #EXTINF:-1 tvg-id="GT | Canal de Gobierno" tvg-name="GT | Canal de Gobierno" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR_Hm3vKJu8-yXqyi7Q66F8ME2CsBddRLq4JnyVcQ=s88-c-k-c0x00ffffff-no-rj" group-title="GUATEMALA", 541 | Canal de Gobierno || GUATEMALA
-https://video-weaver.rio01.hls.ttvnw.net/v1/playlist/CosFmVcPN1rgYju2SloBSGjwqk-rV9BEShfdQUI_N6cWABuJpOU9BfGLIkT3kVv0_4-DIIWSKpdHoa26ZCx9a5VBxsO0KZRHJSks8ZDhHZR_bRFhfT0MEBM6MR7PdIuNNa1lFnBsh9wQvrd35V9eBy_whpSbDIfFNYEjSvraIWaCIX07V36774ECfqQiE_-By_QQSmm_e1lNnUgZjJv47OADAIe7K9L_xxcjLoLoR_LGq7sCcY2Zm33CzrxdrX6UasV8_oY3IFiXi7NGh6OeJrNA_spySHVxaVlli8Id0ETqinqu0P0jtuT-xpUurJgzwoeXOlA6dIYnt9gSZ9egfqB4s7xjM98PTyXo8a4D0n86N3sZLrumHJmAOkO5eKFNnuAKbRuZVPSeCMRNfn4Wd7y08ShAl6i4QuA7KfIceJGjfmmD0RAb5z0m9Kf6_ga6Ag3xJenRiBzSZ8iO-fpST1k-NZl0tMjuWR2u3Y-DGkEdnVpUbVAZWZd7-D_BZNHEZGrYcRTJcD7m6s1_9U9NYvmOETdws_7xmogvAxq1d6TDBnASiJ6eHqNPMVnSfBJuCRQsnKIFXUiJJuu2JqzZRvrcsmutZIa5lOwV4uboMBiW-fiF3PQo5TjPI7JmACsuTOuGApeeaS3mol6Eq4vGhVjNLPFOUMUbpRjiDBKF7kFZtdKVdd_NWS9L27gQgOaV1jukxbYdMw9iHxlsL27Hyf7rFKX5NqVCy4ot11z22CoBZhcZe396bw6lkbIi8g4CMl1B4Z6ev8ku9gJ1QErDFW-8viFyXTzpa_n9he6EMdIeVIEEWZ0yEIf0XBXmlkx4hyM2XfSa4fWsMcgGN4GLoLEUQzox7WYqSYBsalHfGgzbjNdyOSvGYMZSaFggASoJdXMtZWFzdC0xML8C.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/canaldegobierno
 #EXTINF:-1 tvg-id="GT | TVS Retro" tvg-name="GT | TVS Retro" tvg-logo="https://static.wixstatic.com/media/7acae1_cedb3160f2f54e378f9990c5a5a49a1d~mv2.png" group-title="GUATEMALA", 542 | TVS Retro || GUATEMALA
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 tvg-id="GT | Telemaya" tvg-name="GT | Telemaya" tvg-logo="https://www.telemaya.com/images/logo.png" group-title="GUATEMALA", 543 | Telemaya || GUATEMALA
