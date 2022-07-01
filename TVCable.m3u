@@ -347,7 +347,11 @@ http://190.122.96.187:8888/http/010
 http://177.53.152.186:8000/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="CL | Fitmaxx TV" tvg-name="CL | Fitmaxx TV" tvg-logo="https://pbs.twimg.com/media/FSk6Zq7WQAA7Cp8?format=png&name=240x240" group-title="DEPORTES", 166 | Fitmaxx TV
 http://177.53.152.186:8000/play/a00k/index.m3u8
-#EXTINF:-1 tvg-id="SLV | Tigo Sports" tvg-name="SLV | Tigo Sports" tvg-logo="https://www.tigosports.com.sv/sites/default/files/mainlogo_6.png" group-title="DEPORTES", 167 | Tigo Sports || EL SALVADOR
+#EXTINF:-1 tvg-id="GT | Tigo Sports" tvg-name="GT | Tigo Sports" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/e3/ec/3c/e3ec3c91-48f6-d53d-eaa9-702f02fb3881/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x600wa.png" group-title="DEPORTES", 167 | Tigo Sports || GUATEMALA
+http://titanlivetv.com:8080/live/8cEW8XH37tDT/GP4qLxWhcCkd/359001.m3u8
+#EXTINF:-1 tvg-id="GT | Tigo Sports +" tvg-name="GT | Tigo Sports +" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/10484954.jpg" group-title="DEPORTES", 167.2 | Tigo Sports + || GUATEMALA
+http://titanlivetv.com:8080/live/8cEW8XH37tDT/GP4qLxWhcCkd/126030.m3u8
+#EXTINF:-1 tvg-id="SLV | Tigo Sports" tvg-name="SLV | Tigo Sports" tvg-logo="https://www.tigosports.com.sv/sites/default/files/mainlogo_6.png" group-title="DEPORTES", 167.3 | Tigo Sports || EL SALVADOR
 http://titanlivetv.com:8080/live/8cEW8XH37tDT/GP4qLxWhcCkd/112985.m3u8
 #EXTINF:-1 tvg-id="PE | EdX TV" tvg-name="PE | EdX TV" tvg-logo="https://pbs.twimg.com/media/FVzsfVnWUAc1ffp?format=png&name=240x240" group-title="DEPORTES", 168 | EdX TV
 https://stream.plixitv.live/edx/edx/playlist.m3u8
