@@ -871,6 +871,8 @@ http://136.243.3.70:1935/XtoTv/XtoTv/playlist.m3u8
 https://master.tucableip.com/neotv/index.m3u8
 #EXTINF:-1 tvg-id="BO | Tu TV" tvg-name="BO | Tu TV" tvg-logo="https://yt3.ggpht.com/U47VmnRDhgLjdt3il6T-qGIRgfsdVefCCbhJO6FdtjoRg3wP3a6_Jcg9zKboHqcrpBD-5hwGug=s88-c-k-c0x00ffffff-no-rj" group-title="BOLIVIA", 412 | Tu TV || BOLIVIA
 https://stmv.panel.grupolimalive.com/tarija/tarija/playlist.m3u8
+#EXTINF:-1 tvg-id="BO | UPP TV" tvg-name="BO | UPP TV" tvg-logo="https://www.redbolivision.tv.bo/wp-content/uploads/2020/10/UPP-ULT.png" group-title="BOLIVIA", En prueba | UPP TV || BOLIVIA
+https://bo-bolivision-santacruz-live.ned.media/bolivision/smil:santacruz.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjU2OTE0MzYxLCJzZXNzaW9uIjoiMTgxLjE3Ni4xMjguNjkiLCJ3aGl0ZWxpc3QiOlsiMTgxLjE3Ni4xMjguNjkiXX0sInNpZ25hdHVyZSI6IjgzMjkyNThjOWE3YWJmNGE0OWFjMGNhZDJmYjQxMGZhYTllZWUxZmMifQ==
 #EXTINF:-1 tvg-id="CL | La Red" tvg-name="CL | La Red" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Emblema_de_La_Red.png/200px-Emblema_de_La_Red.png" group-title="CHILE", 413 | La Red || CHILE
 https://unlimited2-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CL | TV Chile" tvg-name="CL | TV Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/LogoTVCHILE.svg/100px-LogoTVCHILE.svg.png" group-title="CHILE", 414 | TV Chile || CHILE
@@ -972,17 +974,17 @@ http://tv.dominiotv.xyz:25461/live/cliente212a/jdkdowjnd/111560.m3u8
 #EXTINF:-1 tvg-id="PA | Eco TV" tvg-name="PA | Eco TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Ecotv.jpg/120px-Ecotv.jpg" group-title="PANAMÁ", 459 | Eco TV || PANAMÁ
 http://tv.dominiotv.xyz:25461/live/cliente212a/jdkdowjnd/103987.m3u8
 #EXTINF:-1 tvg-id="CR | Canal 2 Central de Radios" tvg-name="CR | Canal 2 Central de Radios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Repretel_2_CDR.png/120px-Repretel_2_CDR.png" group-title="COSTA RICA", 460 | Canal 2 CDR || COSTA RICA
-https://d3ou4v1ntyo64z.cloudfront.net/repretel/canal2/smil:live.smil/playlist.m3u8
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal2.m3u8
 #EXTINF:-1 tvg-id="CR | Canal 4" tvg-name="CR | Canal 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/150px-Repretel_4_logo.png" group-title="COSTA RICA", 461 | Canal 4 || COSTA RICA
-https://d3ou4v1ntyo64z.cloudfront.net/repretel/canal4/smil:live.smil/playlist.m3u8
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal4.m3u8
 #EXTINF:-1 tvg-id="CR | Canal 6" tvg-name="CR | Canal 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Canal6CR.png/150px-Canal6CR.png" group-title="COSTA RICA", 462 | Canal 6 Telecentro || COSTA RICA
-https://d3ou4v1ntyo64z.cloudfront.net/repretel/canal6/smil:live.smil/playlist.m3u8
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal6.m3u8
 #EXTINF:-1 tvg-id="CR | Teletica Canal 7" tvg-name="CR | Teletica Canal 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Teletica.png/120px-Teletica.png" group-title="COSTA RICA", 463 | Teletica || COSTA RICA
-https://stream-04.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5-7ZeGSR5rmzBxd1KLd-DbNKr7fY4pe5MCHTSFTzQl2t)/dm/3/x29e3wg/d/live-2.m3u8
+https://stream-06.ix7.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5x4WY8M01_87eZYgwRt5bm17oujO4AQzXUB2AAge8Ldk)/dm/3/x29e3wg/d/live-2.m3u8
 #EXTINF:-1 tvg-id="CR | Canal 8 de Costa Rica" tvg-name="CR | Canal 8 de Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Multi8.png/150px-Multi8.png" group-title="COSTA RICA", 464 | Canal 8 || COSTA RICA
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?uid=C3a7PpdAuZC3sabLt30lYaR3f8eZ4Cmi&sid=2quC4ekWQnoJZeHFhE8blHNWjoZquyAQ&pid=QzfOlvABGmd0T4Aqvnp6zBdfoSC9a9BR&an=screen&at=web-app&av=v5.2.190&ref=https%3A%2F%2Fwww.telediario.cr%2F&res=363x220&without_cookies=false&dnt=true
 #EXTINF:-1 tvg-id="CR | Canal 11" tvg-name="CR | Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/150px-Repretel_11_logo.png" group-title="COSTA RICA", 465 | Canal 11 || COSTA RICA
-https://d3ou4v1ntyo64z.cloudfront.net/repretel/canal11/smil:live.smil/playlist.m3u8
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal11.m3u8
 #EXTINF:-1 tvg-id="CR | Trece Costa Rica Televisión" tvg-name="CR | Trece Costa Rica Televisión" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/canal-13-trece-costa-rica-televisin-1576.png" group-title="COSTA RICA", 466 | Trece Costa Rica Televisión || COSTA RICA
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/sinart
 #EXTINF:-1 tvg-id="CR | TV Sur Canal 14" tvg-name="CR | TV Sur Canal 14" tvg-logo="https://www.tvsur.co.cr/wp-content/uploads/2020/05/tvsur-logo.png" group-title="COSTA RICA", 467 | TV Sur Canal 14 || COSTA RICA
@@ -1312,9 +1314,9 @@ http://190.122.96.187:8888/http/005
 #EXTINF:-1 tvg-id="USA | Univisión" tvg-name="USA | Univisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/150px-Logo_Univision_2019.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | Univisión
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/unv_076nl
 #EXTINF:-1 tvg-id="ES | La 1" tvg-name="ES | La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/125px-Logo_TVE-1.svg.png" group-title="ESPAÑA", 628 | La 1 || ESPAÑA
-https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-p.m3u8?sd=10&rebase=on
+https://ztnr.rtve.es/ztnr/3293681.m3u8
 #EXTINF:-1 tvg-id="ES | La 2" tvg-name="ES | La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/800px-Logo_TVE-2.svg.png" group-title="ESPAÑA", 629 | La 2 || ESPAÑA
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+https://ztnr.rtve.es/ztnr/3987218.m3u8
 #EXTINF:-1 tvg-id="ES | Telemadrid" tvg-name="ES | Telemadrid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/245px-TeleMadrid.svg.png" group-title="ESPAÑA", 630 | Telemadrid || ESPAÑA
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_2.m3u8
 #EXTINF:-1 tvg-id="ES | Antena 3" tvg-name="ES | Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/125px-Antena_3_%282017%29.svg.png" group-title="ESPAÑA", En prueba | Antena 3 || ESPAÑA
