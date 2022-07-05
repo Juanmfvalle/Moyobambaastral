@@ -936,9 +936,17 @@ http://tv.wolkplay.com:8880/Paul2021/Paul2021/24659
 #EXTINF:-1 tvg-id="UY | La Red" tvg-name="UY | La Red" tvg-logo="http://www.redtv.com.uy/wp-content/uploads/2019/10/logoheader2.png" group-title="URUGUAY", 435 | La Red || URUGUAY
 https://stm1.rootuy.xyz:19360/sdredtv/sdredtv.m3u8
 #EXTINF:-1 tvg-id="UY | Canal 11 Punta del Este" tvg-name="UY | Canal 11 Punta del Este" tvg-logo="https://canal11.uy/wp-content/uploads/2015/12/log.png" group-title="URUGUAY", 436 | Canal 11 Punta del Este || URUGUAY
-https://5e50264bd6766.streamlock.net/canal11ury/videocanal11ury/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDIyIDE6MzY6MDggUE0maGFzaF92YWx1ZT14VHFpVERUWXNwVFFEVk1vTVhldTR3PT0mdmFsaWRtaW51dGVzPTUmaWQ9
+https://5e50264bd6766.streamlock.net/canal11ury/videocanal11ury/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny81LzIwMjIgNDoxODoyNyBBTSZoYXNoX3ZhbHVlPXVXOEZIdG9UMi9kNkhBais4QTBYWGc9PSZ2YWxpZG1pbnV0ZXM9NSZpZD0=
 #EXTINF:-1 tvg-id="UY | UCL TV" tvg-name="UY | UCL TV" tvg-logo="https://www.ucltelevision.com/wp-content/uploads/2021/04/cropped-Logo-UCL-TV-LATAM-horizontal-132x65.png" group-title="URUGUAY", 437 | Un Canal Latinoamericano TV || URUGUAY
 http://162.246.18.122:8081/telepuerto-master/ucl-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="UY | Telerocha" tvg-name="UY | Telerocha" tvg-logo="https://canal9telerocha.com.uy/wp-content/uploads/2020/06/cropped-cropped-LOGO-9-HD-carta.png" group-title="URUGUAY", En prueba | Telerocha || URUGUAY
+https://stm1.rootuy.xyz:19360/canal9/canal9.m3u8
+#EXTINF:-1 tvg-id="UY | Canal 23 TVD Florida" tvg-name="UY | Canal 23 TVD Florida" tvg-logo="https://1.bp.blogspot.com/-n-ToclaJnhU/YTo17oV6nPI/AAAAAAAAQgk/YKWlAtGijwkfrlfVixbJ4sK3uYB9cKXDwCLcBGAsYHQ/w700-h400-p-k-no-nu/canal-tvflorida-en-vivo_optimized.jpg" group-title="URUGUAY", En prueba | Canal 23 TVD Florida || URUGUAY
+https://60ed5b6d0df78.streamlock.net:1936/tvflorida/tvflorida/playlist.m3u8
+#EXTINF:-1 tvg-id="UY | Canal Más" tvg-name="UY | Canal Más" tvg-logo="https://1.bp.blogspot.com/-ccYjGVsMmgw/YTo__hFLQZI/AAAAAAAAQjM/aRT_Z9HacmAP3PemqJMXJzyOOU3nIUEsACLcBGAsYHQ/w700-h400-p-k-no-nu/m%25C3%25A1s-televisi%25C3%25B3n-en-vivo_optimized.jpg" group-title="URUGUAY", En prueba | Canal Más || URUGUAY
+https://tv.tvcontrolcp.com:1936/8062/8062/playlist.m3u8
+#EXTINF:-1 tvg-id="UY | Charrua TV" tvg-name="UY | Charrua TV" tvg-logo="https://1.bp.blogspot.com/-5oMEGv6pLAo/YToskYNBjdI/AAAAAAAAQes/FLUAZ0CmW8E3ZqGT0XFAlD8GdMiD5TzewCLcBGAsYHQ/w700-h400-p-k-no-nu/charr%25C3%25BAa-televisi%25C3%25B3n-en-vivo_optimized.png" group-title="URUGUAY", En prueba | Charrua TV || URUGUAY
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/charruatvcanal
 #EXTINF:-1 tvg-id="PY | Noticias Paraguay" tvg-name="PY | Noticias Paraguay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/NPY_%28Noticias_Paraguay%29.png/250px-NPY_%28Noticias_Paraguay%29.png" group-title="PARAGUAY", 438 | Noticias Paraguay || PARAGUAY
 http://viperos.net:8080/live/lucas/123456/102411.m3u8
 #EXTINF:-1 tvg-id="PY | Telefuturo" tvg-name="PY | Telefuturo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Telefuturo2017.png/150px-Telefuturo2017.png" group-title="PARAGUAY", 439 | Telefuturo || PARAGUAY
