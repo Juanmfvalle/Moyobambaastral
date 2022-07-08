@@ -111,8 +111,6 @@ https://cloudvideo.servers10.com:8081/8168/index.m3u8
 https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Mittos TV" tvg-name="PE | Mittos TV" tvg-logo="https://play-lh.googleusercontent.com/8e4a1pVVFRgKK4eLNZqrZQm03qvvulePHZAlFWQ1q0TOMVjl2R2Rgk_HhIFx3wnDuwQ=w416-h235-rw" group-title="REGIONALES", En prueba | Mittos TV || Pucallpa
 https://cloudvideo.servers10.com:8081/8176/index.m3u8
-#EXTINF:-1 tvg-id="PE | TV Visión 47 Canal Cultural" tvg-name="PE | TV Visión 47 Canal Cultural" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS2uoKSwPU8V0SWo3Kw1BaObpuD7euWr6-qaAAW=s88-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", En prueba | TV Visión 47 Canal Cultural || Pucallpa
-https://72ce-201-114-106-84.ngrok.io/tmp_hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="PE | Activa TV" tvg-name="PE | Activa TV" tvg-logo="https://play-lh.googleusercontent.com/6ZdZAeMBKP96MJ21H7FpgAZrtDSp1PCprQ54k1eIBMi-ZO8yfQN2PkrGcutGEbq_DGg=s180-rw" group-title="REGIONALES", 50 | Activa TV || Manantay
 https://cloudvideo.servers10.com:8081/8070/index.m3u8
 #EXTINF:-1 tvg-id="PE | Boris TV" tvg-name="PE | Boris TV" tvg-logo="https://play-lh.googleusercontent.com/-w6q4wniQlrCbV7n5xhYd5pPiLNylojGdhz_xsLRNqiC5ZnAnBGVRI8zx4m_j5624w=s64-rw" group-title="REGIONALES", En prueba | Boris TV || Atalaya
@@ -1337,6 +1335,8 @@ https://cloudflare.streamgato.us:3044/live/morrotvlive.m3u8
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_4.m3u8
 #EXTINF:-1 tvg-id="MX | Canal 11" tvg-name="MX | Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_Actual_Canal_Once.png/200px-Logo_Actual_Canal_Once.png" group-title="MEXICO", 626 | Canal 11
 https://d24sa4vr9gvjv.cloudfront.net/index_720.m3u8
+#EXTINF:-1 tvg-id="MX | Canal Cultural" tvg-name="MX | Canal Cultural" tvg-logo="https://pbs.twimg.com/media/FXJjLAKWQAA3qfm?format=png&name=small" group-title="MEXICO", En prueba | Canal Cultural || Huauchinango; Puebla
+https://72ce-201-114-106-84.ngrok.io/tmp_hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="USA | Fox 5" tvg-name="USA | Fox 5" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTT6fpyiotYLlfDuj_uPu0_z32mS-p45P6vydfd_w=s900-c-k-c0x00ffffff-no-rj" group-title="ESTADOS UNIDOS DE AMÉRICA", 627 | Fox 5
 http://190.122.96.187:8888/http/005
 #EXTINF:-1 tvg-id="USA | Univisión" tvg-name="USA | Univisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/150px-Logo_Univision_2019.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | Univisión
