@@ -156,7 +156,7 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/SONYMOVIES/40-hls/live-media.
 #EXTINF:-1 tvg-id="CL | MX Family" tvg-name="CL | MX Family" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FAMILY-FONDO-2-300x169.jpg" group-title="PELICULAS Y SERIES", 69 | MX Family
 http://190.108.83.142:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="CL | MX Classic" tvg-name="CL | MX Classic" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-CLASIC-FONDO-2-300x169.jpg" group-title="PELICULAS Y SERIES", 70 | MX Classic
-http://177.53.152.186:8000/play/a004/index.m3u8
+http://190.108.83.142:8000/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="CL | MX Prime" tvg-name="CL | MX Prime" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FONDO-2-300x169.jpg" group-title="PELICULAS Y SERIES", 71 | MX Prime
 http://190.108.83.142:8000/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="CL | MX Old" tvg-name="CL | MX Old" tvg-logo="https://pbs.twimg.com/media/FSiok8rXIAECASi?format=jpg&name=120x120" group-title="PELICULAS Y SERIES", 72 | MX Old
@@ -640,7 +640,7 @@ https://servilive.com:3126/live/tele2000live.m3u8
 #EXTINF:-1 tvg-id="PE | Bella Abanquina Televisión" tvg-name="PE | Bella Abanquina Televisión" channelId="281" tvg-logo="https://image.winudf.com/v2/image1/YmVsbGEudHZjZW50cm9zZXJ2ZXJfaWNvbl8xNjAzNTc5ODQ0XzA4Mw/icon.png?w=170&fakeurl=1" group-title="REGIONALES", 300 | Bella Abanquina Televisión || Abancay
 https://v4.tustreaming.cl/bellatv/index.m3u8
 #EXTINF:-1 tvg-id="PE | Compañía de Televisión Cusqueña" tvg-name="PE | Compañía de Televisión Cusqueña" channelId="282" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/CTC-Compa%C3%B1%C3%ADa-de-Televisi%C3%B3n-Cusque%C3%B1a-en-vivo-Online-100x70.png" group-title="REGIONALES", 301 | CTC || Cuzco
-http://177.53.152.186:8000/play/a007/index.m3u8
+http://190.108.83.142:8000/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="PE | DMJ Televisión" tvg-name="PE | DMJ Televisión" tvg-logo="https://www.dmjsur.com/wp-content/uploads/2016/08/dmj.png" group-title="REGIONALES", 302 | DMJ Televisión || Cuzco
 https://v4.tustreaming.cl/s1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | QT Televisión" tvg-name="PE | QT Televisión" tvg-logo="http://tv.10dailythings.com/images/channels/PE/qt-television-cuzco-720p-not-247/normal.png" group-title="REGIONALES", 303 | QT Televisión || Cuzco
