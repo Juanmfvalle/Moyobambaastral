@@ -1167,18 +1167,18 @@ http://51.161.12.229:1935/CanalAntigua/myStream/chunklist_w1313531480.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/veacanalgt
 #EXTINF:-1 tvg-id="GT | Canal de Gobierno" tvg-name="GT | Canal de Gobierno" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR_Hm3vKJu8-yXqyi7Q66F8ME2CsBddRLq4JnyVcQ=s88-c-k-c0x00ffffff-no-rj" group-title="GUATEMALA", 541 | Canal de Gobierno || GUATEMALA
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/GobiernodeGuatemala
-#EXTINF:-1 tvg-id="GT | Televisión Departamental Sololá" tvg-name="GT | Televisión Departamental Sololá" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSty18cfbX8fc5AhCUoQNosfvdF6OUGS7XfObo7WA=s900-c-k-c0x00ffffff-no-rj" group-title="GUATEMALA", En prueba | Televisión Departamental Sololá || GUATEMALA
+#EXTINF:-1 tvg-id="GT | TDS" tvg-name="GT | TDS" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSty18cfbX8fc5AhCUoQNosfvdF6OUGS7XfObo7WA=s900-c-k-c0x00ffffff-no-rj" group-title="GUATEMALA", En prueba | Televisión Departamental Sololá || GUATEMALA
 http://45.5.117.138:25461/playgt/123456/120
-#EXTINF:-1 tvg-id="GT | TVS Retro" tvg-name="GT | TVS Retro" tvg-logo="https://static.wixstatic.com/media/7acae1_cedb3160f2f54e378f9990c5a5a49a1d~mv2.png" group-title="GUATEMALA", 542 | TVS Retro || GUATEMALA
-https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-#EXTINF:-1 tvg-id="GT | Telemaya" tvg-name="GT | Telemaya" tvg-logo="https://www.telemaya.com/images/logo.png" group-title="GUATEMALA", 543 | Telemaya || GUATEMALA
-https://tv91.hostingnuclear.com:19360/telemaya/telemaya.m3u8
-#EXTINF:-1 tvg-id="GT | TV Radio Maya" tvg-name="GT | TV Radio Maya" tvg-logo="https://d6scj24zvfbbo.cloudfront.net/07b2980a5c2c0fb9c4babbf90a196f49/200000010-25a1825a1a/200/LOGO%20RADIO%20MAYA%20NUEVO%20.png?ph=0a6e80f01c" group-title="GUATEMALA", 544 | TV Radio Maya || GUATEMALA
-https://video.misistemareseller.com/tvradiomaya/tvradiomaya/playlist.m3u8
-#EXTINF:-1 tvg-id="GT | Canal 8 de Nueva Santa Rosa" tvg-name="GT | Canal 8 de Nueva Santa Rosa" tvg-logo="https://static.wixstatic.com/media/7acae1_a986824eaf454764a466d8a78dde6b75~mv2.png" group-title="GUATEMALA", 545 | Canal 8 de Nueva Santa Rosa || GUATEMALA
-https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
-#EXTINF:-1 tvg-id="GT | Canal 9 Sololá" tvg-name="GT | Canal 9 Sololá" tvg-logo="https://static.wixstatic.com/media/7acae1_af8e141a8b0641ba8b1f6e818ed47357~mv2.png" group-title="GUATEMALA", 546 | Canal 9 Sololá || GUATEMALA
+#EXTINF:-1 tvg-id="GT | Canal 9 Sololá" tvg-name="GT | Canal 9 Sololá" tvg-logo="https://static.wixstatic.com/media/7acae1_af8e141a8b0641ba8b1f6e818ed47357~mv2.png" group-title="GUATEMALA", 542 | Canal 9 Sololá || GUATEMALA
 https://cdn.streamhispanatv.net:3113/live/canal9tvgtlive.m3u8
+#EXTINF:-1 tvg-id="GT | TVS Retro" tvg-name="GT | TVS Retro" tvg-logo="https://static.wixstatic.com/media/7acae1_cedb3160f2f54e378f9990c5a5a49a1d~mv2.png" group-title="GUATEMALA", 543 | TVS Retro || GUATEMALA
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1 tvg-id="GT | Telemaya" tvg-name="GT | Telemaya" tvg-logo="https://www.telemaya.com/images/logo.png" group-title="GUATEMALA", 544 | Telemaya || GUATEMALA
+https://tv91.hostingnuclear.com:19360/telemaya/telemaya.m3u8
+#EXTINF:-1 tvg-id="GT | TV Radio Maya" tvg-name="GT | TV Radio Maya" tvg-logo="https://d6scj24zvfbbo.cloudfront.net/07b2980a5c2c0fb9c4babbf90a196f49/200000010-25a1825a1a/200/LOGO%20RADIO%20MAYA%20NUEVO%20.png?ph=0a6e80f01c" group-title="GUATEMALA", 545 | TV Radio Maya || GUATEMALA
+https://video.misistemareseller.com/tvradiomaya/tvradiomaya/playlist.m3u8
+#EXTINF:-1 tvg-id="GT | Canal 8 de Nueva Santa Rosa" tvg-name="GT | Canal 8 de Nueva Santa Rosa" tvg-logo="https://static.wixstatic.com/media/7acae1_a986824eaf454764a466d8a78dde6b75~mv2.png" group-title="GUATEMALA", 546 | Canal 8 de Nueva Santa Rosa || GUATEMALA
+https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
 #EXTINF:-1 tvg-id="GT | Teve Globo" tvg-name="GT | Teve Globo" tvg-logo="https://teveglobo.s3.us-east-2.amazonaws.com/Logo.png" group-title="GUATEMALA", 547 | Teve Globo de Quetzaltenango || GUATEMALA
 https://videoserver.tmcreativos.com:19360/8046/8046.m3u8
 #EXTINF:-1 tvg-id="GT | Nim TV" tvg-name="GT | Nim TV" tvg-logo="https://static.wixstatic.com/media/7acae1_a52030788e08407abb6f67a51e0d5276~mv2.png" group-title="GUATEMALA", 548 | Nim TV || GUATEMALA
