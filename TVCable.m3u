@@ -1041,15 +1041,13 @@ http://nicatv.rylco.com:8075/channel9/playlist.m3u8
 http://nicatv.rylco.com:8075/channel10/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Canal 11 TV Red" tvg-name="NI | Canal 11 TV Red" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Canal-11-Nicaragua-en-vivo-Online-100x70.png" group-title="NICARAGUA", 480 | Canal 11 TV Red || NICARAGUA
 http://nicatv.rylco.com:8075/channel11/playlist.m3u8
-#EXTINF:-1 tvg-id="NI | Nicavisión Canal 12" tvg-name="NI | Nicavisión Canal 12" tvg-logo="http://www.canal12.com.ni/assets/logo_horizontal-b7fe143ebd9e9dab2e72ffea436db26fce21c81b7ae6ac430ede875f5df30657.png" group-title="NICARAGUA", 481 | Canal 12 Nicavisión || NICARAGUA
-https://5ca9af4645e15.streamlock.net/canal12/videocanal12/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIyIDE6NDk6MDcgQU0maGFzaF92YWx1ZT1SWkJLejdtQ2pVTHpkeHU5RWlZTE9BPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
-#EXTINF:-1 tvg-id="NI | Viva Nicaragua Canal 13" tvg-name="NI | Viva Nicaragua Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Logo_Viva_Nicaragua_Canal_13.png/200px-Logo_Viva_Nicaragua_Canal_13.png" group-title="NICARAGUA", 482 | Viva Nicaragua Canal 13 || NICARAGUA
+#EXTINF:-1 tvg-id="NI | Viva Nicaragua Canal 13" tvg-name="NI | Viva Nicaragua Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Logo_Viva_Nicaragua_Canal_13.png/200px-Logo_Viva_Nicaragua_Canal_13.png" group-title="NICARAGUA", 481 | Viva Nicaragua Canal 13 || NICARAGUA
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vivanicaragua13
-#EXTINF:-1 tvg-id="NI | Vos TV Canal 14" tvg-name="NI | Vos TV Canal 14" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/14_de_nicaragua-mediano.png" group-title="NICARAGUA", 483 | Vos TV || NICARAGUA
+#EXTINF:-1 tvg-id="NI | Vos TV Canal 14" tvg-name="NI | Vos TV Canal 14" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/14_de_nicaragua-mediano.png" group-title="NICARAGUA", 482 | Vos TV || NICARAGUA
 http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8
-#EXTINF:-1 tvg-id="NI | Canal 15" tvg-name="NI | Canal 15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Canal_15_Nicarag%C3%BCense_2019.png/150px-Canal_15_Nicarag%C3%BCense_2019.png" group-title="NICARAGUA", 484 | Canal 15 || NICARAGUA
+#EXTINF:-1 tvg-id="NI | Canal 15" tvg-name="NI | Canal 15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Canal_15_Nicarag%C3%BCense_2019.png/150px-Canal_15_Nicarag%C3%BCense_2019.png" group-title="NICARAGUA", 483 | Canal 15 || NICARAGUA
 http://nicatv.rylco.com:8075/channel15/playlist.m3u8
-#EXTINF:-1 tvg-id="NI | WTV Canal 20" tvg-name="NI | WTV Canal 20" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQJYlaCX1UArt5jM5r0sYe2E46sgxqbpuudC75Qaw=s900-c-k-c0x00ffffff-no-rj" group-title="NICARAGUA", En prueba | WTV Canal 20 || NICARAGUA
+#EXTINF:-1 tvg-id="NI | WTV Canal 20" tvg-name="NI | WTV Canal 20" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQJYlaCX1UArt5jM5r0sYe2E46sgxqbpuudC75Qaw=s900-c-k-c0x00ffffff-no-rj" group-title="NICARAGUA", 484 | WTV Canal 20 || NICARAGUA
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 #EXTINF:-1 tvg-id="NI | La Rock 22" tvg-name="NI | La Rock 22" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/LaRock22.png.jpg/245px-LaRock22.png.jpg" group-title="NICARAGUA", 485 | La Rock 22 || NICARAGUA
 http://nicatv.rylco.com:8075/channel22/playlist.m3u8
@@ -1057,6 +1055,8 @@ http://nicatv.rylco.com:8075/channel22/playlist.m3u8
 http://nicatv.rylco.com:8075/channel23/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | TV One" tvg-name="NI | TV One" tvg-logo="https://tvonenicaragua.com/wp-content/uploads/2020/02/logo-central-correcto2.png" group-title="NICARAGUA", 487 | TV One || NICARAGUA
 https://srv.panelcast.net/tvoneni/tvoneni/playlist.m3u8
+#EXTINF:-1 tvg-id="NI | Yes TV" tvg-name="NI | Yes TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLROnrZCI5VnoF_aU_h4znfefMJCbBFaq93S_hMR=s900-c-k-c0x00ffffff-no-rj" group-title="NICARAGUA", En prueba | Yes TV || NICARAGUA
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/canalyestv
 #EXTINF:-1 tvg-id="SLV | Canal 2" tvg-name="SLV | Canal 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/TCS_2_2016.png/150px-TCS_2_2016.png" group-title="EL SALVADOR", 488 | Canal 2 || EL SALVADOR
 https://telecorporacion.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/live-video=2000000-audio_0=64000.m3u8
 #EXTINF:-1 tvg-id="SLV | Canal 4" tvg-name="SLV | Canal 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/245px-Canal_4_TCS.png" group-title="EL SALVADOR", 489 | Canal 4 || EL SALVADOR
