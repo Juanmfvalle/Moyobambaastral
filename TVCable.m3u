@@ -656,7 +656,7 @@ http://vps-c97214f4.vps.ovh.net/hls/ecutv4.m3u8
 #EXTINF:-1 tvg-id="EC | Televicentro" tvg-name="EC | Televicentro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/TVCEC.png/150px-TVCEC.png" group-title="ECUADOR", 318 | TVC || ECUADOR
 https://d6op0qag07k4o.cloudfront.net/hls/tvc.m3u8
 #EXTINF:-1 tvg-id="EC | Ecuador TV" tvg-name="EC | Ecuador TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/150px-EcuadorTV_logo.png" group-title="ECUADOR", 319 | Ecuador TV || ECUADOR
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ECUADORTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DECUADORTV_stream_wj&_cdn_session=258788747&_cdn_timestamp=1657902927&_cdn_token=f05e4f431a9583c950e6e606c48dd2b731fc2b40
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ECUADORTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DECUADORTV_stream_wj&_cdn_session=259943171&_cdn_timestamp=1657985807&_cdn_token=c2d59145562c971230639583d768d814540fdcd3
 #EXTINF:-1 tvg-id="EC | Ecuavisa" tvg-name="EC | Ecuavisa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/200px-Ecuavisa_Logo_2019.png" group-title="ECUADOR", 320 | Ecuavisa || ECUADOR
 http://vps-c97214f4.vps.ovh.net/hls/ecutv1.m3u8?aa
 #EXTINF:-1 tvg-id="EC | Red Telesistema" tvg-name="EC | Red Telesistema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/150px-Rts_logo.png" group-title="ECUADOR", 321 | RTS || ECUADOR
@@ -1120,9 +1120,9 @@ https://dslvfq5ee0geu.cloudfront.net/hls/canal3.m3u8
 #EXTINF:-1 tvg-id="GT | Televisiete" tvg-name="GT | Televisiete" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Televisiete.png/200px-Televisiete.png" group-title="GUATEMALA", 544 | Televisiete || GUATEMALA
 https://dslvfq5ee0geu.cloudfront.net/hls/canal7.m3u8
 #EXTINF:-1 tvg-id="GT | Teleonce" tvg-name="GT | Teleonce" tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-11-guatemala_m.png" group-title="GUATEMALA", 545 | Teleonce || GUATEMALA
-http://89.163.140.28:25461/stream/stream/57?token=TxdaBBZRQANGUwtTBVBbVAdRBlsLVAoBAgIHBwQPVlRXVAVdUl0AWwYUFUBFFRBUBAs6UFYQAgIBTUFFFlwWO11REF9HCEAVRkJQD1NDWABTU1IBCwQABwJNQUAMXUZeFgcFVVINQBVGU0EWUxMMUAk5AVxEW1tSFFsNRQlVSEZbW20BAFQDVwAUA0AGQ04TDBUVGwhcTVtaTUFSDE0WBUBQEF9HCFMMUBQVQFUOF18RFBwbCBBochRNQVUdTQEKR1xdC0cDQE0XFBVAXxI9QwAVEUtXU1VSRENZElUbSEZZVEo6BlYMVwFVTQtZDxETX0RUCQICCBUaQw5fC1AQC0ZqQgwBG1gbVQINWgNDHw==
+http://45.5.117.138:25461/playgt/123456/83
 #EXTINF:-1 tvg-id="GT | Trecevisión" tvg-name="GT | Trecevisión" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/9/9f/TreceVision.jpg/revision/latest/scale-to-width-down/120?cb=20170304043418&path-prefix=es" group-title="GUATEMALA", 546 | Trecevisión || GUATEMALA
-http://89.163.140.28:25461/stream/stream/61?token=TxdaBBZRQANGBA5TDgJWVVICVwBRCwgCVVAGAgQNUlRVU1BXVFxTAVYUFUBFFRBUBAs6UFYQAgEHTUFFFlwWO11REF9HCEAVRkJQD1NDWABTU1IBCwUIAgRNQUAMXUZeFgcGVlIAQBVGU0EWUxMMUAk5AVxEW1tSFFsNRQlVSEZbW20BAFQDVwAUA0AGQ04TDBUVGwhcTVtaTUFSDE0WBUBQEF9HCFYBRhobAVkUDEUXH0cDEGJ9FRpDBkgRXAoXXVpcR18bFkpGGhsLRT4QVBYSF1xTX11FFFtBAEcVRglVTW0GClcMXAdCUA1YEkALR1dVCQICGhsUDAxeDE0LFmtFWwFHA0APUAcJQEs=
+http://45.5.117.138:25461/playgt/123456/84
 #EXTINF:-1 tvg-id="GT | TN 23" tvg-name="GT | TN 23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/TN23logo2016.png/250px-TN23logo2016.png" group-title="GUATEMALA", 547 | TN 23 || GUATEMALA
 https://dslvfq5ee0geu.cloudfront.net/hls/canal23.m3u8
 #EXTINF:-1 tvg-id="GT | Guatevisión" tvg-name="GT | Guatevisión" tvg-logo="https://www.guatevision.com/wp-content/uploads/sites/2/2019/09/logo-1.png?quality=82" group-title="GUATEMALA", 548 | Guatevisión || GUATEMALA
