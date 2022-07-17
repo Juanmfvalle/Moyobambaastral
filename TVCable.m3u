@@ -32,7 +32,7 @@ https://v4.tustreaming.cl/odtvgo/index.m3u8
 #EXTINF:-1 tvg-id="PE | USMP TV" tvg-name="PE | USMP TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/USMP_TV_2017.svg/revision/latest/scale-to-width-down/56?cb=20210504214359&path-prefix=es" group-title="PERU", 12 | USMP Televisión
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/USMPTV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUSMPTV_stream_61&_cdn_session=262195523&_cdn_timestamp=1658141891&_cdn_token=daee11e9b9f944d6f79038e8e63d0f66724256ca
 #EXTINF:-1 tvg-id="PE | Global Televisión" tvg-name="PE | Global Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Global_TV_2019.png" group-title="PERU", 13 | Global Televisión
-http://190.108.83.142:8000/play/a00x/index.m3u8
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=262253419&_cdn_timestamp=1658146473&_cdn_token=2a988866a9f5e2a50e94742428def05aa325a968
 #EXTINF:-1 tvg-id="PE | Controversia TV" tvg-name="PE | Controversia TV" tvg-logo="https://playmax.tv/wp-content/uploads/2020/07/controversia.jpg" group-title="LOCALES", 14 | Controversia Televisión || Moyobamba
 https://live.obslivestream.com/controversiatv/index.m3u8
 #EXTINF:-1 tvg-id="PE | Sanjuanera TV" tvg-name="PE | Sanjuanera TV" tvg-logo="http://tv.10dailythings.com/images/channels/PE/sanjuaneratv-1080p-not-247/normal.png" group-title="LOCALES", 15 | Sanjuanera Televisión || Moyobamba
@@ -136,7 +136,7 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AMC/10-hls/live-media.m3u8?_c
 #EXTINF:-1 tvg-id="USA | AXN" tvg-name="USA | AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png" group-title="PELICULAS Y SERIES", 64 | AXN
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AXN/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAXN_stream_wo&_cdn_session=261021507&_cdn_timestamp=1658062524&_cdn_token=6a3877408b5e0eef5da1d05f399a37bc600b79cc
 #EXTINF:-1 tvg-id="MX | Azteca Cinema" tvg-name="MX | Azteca Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TV_Azteca_Cinema_logo.svg/200px-TV_Azteca_Cinema_logo.svg.png" group-title="PELICULAS Y SERIES", 65 | Azteca Cinema
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AZCINEMA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZCINEMA_stream_eg&_cdn_session=261021659&_cdn_timestamp=1658062537&_cdn_token=a95326e9a3b149c21fe1258612ccf8c8a1f4a075
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AZCINEMA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZCINEMA_stream_eg&_cdn_session=262257059&_cdn_timestamp=1658146827&_cdn_token=26b2eece8375afd6f40451a0527a6739e9fb3ea2
 #EXTINF:-1 tvg-id="USA | Cinelife" tvg-name="USA | Cinelife" tvg-logo="https://cinelife.com/wp-content/uploads/2020/04/cinelife_logo.png" group-title="PELICULAS Y SERIES", 66 | Cinelife
 https://magnolia-cinelife.amagi.tv/amRdirect/did=&gdpr=&lat=&lon=&us_privacy=&consent=&dnt=/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Cineastral" tvg-name="PE | Cineastral" tvg-logo="https://pbs.twimg.com/media/FSKSQSAXwAEBxq0?format=jpg&name=360x360" group-title="PELICULAS Y SERIES", 67 | Cineastral || Moyobamba
@@ -656,7 +656,7 @@ http://vps-c97214f4.vps.ovh.net/hls/ecutv4.m3u8
 #EXTINF:-1 tvg-id="EC | Televicentro" tvg-name="EC | Televicentro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/TVCEC.png/150px-TVCEC.png" group-title="ECUADOR", 318 | TVC || ECUADOR
 https://d6op0qag07k4o.cloudfront.net/hls/tvc.m3u8
 #EXTINF:-1 tvg-id="EC | Ecuador TV" tvg-name="EC | Ecuador TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/150px-EcuadorTV_logo.png" group-title="ECUADOR", 319 | Ecuador TV || ECUADOR
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ECUADORTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DECUADORTV_stream_wj&_cdn_session=261041363&_cdn_timestamp=1658064049&_cdn_token=54a8d750b16465d3a05ee4f05ac8692ac8b52cfd
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ECUADORTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DECUADORTV_stream_wj&_cdn_session=262254291&_cdn_timestamp=1658146564&_cdn_token=0f25120c281fe7d8ead0ebef5e8aa4d63acc21b3
 #EXTINF:-1 tvg-id="EC | Ecuavisa" tvg-name="EC | Ecuavisa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/200px-Ecuavisa_Logo_2019.png" group-title="ECUADOR", 320 | Ecuavisa || ECUADOR
 http://vps-c97214f4.vps.ovh.net/hls/ecutv1.m3u8?aa
 #EXTINF:-1 tvg-id="EC | Red Telesistema" tvg-name="EC | Red Telesistema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/150px-Rts_logo.png" group-title="ECUADOR", 321 | RTS || ECUADOR
@@ -768,7 +768,7 @@ https://vcp.myplaytv.com/coll/coll/playlist.m3u8
 #EXTINF:-1 tvg-id="VE | TV Familia" tvg-name="VE | TV Familia" tvg-logo="https://secureservercdn.net/45.40.146.28/1xm.7a5.myftpupload.com/wp-content/uploads/2020/07/loop-TVF-Tex-Blanco-Fondo-Negro.gif?time=1637455454" group-title="VENEZUELA", 373 | TV Familia || VENEZUELA
 https://cdn01.yowi.tv/KPFPGJU8A6/live-600.m3u8
 #EXTINF:-1 tvg-id="VE | IVC" tvg-name="VE | IVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/IVC_Network_Logo.png/150px-IVC_Network_Logo.png" group-title="VENEZUELA", 374 | IVC Networks || VENEZUELA
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/IVCNETWORKS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DIVCNETWORKS_stream_fl&_cdn_session=261041491&_cdn_timestamp=1658064058&_cdn_token=fcd3bee6437525e8249111baba1c466d311d73c5
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/IVCNETWORKS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DIVCNETWORKS_stream_fl&_cdn_session=262254763&_cdn_timestamp=1658146607&_cdn_token=dfd4588fc37959f4a63f309df30c831d65744081
 #EXTINF:-1 tvg-id="VE | Promociones Telemaracay C.A." tvg-name="VE | Promociones Telemaracay C.A." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TVS_Venezuela.png" group-title="VENEZUELA", 375 | TVS || VENEZUELA
 https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8
 #EXTINF:-1 tvg-id="VE | TVO" tvg-name="VE | TVO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/TVO-2015.png/245px-TVO-2015.png" group-title="VENEZUELA", 376 | Televisora de Oriente || VENEZUELA
@@ -788,7 +788,7 @@ https://distrib010.noisypeak.com/d/ZNC912ALUX18TOYWN3J9/hls3/now_-1m_15s/m.m3u8
 #EXTINF:-1 tvg-id="VE | Vene TV" tvg-name="VE | Vene TV" tvg-logo="https://pbs.twimg.com/media/FSNhTK4WQAACh5Q?format=jpg&name=900x900" group-title="VENEZUELA", 383 | Vene TV || VENEZUELA
 http://177.53.152.186:8000/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="BR | SBT" tvg-name="BR | SBT" tvg-logo="https://www.adlatina.com/uploads/img/fotoNoticiaG44044.jpg" group-title="BRASIL", 384 | SBT || BRASIL
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/SBTBRASIL/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSBTBRASIL_stream_7j&_cdn_session=261041755&_cdn_timestamp=1658064083&_cdn_token=5d35828b001e5fc7af42aa3c8e956f368e440ad7
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/SBTBRASIL/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSBTBRASIL_stream_7j&_cdn_session=262254875&_cdn_timestamp=1658146618&_cdn_token=17d8067ccf0f6fbc6ef0ca11d7e9db442cec00b3
 #EXTINF:-1 tvg-id="BR | Rede TV" tvg-name="BR | Rede TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/89/Logotipo_da_RedeTV%21.png/200px-Logotipo_da_RedeTV%21.png" group-title="BRASIL", 385 | Rede TV || BRASIL
 https://livefocamundo.com:8081/tvjsid/index.m3u8
 #EXTINF:-1 tvg-id="BR | TVN" tvg-name="BR | TVN" tvg-logo="https://pbs.twimg.com/profile_images/1677441762/logo_nova_400x400.jpg" group-title="BRASIL", 386 | TVN || BRASIL
@@ -866,7 +866,7 @@ https://d2byzrnrdb259r.cloudfront.net/hls/upptv.m3u8
 #EXTINF:-1 tvg-id="CL | La Red" tvg-name="CL | La Red" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Emblema_de_La_Red.png/200px-Emblema_de_La_Red.png" group-title="CHILE", 420 | La Red || CHILE
 https://unlimited2-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CL | TV Chile" tvg-name="CL | TV Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/LogoTVCHILE.svg/100px-LogoTVCHILE.svg.png" group-title="CHILE", 421 | TV Chile || CHILE
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TVCHILE/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVCHILE_stream_w4&_cdn_session=261041995&_cdn_timestamp=1658064100&_cdn_token=97730d309bce7ea3a21737640f7cb6bd18e842ba
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TVCHILE/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVCHILE_stream_w4&_cdn_session=262255763&_cdn_timestamp=1658146691&_cdn_token=d19e5a4c03c5723570badadca777a0bd48e58d8c
 #EXTINF:-1 tvg-id="CL | Mega" tvg-name="CL | Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mega_Chile_2020.png/145px-Mega_Chile_2020.png" group-title="CHILE", 422 | Mega || CHILE
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CL | UChile TV" tvg-name="CL | UChile TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/UChile_TV_logo_2020.png/245px-UChile_TV_logo_2020.png" group-title="CHILE", 423 | UChile TV || CHILE
@@ -894,11 +894,11 @@ http://190.3.169.119:8080/latina/latina/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CL | Holvoet TV" tvg-name="CL | Holvoet TV" tvg-logo="https://newses.cgtn.com/n/BfJAA-CIA-HAA/BHJeGAA.jpg" group-title="CHILE", 431 | Holvoet TV || CHILE
 http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-id="AR | Telefe" tvg-name="AR | Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Telefe_Internacional_%282018%29.png/150px-Telefe_Internacional_%282018%29.png" group-title="INTERNACIONALES", 432 | Telefe Internacional || ARGENTINA
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TELEFE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEFE_stream_te&_cdn_session=261042867&_cdn_timestamp=1658064165&_cdn_token=7c394e8b3e36ed8ffb1dac6c36a15dd8343abe19
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TELEFE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEFE_stream_te&_cdn_session=262256451&_cdn_timestamp=1658146747&_cdn_token=b75fe4219324e4fc654095b773852cd7e5783b0c
 #EXTINF:-1 tvg-id="AR | El Nueve" tvg-name="AR | El Nueve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Canal_9_2015.png/120px-Canal_9_2015.png" group-title="ARGENTINA", 433 | El Nueve || ARGENTINA
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/c573f9a8-4ba9-4ec2-b77a-7ebf27a154da/5.m3u8
 #EXTINF:-1 tvg-id="AR | El Trece" tvg-name="AR | El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/120px-Logo_de_eltrece_lanzado_en_2016.png" group-title="INTERNACIONALES", 434 | El Trece || ARGENTINA
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TRECEARGENTINA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRECEARGENTINA_stream_e4&_cdn_session=261043043&_cdn_timestamp=1658064175&_cdn_token=27bdb7f303061ec9fe55f4cf0528547d96139af1
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TRECEARGENTINA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRECEARGENTINA_stream_e4&_cdn_session=262256043&_cdn_timestamp=1658146718&_cdn_token=5d51f176a5c76db3f0023ac97be40507265f1825
 #EXTINF:-1 tvg-id="AR | Argentinísima Satelital" tvg-name="AR | Argentinísima Satelital" tvg-logo="http://argentinisimatv.com.ar/wp-content/uploads/2017/09/LOGO-1.png" group-title="ARGENTINA", 435 | Argentinísima Satelital || ARGENTINA
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AR | Encuentro TV" tvg-name="AR | Encuentro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/150px-Logo_del_canal_Encuentro.svg.png" group-title="ARGENTINA", 436 | Encuentro TV || ARGENTINA
@@ -1334,7 +1334,7 @@ https://ztnr.rtve.es/ztnr/3987218.m3u8
 #EXTINF:-1 tvg-id="ES | Telemadrid" tvg-name="ES | Telemadrid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/245px-TeleMadrid.svg.png" group-title="ESPAÑA", 650 | Telemadrid || ESPAÑA
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_2.m3u8
 #EXTINF:-1 tvg-id="ES | Antena 3" tvg-name="ES | Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/125px-Antena_3_%282017%29.svg.png" group-title="ESPAÑA", 651 | Antena 3 || ESPAÑA
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ANTENA3/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DANTENA3_stream_9o&_cdn_session=261043395&_cdn_timestamp=1658064204&_cdn_token=22487e0139f06c6726da329004441984d4938932
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ANTENA3/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DANTENA3_stream_9o&_cdn_session=262256699&_cdn_timestamp=1658146771&_cdn_token=84d349b5dd1869f8e77c2c863f6ac68790226917
 #EXTINF:-1 tvg-id="ES | TV Galicia América" tvg-name="ES | TV Galicia América" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/75px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="ESPAÑA", 652 | TV Galicia América || ESPAÑA
 https://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 #EXTINF:-1 tvg-id="ES | Córdoba TV" tvg-name="ES | Córdoba TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSgVgo2JIuWIRczlo8FaYXvLw9PdUl9-wMezPIEyg=s900-c-k-c0x00ffffff-no-rj" group-title="ESPAÑA", 653 | Córdoba TV || ESPAÑA
