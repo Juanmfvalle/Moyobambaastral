@@ -462,7 +462,7 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 #EXTINF:-1 tvg-id="AR | Orbe 21" tvg-name="AR | Orbe 21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Canal_Orbe_21_logo.svg/245px-Canal_Orbe_21_logo.svg.png" group-title="RELIGIOSOS", 226 | Orbe 21
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | ESNE TV" tvg-name="USA | ESNE TV" tvg-logo="https://elsembradorministries.com/esne_deployment/images/logo_azul.png" group-title="RELIGIOSOS", 227 | El Sembrador Televisión
-https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/playlist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=62dab358129d3900013e97ee&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1658586328%7Eacl%3D%2F*2041519%2F*%7Ehmac%3Dce5ba0210e5b49000f270287e7c2f54b8acf2c30700d2428493b9d722e0eb0c4
+https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/playlist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=62db84b18403dc0001f33008&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1658639921%7Eacl%3D%2F*2041519%2F*%7Ehmac%3D86fc8f51d2ac5d1c8864aa69e1d530bed0e9158a47cbcb4cfb30fbc7d8126c50
 #EXTINF:-1 tvg-id="PE | JN19" tvg-name="PE | JN19" tvg-logo="http://www.jn19television.com/templates/televid_23/images/object979167786.png" group-title="RELIGIOSOS", 228 | JN19 Televisión
 https://servilive.com:3149/live/jn19tvlive.m3u8
 #EXTINF:-1 tvg-id="CR | Telefides" tvg-name="CR | Telefides" tvg-logo="https://costaricatelevision.com/sites/default/files/styles/tv_list/public/2020-07/telefides-costa-rica.png.webp?itok=XzDap4zR" group-title="RELIGIOSOS", 229 | Telefides
@@ -509,6 +509,10 @@ http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7b
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="DO | Comunión TV" tvg-name="DO | Comunión TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRTgQeZTi8n1X1Do9yAhUqYX9Rrob0Rq-QdFi8Vlw=s88-c-k-c0x00ffffff-no-rj" group-title="RELIGIOSOS", 250 | Comunión TV
 https://6202d04ff2f0c.streamlock.net/live/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="GT | Maranatha TV" tvg-name="GT | Maranatha TV" tvg-logo="https://maranathatvcanal18.com/wp-content/uploads/elementor/thumbs/logo-maratana-pg5t84ewbzs8mpwkvhbxyezadsffs6gu722plu72r2.png" group-title="RELIGIOSOS", En prueba | Maranatha TV
+https://panel.streamingtv-mediacp.online:1936/8010/8010/playlist.m3u8
+#EXTINF:-1 tvg-id="GT | MCN Televisión" tvg-name="GT | MCN Televisión" tvg-logo="https://mcntelevision.org/wp-content/uploads/2020/10/MCN-Blanco-Degradado-con-television.png" group-title="RELIGIOSOS", En prueba | MCN Televisión
+https://stmv.panel.grupolimalive.com/mcntv/mcntv/playlist.m3u8
 #EXTINF:-1 tvg-id="HN | Ebenezer TV" tvg-name="HN | Ebenezer TV" tvg-logo="https://1.bp.blogspot.com/-_0Nrw9NOw8c/XRDXrzt4jWI/AAAAAAAAH3s/bTzQrrVDPKgY-glvRMq3fz1byAiI4VBnACLcBGAs/s1600/Canal%2BEbenezer.png" group-title="RELIGIOSOS", 251 | Ebenezer TV
 https://5b50404ec5e4c.streamlock.net/ebenezertv2/smil:ebenezertv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="GT | Rhema TV" tvg-name="GT | Rhema TV" tvg-logo="https://yt3.ggpht.com/WyU6mJUfDaUH4nHhFsyZLqk-Flw_TwC4z-10k2_YXRW5HjEx9TjCXdyqk-JqLFLAHoVrfAgU=s900-c-k-c0x00ffffff-no-rj" group-title="RELIGIOSOS", 252 | Rhema TV
@@ -912,7 +916,7 @@ https://5975e06a1f292.streamlock.net:4443/atbargentina/atbargentina/playlist.m3u
 #EXTINF:-1 tvg-id="UY | Canal 4" tvg-name="UY | Canal 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Canal4_uy.png/150px-Canal4_uy.png" group-title="URUGUAY", 438 | Canal 4 || URUGUAY
 http://titanlivetv.com:8080/live/8cEW8XH37tDT/GP4qLxWhcCkd/102360.m3u8
 #EXTINF:-1 tvg-id="UY | TV Ciudad" tvg-name="UY | TV Ciudad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TVCiudad_logo_2020.png/140px-TVCiudad_logo_2020.png" group-title="URUGUAY", 439 | TV Ciudad || URUGUAY
-https://vxlive.cdn.antel.net.uy/auth_livesignal_474,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNDc0JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2NTg1MjE4NjgmcmFuZG9tPTVpZk9sRUtHZXAmYy1pcD0xODEuMTc2LjEyOC41MCxiZDY3YmMzZmI3ZDc3Mjg3MjY1YzBkMGE2YmEyMjU4M2VhODJhMzQ1ZTIxODMyZTJkODM2OGY4MGE2NmRhMmY4/vxfmt=hls/playlist.m3u8
+https://vxlive.cdn.antel.net.uy/auth_livesignal_474,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNDc0JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2NTg1NzUxODAmcmFuZG9tPU1CRFBmSWJrc3QmYy1pcD0xODEuMTc2LjEyOC41MCxhOGI2MDlkMTE2YTg2Y2UwMjMwOGJmYWYyMzYwM2U4YTZlM2VhM2RmZDhjYjBmM2FlYzAwYzZkMTc3YjVjZGEw/vxfmt=hls/playlist.m3u8
 #EXTINF:-1 tvg-id="UY | Canal 10" tvg-name="UY | Canal 10" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2019/04/canal-10-uruguay-en-vivo.png" group-title="URUGUAY", 440 | Saeta TV Canal 10 || URUGUAY
 http://titanlivetv.com:8080/live/8cEW8XH37tDT/GP4qLxWhcCkd/1607.m3u8
 #EXTINF:-1 tvg-id="UY | Teledoce" tvg-name="UY | Teledoce" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/LogoTeledoce2019Azul.png" group-title="URUGUAY", 441 | Teledoce || URUGUAY
