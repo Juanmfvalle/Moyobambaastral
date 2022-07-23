@@ -1269,12 +1269,12 @@ https://video.misistemareseller.com/entelevision/entelevision/playlist.m3u8
 https://elgruposupercanal.streamgato.us:3658/live/supercanal33live.m3u8
 #EXTINF:-1 tvg-id="DO | Sport Visión Canal 35" tvg-name="DO | Sport Visión Canal 35" tvg-logo="https://canalesdominicanos.live/template/images/radios/small/sport-vision-canal-35.jpg" group-title="REPUBLICA DOMINICANA", 613 | Sport Visión Canal 35 || REPUBLICA DOMINICANA
 https://5fa5de1a545ae.streamlock.net/sportvision35tv/sportvision35tv/playlist.m3u8
-#EXTINF:-1 tvg-id="DO | CDN 37" tvg-name="DO | CDN 37" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQaFlOLf2ETBNoLvzvPfnPDmChxG7FkUQJ5DkH0fg=s900-c-k-c0x00ffffff-no-rj" group-title="REPUBLICA DOMINICANA", 614 | CDN Deportes || REPUBLICA DOMINICANA
-http://51.81.93.239:8084/hls/cdn.m3u8
+#EXTINF:-1 tvg-id="DO | CDN 37" tvg-name="DO | CDN 37" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQaFlOLf2ETBNoLvzvPfnPDmChxG7FkUQJ5DkH0fg=s900-c-k-c0x00ffffff-no-rj" group-title="REPUBLICA DOMINICANA", 614 | CDN 37 || REPUBLICA DOMINICANA
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/manifest.m3u8?p=79&s=1658582260&e=1658582380&h=f67602f01f7450ca2ce1f60bed3f5c0f
 #EXTINF:-1 tvg-id="DO | Coral TV" tvg-name="DO | Coral TV" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_01/large.Coral2017.PNG.5f4fc1a4dfac82acd43fccd93cffb82c.PNG" group-title="REPUBLICA DOMINICANA", 615 | Coral TV || REPUBLICA DOMINICANA
 http://190.122.96.188:8888/http/005
 #EXTINF:-1 tvg-id="DO | Teleradio América" tvg-name="DO | Teleradio América" tvg-logo="https://teleradioamerica.com/wp-content/themes/tra2017/imagenes/logo.png" group-title="REPUBLICA DOMINICANA", 616 | Teleradio América || REPUBLICA DOMINICANA
-https://rctvhd.net:8081/teleradioamerica/tracks-v1a1/mono.m3u8
+https://live.teledom.info:3625/live/tra45live.m3u8
 #EXTINF:-1 tvg-id="DO | Amé Televisión" tvg-name="DO | Amé Televisión" tvg-logo="https://www.amecanal47.com/images/ame_47_sm.jpg" group-title="REPUBLICA DOMINICANA", 617 | Amé Televisión || REPUBLICA DOMINICANA
 https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
 #EXTINF:-1 tvg-id="DO | Televisión La Nueva Isabela" tvg-name="DO | Televisión La Nueva Isabela" tvg-logo="https://tni51online.com/images/tni_logo_web.jpg" group-title="REPUBLICA DOMINICANA", 618 | Televisión La Nueva Isabela || REPUBLICA DOMINICANA
@@ -1287,16 +1287,16 @@ https://ss5.domint.net:3174/car_str/carivision/playlist.m3u8
 https://cdn5.streamgato.us:3371/live/canal56live.m3u8
 #EXTINF:-1 tvg-id="DO | Digital Visión 63" tvg-name="DO | Digital Visión 63" tvg-logo="https://pbs.twimg.com/profile_images/878989434196295680/p1LEA6U4_400x400.jpg" group-title="REPUBLICA DOMINICANA", 622 | Digital Visión 63 || REPUBLICA DOMINICANA
 https://ss3.domint.net:3120/dv6_str/digitalvision/chunklist_w1482544367.m3u8
-#EXTINF:-1 tvg-id="DO | Canal del sol" tvg-name="DO | Canal del sol" tvg-logo="https://pbs.twimg.com/profile_images/940654137267535872/7Cr-uWeQ_400x400.jpg" group-title="REPUBLICA DOMINICANA", 623 | Canal del sol || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Canal del Sol" tvg-name="DO | Canal del Sol" tvg-logo="https://pbs.twimg.com/profile_images/940654137267535872/7Cr-uWeQ_400x400.jpg" group-title="REPUBLICA DOMINICANA", 623 | Canal del Sol || REPUBLICA DOMINICANA
 https://canaldelsoltv01.streamprolive.com/hls/live.m3u8
 #EXTINF:-1 tvg-id="DO | CDN Deportes" tvg-name="DO | CDN Deportes" tvg-logo="https://cdndeportes.com.do/wp-content/uploads/2022/02/Logo_CDNDeportes.svg" group-title="REPUBLICA DOMINICANA", 624 | CDN Deportes || REPUBLICA DOMINICANA
 http://51.81.93.29:8084/hls/cdnsm.m3u8
 #EXTINF:-1 tvg-id="DO | Tele Radio Norte" tvg-name="DO | Tele Radio Norte" tvg-logo="http://teleradionorte.com//wp-content/uploads/2018/08/logopequert.png" group-title="REPUBLICA DOMINICANA", 625 | Tele Radio Norte || REPUBLICA DOMINICANA
 https://cdn4.hostlagarto.com:8081/static/teleradionortetv/playlist.m3u8
-#EXTINF:-1 tvg-id="DO | Oui TV" tvg-name="DO | Oui TV" tvg-logo="https://television-planet.tv/uploads/posts/54erdhysehryrhsregplanet-television.png" group-title="REPUBLICA DOMINICANA", 626 | Oui TV || REPUBLICA DOMINICANA
-https://tutvonline.is-by.us:1936/ouitv/ouitv/chunklist_w858988243.m3u8
+#EXTINF:-1 tvg-id="DO | Guaymate TV" tvg-name="DO | Guaymate TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2472-800x450-FFFFFF.jpg" group-title="REPUBLICA DOMINICANA", 626 | Guaymate TV || REPUBLICA DOMINICANA
+https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8
 #EXTINF:-1 tvg-id="DO | Nexxo TV" tvg-name="DO | Nexxo TV" tvg-logo="http://nexxo.tv/img/logo.png" group-title="REPUBLICA DOMINICANA", 627 | Nexxo TV || REPUBLICA DOMINICANA
-https://tutvonline.is-by.us:1936/nexxotv/nexxotv/playlist.m3u8
+https://streaming.ath.cx:1936/nexxotv/nexxotv/playlist.m3u8
 #EXTINF:-1 tvg-id="DO | Teleunión" tvg-name="DO | Teleunión" tvg-logo="http://teleuniontvrd.com/portal/wp-content/themes/rt_manticore/images/logoteleunionsmall.png" group-title="REPUBLICA DOMINICANA", 628 | Teleunión || REPUBLICA DOMINICANA
 http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
 #EXTINF:-1 tvg-id="DO | Canal 25" tvg-name="DO | Canal 25" tvg-logo="https://canal25rd.com/images/canal25_logo_2017_small.png" group-title="REPUBLICA DOMINICANA", 629 | Canal 25 || REPUBLICA DOMINICANA
