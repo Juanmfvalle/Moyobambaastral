@@ -1198,9 +1198,9 @@ http://45.5.117.138:25461/playgt/123456/51
 #EXTINF:-1 tvg-id="GT | Sur TV" tvg-name="GT | Sur TV" tvg-logo="https://static.wixstatic.com/media/7acae1_43c83483b98d4caf997a9aa66858694c~mv2.png" group-title="GUATEMALA", 578 | Sur TV || GUATEMALA
 https://cdn.streamhispanatv.net:3050/live/surtvlive.m3u8
 #EXTINF:-1 tvg-id="GT | Multivisión" tvg-name="GT | Multivisión" tvg-logo="https://static.wixstatic.com/media/7acae1_95bf7301ff9847eeafd13b08e3570b64~mv2.png" group-title="GUATEMALA", 579 | Multivisión || GUATEMALA
-https://multivision.digitalgt.com:442/hls/multivision/index.m3u8
+http://svtmedia.digitalgt.com:8080/hls/multivision/index.m3u8
 #EXTINF:-1 tvg-id="GT | Multivisión Sports" tvg-name="GT | Multivisión Sports" tvg-logo="https://static.wixstatic.com/media/7acae1_e6ccf72d22fd440a9cf3c402b04f1a4a~mv2.png" group-title="GUATEMALA", 580 | Multivisión Sports || GUATEMALA
-https://multivision.digitalgt.com:442/hls/multivisionsports/index.m3u8
+http://svtmedia.digitalgt.com:8080/hls/multivisionsports/index.m3u8
 #EXTINF:-1 tvg-id="GT | Izabal TV" tvg-name="GT | Izabal TV" tvg-logo="https://static.wixstatic.com/media/7acae1_390a0d84287a4bf0bea7620324b57e27~mv2.png" group-title="GUATEMALA", 581 | Izabal TV || GUATEMALA
 https://cdn.streamhispanatv.net:3340/live/izabaltvlive.m3u8
 #EXTINF:-1 tvg-id="GT | Uno Visión Reu" tvg-name="GT | Uno Visión Reu" tvg-logo="https://static.wixstatic.com/media/7acae1_f312e5a402914d1c92d3fde7909061b9~mv2.png" group-title="GUATEMALA", 582 | Uno Visión Reu || GUATEMALA
