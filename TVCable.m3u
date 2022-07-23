@@ -208,7 +208,7 @@ http://200.48.184.156:1935/eretro/eretro/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Fox Kids" tvg-name="USA | Fox Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/FOX_Kids_logo.svg/150px-FOX_Kids_logo.svg.png" group-title="INFANTILES", 100 | Fox Kids
 http://foxkidsjahh21.duckdns.org/hls/stream/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="USA | Semillitas" tvg-name="USA | Semillitas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Semillitas2011.png/245px-Semillitas2011.png" group-title="INFANTILES", 101 | Semillitas
-http://190.124.166.227:9000/play/a01f/index.m3u8
+http://8.242.179.183:58001/play/a02i/index.m3u8
 #EXTINF:-1 tvg-id="CL | Kids 90's TV" tvg-name="CL | Kids 90's TV" tvg-logo="https://i2.paste.pics/4a39976590ab0bd4fe7a0bbbd4411822.png" group-title="INFANTILES", 102 | Kids 90's TV
 https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="USA | ZooMoo" tvg-name="USA | ZooMoo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/120px-ZooMoo_logo.svg.png" group-title="INFANTILES", 103 | ZooMoo
@@ -296,7 +296,7 @@ http://168.232.168.242:8089/play/a021/index.m3u8
 #EXTINF:-1 tvg-id="USA | Más Chic" tvg-name="USA | Más Chic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/125px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" group-title="ESTILOS DE VIDA", 144 | Más Chic
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/MASCHIC/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DMASCHIC_stream_pl&_cdn_session=269505891&_cdn_timestamp=1658683190&_cdn_token=d300dcc71de8b912b9062d253bf9734235535f9f
 #EXTINF:-1 tvg-id="ESP | Hola TV" tvg-name="ESP | Hola TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/220px-%C2%A1HOLA%21TVlogo.jpg" group-title="ESTILOS DE VIDA", 145 | Hola Televisión
-http://190.124.166.227:9000/play/a00u/index.m3u8
+http://8.242.179.183:58001/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="VE | Ve Plus" tvg-name="VE | Ve Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ve_Plus_Logo_2019.png/130px-Ve_Plus_Logo_2019.png" group-title="MISCELANEO", 146 | Ve Plus
 http://190.122.96.187:8888/http/006
 #EXTINF:-1 tvg-id="USA | Lifetime" tvg-name="USA | Lifetime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/150px-Logo_Lifetime_2020.svg.png" group-title="MISCELANEO", 147 | Lifetime
@@ -668,7 +668,7 @@ https://d6op0qag07k4o.cloudfront.net/hls/rts.m3u8
 #EXTINF:-1 tvg-id="EC | Televisora Central Ecuatoriana" tvg-name="EC | Telecentro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png" group-title="ECUADOR", 322 | TC Televisión || ECUADOR
 http://vps-c97214f4.vps.ovh.net/hls/ecutv3.m3u8?aa
 #EXTINF:-1 tvg-id="EC | Oromar TV" tvg-name="EC | Oromar TV" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="ECUADOR", 323 | Oromar Televisión || ECUADOR
-http://45.225.47.234:41/play/a0ep/index.m3u8
+http://45.225.95.171:8000/play/a0ju/index.m3u8
 #EXTINF:-1 tvg-id="EC | Canela TV" tvg-name="EC | Canela TV" tvg-logo="https://web.canelatv.com/wp-content/uploads/2020/10/ki.gif" group-title="ECUADOR", 324 | Canela TV || ECUADOR
 https://59d39900ebfb8.streamlock.net/canelatv/canelatv/chunklist_w1360767208.m3u8
 #EXTINF:-1 tvg-id="EC | Telerama" tvg-name="EC | Telerama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_Telerama.png/250px-Logo_Telerama.png" group-title="ECUADOR", 325 | Telerama || ECUADOR
