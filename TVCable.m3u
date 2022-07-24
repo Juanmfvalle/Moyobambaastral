@@ -1150,7 +1150,7 @@ https://cdn.streamhispanatv.net:3700/live/tv5sololalive.m3u8
 #EXTINF:-1 tvg-id="GT | Canal TV 6" tvg-name="GT | Canal TV 6" tvg-logo="https://www.panadish.com/images/canal6.jpeg" group-title="GUATEMALA", En prueba | Canal TV 6 || GUATEMALA
 https://stream.meteorito.cloud/canal6/smil:canal6.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="GT | TDS" tvg-name="GT | TDS" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSty18cfbX8fc5AhCUoQNosfvdF6OUGS7XfObo7WA=s900-c-k-c0x00ffffff-no-rj" group-title="GUATEMALA", 555 | Televisión Departamental Sololá || GUATEMALA
-http://45.5.117.138:25461/playgt/123456/120
+https://cdn.streamhispanatv.net:3081/live/tdsolgtlive.m3u8
 #EXTINF:-1 tvg-id="GT | Canal 9 Sololá" tvg-name="GT | Canal 9 Sololá" tvg-logo="https://static.wixstatic.com/media/7acae1_af8e141a8b0641ba8b1f6e818ed47357~mv2.png" group-title="GUATEMALA", 556 | Canal 9 Sololá || GUATEMALA
 https://cdn.streamhispanatv.net:3113/live/canal9tvgtlive.m3u8
 #EXTINF:-1 tvg-id="GT | Guatv" tvg-name="GT | Guatv" tvg-logo="https://static.wixstatic.com/media/7acae1_8cd678c8791045eb8fab68a10b36a1f6~mv2.png" group-title="GUATEMALA", 557 | Guatv || GUATEMALA
@@ -1251,6 +1251,8 @@ http://51.81.93.29:8084/hls/telecentro.m3u8
 https://video.misistemareseller.com/catorcetv/catorcetv/playlist.m3u8
 #EXTINF:-1 tvg-id="DO | Digital 15" tvg-name="DO | Digital 15" tvg-logo="http://festivaldecineglobal.org/2014/wp-content/uploads/Digital15-228x176.png" group-title="REPUBLICA DOMINICANA", 605 | Digital 15 || REPUBLICA DOMINICANA
 http://51.81.93.29:8084/hls/d15.m3u8
+#EXTINF:-1 tvg-id="DO | Telecanal 16" tvg-name="DO | Telecanal 16" tvg-logo="https://pbs.twimg.com/media/FYa2ohjWIAEw-OX?format=png&name=360x360" group-title="REPUBLICA DOMINICANA", En prueba | Telecanal 16 || REPUBLICA DOMINICANA
+https://cacatuaiptv.com/canal16tv.m3u8
 #EXTINF:-1 tvg-id="DO | RTVD 17" tvg-name="DO | RTVD 17" tvg-logo="https://canal17rd.com/wp-content/uploads/2020/09/cropped-logo.png" group-title="REPUBLICA DOMINICANA", 606 | RTVD 17 || REPUBLICA DOMINICANA
 https://protvradiostream.com:1936/rtvd17/ngrp:rtvd17_all/playlist.m3u8
 #EXTINF:-1 tvg-id="DO | Cinevisión" tvg-name="DO | Cinevisión" tvg-logo="https://canal19.do/wp-content/uploads/2021/06/cropped-Logos-Canal-19-Cinevision-1024x341.png" group-title="REPUBLICA DOMINICANA", 607 | Cinevisión || REPUBLICA DOMINICANA
@@ -1259,8 +1261,10 @@ https://live.teledom.info:3713/live/cinevisionlive.m3u8
 https://d3qhvst5vzq4y9.cloudfront.net/hls/canal21.m3u8
 #EXTINF:-1 tvg-id="DO | Telefuturo canal 23" tvg-name="DO | Telefuturo canal 23" tvg-logo="http://telefuturo.com.do/home/wp-content/themes/telefuturo23/img/logo.png" group-title="REPUBLICA DOMINICANA", 609 | Telefuturo canal 23 || REPUBLICA DOMINICANA
 https://ss9.domint.net:3054/tf_str/telefuturo/playlist.m3u8
-#EXTINF:-1 tvg-id="DO | Red Nacional de Noticias" tvg-name="DO | Red Nacional de Noticias" channelId="560" tvg-logo="https://i0.wp.com/rnn.com.do/wp-content/uploads/2021/11/LOGO-CUBOS-RNN-test-3.png?resize=1536%2C484&ssl=1" group-title="REPUBLICA DOMINICANA", 610 | RNN || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Red Nacional de Noticias" tvg-name="DO | Red Nacional de Noticias" tvg-logo="https://i0.wp.com/rnn.com.do/wp-content/uploads/2021/11/LOGO-CUBOS-RNN-test-3.png?resize=1536%2C484&ssl=1" group-title="REPUBLICA DOMINICANA", 610 | RNN || REPUBLICA DOMINICANA
 http://cacatuaiptv.com/rnn.m3u8
+#EXTINF:-1 tvg-id="DO | Teleuniverso" tvg-name="DO | Teleuniverso" tvg-logo="https://pbs.twimg.com/profile_images/1055497104175652864/3iL8w0va_400x400.jpg" group-title="REPUBLICA DOMINICANA", En prueba | Teleuniverso || REPUBLICA DOMINICANA
+https://cacatuaiptv.com/teleuniverso.m3u8
 #EXTINF:-1 tvg-id="DO | EN Televisión" tvg-name="DO | EN Televisión" tvg-logo="http://entelevision.com/wp-content/themes/entelevision/imagenes/logo-principal.png" group-title="REPUBLICA DOMINICANA", 611 | EN Televisión || REPUBLICA DOMINICANA
 https://video.misistemareseller.com/entelevision/entelevision/playlist.m3u8
 #EXTINF:-1 tvg-id="DO | Supercanal 33" tvg-name="DO | Supercanal 33" tvg-logo="https://1.bp.blogspot.com/-apCuh7ef9oo/XiMXT7DxbiI/AAAAAAAAIWY/HvhzsoeWuck0a8_58dw4TdQyWuyGCQHbgCLcBGAsYHQ/s1600/img_super%2Bcanal%2B33%2Ben%2Bvivo%2Btv%2BDom.jpg" group-title="REPUBLICA DOMINICANA", 612 | Supercanal 33 || REPUBLICA DOMINICANA
@@ -1329,6 +1333,14 @@ https://5790d294af2dc.streamlock.net/8224/8224/playlist.m3u8
 https://cloudflare.streamgato.us:3044/live/morrotvlive.m3u8
 #EXTINF:-1 tvg-id="DO | Makao TV" tvg-name="DO | Makao TV" tvg-logo="https://makaoradio.com/wp-content/uploads/2021/06/makao_new_332.png" group-title="REPUBLICA DOMINICANA", En prueba | Makao TV || REPUBLICA DOMINICANA
 https://live.obslivestream.com/makaomux/index.m3u8
+#EXTINF:-1 tvg-id="DO | TV Plata" tvg-name="DO | TV Plata" tvg-logo="http://www.tvplata.net/wp-content/uploads/2022/04/TV-PLATA-LOGO.png" group-title="REPUBLICA DOMINICANA", En prueba | TV Plata || REPUBLICA DOMINICANA
+https://ss9.domint.net:3032/tvp_str/tvp2111/playlist.m3u8
+#EXTINF:-1 tvg-id="DO | Musavisión" tvg-name="DO | Musavisión" tvg-logo="https://musavision.com/wp-content/uploads/2020/04/MUSAVISION-LG-WEB.png" group-title="REPUBLICA DOMINICANA", En prueba | Musavisión || REPUBLICA DOMINICANA
+https://cm.hostlagarto.com:4445/Musavisionhd/Musavisionhd/playlist.m3u8
+#EXTINF:-1 tvg-id="DO | Telecontacto" tvg-name="DO | Telecontacto" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSd3ktMHGu7sx029OZRAKLzzFmpqtkIBmOiUtw4=s900-c-k-c0x00ffffff-no-rj" group-title="REPUBLICA DOMINICANA", En prueba | Telecontacto || REPUBLICA DOMINICANA
+https://vdo1.streamgato.us:3578/live/telecontactohdlive.m3u8
+#EXTINF:-1 tvg-id="DO | Romana TV" tvg-name="DO | Romana TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/do-romana-tv-2379.jpg" group-title="REPUBLICA DOMINICANA", En prueba | Romana TV || REPUBLICA DOMINICANA
+https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
 #EXTINF:-1 tvg-id="MX | N+ Media" tvg-name="MX | N+ Media" tvg-logo="https://www.eleconomista.com.mx/__export/1648521768298/sites/eleconomista/img/2022/03/28/nmas-televisa-univision-cortesia-twitter.png_423392900.png" group-title="MEXICO", 644 | N+ Media || MÉXICO
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_4.m3u8
 #EXTINF:-1 tvg-id="MX | Canal 11" tvg-name="MX | Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_Actual_Canal_Once.png/200px-Logo_Actual_Canal_Once.png" group-title="MEXICO", 645 | Canal 11 || MÉXICO
