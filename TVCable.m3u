@@ -17,6 +17,8 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TVPERU/40-hls/live-media.m3u8
 https://cdnh75.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1 tvg-id="PE | TV Perú Internacional" tvg-name="PE | TV Perú Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/250px-TV_Per%C3%BA_Internacional_2019_-_copia.png" group-title="INTERNACIONALES", 7.3 | TV Perú Internacional
 https://cdnh74.iblups.com/hls/irtp.m3u8
+#EXTINF:-1 tvg-id="PE | Congreso TV" tvg-name="PE | Congreso TV" tvg-logo="https://comunicaciones.congreso.gob.pe/wpuploads/2021/02/logo-web-4.png" group-title="PERU", 7.4 | Congreso TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/congresodelarepublicadelper%C3%BAtvenvivo/live
 #EXTINF:-1 tvg-id="PE | Conectad2 TV" tvg-name="PE | Conectad2 TV" tvg-logo="https://conecta2peru.com/wp-content/uploads/2020/04/logo.png" group-title="PERU", 8 | Conectad2 Televisión
 https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:-1 tvg-id="PE | Andina Televisión" tvg-name="PE | Andina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" group-title="PERU", 9 | ATV
@@ -263,6 +265,8 @@ http://190.108.83.142:8000/play/a00j/index.m3u8
 http://190.108.83.142:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="VE | Telesur" tvg-name="VE | Telesur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/150px-TeleSUR-Logo.svg.png" group-title="NOTICIAS E INFORMACION", 128 | Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="VE | Globovisión" tvg-name="VE | Globovisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo-Globovisi%C3%B3n.png/140px-Logo-Globovisi%C3%B3n.png" group-title="NOTICIAS E INFORMACION", En prueba | Globovisión
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/Globovision
 #EXTINF:-1 tvg-id="CL | Canal 24 Horas" tvg-name="CL | Canal 24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_24HorasTVN.svg/200px-Logo_24HorasTVN.svg.png" group-title="NOTICIAS E INFORMACION", 129 | Canal 24 Horas
 https://marine2.miplay.cl/24horas/playlist.m3u8
 #EXTINF:-1 tvg-id="AL | DW" tvg-name="AL | DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/125px-Deutsche_Welle_symbol_2012.svg.png" group-title="NOTICIAS E INFORMACION", 130 | DW Televisión
@@ -590,7 +594,7 @@ https://srv.panelcast.net/palmerastv/palmerastv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Clips TV" tvg-name="PE | Clips TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSf-gnmJJq2Q_TJ4yCg_ZpuMp--UUb_MrHN5D7Z=s900-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", 281 | Clips TV || Sechura; Piura
 https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
 #EXTINF:-1 tvg-id="PE | TV Norte" tvg-name="PE | TV Norte" tvg-logo="https://appnew.megainfoapp.com/files/1/tvnorte.jpg" group-title="REGIONALES", 282 | TV Norte || Chiclayo
-https://stream-03.nyc.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqsqhJot91gnvZqgnZZuqM6HY88N0N9t-1YhWURSpC-R8)/dm/3/x7uk62a/s/live-3.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/TVNORTEHD
 #EXTINF:-1 tvg-id="PE | Lot Plus TV" tvg-name="PE | Lot Plus TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR6iGa3A35AnYAm29YkkDJahn0mzAQZYDU9q5LJ=s88-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", 283 | Lot Plus TV || Chiclayo
 https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | TV Cosmos" tvg-name="PE | TV Cosmos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Tv_cosmos.jpg/245px-Tv_cosmos.jpg" group-title="REGIONALES", 284 | TV Cosmos || Trujillo
@@ -774,7 +778,7 @@ http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="VE | Televen" tvg-name="VE | Televen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Televen_logo.PNG/150px-Televen_logo.PNG" group-title="VENEZUELA", 368 | Televen || VENEZUELA
 https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="VE | Venezolana de Televisión" tvg-name="VE | Venezolana de Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/1024px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" group-title="VENEZUELA", 369 | VTV || VENEZUELA
-https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLptjFQpy7GHXLiiAsLoiPYirNMXX4iaFpGsJWjP8ML5a)/dm/3/x828i6j/s/live-3.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/VTV
 #EXTINF:-1 tvg-id="VE | Vepaco TV" tvg-name="VE | Vepaco TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Logo-Vepaco-TV.png/245px-Logo-Vepaco-TV.png" group-title="VENEZUELA", 370 | Vepaco TV || VENEZUELA
 http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/chunklist_w2108815419.m3u8
 #EXTINF:-1 tvg-id="VE | TLT" tvg-name="VE | TLT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/LOGO-HORIZONTAL_text.png" group-title="VENEZUELA", 371 | La Tele Tuya || VENEZUELA
@@ -1002,7 +1006,7 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?uid=C3a7Pp
 #EXTINF:-1 tvg-id="CR | Canal 11" tvg-name="CR | Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/150px-Repretel_11_logo.png" group-title="COSTA RICA", 475 | Canal 11 || COSTA RICA
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal11.m3u8
 #EXTINF:-1 tvg-id="CR | Trece Costa Rica Televisión" tvg-name="CR | Trece Costa Rica Televisión" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/canal-13-trece-costa-rica-televisin-1576.png" group-title="COSTA RICA", 476 | Trece Costa Rica Televisión || COSTA RICA
-https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zc4sQZi8ppieWwjcbU3DxXrYinX81mcpVXnStk4T2tsm)/dm/3/x7vh8g3/d/live-3.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/sinart
 #EXTINF:-1 tvg-id="CR | TV Sur Canal 14" tvg-name="CR | TV Sur Canal 14" tvg-logo="https://www.tvsur.co.cr/wp-content/uploads/2020/05/tvsur-logo.png" group-title="COSTA RICA", 477 | TV Sur Canal 14 || COSTA RICA
 https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
 #EXTINF:-1 tvg-id="CR | TV Norte" tvg-name="CR | TV Norte" tvg-logo="https://www.tvn14.com/wp-content/uploads/2021/02/TVN-HD_LOGO_COLOR-SIN-FONDO.png" group-title="COSTA RICA", 488 | TV Norte || COSTA RICA
@@ -1054,7 +1058,7 @@ https://telecorporacion.cdn.vustreams.com/live/71c9503a-be8f-4ce4-ac17-345a96cff
 #EXTINF:-1 tvg-id="SLV | TV Seis" tvg-name="SLV | TV Seis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Canal_6_TCS.png/200px-Canal_6_TCS.png" group-title="EL SALVADOR", 501 | TV Seis || EL SALVADOR
 https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/live-video=2000000-audio_0=64000.m3u8
 #EXTINF:-1 tvg-id="SLV | Agape TV Canal 8" tvg-name="SLV | Agape TV Canal 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Agape_8_2001.png/200px-Agape_8_2001.png" group-title="EL SALVADOR", 502 | Agape TV Canal 8 || EL SALVADOR
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CpYFtRv6RXxtzztA_PqQDoeGRrIdqhe8Rpb_1eFrRG2j6gY3tqFqOP9gOeam2S5UddXy8Il6p5vtaQtAdvp1DQ0HASrGSuCSufMX8p3O4NpdO13Yt1PnqPrHTITTh8PGnFHUmNY5_JTtDpOGws0boeNNklr4dJt86T5CsqpDSbW2Wfeogg7YsOwf25jJS13titmsnAsXcP6kLKXxhDsZXeZPVL8OlDoMJ7v9CCmRDbfmW_Nq6NTDwH97C-GvfmMGxYt9J1r7cU1yurU4gj3Cp1wJ0JjQYs4LCAno4Raso1Cy8CAtVjnq27UT52HmlA4dcn4h9sV56rbwkWaTaqjvOML1qt_rsWFoIsgOXAF2ucY4iztQqbHVhKoVuFdhX0LUgmXIbwbOrLGwlRR8Xv2gtM2ax3TdFcaSMuTXDXCPhnNRjHFxTWs88b4imslMcF2PsofQTNf4lg3bj91Qeh2nr6iR0SBDpg5r8UtAyGqxay70pvd5OIzVB6D5N7b5fOS6HaWEhJkX86Y73vlPEL5sPnfk15yLWmsSkSkgdjiVSp0JIXvG-AZEe7hC9DTs9L0kfswfYlY0gq8ubKPBi8oZ0xc6wQ11OgBEIjPcg3EobR6e8bJp4OBOcQwf-2J77RCH8rELgFuOGf0ciSI8_uX52X5YiNRe7jn9-ZHWxP7UnEyW9kqYdYACIDfmOgV5-ecp5tQZmWqPSkyGqhptPn-ZKjDnrQ3-VCpThQBoBI8_LWyM8xSLW3pQGyVdMVyM3DcbpAU9M2Twc0a85QhNYltZd54xgj23kxp2i4_nVrb3nJj5t_p2SipKo4qs1R_qqNIb2ZS2jObcAZeM70m8bB-8UZuBN4BEf4hexgOJHMHn9sRFu-BG0479TCIaDEzdtzSFCIB2GCV0hCABKgl1cy1lYXN0LTEw2QI.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/agapetv8
 #EXTINF:-1 tvg-id="SLV | Asamblea Legislativa TV" tvg-name="SLV | Asamblea Legislativa TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/9TV_El_Salvador_%282018%29.png/revision/latest/scale-to-width-down/300?cb=20191116000236" group-title="EL SALVADOR", 503 | TV Legislativa || EL SALVADOR
 https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
 #EXTINF:-1 tvg-id="SLV | Noticiero El Salvador" tvg-name="SLV | Noticiero El Salvador" tvg-logo="https://noticiero.sv/sourceimages/c10.png" group-title="EL SALVADOR", 504 | C10 || EL SALVADOR
@@ -1158,7 +1162,7 @@ http://51.161.12.229:1935/CanalAntigua/myStream/chunklist_w1313531480.m3u8
 #EXTINF:-1 tvg-id="GT | VEA Canal" tvg-name="GT | VEA Canal" tvg-logo="http://veacanal.tv/wp-content/uploads/2017/05/logoveacanal.png" group-title="GUATEMALA", 553 | VEA Canal || GUATEMALA
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/veacanalgt
 #EXTINF:-1 tvg-id="GT | Canal de Gobierno" tvg-name="GT | Canal de Gobierno" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR_Hm3vKJu8-yXqyi7Q66F8ME2CsBddRLq4JnyVcQ=s88-c-k-c0x00ffffff-no-rj" group-title="GUATEMALA", 554 | Canal de Gobierno || GUATEMALA
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CqgF7TpR3OE4wZfKFpAmBJL7E3hKpfTKB_fe1211wHk2hGQx6zoKKzk0SGGuRrQCgIkQHz9pnmm00GSmh3bG4W2-jREBHcHgPQlLLuJ_GE6kdX-7bA3UrEzYpcV_QJaXCd74TTRVZC91tdfx9ZfN2Wz_E-TAF3cUoVOo9Nhip6njCXxfcpzRZFohmSW1qF-lZ6jATsaU8_VSY1eWecnPQvUx1Y9pcFbj57rPNUw05bRj-A-2zLsvxpO61bDUxumWOKghfAuJI66HUgHE4sYU3AmHQIFRclNjaY9GXVdBOgtoKVO4rjGQQhFraJj9_XLhxMNh36F03tU8-XMmfXdVFkjX5DcPETT0M-NJCRb9jYHA6ESc9ymZpVfvrrDl9qh_JYp9LdQFLC7wqZjCPY2a-ybcipplBX0qAvu_RkJZfc1uOwUq4AEd-lhX0dv1BYSOfYR5j9gx88e3zOHu2HGsvaYz9AcyodfCtSaOZvmNuT0kAlSE4GesBex3uVXDCSR0-KQNxVk2x9gQBHzWOEeGej9dvIj5wnIISn1D59vW7J93-Bp_GJVWqr0c5QBlfGl2ULcVE6T_R7cNSr5bcyVDpmY-nX-KkJumT7TstJF72kj3FN3N3Hq0ejl_PQMXOO1tIqM1_FFPF1vTcezIM2QxbiEZJW_5pbNKEc-dUqVDoKAKVWXhzwQ-WSl8hXY9lEPA69Q3OWEI4eclSlv_7UqVU6Flmy32E9-W__krkDjhJqqAn6glQ2aSb9SjsJK0OUKsZIej5kq5w4JSr27tcKt0BFNVjxg78B-TcDzkWaFHh-g8ajdx0JWNK4t5HIip_Lo9zjog9xXOkzmFsenR7TShSwxT2ufMSasoQZMR25Tw_Zny0Z0-O5_Avl6XMhwn7ABaIHYpmubXdbRpZyEaDL0sN9VU2tjWmamJjSABKgl1cy1lYXN0LTEw2AI.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/canaldegobierno
 #EXTINF:-1 tvg-id="GT | Canal 5 Sololá" tvg-name="GT | Canal 5 Sololá" tvg-logo="https://play-lh.googleusercontent.com/nM4lpY-B8PmfTf61UOpV2wSHLKD02F7stYKL36nzjs5OT6QXTF4dEsyoCVJVW4KlXg=w526-h296-rw" group-title="GUATEMALA", En prueba | Canal 5 Sololá || GUATEMALA
 https://cdn.streamhispanatv.net:3700/live/tv5sololalive.m3u8
 #EXTINF:-1 tvg-id="GT | Canal TV 6" tvg-name="GT | Canal TV 6" tvg-logo="https://www.panadish.com/images/canal6.jpeg" group-title="GUATEMALA", En prueba | Canal TV 6 || GUATEMALA
