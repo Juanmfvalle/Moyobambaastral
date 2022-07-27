@@ -901,8 +901,6 @@ https://unlimited2-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
 http://181.189.254.42:8183/play/a010/index.m3u8
 #EXTINF:-1 tvg-id="CL | Mega" tvg-name="CL | Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mega_Chile_2020.png/145px-Mega_Chile_2020.png" group-title="CHILE", 421 | Mega || CHILE
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="CL | Chilevisión" tvg-name="CL | Chilevisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Chilevisi%C3%B3n.svg/250px-Chilevisi%C3%B3n.svg.png" group-title="CHILE", En prueba | Chilevisión || CHILE
-https://marine2.miplay.cl/chilevision/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | UChile TV" tvg-name="CL | UChile TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/UChile_TV_logo_2020.png/245px-UChile_TV_logo_2020.png" group-title="CHILE", 422 | UChile TV || CHILE
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CL | Canal 13" tvg-name="CL | Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Logotipo_de_Canal_13.svg/133px-Logotipo_de_Canal_13.svg.png" group-title="CHILE", 423 | Canal 13 || CHILE
@@ -915,10 +913,14 @@ https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8?PlaylistM3UCL
 https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CL | NTV" tvg-name="CL | NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Logo_NTV.svg/150px-Logo_NTV.svg.png" group-title="CHILE", En prueba | NTV || CHILE
 https://marine2.miplay.cl/ntv/playlist.m3u8
-#EXTINF:-1 tvg-id="CL | Televisión Universidad de Concepción" tvg-name="CL | Televisión Universidad de Concepción" tvg-logo="https://www.tvu.cl/_templates/desktop/includes/img/LOGO-TVU-AZUL.png" group-title="CHILE", 424 | TVU || CHILE
+#EXTINF:-1 tvg-id="CL | TVU" tvg-name="CL | TVU" tvg-logo="https://www.tvu.cl/_templates/desktop/includes/img/LOGO-TVU-AZUL.png" group-title="CHILE", 424 | TVU || CHILE
 https://unlimited1-us.dps.live/tvu/tvu.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CL | TVR" tvg-name="CL | TVR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Televisi%C3%B3n_Regional_de_Chile_-_logo.png/150px-Televisi%C3%B3n_Regional_de_Chile_-_logo.png" group-title="CHILE", En prueba | TVR || CHILE
+https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Canal 57 Melipilla" tvg-name="CL | Canal 57 Melipilla" tvg-logo="https://play-lh.googleusercontent.com/h5mGowi_1pK7-i-RnjsINVW75HhI4n1lSz9UXDX91UcxlBgN0Skb7yQYAH5FudjnusO2" group-title="CHILE", En prueba | Canal 57 Melipilla || CHILE
 https://593b04c4c5670.streamlock.net/8148/8148/playlist.m3u8
+#EXTINF:-1 tvg-id="CL | Antofagasta TV" tvg-name="CL | Antofagasta TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRTu0ivxkbCTQgcVOVpUOj4elhlVTcofuxZSKz-MA=s900-c-k-c0x00ffffff-no-rj" group-title="CHILE", En prueba | Antofagasta TV || CHILE
+https://unlimited1-us.dps.live/atv/atv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Bío-Bío TV" tvg-name="CL | Bío-Bío TV" tvg-logo="https://www.biobiochile.cl/assets/img/logo-bbtv-header.png" group-title="CHILE", 425 | Bío-Bío TV || CHILE
 https://unlimited1-cl-isp.dps.live/bbtv/bbtv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CL | Viwix TV" tvg-name="CL | Viwix TV" tvg-logo="https://play-lh.googleusercontent.com/jPpTd17mVkIVHw521vGLHS5BccIw9UYqJF5e2ZdDG2qIwRRBh4Gy6Xr-rXtdMA15G7w=s150-rw" group-title="CHILE", 426 | Viwix TV || CHILE
@@ -1409,6 +1411,8 @@ https://cloudvideo.servers10.com:8081/8116/index.m3u8
 https://cloudvideo.servers10.com:8081/8022/index.m3u8
 #EXTINF:-1 tvg-id="JP | NHK World" tvg-name="JP | NHK World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/245px-NHK_World.svg.png" group-title="JAPON", 659 | NHK World || JAPON
 https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
+#EXTINF:-1 tvg-id="KR | Arirang TV" tvg-name="KR | Arirang TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arirang-TV-Logo.svg/250px-Arirang-TV-Logo.svg.png" group-title="KOREA DEL SUR", En prueba | Arirang TV || KOREA DEL SUR
+https://marine2.miplay.cl/arirang/playlist.m3u8
 #EXTINF:-1 tvg-id="KR | Asian TV" tvg-name="KR | Asian TV" tvg-logo="https://tv-iteractiva-prod.s3.amazonaws.com/media/brand/ASIANTV_LOGO_PRETO-01_menor_DURXi6G.png" group-title="KOREA DEL SUR", 660 | Asian TV || KOREA DEL SUR
 https://video01.soultv.com.br/asiantv/asiantv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Radio Latina" tvg-name="PE | Radio Latina" tvg-logo="https://www.planetaradios.com/content/radios_fm/Radio_Latina_FM_San_Matin_3545.png" group-title="EMISORAS LOCALES", 661 | Radio Latina 90.1 FM || Moyobamba; Perú
