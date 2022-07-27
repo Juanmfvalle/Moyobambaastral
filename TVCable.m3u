@@ -158,13 +158,13 @@ http://190.108.83.142:8000/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="CL | MX Prime" tvg-name="CL | MX Prime" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FONDO-2-300x169.jpg" group-title="PELICULAS Y SERIES", 75 | MX Prime
 http://190.108.83.142:8000/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="CL | Old" tvg-name="CL | Old" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/OLD-FONDO-2-300x169.jpg" group-title="PELICULAS Y SERIES", En prueba | Old
-https://marine2.miplay.cl/old/playlist.m3u8
+https://panel.miplay.cl:8081/old/index.m3u8
 #EXTINF:-1 tvg-id="USA | Studio Universal" tvg-name="USA | Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/175px-StudioUniversal2016.png" group-title="PELICULAS Y SERIES", 76 | Studio Universal
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/STUDIOUNIVERSAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSTUDIOUNIVERSAL_stream_w1&_cdn_session=273725067&_cdn_timestamp=1658976229&_cdn_token=bedbb79e6a2e0a64e28a179e88f66a75c17dfd74
 #EXTINF:-1 tvg-id="USA | Syfy" tvg-name="USA | Syfy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/150px-SYFY.svg.png" group-title="PELICULAS Y SERIES", 77 | Syfy
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/SYFY/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSYFY_stream_gb&_cdn_session=273725171&_cdn_timestamp=1658976247&_cdn_token=c296c88b0607ff43dceb488b48fa1387929d6776
 #EXTINF:-1 tvg-id="MX | Mórbido TV" tvg-name="MX | Mórbido TV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/morbido-ar.png" group-title="PELICULAS Y SERIES", En prueba | Mórbido TV
-https://marine2.miplay.cl/morbidotv/playlist.m3u8
+https://panel.miplay.cl:8081/morbidotv/index.m3u8
 #EXTINF:-1 tvg-id="PE | Mittos TV" tvg-name="PE | Mittos TV" tvg-logo="https://pbs.twimg.com/media/FXM5iSyX0AAkzON?format=png&name=240x240" group-title="PELICULAS Y SERIES", 78 | Mittos TV || Pucallpa
 https://cloudvideo.servers10.com:8081/8176/index.m3u8
 #EXTINF:-1 tvg-id="PE | Retro Plus 3 TV" tvg-name="PE | Retro Plus 3 TV" tvg-logo="https://pbs.twimg.com/media/FXfp5PNWAAI0YGt?format=png&name=small" group-title="PELICULAS Y SERIES", 79 | Retro Plus 3 TV
@@ -272,7 +272,7 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="VE | Globovisión" tvg-name="VE | Globovisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo-Globovisi%C3%B3n.png/140px-Logo-Globovisi%C3%B3n.png" group-title="NOTICIAS E INFORMACION", En prueba | Globovisión
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/Globovision
 #EXTINF:-1 tvg-id="CL | Canal 24 Horas" tvg-name="CL | Canal 24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_24HorasTVN.svg/200px-Logo_24HorasTVN.svg.png" group-title="NOTICIAS E INFORMACION", 129 | Canal 24 Horas
-https://marine2.miplay.cl/24horas/playlist.m3u8
+https://panel.miplay.cl:8081/24horas/index.m3u8
 #EXTINF:-1 tvg-id="AL | DW" tvg-name="AL | DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/125px-Deutsche_Welle_symbol_2012.svg.png" group-title="NOTICIAS E INFORMACION", 130 | DW Televisión
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="FR | France 24" tvg-name="FR | France 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/125px-France24.png" group-title="NOTICIAS E INFORMACION", 131 | France 24
@@ -317,7 +317,7 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/HGTV/40-hls/live-media.m3u8?_
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-id="USA | E!" tvg-name="USA | E!" channelId="145" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/35px-E%21_Logo_2012.svg.png" group-title="ESTILOS DE VIDA", 151 | E! Entertainment Televisión
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/EENTRETAIMENT/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DE_CH_stream_7o&_cdn_session=273730507&_cdn_timestamp=1658977241&_cdn_token=4c2ffe59133bc825859c6cfbe5f9bffb1583a007
-#EXTINF:-1 tvg-id="CL | Sprectrum Channel" tvg-name="CL | Sprectrum Channel" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/spectrum-1920X1080-300x169.png" group-title="ESTILOS DE VIDA", En prueba | Sprectrum Channel
+#EXTINF:-1 tvg-id="CL | Spectrum Channel" tvg-name="CL | Spectrum Channel" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/spectrum-1920X1080-300x169.png" group-title="ESTILOS DE VIDA", En prueba | Spectrum Channel
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
 #EXTINF:-1 tvg-id="MX | Azteca Mundo" tvg-name="MX | Azteca Mundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TV_Azteca_Mundo_logo.svg/200px-TV_Azteca_Mundo_logo.svg.png" group-title="ESTILOS DE VIDA", 152 | Azteca Mundo
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AZMUNDO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZMUNDO_stream_6q&_cdn_session=273730619&_cdn_timestamp=1658977258&_cdn_token=ae667dfcc7e1c950e5d6254a379ae7e7c56e4d20
@@ -326,15 +326,15 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/GOURMET/40-hls/live-media.m3u
 #EXTINF:-1 tvg-id="USA | Food Network" tvg-name="USA | Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/150px-Food_Network_New_Logo.png" group-title="ESTILOS DE VIDA", 154 | Food Network
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOODNETWORK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOODNETWORK_stream_l5&_cdn_session=273730907&_cdn_timestamp=1658977299&_cdn_token=d7ee858160cf37dd518b87bb63069d49f79a5e29
 #EXTINF:-1 tvg-id="CL | Mundo & Sabor" tvg-name="CL | Mundo & Sabor" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MUNDO-Y-SABOR-FONDO-2-300x169.jpg" group-title="ESTILOS DE VIDA", En prueba | Mundo & Sabor
-https://marine2.miplay.cl/mundoysabor/playlist.m3u8
+https://panel.miplay.cl:8081/mundoysabor/index.m3u8
 #EXTINF:-1 tvg-id="CL | Ladies TV" tvg-name="CL | Ladies TV" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/LADIES-FONDO-2-300x169.jpg" group-title="ESTILOS DE VIDA", En prueba | Ladies TV
-https://marine2.miplay.cl/ladies/playlist.m3u8
+https://panel.miplay.cl:8081/ladies/index.m3u8
 #EXTINF:-1 tvg-id="USA | TLC" tvg-name="USA | TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/150px-TLC_Logo.svg.png" group-title="ESTILOS DE VIDA", 155 | Travel & Living Channel
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TLC/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRAVELANDLIVING_stream_z3&_cdn_session=273730995&_cdn_timestamp=1658977315&_cdn_token=29e9f49a0f4f8c416efd7a8c33af252553ec2f46
 #EXTINF:-1 tvg-id="USA | Discovery Home & Health" tvg-name="USA | Discovery Home & Health" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png" group-title="ESTILOS DE VIDA", 156 | Discovery Home & Health
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/HOMEANDHEALTH/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHOMEANDHEALTH_stream_qp&_cdn_session=273731107&_cdn_timestamp=1658977335&_cdn_token=c7828eee39a37cb7e379af646f545f9c4f60ba7d
 #EXTINF:-1 tvg-id="CL | On Tour Channel" tvg-name="CL | On Tour Channel" tvg-logo="https://pbs.twimg.com/media/FSiiFtPXIAAjZZ8?format=png&name=120x120" group-title="ESTILOS DE VIDA", En prueba | On Tour Channel
-https://marine2.miplay.cl/ontour/playlist.m3u8
+https://panel.miplay.cl:8081/ontour/index.m3u8
 #EXTINF:-1 tvg-id="PE | Best Cable Sports" tvg-name="PE | Best Cable Sports" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=239x10000:format=jpg/path/s86a1480785a470a0/image/i3cd2b522eae1ddb2/version/1637874672/image.jpg" group-title="DEPORTES", 157 | Best Cable Sports
 https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
 #EXTINF:-1 tvg-id="USA | Fox Sports 2" tvg-name="USA | Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/175px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES", 158 | Fox Sports 2
@@ -362,9 +362,9 @@ http://190.122.96.187:8888/http/010
 #EXTINF:-1 tvg-id="CL | Fit TV" tvg-name="CL | Fit TV" tvg-logo="https://pbs.twimg.com/media/FSNWx2LXwAEneGk?format=jpg&name=240x240" group-title="DEPORTES", 169 | Fit TV
 http://190.108.83.142:8000/play/a00z/index.m3u8
 #EXTINF:-1 tvg-id="CL | Fitmaxx TV" tvg-name="CL | Fitmaxx TV" tvg-logo="https://pbs.twimg.com/media/FSk6Zq7WQAA7Cp8?format=png&name=240x240" group-title="DEPORTES", En prueba | Fitmaxx TV
-https://marine2.miplay.cl/fitmaxx/playlist.m3u8
+https://panel.miplay.cl:8081/fitmaxx/index.m3u8
 #EXTINF:-1 tvg-id="CL | Sport Ext" tvg-name="CL | Sport Ext" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/SPORT-EXT-FONDO-2-300x169.jpg" group-title="DEPORTES", 170 | Sport Ext
-https://marine2.miplay.cl/sportext/playlist.m3u8
+https://panel.miplay.cl:8081/sportext/index.m3u8
 #EXTINF:-1 tvg-id="PE | EdX TV" tvg-name="PE | EdX TV" tvg-logo="https://pbs.twimg.com/media/FVzsfVnWUAc1ffp?format=png&name=240x240" group-title="DEPORTES", 171 | EdX TV
 https://stream.plixitv.live/edx/edx/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | EX TV" tvg-name="PE | EX TV" tvg-logo="https://pbs.twimg.com/media/FVztCFoWQAIlskp?format=png&name=240x240" group-title="DEPORTES", 172 | EX TV
@@ -382,7 +382,7 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/MTV/20-hls/live-media.m3u8?_c
 #EXTINF:-1 tvg-id="CO | Telenostalgia" tvg-name="CO | Telenostalgia" tvg-logo="https://canaltelenostalgia.com/wp-content/uploads/2022/03/logo_telenostalgia.png" group-title="MUSICA Y REALITIES", 178 | Canal Telenostalgia
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TELENOSTALGIA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELENOSTALGIA_stream_or&_cdn_session=273732683&_cdn_timestamp=1658977573&_cdn_token=61f41719ee71ccbdbbfbbe9099270aaf6a8c38e9
 #EXTINF:-1 tvg-id="CL | Old Music TV" tvg-name="CL | Old Music TV" tvg-logo="https://pbs.twimg.com/media/FSimCx8X0AI_8QI?format=png&name=small" group-title="MUSICA Y REALITIES", En prueba | Old Music Televisión
-https://marine2.miplay.cl/oldmusic/playlist.m3u8
+https://panel.miplay.cl:8081/oldmusic/index.m3u8
 #EXTINF:-1 tvg-id="USA | Memorias TV" tvg-name="USA | Memorias TV" tvg-logo="https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1-224x96.png" group-title="MUSICA Y REALITIES", 179 | Memorias TV
 https://cloud10.vsgtech.co:3262/live/memoriastv2live.m3u8
 #EXTINF:-1 tvg-id="PE | Retro Plus TV" tvg-name="PE | Retro Plus TV" tvg-logo="https://www.retroplustv.com/wp-content/uploads/2022/03/logo_1.png" group-title="MUSICA Y REALITIES", 180 | Retro Plus TV
@@ -428,9 +428,9 @@ http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | Visión Televisión" tvg-name="MX | Visión Televisión" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9lPhyOcDjaoJ4wXoeZrt4AyE_xsEsSUm3SWH-m6fuPfWdxPqdSDtHUUp5J5KNY_3lP2A&usqp=CAU" group-title="MUSICA Y REALITIES", 200 | Visión Televisión
 https://cloudvideo.servers10.com:8081/8016/index.m3u8
 #EXTINF:-1 tvg-id="CL | Karavana Urbano TV" tvg-name="CL | Karavana Urbano TV" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/karavanaurbano-1920-1080-300x169.jpg" group-title="MUSICA Y REALITIES", 201 | Karavana Urbano TV
-https://marine2.miplay.cl/karavanaurbano/playlist.m3u8
+https://panel.miplay.cl:8081/karavanaurbano/index.m3u8
 #EXTINF:-1 tvg-id="KR | K Pop" tvg-name="KR | K Pop" tvg-logo="https://pbs.twimg.com/media/FSiqLLSWQAIxK78?format=png&name=240x240" group-title="MUSICA Y REALITIES", En prueba | K Pop
-https://marine2.miplay.cl/kpop/playlist.m3u8
+https://panel.miplay.cl:8081/kpop/index.m3u8
 #EXTINF:-1 tvg-id="NI | Megabox" tvg-name="NI | Megabox" tvg-logo="https://pbs.twimg.com/profile_images/1108879740893622273/naY8KsoE_400x400.jpg" group-title="MUSICA Y REALITIES", 202 | Megabox
 https://inliveserver.com:1936/17508/17508/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Zapping Music" tvg-name="CL | Zapping Music" tvg-logo="http://tv-online.cl/zapping-music-en-vivo.jpg?210921113151" group-title="MUSICA Y REALITIES", 203 | Zapping Music
