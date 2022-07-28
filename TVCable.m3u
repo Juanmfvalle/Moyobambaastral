@@ -919,6 +919,8 @@ https://marine2.miplay.cl/tvmas/playlist.m3u8
 https://v4.tustreaming.cl/tevexinter/index.m3u8
 #EXTINF:-1 tvg-id="CL | TV Senado" tvg-name="CL | TV Senado" tvg-logo="https://tv.senado.cl/tvsenado/site/artic/20160901/imag/foto_0000000920160901163145.png" group-title="CHILE", 426 | TV Senado || CHILE
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="CL | Tec TV" tvg-name="CL | Tec TV" tvg-logo="https://tectv.cl/wp-content/uploads/2020/10/TECTV-sin-hd.png" group-title="CHILE", En prueba | Tec TV || CHILE
+http://190.107.176.55:1935/live/tec-tv/chunklist_w1055014753.m3u8
 #EXTINF:-1 tvg-id="CL | Canal 2 Televisión San Antonio" tvg-name="CL | Canal 2 Televisión San Antonio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Descarga3.jpg/revision/latest?cb=20190826001246&path-prefix=es" group-title="CHILE", En prueba | Canal 2 Televisión San Antonio || CHILE
 https://unlimited1-us.dps.live/canal2/canal2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Décima TV" tvg-name="CL | Décima TV" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/decimatv-1920-1080-300x169.jpg" group-title="CHILE", En prueba | Décima TV || CHILE
