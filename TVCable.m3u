@@ -497,6 +497,8 @@ https://cdn.streamhispanatv.net:3189/live/jesustvlive.m3u8
 https://g5.vxral-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_1080p.m3u8
 #EXTINF:-1 tvg-id="AR | Solidaria TV" tvg-name="AR | Solidaria TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRvGzClf1TW0zlf861XH256v1NGLQ0FdkvMJ8Sc7g=s88-c-k-c0x00ffffff-no-rj" group-title="RELIGIOSOS", 235 | Solidaria Televisión
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
+#EXTINF:-1 tvg-id="CL | VC Online HD" tvg-name="CL | VC Online HD" tvg-logo="https://i.imgur.com/L1AkNUo.jpg" group-title="RELIGIOSOS", En prueba | VC Online HD
+https://593b04c4c5670.streamlock.net/8068/8068/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Nuevo Tiempo" tvg-name="CL | Nuevo Tiempo" tvg-logo="https://www.nuevotiempo.org/wp-content/uploads/sites/6/2020/03/logo-teste-novo-tempo-02-ES.png" group-title="RELIGIOSOS", 236 | Nuevo Tiempo
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BR | Nuevo Tiempo" tvg-name="BR | Nuevo Tiempo" tvg-logo="https://www.nuevotiempo.org/wp-content/uploads/sites/6/2020/03/logo-teste-novo-tempo-02-ES.png" group-title="RELIGIOSOS", 237 | Nuevo Tiempo || Brasil
@@ -621,8 +623,10 @@ https://tv.portalexpress.es:3399/hybrid/play.m3u8
 https://servers.amelbasoluciones.co:19360/5medialive/5medialive.m3u8
 #EXTINF:-1 tvg-id="PE | Innova FM TV" tvg-name="PE | Innova FM TV" tvg-logo="https://www.innovafm.com/wp-content/uploads/2020/12/logo-innovafm.png" group-title="REGIONALES", 293 | Innova FM TV || Bagua Grande
 https://live.tvcontrolcp.com:1936/8170/8170/chunklist_w1280264475.m3u8
-#EXTINF:-1 tvg-id="PE | Max TV" tvg-name="PE | Max TV" tvg-logo="https://play-lh.googleusercontent.com/s0YnVe0zjCW9hfptbmrDhdAciKEDL5sJiodKgrfreCo3SsEHzcb9mhL1HVy9wzVa9iU=h300-rw" group-title="MUSICA Y REALITIES", En prueba | Max TV || Bagua
+#EXTINF:-1 tvg-id="PE | Max TV" tvg-name="PE | Max TV" tvg-logo="https://play-lh.googleusercontent.com/s0YnVe0zjCW9hfptbmrDhdAciKEDL5sJiodKgrfreCo3SsEHzcb9mhL1HVy9wzVa9iU=h300-rw" group-title="REGIONALES", En prueba | Max TV || Bagua
 http://200.48.184.156:1935/maxtv/maxtv/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | Súper TV" tvg-name="PE | Súper TV" tvg-logo="https://play-lh.googleusercontent.com/ZgYZMcDBsNHBbi3x3bTRskvvDhq80S5S9qpu2a38MbeuYm9V1wSQmmns8S3LIRUU43yt" group-title="REGIONALES", En prueba | Súper TV || Bagua
+https://tvdatta.com:3517/live/kachorrotvlive.m3u8
 #EXTINF:-1 tvg-id="PE | Planea TV" tvg-name="PE | Planea TV" tvg-logo="https://pbs.twimg.com/media/FSNY9m6XEAUryQ8?format=jpg&name=small" group-title="REGIONALES", 294 | Planea TV || Bagua
 https://stmv.panel.grupolimalive.com/planeatv/planeatv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Sistema 1 TV" tvg-name="PE | Sistema 1 TV" tvg-logo="https://sistema1tv.com/aplication/webroot/imgs/movil.png" group-title="REGIONALES", 295 | Sistema 1 TV || Huaraz
@@ -911,6 +915,12 @@ https://unlimited1-us.dps.live/tvu/tvu.smil/playlist.m3u8
 https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | TV+" tvg-name="CL | TV+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TV%2B_%282018%29.png/245px-TV%2B_%282018%29.png" group-title="CHILE", En prueba | TV+ || CHILE
 https://marine2.miplay.cl/tvmas/playlist.m3u8
+#EXTINF:-1 tvg-id="CL | Tevex" tvg-name="CL | Tevex" tvg-logo="https://tevex.cl/wp-content/uploads/2021/01/logo_tevex_formato_3.svg" group-title="CHILE", 425 | Tevex || CHILE
+https://v4.tustreaming.cl/tevexinter/index.m3u8
+#EXTINF:-1 tvg-id="CL | TV Senado" tvg-name="CL | TV Senado" tvg-logo="https://tv.senado.cl/tvsenado/site/artic/20160901/imag/foto_0000000920160901163145.png" group-title="CHILE", 426 | TV Senado || CHILE
+https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="CL | Canal 2 Televisión San Antonio" tvg-name="CL | Canal 2 Televisión San Antonio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Descarga3.jpg/revision/latest?cb=20190826001246&path-prefix=es" group-title="CHILE", En prueba | Canal 2 Televisión San Antonio || CHILE
+https://unlimited1-us.dps.live/canal2/canal2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Décima TV" tvg-name="CL | Décima TV" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/decimatv-1920-1080-300x169.jpg" group-title="CHILE", En prueba | Décima TV || CHILE
 https://unlimited6-cl.dps.live/decimatv/decimatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Canal 57 Melipilla" tvg-name="CL | Canal 57 Melipilla" tvg-logo="https://play-lh.googleusercontent.com/h5mGowi_1pK7-i-RnjsINVW75HhI4n1lSz9UXDX91UcxlBgN0Skb7yQYAH5FudjnusO2" group-title="CHILE", En prueba | Canal 57 Melipilla || CHILE
@@ -931,20 +941,18 @@ https://v2.tustreaming.cl/atacamanoticias/index.m3u8
 https://tv.tvcontrolcp.com:1936/costa1/costa1/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Canal de la Costa" tvg-name="CL | Canal de la Costa" tvg-logo="https://pbs.twimg.com/media/FYxPWyxXoAcrJg_?format=png&name=small" group-title="CHILE", En prueba | Canal de la Costa || CHILE
 https://livefocamundo.com/cdlcyerko/index.m3u8
-#EXTINF:-1 tvg-id="CL | Bío-Bío TV" tvg-name="CL | Bío-Bío TV" tvg-logo="https://www.biobiochile.cl/assets/img/logo-bbtv-header.png" group-title="CHILE", 425 | Bío-Bío TV || CHILE
+#EXTINF:-1 tvg-id="CL | Bío-Bío TV" tvg-name="CL | Bío-Bío TV" tvg-logo="https://www.biobiochile.cl/assets/img/logo-bbtv-header.png" group-title="CHILE", 427 | Bío-Bío TV || CHILE
 https://unlimited1-cl-isp.dps.live/bbtv/bbtv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CL | Canal TV 8" tvg-name="CL | Canal TV 8" tvg-logo="https://www.canaltv8.cl/wp-content/uploads/2022/07/logo-normal.png" group-title="CHILE", En prueba | Canal TV 8 || CHILE
 https://593b04c4c5670.streamlock.net/8014/8014/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | TV Quinta Región" tvg-name="CL | TV Quinta Región" tvg-logo="https://www.tvquintaregion.cl/wp-content/uploads/2022/05/cropped-tvquintaregion.png" group-title="CHILE", En prueba | TV Quinta Región || CHILE
 https://mediacpstreamchile.com:1936/8002/8002/playlist.m3u8
-#EXTINF:-1 tvg-id="CL | Viwix TV" tvg-name="CL | Viwix TV" tvg-logo="https://play-lh.googleusercontent.com/jPpTd17mVkIVHw521vGLHS5BccIw9UYqJF5e2ZdDG2qIwRRBh4Gy6Xr-rXtdMA15G7w=s150-rw" group-title="CHILE", 426 | Viwix TV || CHILE
+#EXTINF:-1 tvg-id="CL | Viwix TV" tvg-name="CL | Viwix TV" tvg-logo="https://play-lh.googleusercontent.com/jPpTd17mVkIVHw521vGLHS5BccIw9UYqJF5e2ZdDG2qIwRRBh4Gy6Xr-rXtdMA15G7w=s150-rw" group-title="CHILE", 428 | Viwix TV || CHILE
 https://593b04c4c5670.streamlock.net/8008/8008/playlist.m3u8
-#EXTINF:-1 tvg-id="CL | Tevex" tvg-name="CL | Tevex" tvg-logo="https://tevex.cl/wp-content/uploads/2021/01/logo_tevex_formato_3.svg" group-title="CHILE", 427 | Tevex || CHILE
-https://v4.tustreaming.cl/tevexinter/index.m3u8
-#EXTINF:-1 tvg-id="CL | TV Senado" tvg-name="CL | TV Senado" tvg-logo="https://tv.senado.cl/tvsenado/site/artic/20160901/imag/foto_0000000920160901163145.png" group-title="CHILE", 428 | TV Senado || CHILE
-https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CL | Madero TV" tvg-name="CL | Madero TV" tvg-logo="https://www.maderotv.cl/wp-content/uploads/2019/11/cropped-LOGO-MADEROTV.png" group-title="CHILE", 429 | Madero TV || CHILE
 https://videostreaming.cloudserverlatam.com:443/8040/8040/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="CL | TV5 Linares" tvg-name="CL | TV5 Linares" tvg-logo="https://i.ytimg.com/an/AqNZagXjd1Q/9258c1f5-e3b1-4fef-acdd-be19f1f359d2_mq.jpg?v=5d6c2708" group-title="CHILE", En prueba | TV5 Linares || CHILE
+https://unlimited1-us.dps.live/tv5/tv5.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Canal Latino 54" tvg-name="CL | Canal Latino 54" tvg-logo="http://radio1latina.cl/wp-content/uploads/2015/01/logo.png" group-title="CHILE", 430 | Canal Latino 54 || CHILE
 http://190.3.169.119:8080/latina/latina/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CL | Holvoet TV" tvg-name="CL | Holvoet TV" tvg-logo="https://newses.cgtn.com/n/BfJAA-CIA-HAA/BHJeGAA.jpg" group-title="CHILE", 431 | Holvoet TV || CHILE
@@ -955,10 +963,10 @@ https://redirector.dps.live/hls/pucontv/playlist.m3u8
 https://marine2.miplay.cl/molinatv/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | ITV Patagonia" tvg-name="CL | ITV Patagonia" tvg-logo="https://www.itvpatagonia.com/_next/image?url=https%3A%2F%2Fs3-mspro.nyc3.digitaloceanspaces.com%2Ftenant%2F5f47d37f4e479a339b11a878%2Fsettings%2Flogos%2F061775cc-745e-4086-b294-b06cb086f44b.jpg&w=384&q=75" group-title="CHILE", En prueba | ITV Patagonia || CHILE
 https://redirector.dps.live/hls/itv/playlist.m3u8
-#EXTINF:-1 tvg-id="CL | Ñublevisión" tvg-name="CL | Ñublevisión" tvg-logo="https://nublevision.cl/wp-content/uploads/2021/10/Logo-N%CC%83ublevision-FAT-Oficial.png" group-title="CHILE", En prueba | Ñublevisión || CHILE
-https://cdn.oneplaychile.cl:1936/regionales/nublevision.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | CSTV" tvg-name="CL | CSTV" tvg-logo="https://pbs.twimg.com/media/FYxfo5zXkAAmRz-?format=png&name=360x360" group-title="CHILE", En prueba | CSTV || CHILE
 https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
+#EXTINF:-1 tvg-id="CL | El Pingüino TV" tvg-name="CL | El Pingüino TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Pinguino_TV.png" group-title="CHILE", En prueba | El Pingüino TV || CHILE
+https://stream.elpinguino.com/live/smil:EP.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Huasco TV" tvg-name="CL | Huasco TV" tvg-logo="https://pbs.twimg.com/media/FYvp91HWQAERqTD?format=png&name=small" group-title="CHILE", En prueba | Huasco TV || CHILE
 https://paneltv.online:1936/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-id="AR | Telefe" tvg-name="AR | Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Telefe_Internacional_%282018%29.png/150px-Telefe_Internacional_%282018%29.png" group-title="INTERNACIONALES", 432 | Telefe Internacional || ARGENTINA
