@@ -915,6 +915,10 @@ https://marine2.miplay.cl/ntv/playlist.m3u8
 https://unlimited1-us.dps.live/tvu/tvu.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | TVR" tvg-name="CL | TVR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Televisi%C3%B3n_Regional_de_Chile_-_logo.png/150px-Televisi%C3%B3n_Regional_de_Chile_-_logo.png" group-title="CHILE", En prueba | TVR || CHILE
 https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CL | TV+" tvg-name="CL | TV+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TV%2B_%282018%29.png/245px-TV%2B_%282018%29.png" group-title="CHILE", En prueba | TV+ || CHILE
+https://marine2.miplay.cl/tvmas/playlist.m3u8
+#EXTINF:-1 tvg-id="CL | Décima TV" tvg-name="CL | Décima TV" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/decimatv-1920-1080-300x169.jpg" group-title="CHILE", En prueba | Décima TV || CHILE
+https://marine2.miplay.cl/decimatv/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Canal 57 Melipilla" tvg-name="CL | Canal 57 Melipilla" tvg-logo="https://play-lh.googleusercontent.com/h5mGowi_1pK7-i-RnjsINVW75HhI4n1lSz9UXDX91UcxlBgN0Skb7yQYAH5FudjnusO2" group-title="CHILE", En prueba | Canal 57 Melipilla || CHILE
 https://593b04c4c5670.streamlock.net/8148/8148/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Antofagasta TV" tvg-name="CL | Antofagasta TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRTu0ivxkbCTQgcVOVpUOj4elhlVTcofuxZSKz-MA=s900-c-k-c0x00ffffff-no-rj" group-title="CHILE", En prueba | Antofagasta TV || CHILE
@@ -946,7 +950,7 @@ http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AR | Encuentro TV" tvg-name="AR | Encuentro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/150px-Logo_del_canal_Encuentro.svg.png" group-title="ARGENTINA", 436 | Encuentro TV || ARGENTINA
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist.m3u8
 #EXTINF:-1 tvg-id="AR | ATV de la Argentina" tvg-name="AR | ATV de la Argentina" tvg-logo="https://atvargentina.com/wp-content/uploads/2021/07/atvargentina-x1.png" group-title="ARGENTINA", 437 | ATV de la Argentina || ARGENTINA
-https://5975e06a1f292.streamlock.net:4443/atbargentina/atbargentina/playlist.m3u8
+https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8
 #EXTINF:-1 tvg-id="UY | Canal 4" tvg-name="UY | Canal 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Canal4_uy.png/150px-Canal4_uy.png" group-title="URUGUAY", 438 | Canal 4 || URUGUAY
 http://titanlivetv.com:8080/live/8cEW8XH37tDT/GP4qLxWhcCkd/102360.m3u8
 #EXTINF:-1 tvg-id="UY | TV Ciudad" tvg-name="UY | TV Ciudad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TVCiudad_logo_2020.png/140px-TVCiudad_logo_2020.png" group-title="URUGUAY", 439 | TV Ciudad || URUGUAY
