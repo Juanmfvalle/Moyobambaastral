@@ -909,7 +909,7 @@ https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8?PlaylistM3UCL
 https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CL | 13 Teleseries" tvg-name="CL | 13 Teleseries" tvg-logo="https://www-storage.13.cl/c13/13go/image/logos-13t.svg" group-title="CHILE", 423.4 | 13 Teleseries || CHILE
 https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="CL | NTV" tvg-name="CL | NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Logo_NTV.svg/150px-Logo_NTV.svg.png" group-title="CHILE", En prueba | NTV || CHILE
+#EXTINF:-1 tvg-id="CL | NTV" tvg-name="CL | NTV" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/ntv-1920-1080-300x169.jpg" group-title="CHILE", En prueba | NTV || CHILE
 https://marine2.miplay.cl/ntv/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | TVU" tvg-name="CL | TVU" tvg-logo="https://www.tvu.cl/_templates/desktop/includes/img/LOGO-TVU-AZUL.png" group-title="CHILE", 424 | TVU || CHILE
 https://unlimited1-us.dps.live/tvu/tvu.smil/playlist.m3u8
@@ -918,9 +918,11 @@ https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | TV+" tvg-name="CL | TV+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TV%2B_%282018%29.png/245px-TV%2B_%282018%29.png" group-title="CHILE", En prueba | TV+ || CHILE
 https://marine2.miplay.cl/tvmas/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Décima TV" tvg-name="CL | Décima TV" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/decimatv-1920-1080-300x169.jpg" group-title="CHILE", En prueba | Décima TV || CHILE
-https://marine2.miplay.cl/decimatv/playlist.m3u8
+https://unlimited6-cl.dps.live/decimatv/decimatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Canal 57 Melipilla" tvg-name="CL | Canal 57 Melipilla" tvg-logo="https://play-lh.googleusercontent.com/h5mGowi_1pK7-i-RnjsINVW75HhI4n1lSz9UXDX91UcxlBgN0Skb7yQYAH5FudjnusO2" group-title="CHILE", En prueba | Canal 57 Melipilla || CHILE
 https://593b04c4c5670.streamlock.net/8148/8148/playlist.m3u8
+#EXTINF:-1 tvg-id="CL | ITV Patagonia" tvg-name="CL | ITV Patagonia" tvg-logo="https://www.itvpatagonia.com/_next/image?url=https%3A%2F%2Fs3-mspro.nyc3.digitaloceanspaces.com%2Ftenant%2F5f47d37f4e479a339b11a878%2Fsettings%2Flogos%2F061775cc-745e-4086-b294-b06cb086f44b.jpg&w=384&q=75" group-title="CHILE", En prueba | ITV Patagonia || CHILE
+https://redirector.dps.live/hls/itv/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Antofagasta TV" tvg-name="CL | Antofagasta TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRTu0ivxkbCTQgcVOVpUOj4elhlVTcofuxZSKz-MA=s900-c-k-c0x00ffffff-no-rj" group-title="CHILE", En prueba | Antofagasta TV || CHILE
 https://unlimited1-us.dps.live/atv/atv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Bío-Bío TV" tvg-name="CL | Bío-Bío TV" tvg-logo="https://www.biobiochile.cl/assets/img/logo-bbtv-header.png" group-title="CHILE", 425 | Bío-Bío TV || CHILE
@@ -939,6 +941,10 @@ http://190.3.169.119:8080/latina/latina/playlist.m3u8?PlaylistM3UCL
 http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-id="CL | Pucón TV" tvg-name="CL | Pucón TV" tvg-logo="https://pbs.twimg.com/profile_images/710193965283336192/iOJ3Jihf_400x400.jpg" group-title="CHILE", En prueba | Pucón TV || CHILE
 https://redirector.dps.live/hls/pucontv/playlist.m3u8
+#EXTINF:-1 tvg-id="CL | Molina TV" tvg-name="CL | Molina TV" tvg-logo="https://pbs.twimg.com/media/FYvrJaNXoAMYcNo?format=png&name=small" group-title="CHILE", En prueba | Molina TV || CHILE
+https://marine2.miplay.cl/molinatv/playlist.m3u8
+#EXTINF:-1 tvg-id="CL | Huasco TV" tvg-name="CL | Huasco TV" tvg-logo="https://pbs.twimg.com/media/FYvp91HWQAERqTD?format=png&name=small" group-title="CHILE", En prueba | Huasco TV || CHILE
+https://paneltv.online:1936/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-id="AR | Telefe" tvg-name="AR | Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Telefe_Internacional_%282018%29.png/150px-Telefe_Internacional_%282018%29.png" group-title="INTERNACIONALES", 432 | Telefe Internacional || ARGENTINA
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TELEFE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEFE_stream_te&_cdn_session=274697419&_cdn_timestamp=1659049746&_cdn_token=d517e2cf988cfc02d79362a5bd6724cf484b5276
 #EXTINF:-1 tvg-id="AR | El Nueve" tvg-name="AR | El Nueve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Canal_9_2015.png/120px-Canal_9_2015.png" group-title="ARGENTINA", 433 | El Nueve || ARGENTINA
