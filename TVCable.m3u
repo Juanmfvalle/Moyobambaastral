@@ -933,6 +933,8 @@ https://tv.tvcontrolcp.com:1936/costa1/costa1/playlist.m3u8
 https://livefocamundo.com/cdlcyerko/index.m3u8
 #EXTINF:-1 tvg-id="CL | Bío-Bío TV" tvg-name="CL | Bío-Bío TV" tvg-logo="https://www.biobiochile.cl/assets/img/logo-bbtv-header.png" group-title="CHILE", 425 | Bío-Bío TV || CHILE
 https://unlimited1-cl-isp.dps.live/bbtv/bbtv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="CL | Canal TV 8" tvg-name="CL | Canal TV 8" tvg-logo="https://www.canaltv8.cl/wp-content/uploads/2022/07/logo-normal.png" group-title="CHILE", En prueba | Canal TV 8 || CHILE
+https://593b04c4c5670.streamlock.net/8014/8014/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | TV Quinta Región" tvg-name="CL | TV Quinta Región" tvg-logo="https://www.tvquintaregion.cl/wp-content/uploads/2022/05/cropped-tvquintaregion.png" group-title="CHILE", En prueba | TV Quinta Región || CHILE
 https://mediacpstreamchile.com:1936/8002/8002/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Viwix TV" tvg-name="CL | Viwix TV" tvg-logo="https://play-lh.googleusercontent.com/jPpTd17mVkIVHw521vGLHS5BccIw9UYqJF5e2ZdDG2qIwRRBh4Gy6Xr-rXtdMA15G7w=s150-rw" group-title="CHILE", 426 | Viwix TV || CHILE
@@ -953,6 +955,10 @@ https://redirector.dps.live/hls/pucontv/playlist.m3u8
 https://marine2.miplay.cl/molinatv/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | ITV Patagonia" tvg-name="CL | ITV Patagonia" tvg-logo="https://www.itvpatagonia.com/_next/image?url=https%3A%2F%2Fs3-mspro.nyc3.digitaloceanspaces.com%2Ftenant%2F5f47d37f4e479a339b11a878%2Fsettings%2Flogos%2F061775cc-745e-4086-b294-b06cb086f44b.jpg&w=384&q=75" group-title="CHILE", En prueba | ITV Patagonia || CHILE
 https://redirector.dps.live/hls/itv/playlist.m3u8
+#EXTINF:-1 tvg-id="CL | Ñublevisión" tvg-name="CL | Ñublevisión" tvg-logo="https://nublevision.cl/wp-content/uploads/2021/10/Logo-N%CC%83ublevision-FAT-Oficial.png" group-title="CHILE", En prueba | Ñublevisión || CHILE
+https://cdn.oneplaychile.cl:1936/regionales/nublevision.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CL | CSTV" tvg-name="CL | CSTV" tvg-logo="https://pbs.twimg.com/media/FYxfo5zXkAAmRz-?format=png&name=360x360" group-title="CHILE", En prueba | CSTV || CHILE
+https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Huasco TV" tvg-name="CL | Huasco TV" tvg-logo="https://pbs.twimg.com/media/FYvp91HWQAERqTD?format=png&name=small" group-title="CHILE", En prueba | Huasco TV || CHILE
 https://paneltv.online:1936/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-id="AR | Telefe" tvg-name="AR | Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Telefe_Internacional_%282018%29.png/150px-Telefe_Internacional_%282018%29.png" group-title="INTERNACIONALES", 432 | Telefe Internacional || ARGENTINA
