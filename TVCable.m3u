@@ -203,12 +203,20 @@ http://168.232.168.242:8089/play/a05u/index.m3u8
 http://168.232.168.242:8089/play/a03a/index.m3u8
 #EXTINF:-1 tvg-id="USA | Space" tvg-name="USA | Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="PELICULAS Y SERIES", 97 | Space
 http://168.232.168.242:8089/play/a05h/index.m3u8
+#EXTINF:-1 tvg-id="USA | Cine Hispano" tvg-name="USA | Cine Hispano" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinehispano.png" group-title="PELICULAS Y SERIES", En prueba | Cine Hispano
+http://181.129.186.36:8089/play/a00v/index.m3u8
+#EXTINF:-1 tvg-id="USA | Cine Familiar" tvg-name="USA | Cine Familiar" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png" group-title="PELICULAS Y SERIES", En prueba | Cine Familiar
+http://181.129.186.36:8089/play/a00r/index.m3u8
+#EXTINF:-1 tvg-id="USA | Cine Premium" tvg-name="USA | Cine Premium" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinepremium.png" group-title="PELICULAS Y SERIES", En prueba | Cine Premium
+http://181.129.186.36:8089/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="PE | E Cine" tvg-name="PE | E Cine" tvg-logo="https://pbs.twimg.com/media/FSNUAf4X0AI0f0s?format=jpg&name=120x120" group-title="PELICULAS Y SERIES", 98 | E Cine
 http://200.48.184.156:1935/ecine/ecine/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | E Play" tvg-name="PE | E Play" tvg-logo="https://pbs.twimg.com/media/FSNVY30XMAEZsak?format=jpg&name=120x120" group-title="PELICULAS Y SERIES", 99 | E Play
 http://200.48.184.156:1935/eplay/eplay/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Retro" tvg-name="PE | Retro" tvg-logo="https://pbs.twimg.com/media/FSNWMPoWUAAj7gr?format=jpg&name=360x360" group-title="PELICULAS Y SERIES", 100 | Retro
 http://200.48.184.156:1935/eretro/eretro/playlist.m3u8
+#EXTINF:-1 tvg-id="USA | Canal Infantil" tvg-name="USA | Canal Infantil" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/canal-infantil.png" group-title="INFANTILES", En prueba | Canal Infantil
+http://181.129.186.36:8089/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="USA | Semillitas" tvg-name="USA | Semillitas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Semillitas2011.png/245px-Semillitas2011.png" group-title="INFANTILES", 101 | Semillitas
 http://190.83.119.67:8000/play/a0pd/index.m3u8
 #EXTINF:-1 tvg-id="CL | Kids 90's TV" tvg-name="CL | Kids 90's TV" tvg-logo="https://i2.paste.pics/4a39976590ab0bd4fe7a0bbbd4411822.png" group-title="INFANTILES", 102 | Kids 90's TV
@@ -243,7 +251,7 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DREAMWORKS/40-hls/live-media.
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Disney Channel" tvg-name="USA | Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/170px-2019_Disney_Channel_logo.svg.png" group-title="INFANTILES", 117 | Disney Channel
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DISNEYCHANNEL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISNEYCHANNEL_stream_0w&_cdn_session=287292107&_cdn_timestamp=1659981577&_cdn_token=7965bdd47e1213a8666dbc5ba3ba5a9a2c441b60
-#EXTINF:-1 tvg-id="USA | Disney Junior" tvg-name="USA | Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Disney_Junior_logo.png/170px-Disney_Junior_logo.png" group-title="INFANTILES", 118 | Disney Junior
+#EXTINF:-1 tvg-id="USA | Disney Junior" tvg-name="USA | Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Disney_Junior_logo.svg/200px-Disney_Junior_logo.svg.png" group-title="INFANTILES", 118 | Disney Junior
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DISNEYJR/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISNEYJUNIOR_stream_ec&_cdn_session=287292363&_cdn_timestamp=1659981589&_cdn_token=76a6075e0640f0527e0b41403ffb719057439acd
 #EXTINF:-1 tvg-id="PE | Identidad Peruana" tvg-name="PE | Identidad Peruana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/190px-Identidad_Peruana_ipe_2020.png" group-title="INFANTILES", 119 | IPE Televisión
 http://190.108.83.142:8000/play/a00k/index.m3u8
