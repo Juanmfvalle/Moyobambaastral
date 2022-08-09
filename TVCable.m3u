@@ -117,6 +117,8 @@ https://cloudvideo.servers10.com:8081/8126/index.m3u8
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 #EXTINF:-1 tvg-id="CO | RCN Novelas" tvg-name="CO | RCN Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/205px-RCN_Novelas_logo_2019.png" group-title="NOVELAS", 54 | RCN Novelas
 http://190.187.247.206:8000/play/a01g/index.m3u8
+#EXTINF:-1 tvg-id="CO | Época" tvg-name="CO | Época" tvg-logo="https://www.lyngsat.com/logo/tv/ee/epoca_tv.png" group-title="NOVELAS", En prueba | Época
+http://204.199.119.14:1979/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="USA | Pasiones" tvg-name="USA | Pasiones" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQgm8S3Mil5Ktp0FUdBBNl7hfDdzPq3eIrNKWgy=s900-c-k-c0x00ffffff-no-rj" group-title="NOVELAS", 55 | Pasiones
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PASIONES/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPASIONES_stream_42&_cdn_session=288400779&_cdn_timestamp=1660064756&_cdn_token=4a076fe397748b8acb213d2c512f4dc3681322f4
 #EXTINF:-1 tvg-id="TR | Kanal D Drama" tvg-name="TR | Kanal D Drama" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Kanal_D_Drama_%28Latin_America%29.png/revision/latest/scale-to-width-down/200?cb=20200317052444&path-prefix=es" group-title="NOVELAS", 56 | Kanal D Drama
@@ -193,14 +195,14 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FX/10-hls/live-media.m3u8?_cd
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/CloverCh/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCloverCh_stream_2e&_cdn_session=288459267&_cdn_timestamp=1660069329&_cdn_token=da704a3c6d5e04013291323340090ce59505538e
 #EXTINF:-1 tvg-id="USA | Universal TV" tvg-name="USA | Universal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/167px-Universal_TV_logo.svg.png" group-title="PELICULAS Y SERIES", 92 | Universal TV
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/UNIVERSALCH/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUNIVERSAL_stream_4o&_cdn_session=288459515&_cdn_timestamp=1660069343&_cdn_token=63bc0905b08bf04e6eefcdcc6c9092752f4ff6cf
-#EXTINF:-1 tvg-id="USA | De Película" tvg-name="USA | De Película" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/250px-DPel%C3%ADcula_2021.svg.png" group-title="PELICULAS Y SERIES", 93 | De Película
-http://204.199.119.14:1979/play/a023/index.m3u8
+#EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 93 | TNT
+http://204.199.119.14:1979/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="MX | Golden Plus" tvg-name="MX | Golden Plus" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus-mediano.png" group-title="PELICULAS Y SERIES", 94 | Golden Plus
 http://190.187.247.206:8000/play/a02f/index.m3u8
 #EXTINF:-1 tvg-id="USA | TBS" tvg-name="USA | TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/135px-TBS_logo_2016.svg.png" group-title="PELICULAS Y SERIES", 95 | TBS
 http://204.199.119.14:1979/play/a01v/index.m3u8
-#EXTINF:-1 tvg-id="USA | TCM" tvg-name="USA | TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/120px-TCM_Latam_logo.svg.png" group-title="PELICULAS Y SERIES", 96 | TCM
-http://204.199.119.14:1979/play/a04j/index.m3u8
+#EXTINF:-1 tvg-id="USA | Cinemax" tvg-name="USA | Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="PELICULAS Y SERIES", 96 | Cinemax
+http://204.199.119.14:1979/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="USA | Space" tvg-name="USA | Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="PELICULAS Y SERIES", 97 | Space
 http://204.199.119.14:1979/play/a03g/index.m3u8
 #EXTINF:-1 tvg-id="PE | E Cine" tvg-name="PE | E Cine" tvg-logo="https://pbs.twimg.com/media/FSNUAf4X0AI0f0s?format=jpg&name=120x120" group-title="PELICULAS Y SERIES", 98 | E Cine
@@ -209,8 +211,6 @@ http://200.48.184.156:1935/ecine/ecine/playlist.m3u8
 http://200.48.184.156:1935/eplay/eplay/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Retro" tvg-name="PE | Retro" tvg-logo="https://pbs.twimg.com/media/FSNWMPoWUAAj7gr?format=jpg&name=360x360" group-title="PELICULAS Y SERIES", 100 | Retro
 http://200.48.184.156:1935/eretro/eretro/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Canal Infantil" tvg-name="USA | Canal Infantil" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/canal-infantil.png" group-title="INFANTILES", En prueba | Canal Infantil
-http://181.129.186.36:8089/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="USA | Semillitas" tvg-name="USA | Semillitas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Semillitas2011.png/245px-Semillitas2011.png" group-title="INFANTILES", 101 | Semillitas
 http://190.83.119.67:8000/play/a0pd/index.m3u8
 #EXTINF:-1 tvg-id="CL | Kids 90's TV" tvg-name="CL | Kids 90's TV" tvg-logo="https://i2.paste.pics/4a39976590ab0bd4fe7a0bbbd4411822.png" group-title="INFANTILES", 102 | Kids 90's TV
