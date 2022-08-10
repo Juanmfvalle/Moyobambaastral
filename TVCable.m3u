@@ -1318,19 +1318,19 @@ https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:-1 tvg-id="DO | Cananga Televisión" tvg-name="DO | Cananga Televisión" tvg-logo="https://canalesdominicanos.live/template/images/radios/cananga-tv.jpeg" group-title="REPUBLICA DOMINICANA", 640 | Cananga Televisión || REPUBLICA DOMINICANA
 https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8
 #EXTINF:-1 tvg-id="DO | Telemicro" tvg-name="DO | Telemicro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png/revision/latest/scale-to-width-down/170?cb=20191125192220&path-prefix=es" group-title="REPUBLICA DOMINICANA", 641 | Telemicro || REPUBLICA DOMINICANA
-http://51.81.93.29:8084/hls/tmicro.m3u8
+http://51.81.93.239:8084/hls/tmicro.m3u8
 #EXTINF:-1 tvg-id="DO | Antena 7" tvg-name="DO | Antena 7" tvg-logo="https://www.antena7.com.do/wp-content/themes/albavision-theme/parts-web/8da00b1c/logo.png" group-title="REPUBLICA DOMINICANA", 642 | Antena 7 || REPUBLICA DOMINICANA
 https://d3qhvst5vzq4y9.cloudfront.net/hls/antena7.m3u8
 #EXTINF:-1 tvg-id="DO | Color Visión" tvg-name="DO | Color Visión" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ec05bd74826e90977bf051086434a04d.webp" group-title="REPUBLICA DOMINICANA", 643 | Color Visión || REPUBLICA DOMINICANA
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/colorvision9
 #EXTINF:-1 tvg-id="DO | Telesistema" tvg-name="DO | Telesistema" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/telesistemac-100x70.png" group-title="REPUBLICA DOMINICANA", 644 | Telesistema || REPUBLICA DOMINICANA
-http://51.81.93.29:8084/hls/tsistemas.m3u8
+http://51.81.93.239:8084/hls/tsistemas.m3u8
 #EXTINF:-1 tvg-id="DO | Telecentro" tvg-name="DO | Telecentro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Telecentro_ICON.jpg/125px-Telecentro_ICON.jpg" group-title="REPUBLICA DOMINICANA", 645 | Telecentro || REPUBLICA DOMINICANA
-http://51.81.93.29:8084/hls/telecentro.m3u8
+http://51.81.93.239:8084/hls/telecentro.m3u8
 #EXTINF:-1 tvg-id="DO | Catorce TV" tvg-name="DO | Catorce TV" tvg-logo="http://14tv.live/logo.png" group-title="REPUBLICA DOMINICANA", 646 | Catorce TV || REPUBLICA DOMINICANA
 https://video.misistemareseller.com/catorcetv/catorcetv/playlist.m3u8
 #EXTINF:-1 tvg-id="DO | Digital 15" tvg-name="DO | Digital 15" tvg-logo="http://festivaldecineglobal.org/2014/wp-content/uploads/Digital15-228x176.png" group-title="REPUBLICA DOMINICANA", 647 | Digital 15 || REPUBLICA DOMINICANA
-http://51.81.93.29:8084/hls/d15.m3u8
+http://51.81.93.239:8084/hls/d15.m3u8
 #EXTINF:-1 tvg-id="DO | Telecanal 16" tvg-name="DO | Telecanal 16" tvg-logo="https://pbs.twimg.com/media/FYa2ohjWIAEw-OX?format=png&name=360x360" group-title="REPUBLICA DOMINICANA", 648 | Telecanal 16 || REPUBLICA DOMINICANA
 https://cacatuaiptv.com/canal16tv.m3u8
 #EXTINF:-1 tvg-id="DO | RTVD 17" tvg-name="DO | RTVD 17" tvg-logo="https://canal17rd.com/wp-content/uploads/2020/09/cropped-logo.png" group-title="REPUBLICA DOMINICANA", 649 | RTVD 17 || REPUBLICA DOMINICANA
@@ -1372,7 +1372,7 @@ https://ss3.domint.net:3120/dv6_str/digitalvision/chunklist_w1482544367.m3u8
 #EXTINF:-1 tvg-id="DO | Canal del Sol" tvg-name="DO | Canal del Sol" tvg-logo="https://pbs.twimg.com/profile_images/940654137267535872/7Cr-uWeQ_400x400.jpg" group-title="REPUBLICA DOMINICANA", 667 | Canal del Sol || REPUBLICA DOMINICANA
 https://canaldelsoltv01.streamprolive.com/hls/live.m3u8
 #EXTINF:-1 tvg-id="DO | CDN Deportes" tvg-name="DO | CDN Deportes" tvg-logo="https://cdndeportes.com.do/wp-content/uploads/2022/02/Logo_CDNDeportes.svg" group-title="REPUBLICA DOMINICANA", 668 | CDN Deportes || REPUBLICA DOMINICANA
-http://51.81.93.29:8084/hls/cdnsm.m3u8
+http://cacatuaiptv.com/cdnsportsmax.m3u8
 #EXTINF:-1 tvg-id="DO | Tele Radio Norte" tvg-name="DO | Tele Radio Norte" tvg-logo="http://teleradionorte.com//wp-content/uploads/2018/08/logopequert.png" group-title="REPUBLICA DOMINICANA", 669 | Tele Radio Norte || REPUBLICA DOMINICANA
 https://cdn4.hostlagarto.com:8081/static/teleradionortetv/playlist.m3u8
 #EXTINF:-1 tvg-id="DO | Guaymate TV" tvg-name="DO | Guaymate TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2472-800x450-FFFFFF.jpg" group-title="REPUBLICA DOMINICANA", 670 | Guaymate TV || REPUBLICA DOMINICANA
