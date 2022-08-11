@@ -307,6 +307,8 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/EENTRETAIMENT/40-hls/live-med
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
 #EXTINF:-1 tvg-id="MX | Azteca Mundo" tvg-name="MX | Azteca Mundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TV_Azteca_Mundo_logo.svg/200px-TV_Azteca_Mundo_logo.svg.png" group-title="ESTILOS DE VIDA", 149 | Azteca Mundo
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AZMUNDO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZMUNDO_stream_6q&_cdn_session=291497963&_cdn_timestamp=1660277904&_cdn_token=e8d4f600f31ce239818a626021b4460023744c0d
+#EXTINF:-1 tvg-id="ES | ¡Hola! TV" tvg-name="ES | ¡Hola! TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/220px-%C2%A1HOLA%21TVlogo.jpg" group-title="ESTILOS DE VIDA", En prueba | ¡Hola! TV
+https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 #EXTINF:-1 tvg-id="CL | Ladies TV" tvg-name="CL | Ladies TV" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/LADIES-FONDO-2-300x169.jpg" group-title="ESTILOS DE VIDA", 150 | Ladies TV
 https://panel.miplay.cl:8081/ladies/index.m3u8
 #EXTINF:-1 tvg-id="USA | TLC" tvg-name="USA | TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/150px-TLC_Logo.svg.png" group-title="ESTILOS DE VIDA", 151 | Travel & Living Channel
@@ -674,7 +676,7 @@ https://1667517699.rsc.cdn77.org/hls/mollendo.m3u8
 #EXTINF:-1 tvg-id="PE | Telesur de Camaná" tvg-name="PE | Telesur de Camaná" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png" group-title="REGIONALES", 325.4 | Telesur || Camana
 https://1667517699.rsc.cdn77.org/hls/camana.m3u8
 #EXTINF:-1 tvg-id="EC | Gamavisión" tvg-name="EC | Gamavisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ECUADOR", 326 | Gamavisión || ECUADOR
-http://futboldirectotv.xyz:8080/live/josue2022/BNKYK/24122.m3u8
+http://138.186.20.245:8000/play/a02d
 #EXTINF:-1 tvg-id="EC | Teleamazonas" tvg-name="EC | Teleamazonas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/150px-Teleamazonas_Logo.png" group-title="ECUADOR", 327 | Teleamazonas || ECUADOR
 http://vps-c97214f4.vps.ovh.net/hls/ecutv4.m3u8
 #EXTINF:-1 tvg-id="EC | Televicentro" tvg-name="EC | Televicentro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/TVCEC.png/150px-TVCEC.png" group-title="ECUADOR", 328 | TVC || ECUADOR
@@ -839,6 +841,8 @@ https://master.tucableip.com//pat/tracks-v1a1/mono.m3u8
 https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Mega TV" tvg-name="BO | Mega TV" tvg-logo="https://megatv.com.bo/wp-content/uploads/2022/02/cropped-MEGA-TV-LOGO-PNG.png" group-title="BOLIVIA", 408 | Mega TV || BOLIVIA
 https://stmv.panel.grupolimalive.com/mega/mega/playlist.m3u8
+#EXTINF:-1 tvg-id="BO | Mega Amazonía Rurrenabaque" tvg-name="BO | Mega Amazonía Rurrenabaque" tvg-logo="https://play-lh.googleusercontent.com/Cp6jZxm65zil9JoRVTmbLNpDcC9wVSrWO4Wg7b1Gn7z573yw7NWovolOw04JmLK8kQ" group-title="BOLIVIA", En prueba | Mega Amazonía Rurrenabaque || BOLIVIA
+https://solo.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Canal 38 de Viacha" tvg-name="BO | Canal 38 de Viacha" tvg-logo="https://www.canal38viacha.com/wp-content/uploads/2020/08/logo-382.png" group-title="BOLIVIA", 409 | Canal 38 de Viacha || BOLIVIA
 https://hls.servidor.stream/storage/canal38viacha.m3u8
 #EXTINF:-1 tvg-id="BO | Coral TV" tvg-name="BO | Coral TV" tvg-logo="https://play-lh.googleusercontent.com/4GZtRfAZ36H4pyoxz1htoVE46eRt_M9sj2Y56En4h0Neezca7wFMaX7ec2n9sW5zJZo=s180-rw" group-title="BOLIVIA", 410 | Coral TV || BOLIVIA
