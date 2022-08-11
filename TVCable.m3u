@@ -363,6 +363,8 @@ https://marine2.miplay.cl/fitmaxx/playlist.m3u8
 https://marine2.miplay.cl/sportext/playlist.m3u8
 #EXTINF:-1 tvg-id="GT | Tigo Sports" tvg-name="GT | Tigo Sports" tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="DEPORTES", 172 | Tigo Sports
 http://45.5.117.138:25461/playgt/123456/186
+#EXTINF:-1 tvg-id="AR | Deport TV" tvg-name="AR | Deport TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Deportv.svg/200px-Deportv.svg.png" group-title="DEPORTES", En prueba | Deport TV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | EdX TV" tvg-name="PE | EdX TV" tvg-logo="https://pbs.twimg.com/media/FVzsfVnWUAc1ffp?format=png&name=240x240" group-title="DEPORTES", 173 | EdX TV
 https://stream.plixitv.live/edx/edx/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | EX TV" tvg-name="PE | EX TV" tvg-logo="https://pbs.twimg.com/media/FVztCFoWQAIlskp?format=png&name=240x240" group-title="DEPORTES", 174 | EX TV
@@ -991,6 +993,8 @@ https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
 https://stream.elpinguino.com/live/smil:EP.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Huasco TV" tvg-name="CL | Huasco TV" tvg-logo="https://pbs.twimg.com/media/FYvp91HWQAERqTD?format=png&name=small" group-title="CHILE", 469 | Huasco TV || CHILE
 https://paneltv.online:1936/8062/8062/playlist.m3u8
+#EXTINF:-1 tvg-id="CL | Alternativa TV de Huasco" tvg-name="CL | Alternativa TV de Huasco" tvg-logo="https://i0.wp.com/alternativatv.cl/wp-content/uploads/2021/06/BANNER-ALTERNATIVA-TV-ONLINE.jpg?w=720&ssl=1" group-title="CHILE", En prueba | Alternativa TV de Huasco || CHILE
+https://srv2.zcast.com.br/carlos2469/carlos2469/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Región Televisión Ñuble" tvg-name="CL | Región Televisión Ñuble" tvg-logo="https://pbs.twimg.com/media/FZ6GE0NXkAE6E87?format=png&name=small" group-title="CHILE", En prueba | Región Televisión Ñuble || CHILE
 https://live.tvcontrolcp.com:1936/guzman/guzman/playlist.m3u8
 #EXTINF:-1 tvg-id="AR | Telefe" tvg-name="AR | Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Telefe_Internacional_%282018%29.png/150px-Telefe_Internacional_%282018%29.png" group-title="INTERNACIONALES", 470 | Telefe Internacional || ARGENTINA
