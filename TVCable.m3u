@@ -379,6 +379,8 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/NICKMUSIC/20-hls/live-media.m
 https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="USA | MTV" tvg-name="USA | MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/125px-MTV-2021.svg.png" group-title="MUSICA Y REALITIES", 179 | MTV
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/MTV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DMTV_stream_3f&_cdn_session=291498563&_cdn_timestamp=1660278178&_cdn_token=2d3fbfc3c686388e5d0a37ab158fa2a2f4f2c729
+#EXTINF:-1 tvg-id="MX | Teleritmo" tvg-name="MX | Teleritmo" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleritmo-mx.png" group-title="MUSICA Y REALITIES", En prueba | Teleritmo
+http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="CL | Old Music TV" tvg-name="CL | Old Music TV" tvg-logo="https://pbs.twimg.com/media/FSimCx8X0AI_8QI?format=png&name=small" group-title="MUSICA Y REALITIES", 180 | Old Music Televisión
 https://marine2.miplay.cl/oldmusic/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Memorias TV" tvg-name="USA | Memorias TV" tvg-logo="https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1-224x96.png" group-title="MUSICA Y REALITIES", 181 | Memorias TV
@@ -881,8 +883,8 @@ https://stmv.panel.grupolimalive.com/frecuencia/frecuencia/playlist.m3u8
 https://stmv.panel.grupolimalive.com/encuentro/encuentro/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Ceacom TV" tvg-name="BO | Ceacom TV" tvg-logo="https://ceacomtv.com/wp-content/uploads/2021/01/Logo-CEACOM-web.png" group-title="BOLIVIA", 420 | Ceacom TV || BOLIVIA
 https://cloud2.streaminglivehd.com:1936/ceacom/ceacom/playlist.m3u8
-#EXTINF:-1 tvg-id="BO | Canal 27 Trinidad" tvg-name="BO | Canal 27 Trinidad" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK8-6ZYWzsZA60xr1_0DS3DCEiGN0aLPC2iME2oavJNtl3u5QW-h-3bBg9KVIo3Hos_w&usqp=CAU" group-title="BOLIVIA", 421 | Canal 27 Trinidad || BOLIVIA
-https://master.tucableip.com/canal27/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BO | Cristal de Televisión" tvg-name="BO | Cristal de Televisión" tvg-logo="https://pbs.twimg.com/profile_images/3193462255/e1e0b6e7fd2c6a19d238ff4021cc5b82_400x400.jpeg" group-title="BOLIVIA", 421 | Cristal de Televisión || BOLIVIA
+http://america.tucableip.com/bolivia/cristaltv/index.m3u8
 #EXTINF:-1 tvg-id="BO | Megavisión TV" tvg-name="BO | Megavisión TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/Megavisi%C3%B3n-Bolivia-en-vivo-Online-100x70.png" group-title="BOLIVIA", 422 | Megavisión TV || BOLIVIA
 https://livefocamundo.com:8081/megavisiontv/index.m3u8
 #EXTINF:-1 tvg-id="BO | TV Latina" tvg-name="BO | TV Latina" tvg-logo="https://www.audiokiss.com/tvlatina/wp-content/uploads/sites/7/2021/03/logo-tvlatina.png" group-title="BOLIVIA", 423 | TV Latina || BOLIVIA
@@ -903,7 +905,7 @@ https://stmv.panel.grupolimalive.com/tarija/tarija/playlist.m3u8
 https://d2byzrnrdb259r.cloudfront.net/hls/upptv.m3u8
 #EXTINF:-1 tvg-id="BO | Vos TV Canal 49" tvg-name="BO | Vos TV Canal 49" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9nkEZnDJ16JzcZm6cVP-y-RL0Xd3bo9WU9uiZZOg=s900-c-k-c0x00ffffff-no-rj" group-title="BOLIVIA", En prueba | Vos TV Canal 49 || BOLIVIA
 http://canaltv.istbolivia.com:1935/vostv/vostv/playlist.m3u8
-#EXTINF:-1 tvg-id="BO | Carigso Televisión" tvg-name="BO | Carigso Televisión" tvg-logo="https://tv.com/wp-content/uploads/2022/07/logo-2.png" group-title="BOLIVIA", En prueba | Carigso Televisión || BOLIVIA
+#EXTINF:-1 tvg-id="BO | Carigso Televisión" tvg-name="BO | Carigso Televisión" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs4ChCFlI-i5W3XYw-pFZ6jFR5eEIa--LXALWrzCg4bxt7qtIBOGMoOA4VaoRL76ovO3I&usqp=CAU" group-title="BOLIVIA", En prueba | Carigso Televisión || BOLIVIA
 https://stmv1.voxhdnet.com/carigsoradiotv010622/carigsoradiotv010622/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Zuraca TV" tvg-name="BO | Zuraca TV" tvg-logo="https://zuracatv.com/wp-content/uploads/2022/03/257477285_574967930220591_8545729480647595827_n-removebg-preview.png" group-title="BOLIVIA", En prueba | Zuraca TV || BOLIVIA
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/zuracatvhd
