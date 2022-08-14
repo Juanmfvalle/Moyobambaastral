@@ -125,6 +125,8 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/KANALD/40-hls/live-media.m3u8
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AZCORAZON/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZCORAZON_stream_p3&_cdn_session=295482531&_cdn_timestamp=1660572134&_cdn_token=ca2ecac9615a99c0ee977218e7f8ba4bd46add89
 #EXTINF:-1 tvg-id="MX | Tlnovelas" tvg-name="MX | Tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="NOVELAS", 58 | Tlnovelas
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/txn_859t
+#EXTINF:-1 tvg-id="USA | Univision Tlnovelas" tvg-name="USA | Univision Tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/180px-Univision_tlnovelas_%282019%29.svg.png" group-title="NOVELAS", En prueba | Univision Tlnovelas
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/37.m3u8
 #EXTINF:-1 tvg-id="MX | Las Estrellas" tvg-name="MX | Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/180px-Las_Estrellas.svg.png" group-title="INTERNACIONALES", 59 | Las Estrellas
 http://190.108.83.142:8000/play/a011/index.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", 60 | Telemundo Internacional
@@ -754,7 +756,7 @@ https://cloudvideo.servers10.com:8081/8026/index.m3u8
 #EXTINF:-1 tvg-id="CO | Canal Capital" tvg-name="CO | Canal Capital" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/135px-2020_Canal_Capital_logo.svg.png" group-title="COLOMBIA", 357 | Canal Capital || COLOMBIA
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 #EXTINF:-1 tvg-id="CO | RCN" tvg-name="CO | RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/140px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA", 358 | RCN || COLOMBIA
-http://138.186.20.245:8000/play/a02j
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/69.m3u8
 #EXTINF:-1 tvg-id="CO | RCN +" tvg-name="CO | RCN +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/RCN_HD2_2019.png/200px-RCN_HD2_2019.png" group-title="COLOMBIA", 359 | RCN + || COLOMBIA
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | Canal Caracol" tvg-name="CO | Canal Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="COLOMBIA", 360 | Canal Caracol || COLOMBIA
