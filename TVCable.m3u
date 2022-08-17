@@ -240,9 +240,9 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DISNEYJR/20-hls/live-media.m3
 #EXTINF:-1 tvg-id="PE | Identidad Peruana" tvg-name="PE | Identidad Peruana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/190px-Identidad_Peruana_ipe_2020.png" group-title="INFANTILES", 114 | IPE Televisión
 http://190.108.83.142:8000/play/a00k/index.m3u8
 #EXTINF:-1 tvg-id="USA | Nickelodeon" tvg-name="USA | Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/245px-Nickelodeon_2009_logo.svg.png" group-title="INFANTILES", 115 | Nickelodeon
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/NICKELODEON/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKELODEON_stream_g4&_cdn_session=297953115&_cdn_timestamp=1660756772&_cdn_token=5b1c9f1571981b85e92b7d1ce4ffe93324601c15
+http://190.108.83.142:8000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="USA | Nick Jr." tvg-name="USA | Nick Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/250px-Nick_Jr._logo_2009.svg.png" group-title="INFANTILES", 116 | Nick Jr.
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/NICKJR/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKJR_stream_y9&_cdn_session=297953283&_cdn_timestamp=1660756783&_cdn_token=a0db5f915e224e912bb17e371f0ff26d03c7e2f5
+http://190.108.83.142:8000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="SK | Duck TV" tvg-name="SK | Duck TV" tvg-logo="https://www.ducktv.tv/wp-content/uploads/2019/07/ducktv-logo.svg" group-title="INFANTILES", 117 | Duck TV
 https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee512f.m3u8
 #EXTINF:-1 tvg-id="AR | Pakapaka" tvg-name="AR | Pakapaka" tvg-logo="http://www.pakapaka.gob.ar/img/botones/logo-pakapaka-2.png" group-title="INFANTILES", 118 | Pakapaka
@@ -466,7 +466,7 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYWORLD/40-hls/live-me
 #EXTINF:-1 tvg-id="USA | Animal Planet" tvg-name="USA | Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/200px-2018_Animal_Planet_logo.svg.png" group-title="CULTURA Y EDUCACION", 218 | Animal Planet
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ANIMALPLANET/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DANIMALPLANET_stream_2n&_cdn_session=298153979&_cdn_timestamp=1660768532&_cdn_token=294d715bca1200e628eb9e2400f0d72d68e7eef9
 #EXTINF:-1 tvg-id="USA | National Geographic" tvg-name="USA | National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png" group-title="CULTURA Y EDUCACION", 219 | National Geographic
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/NATGEO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNATGEO_stream_17&_cdn_session=298154403&_cdn_timestamp=1660768552&_cdn_token=db2c1eeaa8fe2803cdba9c9538808238db8e7ee8
+http://190.108.83.142:8000/play/a00q/index.m3u8
 #EXTINF:-1 tvg-id="USA | History" tvg-name="USA | History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/100px-History_Logo.svg.png" group-title="CULTURA Y EDUCACION", 220 | History
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/HISTORY1/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHISTORYCHANNEL_stream_2w&_cdn_session=298796499&_cdn_timestamp=1660820398&_cdn_token=c03349a60e720304470205194723ca8f5aad39cd
 #EXTINF:-1 tvg-id="USA | History 2" tvg-name="USA | History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png" group-title="CULTURA Y EDUCACION", 221 | History 2
