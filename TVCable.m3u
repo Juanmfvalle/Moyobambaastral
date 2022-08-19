@@ -1467,6 +1467,20 @@ https://72ce-201-114-106-84.ngrok.io/tmp_hls/stream/index.m3u8
 http://190.122.96.187:8888/http/005
 #EXTINF:-1 tvg-id="USA | Stream Uno TV" tvg-name="USA | Stream Uno TV" tvg-logo="https://play-lh.googleusercontent.com/gBsGCIfU_w3CAVGpDoruLQjppjeRAJQoKja0p1kciAGdWHMudwjWfwUvN_3iNdP8BCs" group-title="ESTADOS UNIDOS DE AMÉRICA", 697 | Stream Uno TV || ESTADOS UNIDOS DE AMÉRICA
 https://vsrv2.az-streamingserver.com:3201/live/streamunotvlive.m3u8
+#EXTINF:-1 tvg-id="USA | ABC7" tvg-name="USA | ABC7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/WABC-KABC-KGO_1.png/245px-WABC-KABC-KGO_1.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | ABC7 || ESTADOS UNIDOS DE AMÉRICA
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/1.m3u8
+#EXTINF:-1 tvg-id="USA | WNBC Canal 4 Nueva York" tvg-name="USA | WNBC Canal 4 Nueva York" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/150px-WNBC_4_NY.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | WNBC Canal 4 Nueva York || ESTADOS UNIDOS DE AMÉRICA
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/3.m3u8
+#EXTINF:-1 tvg-id="USA | WNYW Fox 5 Nueva York" tvg-name="USA | WNYW Fox 5 Nueva York" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fts-new-york-a.svg/240px-Fts-new-york-a.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | WNYW Fox 5 Nueva York || ESTADOS UNIDOS DE AMÉRICA
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/4.m3u8
+#EXTINF:-1 tvg-id="USA | KTTV Fox 11 Los Angeles" tvg-name="USA | KTTV Fox 11 Los Angeles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Fts-los-angeles-a.svg/245px-Fts-los-angeles-a.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | KTTV Fox 11 Los Angeles || ESTADOS UNIDOS DE AMÉRICA
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/5.m3u8
+#EXTINF:-1 tvg-id="USA | KCAL-TV Los Angeles" tvg-name="USA | KCAL-TV Los Angeles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/KCAL-TV_Logo..png/200px-KCAL-TV_Logo..png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | KCAL-TV Los Angeles || ESTADOS UNIDOS DE AMÉRICA
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/6.m3u8
+#EXTINF:-1 tvg-id="USA | NBC" tvg-name="USA | NBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/120px-NBC_logo.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | NBC || ESTADOS UNIDOS DE AMÉRICA
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/7.m3u8
+#EXTINF:-1 tvg-id="USA | CBS" tvg-name="USA | CBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/200px-CBS_logo_%282020%29.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | CBS || ESTADOS UNIDOS DE AMÉRICA
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/10.m3u8
 #EXTINF:-1 tvg-id="ES | La 1" tvg-name="ES | La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/125px-Logo_TVE-1.svg.png" group-title="ESPAÑA", 698 | La 1 || ESPAÑA
 https://ztnr.rtve.es/ztnr/3293681.m3u8
 #EXTINF:-1 tvg-id="ES | La 2" tvg-name="ES | La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/800px-Logo_TVE-2.svg.png" group-title="ESPAÑA", 699 | La 2 || ESPAÑA
