@@ -1457,6 +1457,12 @@ https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
 https://vsrv2.az-streamingserver.com:3149/live/alegretvlive.m3u8
 #EXTINF:-1 tvg-id="DO | La Ruta TV" tvg-name="DO | La Ruta TV" tvg-logo="https://yt3.ggpht.com/ZukRlhCuw6HbWdDrEqAHsoqTA6Hjjl_hWkNDlOcAOAzArBalOnV43dU0nL1s3gd6RlAb2KTFOQ=s48-c-k-c0x00ffffff-no-rj" group-title="REPUBLICA DOMINICANA", En prueba | La Ruta TV || REPUBLICA DOMINICANA
 https://vsrv2.az-streamingserver.com:3983/live/larutatvlive.m3u8
+#EXTINF:-1 tvg-id="PR | WAPA-TV" tvg-name="PR | WAPA-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/WAPA-TV_logo.svg/245px-WAPA-TV_logo.svg.png" group-title="PUERTO RICO", En prueba | WAPA-TV || PUERTO RICO
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/21.m3u8
+#EXTINF:-1 tvg-id="PR | WIPR-TV El Canal 6 de San Juan" tvg-name="PR | WIPR-TV El Canal 6 de San Juan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/WIPR-TV_logo_2016.png" group-title="PUERTO RICO", En prueba | WIPR-TV El Canal 6 de San Juan || PUERTO RICO
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/22.m3u8
+#EXTINF:-1 tvg-id="PR | WKAQ-TV Telemundo Puerto Rico" tvg-name="PR | WKAQ-TV Telemundo Puerto Rico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="PUERTO RICO", En prueba | WKAQ-TV Telemundo Puerto Rico || PUERTO RICO
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/23.m3u8
 #EXTINF:-1 tvg-id="MX | N+ Media" tvg-name="MX | N+ Media" tvg-logo="https://www.eleconomista.com.mx/__export/1648521768298/sites/eleconomista/img/2022/03/28/nmas-televisa-univision-cortesia-twitter.png_423392900.png" group-title="MEXICO", 693 | N+ Media || MÉXICO
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_4.m3u8
 #EXTINF:-1 tvg-id="MX | Canal 11" tvg-name="MX | Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_Actual_Canal_Once.png/200px-Logo_Actual_Canal_Once.png" group-title="MEXICO", 694 | Canal 11 || MÉXICO
