@@ -1482,9 +1482,9 @@ http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/7.m3u8
 #EXTINF:-1 tvg-id="USA | CBS" tvg-name="USA | CBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/200px-CBS_logo_%282020%29.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | CBS || ESTADOS UNIDOS DE AMÉRICA
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/10.m3u8
 #EXTINF:-1 tvg-id="ES | La 1" tvg-name="ES | La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/125px-Logo_TVE-1.svg.png" group-title="ESPAÑA", 698 | La 1 || ESPAÑA
-https://ztnr.rtve.es/ztnr/3293681.m3u8
+https://rtvelivestream.akamaized.net/segments/la1/la1_main_720.m3u8
 #EXTINF:-1 tvg-id="ES | La 2" tvg-name="ES | La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/800px-Logo_TVE-2.svg.png" group-title="ESPAÑA", 699 | La 2 || ESPAÑA
-https://ztnr.rtve.es/ztnr/3987218.m3u8
+https://rtvelivestreamv6.akamaized.net/rtvesec/la2/la2_bkp_2750.m3u8
 #EXTINF:-1 tvg-id="ES | Telemadrid" tvg-name="ES | Telemadrid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/245px-TeleMadrid.svg.png" group-title="ESPAÑA", 700 | Telemadrid || ESPAÑA
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
 #EXTINF:-1 tvg-id="ES | Antena 3" tvg-name="ES | Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/125px-Antena_3_%282017%29.svg.png" group-title="ESPAÑA", 701 | Antena 3 || ESPAÑA
@@ -1495,8 +1495,10 @@ https://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 https://cloudvideo.servers10.com:8081/8020/index.m3u8
 #EXTINF:-1 tvg-id="ES | Radio Televisión Mogan" tvg-name="ES | Radio Televisión Mogan" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR9a3Cn4uJLbEkRS4XPaymSOXxbfkwIpfbvSF_P=s900-c-k-c0x00ffffff-no-rj" group-title="ESPAÑA", 704 | Radio Televisión Mogan || ESPAÑA
 https://cloudvideo.servers10.com:8081/8028/index.m3u8
-#EXTINF:-1 tvg-id="ES | Noroeste TV" tvg-name="ES | Noroeste TV" tvg-logo="http://www.noroestetv.es/LOGOS/logo%20tv.jpg" group-title="ESPAÑA", 705 | Noroeste TV || ESPAÑA
-https://cloudvideo.servers10.com:8081/8032/index.m3u8
+#EXTINF:-1 tvg-id="ES | Costa Noroeste TV" tvg-name="ES | Costa Noroeste TV" tvg-logo="https://costanoroestetv.net/wp-content/uploads/2022/03/cropped-logo_costa_noroeste_4web-1.png" group-title="ESPAÑA", 705 | Costa Noroeste TV || ESPAÑA
+https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
+#EXTINF:-1 tvg-id="ES | Noroeste TV" tvg-name="ES | Noroeste TV" tvg-logo="http://noroestetv.es/wp-content/uploads/2022/05/logoNT-horizontalV-2.png" group-title="ESPAÑA", En prueba | Noroeste TV || ESPAÑA
+https://livestreams.flote.app:5443/flote/streams/f7c103f4-4247-4537-be81-f9b3896d74cb.m3u8
 #EXTINF:-1 tvg-id="ES | Onda Valencia TV" tvg-name="ES | Onda Valencia TV" tvg-logo="https://www.ondavalencia.es/templates/jsn_boot_pro/images/logo5.png" group-title="ESPAÑA", 706 | Onda Valencia TV || ESPAÑA
 https://cloudvideo.servers10.com:8081/8116/index.m3u8
 #EXTINF:-1 tvg-id="ES | Radio Televisión Estepona" tvg-name="ES | Radio Televisión Estepona" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/tv-estepona.png" group-title="ESPAÑA", 707 | Radio Televisión Estepona || ESPAÑA
