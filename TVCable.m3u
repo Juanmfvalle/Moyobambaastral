@@ -377,12 +377,6 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/27.m3u8
 #EXTINF:-1 tvg-id="ES | DAZN TV" tvg-name="ES | DAZN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/100px-DAZN_Logo_Master.svg.png" group-title="DEPORTES", En prueba | DAZN TV
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/72.m3u8
-#EXTINF:-1 tvg-id="CA | TSN" tvg-name="CA | TSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/220px-TSN_Logo.svg.png" group-title="DEPORTES", En prueba | The Sports Network
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/73.m3u8
-#EXTINF:-1 tvg-id="USA | ACC Network" tvg-name="USA | ACC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/250px-ACC_Network_ESPN_logo.svg.png" group-title="DEPORTES", En prueba | ACC Network
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/74.m3u8
-#EXTINF:-1 tvg-id="USA | Bally Sports" tvg-name="USA | Bally Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bally_sports_logo.svg/250px-Bally_sports_logo.svg.png" group-title="DEPORTES", En prueba | Bally Sports
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/80.m3u8
 #EXTINF:-1 tvg-id="PE | EdX TV" tvg-name="PE | EdX TV" tvg-logo="https://pbs.twimg.com/media/FVzsfVnWUAc1ffp?format=png&name=240x240" group-title="DEPORTES", 173 | EdX TV
 https://stream.plixitv.live/edx/edx/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | EX TV" tvg-name="PE | EX TV" tvg-logo="https://pbs.twimg.com/media/FVztCFoWQAIlskp?format=png&name=240x240" group-title="DEPORTES", 174 | EX TV
@@ -1485,6 +1479,8 @@ https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_4.m3u8
 https://d24sa4vr9gvjv.cloudfront.net/index_720.m3u8
 #EXTINF:-1 tvg-id="MX | Canal Cultural" tvg-name="MX | Canal Cultural" tvg-logo="https://pbs.twimg.com/media/FXJjLAKWQAA3qfm?format=png&name=small" group-title="MEXICO", 695 | Canal Cultural de Huauchinango; Puebla || MÉXICO
 https://2cb4-201-114-106-142.ngrok.io/tmp_hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="USA | Telemundo" tvg-name="USA | Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | Telemundo || ESTADOS UNIDOS DE AMÉRICA
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/100.m3u8
 #EXTINF:-1 tvg-id="USA | Stream Uno TV" tvg-name="USA | Stream Uno TV" tvg-logo="https://play-lh.googleusercontent.com/gBsGCIfU_w3CAVGpDoruLQjppjeRAJQoKja0p1kciAGdWHMudwjWfwUvN_3iNdP8BCs" group-title="ESTADOS UNIDOS DE AMÉRICA", 696 | Stream Uno TV || ESTADOS UNIDOS DE AMÉRICA
 https://vsrv2.az-streamingserver.com:3201/live/streamunotvlive.m3u8
 #EXTINF:-1 tvg-id="USA | ABC7" tvg-name="USA | ABC7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/WABC-KABC-KGO_1.png/245px-WABC-KABC-KGO_1.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 697 | ABC7 || ESTADOS UNIDOS DE AMÉRICA
@@ -1527,8 +1523,12 @@ http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/77.m3u8
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/89.m3u8
 #EXTINF:-1 tvg-id="USA | The Hallmark Channel" tvg-name="USA | The Hallmark Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/200px-Hallmark_Channel.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | The Hallmark Channel || ESTADOS UNIDOS DE AMÉRICA
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/91.m3u8
-
-
+#EXTINF:-1 tvg-id="CA | TSN" tvg-name="CA | TSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/220px-TSN_Logo.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | The Sports Network
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/73.m3u8
+#EXTINF:-1 tvg-id="USA | ACC Network" tvg-name="USA | ACC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/250px-ACC_Network_ESPN_logo.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | ACC Network
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/74.m3u8
+#EXTINF:-1 tvg-id="USA | Bally Sports" tvg-name="USA | Bally Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bally_sports_logo.svg/250px-Bally_sports_logo.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | Bally Sports
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/80.m3u8
 #EXTINF:-1 tvg-id="ES | La 1" tvg-name="ES | La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/125px-Logo_TVE-1.svg.png" group-title="ESPAÑA", 698 | La 1 || ESPAÑA
 https://ztnr.rtve.es/ztnr/3293681.m3u8
 #EXTINF:-1 tvg-id="ES | La 2" tvg-name="ES | La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/800px-Logo_TVE-2.svg.png" group-title="ESPAÑA", 699 | La 2 || ESPAÑA
