@@ -195,6 +195,8 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FX/10-hls/live-media.m3u8?_cd
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/CloverCh/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCloverCh_stream_2e&_cdn_session=300826499&_cdn_timestamp=1660968117&_cdn_token=39a0d0dec8d0c238f41a93a0c68cc743808fd524
 #EXTINF:-1 tvg-id="USA | Universal TV" tvg-name="USA | Universal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/167px-Universal_TV_logo.svg.png" group-title="PELICULAS Y SERIES", 92 | Universal TV
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/UNIVERSALCH/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUNIVERSAL_stream_4o&_cdn_session=300826539&_cdn_timestamp=1660968130&_cdn_token=e56e638bd9cb628072116b8c39d319b0732eed4b
+#EXTINF:-1 tvg-id="USA | Cinemax" tvg-name="USA | Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="PELICULAS Y SERIES", En prueba | Cinemax
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/35.m3u8
 #EXTINF:-1 tvg-id="PE | E Cine" tvg-name="PE | E Cine" tvg-logo="https://pbs.twimg.com/media/FSNUAf4X0AI0f0s?format=jpg&name=120x120" group-title="PELICULAS Y SERIES", 93 | E Cine
 http://200.48.184.156:1935/ecine/ecine/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | E Play" tvg-name="PE | E Play" tvg-logo="https://pbs.twimg.com/media/FSNVY30XMAEZsak?format=jpg&name=120x120" group-title="PELICULAS Y SERIES", 94 | E Play
@@ -371,6 +373,8 @@ https://marine2.miplay.cl/sportext/playlist.m3u8
 http://45.5.117.138:25461/playgt/123456/186
 #EXTINF:-1 tvg-id="AR | Deport TV" tvg-name="AR | Deport TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Deportv.svg/200px-Deportv.svg.png" group-title="DEPORTES", En prueba | Deport TV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-id="ES | Real Madrid TV" tvg-name="ES | Real Madrid TV" tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="DEPORTES", En prueba | Real Madrid TV
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/27.m3u8
 #EXTINF:-1 tvg-id="PE | EdX TV" tvg-name="PE | EdX TV" tvg-logo="https://pbs.twimg.com/media/FVzsfVnWUAc1ffp?format=png&name=240x240" group-title="DEPORTES", 173 | EdX TV
 https://stream.plixitv.live/edx/edx/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | EX TV" tvg-name="PE | EX TV" tvg-logo="https://pbs.twimg.com/media/FVztCFoWQAIlskp?format=png&name=240x240" group-title="DEPORTES", 174 | EX TV
@@ -1461,8 +1465,12 @@ https://vsrv2.az-streamingserver.com:3983/live/larutatvlive.m3u8
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/21.m3u8
 #EXTINF:-1 tvg-id="PR | WIPR-TV El Canal 6 de San Juan" tvg-name="PR | WIPR-TV El Canal 6 de San Juan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/WIPR-TV_logo_2016.png" group-title="PUERTO RICO", En prueba | WIPR-TV El Canal 6 de San Juan || PUERTO RICO
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/22.m3u8
-#EXTINF:-1 tvg-id="PR | WKAQ-TV Telemundo Puerto Rico" tvg-name="PR | WKAQ-TV Telemundo Puerto Rico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="PUERTO RICO", En prueba | WKAQ-TV Telemundo Puerto Rico || PUERTO RICO
+#EXTINF:-1 tvg-id="PR | Telemundo Puerto Rico (WKAQ-TV)" tvg-name="PR | Telemundo Puerto Rico (WKAQ-TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="PUERTO RICO", En prueba | Telemundo Puerto Rico (WKAQ-TV) || PUERTO RICO
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/23.m3u8
+#EXTINF:-1 tvg-id="PR | Mega TV (WSBS-TV)" tvg-name="PR | Mega TV (WSBS-TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Megatv-logo.png/245px-Megatv-logo.png" group-title="PUERTO RICO", En prueba | Mega TV (WSBS-TV) || PUERTO RICO
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/25.m3u8
+#EXTINF:-1 tvg-id="PR | TeleOnce (WLII-DT)" tvg-name="PR | TeleOnce (WLII-DT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Teleonce_Logo_2021.png/220px-Teleonce_Logo_2021.png" group-title="PUERTO RICO", En prueba | TeleOnce (WLII-DT) || PUERTO RICO
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/26.m3u8
 #EXTINF:-1 tvg-id="MX | N+ Media" tvg-name="MX | N+ Media" tvg-logo="https://www.eleconomista.com.mx/__export/1648521768298/sites/eleconomista/img/2022/03/28/nmas-televisa-univision-cortesia-twitter.png_423392900.png" group-title="MEXICO", 693 | N+ Media || MÉXICO
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_4.m3u8
 #EXTINF:-1 tvg-id="MX | Canal 11" tvg-name="MX | Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_Actual_Canal_Once.png/200px-Logo_Actual_Canal_Once.png" group-title="MEXICO", 694 | Canal 11 || MÉXICO
@@ -1503,6 +1511,8 @@ http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/17.m3u8
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/18.m3u8
 #EXTINF:-1 tvg-id="USA | WOFL Fox 35 Orlando" tvg-name="USA | WOFL Fox 35 Orlando" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Fts-orlando-a.svg/250px-Fts-orlando-a.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | WOFL Fox 35 Orlando || ESTADOS UNIDOS DE AMÉRICA
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/20.m3u8
+#EXTINF:-1 tvg-id="USA | USA Network" tvg-name="USA | USA Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/200px-USA_Network_logo_%282016%29.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | USA Network || ESTADOS UNIDOS DE AMÉRICA
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/28.m3u8
 #EXTINF:-1 tvg-id="ES | La 1" tvg-name="ES | La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/125px-Logo_TVE-1.svg.png" group-title="ESPAÑA", 698 | La 1 || ESPAÑA
 https://ztnr.rtve.es/ztnr/3293681.m3u8
 #EXTINF:-1 tvg-id="ES | La 2" tvg-name="ES | La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/800px-Logo_TVE-2.svg.png" group-title="ESPAÑA", 699 | La 2 || ESPAÑA
