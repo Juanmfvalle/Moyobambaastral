@@ -375,6 +375,12 @@ http://45.5.117.138:25461/playgt/123456/186
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-id="ES | Real Madrid TV" tvg-name="ES | Real Madrid TV" tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="DEPORTES", En prueba | Real Madrid TV
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/27.m3u8
+#EXTINF:-1 tvg-id="ES | DAZN TV" tvg-name="ES | DAZN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/100px-DAZN_Logo_Master.svg.png" group-title="DEPORTES", En prueba | DAZN TV
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/72.m3u8
+#EXTINF:-1 tvg-id="CA | TSN" tvg-name="CA | TSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/220px-TSN_Logo.svg.png" group-title="DEPORTES", En prueba | The Sports Network
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/73.m3u8
+#EXTINF:-1 tvg-id="USA | ACC Network" tvg-name="USA | ACC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/250px-ACC_Network_ESPN_logo.svg.png" group-title="DEPORTES", En prueba | ACC Network
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/74.m3u8
 #EXTINF:-1 tvg-id="PE | EdX TV" tvg-name="PE | EdX TV" tvg-logo="https://pbs.twimg.com/media/FVzsfVnWUAc1ffp?format=png&name=240x240" group-title="DEPORTES", 173 | EdX TV
 https://stream.plixitv.live/edx/edx/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | EX TV" tvg-name="PE | EX TV" tvg-logo="https://pbs.twimg.com/media/FVztCFoWQAIlskp?format=png&name=240x240" group-title="DEPORTES", 174 | EX TV
@@ -1478,17 +1484,17 @@ https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_4.m3u8
 #EXTINF:-1 tvg-id="MX | Canal 11" tvg-name="MX | Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_Actual_Canal_Once.png/200px-Logo_Actual_Canal_Once.png" group-title="MEXICO", 694 | Canal 11 || MÉXICO
 https://d24sa4vr9gvjv.cloudfront.net/index_720.m3u8
 #EXTINF:-1 tvg-id="MX | Canal Cultural" tvg-name="MX | Canal Cultural" tvg-logo="https://pbs.twimg.com/media/FXJjLAKWQAA3qfm?format=png&name=small" group-title="MEXICO", 695 | Canal Cultural de Huauchinango; Puebla || MÉXICO
-https://72ce-201-114-106-84.ngrok.io/tmp_hls/stream/index.m3u8
-#EXTINF:-1 tvg-id="USA | Fox 5" tvg-name="USA | Fox 5" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTT6fpyiotYLlfDuj_uPu0_z32mS-p45P6vydfd_w=s900-c-k-c0x00ffffff-no-rj" group-title="ESTADOS UNIDOS DE AMÉRICA", 696 | Fox 5 || ESTADOS UNIDOS DE AMÉRICA
-http://190.122.96.187:8888/http/005
-#EXTINF:-1 tvg-id="USA | Stream Uno TV" tvg-name="USA | Stream Uno TV" tvg-logo="https://play-lh.googleusercontent.com/gBsGCIfU_w3CAVGpDoruLQjppjeRAJQoKja0p1kciAGdWHMudwjWfwUvN_3iNdP8BCs" group-title="ESTADOS UNIDOS DE AMÉRICA", 697 | Stream Uno TV || ESTADOS UNIDOS DE AMÉRICA
+https://2cb4-201-114-106-142.ngrok.io/tmp_hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="USA | Stream Uno TV" tvg-name="USA | Stream Uno TV" tvg-logo="https://play-lh.googleusercontent.com/gBsGCIfU_w3CAVGpDoruLQjppjeRAJQoKja0p1kciAGdWHMudwjWfwUvN_3iNdP8BCs" group-title="ESTADOS UNIDOS DE AMÉRICA", 696 | Stream Uno TV || ESTADOS UNIDOS DE AMÉRICA
 https://vsrv2.az-streamingserver.com:3201/live/streamunotvlive.m3u8
-#EXTINF:-1 tvg-id="USA | ABC7" tvg-name="USA | ABC7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/WABC-KABC-KGO_1.png/245px-WABC-KABC-KGO_1.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | ABC7 || ESTADOS UNIDOS DE AMÉRICA
+#EXTINF:-1 tvg-id="USA | ABC7" tvg-name="USA | ABC7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/WABC-KABC-KGO_1.png/245px-WABC-KABC-KGO_1.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 697 | ABC7 || ESTADOS UNIDOS DE AMÉRICA
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/1.m3u8
+#EXTINF:-1 tvg-id="USA | Fox News Channel" tvg-name="USA | Fox News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/120px-Fox_News_Channel_logo.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | Fox News Channel || ESTADOS UNIDOS DE AMÉRICA
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/75.m3u8
 #EXTINF:-1 tvg-id="USA | WNBC Canal 4 Nueva York" tvg-name="USA | WNBC Canal 4 Nueva York" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/150px-WNBC_4_NY.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | WNBC Canal 4 Nueva York || ESTADOS UNIDOS DE AMÉRICA
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/3.m3u8
 #EXTINF:-1 tvg-id="USA | WNYW Fox 5 Nueva York" tvg-name="USA | WNYW Fox 5 Nueva York" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fts-new-york-a.svg/240px-Fts-new-york-a.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | WNYW Fox 5 Nueva York || ESTADOS UNIDOS DE AMÉRICA
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/4.m3u8
+http://190.122.96.187:8888/http/005
 #EXTINF:-1 tvg-id="USA | KCBS-TV Canal 2 Los Angeles" tvg-name="USA | KCBS-TV Canal 2 Los Angeles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/200px-CBS_2.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | KCBS-TV Canal 2 Los Angeles || ESTADOS UNIDOS DE AMÉRICA
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/14.m3u8
 #EXTINF:-1 tvg-id="USA | KTTV Fox 11 Los Angeles" tvg-name="USA | KTTV Fox 11 Los Angeles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Fts-los-angeles-a.svg/245px-Fts-los-angeles-a.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | KTTV Fox 11 Los Angeles || ESTADOS UNIDOS DE AMÉRICA
