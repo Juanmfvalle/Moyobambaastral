@@ -13,11 +13,7 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-me
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/EXITOSATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DEXITOSATV_stream_o1&_cdn_session=302811003&_cdn_timestamp=1661123811&_cdn_token=19dd75e532f380c83f23f35770682360015fa88b
 #EXTINF:-1 tvg-id="PE | TV Perú" tvg-name="PE | TV Perú" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="PERU", 7 | TV Perú
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TVPERU/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVPERU_stream_p5&_cdn_session=302811363&_cdn_timestamp=1661123829&_cdn_token=3c7fb7151883c43b4b62714074e7459fe6a761d5
-#EXTINF:-1 tvg-id="PE | TV Perú Noticias" tvg-name="PE | TV Perú Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/220px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="NOTICIAS E INFORMACION", 7.2 | TV Perú Noticias
-https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8
-#EXTINF:-1 tvg-id="PE | TV Perú Internacional" tvg-name="PE | TV Perú Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/250px-TV_Per%C3%BA_Internacional_2019_-_copia.png" group-title="INTERNACIONALES", 7.3 | TV Perú Internacional
-https://cdnh74.iblups.com/hls/irtp.m3u8
-#EXTINF:-1 tvg-id="PE | Congreso TV" tvg-name="PE | Congreso TV" tvg-logo="https://comunicaciones.congreso.gob.pe/wpuploads/2021/02/logo-web-4.png" group-title="PERU", 7.4 | Congreso TV
+#EXTINF:-1 tvg-id="PE | Congreso TV" tvg-name="PE | Congreso TV" tvg-logo="https://comunicaciones.congreso.gob.pe/wpuploads/2021/02/logo-web-4.png" group-title="PERU", 7.2 | Congreso TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/congresodelarepublicadelper%C3%BAtvenvivo/live
 #EXTINF:-1 tvg-id="PE | Conectad2 TV" tvg-name="PE | Conectad2 TV" tvg-logo="https://conecta2peru.com/wp-content/uploads/2020/04/logo.png" group-title="PERU", 8 | Conectad2 Televisión
 https://servilive.com:3114/live/liveulive.m3u8
@@ -285,6 +281,8 @@ http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
 #EXTINF:-1 tvg-id="AR | La Nación +" tvg-name="AR | La Nación +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LN%2B.png/150px-LN%2B.png" group-title="NOTICIAS E INFORMACION", 134 | La Nación
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/LANACIONAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLANACIONAL_stream_o7&_cdn_session=302853299&_cdn_timestamp=1661125690&_cdn_token=90224ae5fe8efa8d2e8160e870a5af327c2fe69c
+#EXTINF:-1 tvg-id="AR | A24" tvg-name="AR | A24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/A24_%282019-1%29.png/150px-A24_%282019-1%29.png" group-title="NOTICIAS E INFORMACION", En prueba | A24
+http://onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu7/thjhg3468ihj/5.m3u8
 #EXTINF:-1 tvg-id="IRN | HispanTV" tvg-name="IRN | HispanTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/245px-HispanTv_logo.svg.png" group-title="NOTICIAS E INFORMACION", 135 | HispanTV
 https://live.presstv.ir/live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CH | CGTN Español" tvg-name="CH | CGTN Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/180px-CGTN_Espanol.png" group-title="NOTICIAS E INFORMACION", 136 | CGTN Español
@@ -294,7 +292,7 @@ https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlySnUciiXggEh00iRw
 #EXTINF:-1 tvg-id="ESP | 24 Horas tve" tvg-name="ESP | 24 horas tve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/125px-Logo_TVE-24h.svg.png" group-title="NOTICIAS E INFORMACION", 138 | 24 horas tve
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="CL | CNN Chile" tvg-name="CL | CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/150px-CNN_Chile_logo_2017.svg.png" group-title="NOTICIAS E INFORMACION", 139 | CNN Chile
-http://45.232.208.14:7989/play/a017/index.m3u8
+http://onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu7/thjhg3468ihj/16.m3u8
 #EXTINF:-1 tvg-id="CL | Canal 24 Horas" tvg-name="CL | Canal 24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_24HorasTVN.svg/200px-Logo_24HorasTVN.svg.png" group-title="NOTICIAS E INFORMACION", En prueba | Canal 24 Horas
 http://45.232.208.14:7989/play/a00y/index.m3u8
 #EXTINF:-1 tvg-id="USA | Lifetime" tvg-name="USA | Lifetime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/150px-Logo_Lifetime_2020.svg.png" group-title="MISCELANEO", 140 | Lifetime
@@ -921,16 +919,18 @@ https://stmv1.voxhdnet.com/carigsoradiotv010622/carigsoradiotv010622/playlist.m3
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/zuracatvhd
 #EXTINF:-1 tvg-id="BO | TV Show Oruro" tvg-name="BO | TV Show Oruro" tvg-logo="https://play-lh.googleusercontent.com/pN1aZEuwKrzn1ffaVWgnK1-AXQuIcBRqcbW8F2NK24Wdk2evewuglh2sxG2xIHlH6Qw=w240-h480-rw" group-title="BOLIVIA", En prueba | TV Show Oruro || BOLIVIA
 http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
-#EXTINF:-1 tvg-id="CL | TV Chile" tvg-name="CL | TV Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/LogoTVCHILE.svg/100px-LogoTVCHILE.svg.png" group-title="CHILE", 431 | TV Chile || CHILE
-http://onlinetv365.xyz/live/xyztv/689cfhchgvm/8.m3u8
+#EXTINF:-1 tvg-id="CL | Telecanal" tvg-name="CL | Telecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Telecanal_-_2011_logo_%283D_variant%29.png/150px-Telecanal_-_2011_logo_%283D_variant%29.png" group-title="CHILE", 431 | Telecanal || CHILE
+https://unlimited2-cl-isp.dps.live/tctc/tctc.smil/playlist.m3u8?PlaylistASTRAL
 #EXTINF:-1 tvg-id="CL | La Red" tvg-name="CL | La Red" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Emblema_de_La_Red.png/200px-Emblema_de_La_Red.png" group-title="CHILE", 432 | La Red || CHILE
 https://unlimited2-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CL | TVN" tvg-name="CL | TVN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/TVN2020.svg/150px-TVN2020.svg.png" group-title="CHILE", 433 | TVN || CHILE
-http://45.232.208.14:7989/play/a01o/index.m3u8
+http://onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu7/thjhg3468ihj/1.m3u8
+#EXTINF:-1 tvg-id="CL | TV Chile" tvg-name="CL | TV Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/LogoTVCHILE.svg/100px-LogoTVCHILE.svg.png" group-title="CHILE", En prueba | TV Chile || CHILE
+http://onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu7/thjhg3468ihj/12.m3u8
 #EXTINF:-1 tvg-id="CL | Mega" tvg-name="CL | Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mega_Chile_2020.png/145px-Mega_Chile_2020.png" group-title="CHILE", 434 | Mega || CHILE
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CL | Chilevisión" tvg-name="CL | Chilevisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Chilevisi%C3%B3n.svg/250px-Chilevisi%C3%B3n.svg.png" group-title="CHILE", 435 | Chilevisión || CHILE
-http://45.232.208.14:7989/play/a01p/index.m3u8
+http://onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu7/thjhg3468ihj/17.m3u8
 #EXTINF:-1 tvg-id="CL | UChile TV" tvg-name="CL | UChile TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/UChile_TV_logo_2020.png/245px-UChile_TV_logo_2020.png" group-title="CHILE", 436 | UChile TV || CHILE
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CL | Canal 13" tvg-name="CL | Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Logotipo_de_Canal_13.svg/133px-Logotipo_de_Canal_13.svg.png" group-title="CHILE", 437 | Canal 13 || CHILE
@@ -1007,6 +1007,8 @@ https://paneltv.online:1936/8062/8062/playlist.m3u8
 https://srv2.zcast.com.br/carlos2469/carlos2469/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Región Televisión Ñuble" tvg-name="CL | Región Televisión Ñuble" tvg-logo="https://pbs.twimg.com/media/FZ6GE0NXkAE6E87?format=png&name=small" group-title="CHILE", 469 | Región Televisión Ñuble || CHILE
 https://live.tvcontrolcp.com:1936/guzman/guzman/playlist.m3u8
+#EXTINF:-1 tvg-id="AR | TVP" tvg-name="AR | TVP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="ARGENTINA", En prueba | Televisión Pública || ARGENTINA
+http://onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu7/thjhg3468ihj/2.m3u8
 #EXTINF:-1 tvg-id="AR | Telefe" tvg-name="AR | Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Telefe_Internacional_%282018%29.png/150px-Telefe_Internacional_%282018%29.png" group-title="INTERNACIONALES", 470 | Telefe Internacional || ARGENTINA
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TELEFE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEFE_stream_te&_cdn_session=302876779&_cdn_timestamp=1661126766&_cdn_token=349644ba68179d4813c42f19ac15e99b26207e7a
 #EXTINF:-1 tvg-id="AR | El Nueve" tvg-name="AR | El Nueve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Canal_9_2015.png/120px-Canal_9_2015.png" group-title="ARGENTINA", 471 | El Nueve || ARGENTINA
