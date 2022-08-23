@@ -13,14 +13,14 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-me
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/EXITOSATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DEXITOSATV_stream_o1&_cdn_session=305559923&_cdn_timestamp=1661327628&_cdn_token=5550609929b4da53092d0d4538cd1f446ac18069
 #EXTINF:-1 tvg-id="PE | TV Perú" tvg-name="PE | TV Perú" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="PERU", 7 | TV Perú
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TVPERU/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVPERU_stream_p5&_cdn_session=305560019&_cdn_timestamp=1661327640&_cdn_token=dcc01e34a157ff3cd870ce9edea5d3cd3ac143f2
-#EXTINF:-1 tvg-id="PE | Congreso TV" tvg-name="PE | Congreso TV" tvg-logo="https://comunicaciones.congreso.gob.pe/wpuploads/2021/02/logo-web-4.png" group-title="PERU", 7.2 | Congreso TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/CongresodelaRep%C3%BAblicadelPer%C3%BATVenvivo
 #EXTINF:-1 tvg-id="PE | Conectad2 TV" tvg-name="PE | Conectad2 TV" tvg-logo="https://conecta2peru.com/wp-content/uploads/2020/04/logo.png" group-title="PERU", 8 | Conectad2 Televisión
 https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:-1 tvg-id="PE | Andina Televisión" tvg-name="PE | Andina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" group-title="PERU", 9 | ATV
 https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8
 #EXTINF:-1 tvg-id="PE | Andina Televisión Plus" tvg-name="PE | Andina Televisión Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/175px-ATV%2B_logo_2020.png" group-title="PERU", 9.2 | ATV +
 https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
+#EXTINF:-1 tvg-id="PE | Andina Televisión Sur" tvg-name="PE | Andina Televisión Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/185px-ATV_Sur_-_2018_logo_%28final%29.png" group-title="PERU", 9.3 | ATV Sur
+http://190.187.247.206:8000/play/a03n/index.m3u8
 #EXTINF:-1 tvg-id="PE | Nativa TV" tvg-name="PE | Nativa TV" tvg-logo="https://yt3.ggpht.com/3oP0XiYioBa3XKBAmJCxeHRbVuY_90fClsKM46sAzfUE5sgrEycmxFegOL5ttLrpUK6D-nRy=s88-c-k-c0x00ffffff-no-rj" group-title="PERU", 10 | Nativa Televisión
 https://servilive.com:3449/live/mlecaroslive.m3u8
 #EXTINF:-1 tvg-id="PE | Onda Digital" tvg-name="PE | Onda Digital" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQRrS2R_HFcGI0RVqhw9IN02y3s05eq4oq10yZ5UQ=s88-c-k-c0x00ffffff-no-rj" group-title="PERU", 11 | Onda Digital Noticias
@@ -447,6 +447,8 @@ https://cloudvideo.servers10.com:8081/8004/index.m3u8
 https://panel.miplay.cl:8081/zoomback/index.m3u8
 #EXTINF:-1 tvg-id="PE | E Music" tvg-name="PE | E Music" tvg-logo="https://pbs.twimg.com/media/FSNUydQXoAIcS1L?format=jpg&name=240x240" group-title="MUSICA Y REALITIES", 209 | E Music
 https://stream.plixitv.live/emusic/emusic/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | Sanjuanera TV" tvg-name="PE | Sanjuanera TV" tvg-logo="http://tv.10dailythings.com/images/channels/PE/sanjuaneratv-1080p-not-247/normal.png" group-title="LOCALES", En prueba | Sanjuanera Televisión || Moyobamba
+https://live.obslivestream.com/sanjuanera/index.m3u8
 #EXTINF:-1 tvg-id="CL | TV Salud" tvg-name="CL | TV Salud" tvg-logo="https://image.roku.com/developer_channels/prod/0cb910829e2a34c241e0da4d1f66747f7fa849da691d65ffa6d9b47af3880f6e.png" group-title="CULTURA Y EDUCACION", 210 | TV Salud
 https://srv3.zcast.com.br/mastermedia/mastermedia/tvsalud.cl.m3u8
 #EXTINF:-1 tvg-id="AR | Rural TV" tvg-name="AR | Rural TV" tvg-logo="https://www.elrural.com/wp-content/themes/el-rural2016/images/canal-rural.png" group-title="CULTURA Y EDUCACION", 211 | Canal Rural
@@ -577,8 +579,8 @@ https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TVEMPRESA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVEMPRESA_stream_yi&_cdn_session=305563675&_cdn_timestamp=1661327995&_cdn_token=e4376a467e9e1ade6665d77170ac0339d3bfb6e9
 #EXTINF:-1 tvg-id="PE | Asiri TV" tvg-name="PE | Asiri TV" tvg-logo="https://graph.facebook.com/904990302901417/picture?type=large" group-title="REGIONALES", 270 | Asiri Televisión || Lima
 https://video2.lhdserver.es/asiritv/live.m3u8
-#EXTINF:-1 tvg-id="PE | Canal B" tvg-name="PE | Canal B" tvg-logo="https://canalb.pe/assets/uploads/images/55807-canalb.jpg" group-title="REGIONALES", 271 | Canal B || Lima
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/alfonsobaella/live
+#EXTINF:-1 tvg-id="PE | Congreso TV" tvg-name="PE | Congreso TV" tvg-logo="https://comunicaciones.congreso.gob.pe/wpuploads/2021/02/logo-web-4.png" group-title="PERU", 271 | Congreso TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/CongresodelaRep%C3%BAblicadelPer%C3%BATVenvivo
 #EXTINF:-1 tvg-id="PE | Cultura 24" tvg-name="PE | Cultura 24" tvg-logo="https://cultura24.tv/sites/default/files/inline-images/logo.png" group-title="REGIONALES", 272 | Cultura 24 TV || Lima
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w366215588_b564000_sles.m3u8
 #EXTINF:-1 tvg-id="PE | Vamisa TV" tvg-name="PE | Vamisa TV" tvg-logo="https://radiovamisa.tv/wp-content/uploads/2020/03/logo-1.png" group-title="REGIONALES", 273 | Vamisa TV || Lima
@@ -915,6 +917,8 @@ https://stmv1.voxhdnet.com/carigsoradiotv010622/carigsoradiotv010622/playlist.m3
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/zuracatvhd
 #EXTINF:-1 tvg-id="BO | TV Show Oruro" tvg-name="BO | TV Show Oruro" tvg-logo="https://play-lh.googleusercontent.com/pN1aZEuwKrzn1ffaVWgnK1-AXQuIcBRqcbW8F2NK24Wdk2evewuglh2sxG2xIHlH6Qw=w240-h480-rw" group-title="BOLIVIA", En prueba | TV Show Oruro || BOLIVIA
 http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
+#EXTINF:-1 tvg-id="BO | Cristal de Televisión" tvg-name="BO | Cristal de Televisión" tvg-logo="https://pbs.twimg.com/media/FZ6Up_DWAAAIYZY?format=png&name=240x240" group-title="BOLIVIA", En prueba | Cristal de Televisión || BOLIVIA
+http://america.tucableip.com/bolivia/cristaltv/index.m3u8
 #EXTINF:-1 tvg-id="CL | Telecanal" tvg-name="CL | Telecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Telecanal_-_2011_logo_%283D_variant%29.png/150px-Telecanal_-_2011_logo_%283D_variant%29.png" group-title="CHILE", 431 | Telecanal || CHILE
 https://unlimited2-cl-isp.dps.live/tctc/tctc.smil/playlist.m3u8?PlaylistASTRAL
 #EXTINF:-1 tvg-id="CL | La Red" tvg-name="CL | La Red" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Emblema_de_La_Red.png/200px-Emblema_de_La_Red.png" group-title="CHILE", 432 | La Red || CHILE
@@ -1194,13 +1198,13 @@ https://stream-02.nyc.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRM7Kzm4Xgi3WRmQq6I
 #EXTINF:-1 tvg-id="HN | Canal 6 CBC" tvg-name="HN | Canal 6 CBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Canal6.jpg/125px-Canal6.jpg" group-title="HONDURAS", 561 | Canal 6 CBC || HONDURAS
 https://live.canal6.com.hn/Canal6/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="HN | Telecadena 7 y 4" tvg-name="HN | Telecadena 7 y 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Telecadena7y42018.png/150px-Telecadena7y42018.png" group-title="HONDURAS", 562 | Telecadena 7 y 4 || HONDURAS
-http://181.189.254.42:8183/play/a038/index.m3u8
+http://rastvzas.xyz:8000/mangas/mangas2022/128517
 #EXTINF:-1 tvg-id="HN | Vica TV" tvg-name="HN | Vica TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/VTV_HN_logo_2019.png/210px-VTV_HN_logo_2019.png" group-title="HONDURAS", 563 | VTV || HONDURAS
 https://dw6a9whylepvl.cloudfront.net/hls/vtv.m3u8
 #EXTINF:-1 tvg-id="HN | TEN Canal 10" tvg-name="HN | TEN Canal 10" tvg-logo="https://1.bp.blogspot.com/-WYepFcQLrXc/XQka9TmZ0uI/AAAAAAAAHz8/eTOqew4vGoocd66uqlPHccAeYN74huzmgCLcBGAs/w350-h350-p-k-no-nu/TEN%2BCanal%2B10.png" group-title="HONDURAS", 564 | TEN Canal 10 || HONDURAS
 https://62418d5684c12.streamlock.net/TENHD/TENLive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HN | Canal 11 HN" tvg-name="HN | Canal 11 HN" tvg-logo="https://canal11.hn/wp-content/themes/streamit/assets/images/logo.png" group-title="HONDURAS", 565 | Canal 11 HN || HONDURAS
-http://168.232.168.242:8089/play/a0i5/index.m3u8
+http://rastvzas.xyz:8000/mangas/mangas2022/128519
 #EXTINF:-1 tvg-id="HN | Hondured Canal 13" tvg-name="HN | Hondured Canal 13" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Hondured-TV-en-vivo-Online-100x70.png" group-title="HONDURAS", 566 | Hondured || HONDURAS
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/hondured
 #EXTINF:-1 tvg-id="HN | LTV" tvg-name="HN | LTV" tvg-logo="https://d3ld16hid784z2.cloudfront.net/media/2021/01/logo-ltv-top.png" group-title="HONDURAS", 567 | LTV || HONDURAS
@@ -1226,7 +1230,7 @@ https://emisoras.hn:8081/metrotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HN | Une TV" tvg-name="HN | Une TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTF07BnYXCmMAxqxVEDpMBU84g5NEe9m-_-4zwS=s88-c-k-c0x00ffffff-no-rj" group-title="HONDURAS", 577 | Une TV || HONDURAS
 http://181.189.254.42:8183/play/a06j/index.m3u8
 #EXTINF:-1 tvg-id="HN | Teleceiba" tvg-name="HN | Teleceiba" tvg-logo="https://cdn.mitvstatic.com/channels/hn_teleceiba_m.png" group-title="HONDURAS", 578 | Teleceiba || HONDURAS
-http://quality-restream.com:8080/Fullitalia/52806fdf/192775
+http://rastvzas.xyz:8000/mangas/mangas2022/128514
 #EXTINF:-1 tvg-id="HN | Campus TV" tvg-name="HN | Campus TV" tvg-logo="http://live.campushd.tv/wp-content/uploads/2019/05/logo-2.png" group-title="HONDURAS", 579 | Campus Televisión || HONDURAS
 http://st2.worldkast.com/8004/8004/playlist.m3u8
 #EXTINF:-1 tvg-id="HN | Alsacias TV" tvg-name="HN | Alsacias TV" tvg-logo="https://www.atv.hn/wp-content/uploads/2021/01/cropped-logo.jpg" group-title="HONDURAS", 580 | Alsacias Televisión || HONDURAS
