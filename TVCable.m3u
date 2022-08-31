@@ -1214,7 +1214,7 @@ http://200.52.154.247:8080/play/a04c
 #EXTINF:-1 tvg-id="HN | Vica TV" tvg-name="HN | Vica TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/VTV_HN_logo_2019.png/210px-VTV_HN_logo_2019.png" group-title="HONDURAS", 591 | VTV || HONDURAS
 https://dw6a9whylepvl.cloudfront.net/hls/vtv.m3u8
 #EXTINF:-1 tvg-id="HN | TEN Canal 10" tvg-name="HN | TEN Canal 10" tvg-logo="https://1.bp.blogspot.com/-WYepFcQLrXc/XQka9TmZ0uI/AAAAAAAAHz8/eTOqew4vGoocd66uqlPHccAeYN74huzmgCLcBGAs/w350-h350-p-k-no-nu/TEN%2BCanal%2B10.png" group-title="HONDURAS", 592 | TEN Canal 10 || HONDURAS
-https://62418d5684c12.streamlock.net/TENHD/TENLive.smil/playlist.m3u8
+http://200.52.154.247:8080/play/a078
 #EXTINF:-1 tvg-id="HN | Canal 11 HN" tvg-name="HN | Canal 11 HN" tvg-logo="https://canal11.hn/wp-content/themes/streamit/assets/images/logo.png" group-title="HONDURAS", 593 | Canal 11 HN || HONDURAS
 http://200.52.154.247:8080/play/a01g
 #EXTINF:-1 tvg-id="HN | TV Azteca Honduras" tvg-name="HN | TV Azteca Honduras" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/TV_Azteca_Honduras_logo.png/197px-TV_Azteca_Honduras_logo.png" group-title="HONDURAS", 594 | TV Azteca Honduras || HONDURAS
@@ -1247,7 +1247,7 @@ http://200.52.154.247:8080/play/a07b
 http://rastvzas.xyz:8000/mangas/mangas2022/128514
 #EXTINF:-1 tvg-id="HN | Campus TV" tvg-name="HN | Campus TV" tvg-logo="http://live.campushd.tv/wp-content/uploads/2019/05/logo-2.png" group-title="HONDURAS", 608 | Campus Televisión || HONDURAS
 http://st2.worldkast.com/8004/8004/playlist.m3u8
-#EXTINF:-1 tvg-id="HN | Alsacias TV" tvg-name="HN | Alsacias TV" tvg-logo="https://www.atv.hn/wp-content/uploads/2021/01/cropped-logo.jpg" group-title="HONDURAS", 609 | Alsacias Televisión || HONDURAS
+#EXTINF:-1 tvg-id="HN | Alsacias TV" tvg-name="HN | Alsacias TV" tvg-logo="https://play-lh.googleusercontent.com/yACFGtBzI_R0s-XY2r3wVTZW4VE4uMxNW2IkXAramPrckFmihjalpwvaFfhzu0SwRg0" group-title="HONDURAS", 609 | Alsacias Televisión || HONDURAS
 https://emisoras.hn:8081/atv/index.m3u8
 #EXTINF:-1 tvg-id="USA | Sercano TV" tvg-name="USA | Sercano TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/Sercano-TV-en-vivo-Online-100x70.png" group-title="NOTICIAS E INFORMACION", 610 | Servicio Centroamericano de Noticias
 http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/chunklist_w1521447717_b1248000.m3u8
@@ -1256,7 +1256,7 @@ https://dslvfq5ee0geu.cloudfront.net/hls/canal3.m3u8
 #EXTINF:-1 tvg-id="GT | Televisiete" tvg-name="GT | Televisiete" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Televisiete.png/200px-Televisiete.png" group-title="GUATEMALA", 612 | Televisiete || GUATEMALA
 https://dslvfq5ee0geu.cloudfront.net/hls/canal7.m3u8
 #EXTINF:-1 tvg-id="GT | Teleonce" tvg-name="GT | Teleonce" tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-11-guatemala_m.png" group-title="GUATEMALA", 613 | Teleonce || GUATEMALA
-http://200.52.154.247:8080/play/a02z
+http://45.5.117.138:25461/playgt/123456/83
 #EXTINF:-1 tvg-id="GT | Trecevisión" tvg-name="GT | Trecevisión" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/9/9f/TreceVision.jpg/revision/latest/scale-to-width-down/120?cb=20170304043418&path-prefix=es" group-title="GUATEMALA", 614 | Trecevisión || GUATEMALA
 http://45.5.117.138:25461/playgt/123456/84
 #EXTINF:-1 tvg-id="GT | TN 23" tvg-name="GT | TN 23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/TN23logo2016.png/250px-TN23logo2016.png" group-title="GUATEMALA", 615 | TN 23 || GUATEMALA
