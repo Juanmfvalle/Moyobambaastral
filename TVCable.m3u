@@ -1551,6 +1551,8 @@ http://eu1.serviaudio.com:8066/stream/;
 http://eu1.serviaudio.com:8038/
 #EXTINF:-1 tvg-id="PE | Radio La Mega de Picota" tvg-name="PE | Radio La Mega de Picota" tvg-logo="https://static-media.streema.com/media/cache/93/9e/939e2e96ae1bd97da85be744a85fda6e.jpg" group-title="EMISORAS PROVINCIALES", 761 | Radio La Mega 98.7 FM || Picota; Perú
 http://ip.blstreamperu.com:9854/;
+#EXTINF:-1 tvg-id="PE | Radio Rutas" tvg-name="PE | Radio Rutas" tvg-logo="https://play-lh.googleusercontent.com/7hUpRIhYXUf2VRDm9oBEZLvqzSc6eCtMYzRLelnfqYwRFXc75nhJlZZrvZ9ujzgmCw=w240-h480-rw" group-title="EMISORAS REGIONALES", En prueba | Radio Rutas || Quillabamba; Perú
+http://65.60.45.74:8014/stream/1/
 #EXTINF:-1 tvg-id="PE | Radio Mágica" tvg-name="PE | Radio Mágica" tvg-logo="http://radiomagica.pe/assets/images/logo-mediano.png" group-title="EMISORAS NACIONALES", 762 | Radio Mágica 88.3 FM || Lima; Perú
 http://playerservices.streamtheworld.com/api/livestream-redirect//MAG_SC
 #EXTINF:-1 tvg-id="PE | Radio Felicidad" tvg-name="PE | Radio Felicidad" tvg-logo="https://eaudioplayer.radio-grpp.io/static/dist/img/logo_felicidad.png" group-title="EMISORAS NACIONALES", 763 | Radio Felicidad 88.9 FM y 900 AM || Lima; Perú
