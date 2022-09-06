@@ -769,16 +769,16 @@ https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist
 https://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CO | City TV" tvg-name="CO | City TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/City_tv_Bogot%C3%A1_logo.svg/170px-City_tv_Bogot%C3%A1_logo.svg.png" group-title="COLOMBIA", 375 | City TV || COLOMBIA
 http://190.108.83.142:8000/play/a008/index.m3u8
-#EXTINF:-1 tvg-id="CO | Canal 2 de Cali" tvg-name="CO | Canal 2 de Cali" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Canal_2_logo.svg/245px-Canal_2_logo.svg.png" group-title="COLOMBIA", 376 | Canal 2 de Cali || COLOMBIA
-https://video13.virtualtronics.com/streamer/canal2_720/index.m3u8
+#EXTINF:-1 tvg-id="CO | Canal C de Cali" tvg-name="CO | Canal C de Cali" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRhl94w4Xil6sWKn-TpwbBo4oDXDJ6IZdILATFNKw=s900-c-k-c0x00ffffff-no-rj" group-title="COLOMBIA", 376 | Canal C de Cali || COLOMBIA
+https://stmv2.voxtvhd.com.br/canalccali/canalccali/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | Telecaribe" tvg-name="CO | Telecaribe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Telecaribe2017.png/150px-Telecaribe2017.png" group-title="COLOMBIA", 377 | Telecaribe || COLOMBIA
 https://tkx.mp.lura.live/rest/v2/mcp/video/adstB64MXYxqLZwy?anvack=4gXmVVoVIp3YeECJWm6af3j0mlHwl6vO&eud=SKjoH1L/9Enwo5zQBiBTRfTSNGfENMNO6udm4CQNVvix/L9XX8kucBOvzWalIghNrL5GllGH8ou17ICYGv29Rg==
 #EXTINF:-1 tvg-id="CO | Mundo +" tvg-name="CO | Mundo +" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTDVbXdzqg5wRA2IZDnWEJyezQIhnUGxI8fEuLOgA=s88-c-k-c0x00ffffff-no-rj" group-title="COLOMBIA", 378 | Mundo + || COLOMBIA
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | Cali TV" tvg-name="CO | Cali TV" tvg-logo="https://www.canalcalitv.com/wp-content/uploads/2017/10/Logo_CaliTV.png" group-title="COLOMBIA", 379 | Cali TV || COLOMBIA
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="CO | Cosmovisión" tvg-name="CO | Cosmovisión" tvg-logo="https://cdn.mitvstatic.com/channels/co_cosmovision_m.png" group-title="COLOMBIA", 380 | Cosmovisión || COLOMBIA
-https://videohls2.cosmovision.tv/hls/sd.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="CO | Veo Televisión" tvg-name="CO | Veo Televisión" tvg-logo="https://65d1d783ef.cbaul-cdnwnd.com/06f4edf4e9e95af4fc21b37e09fc303b/200000026-203cf203d1/450/VEO%20TELEVISION%202%20OK.png?ph=65d1d783ef" group-title="COLOMBIA", 380 | Veo Televisión || COLOMBIA
+https://movil.ejeserver.com/live/veotv.m3u8
 #EXTINF:-1 tvg-id="CO | CTV" tvg-name="CO | CTV" tvg-logo="https://ctvbarranquilla.com/wp-content/uploads/2021/02/LOGO-NUEVO-CTV-3.png" group-title="COLOMBIA", 381 | CTV || COLOMBIA
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CO | Teleislas" tvg-name="CO | Teleislas" tvg-logo="https://teleislas.com.co/wp-content/uploads/2019/07/cropped-Teleislas_Logo.png" group-title="COLOMBIA", 382 | Teleislas || COLOMBIA
@@ -821,10 +821,10 @@ https://vcp3.myplaytv.com/tvo/tvo/playlist.m3u8
 https://vcp.myplaytv.com/canali/canali/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="VE | Catatumbo TV" tvg-name="VE | Catatumbo TV" tvg-logo="http://catatumbotv.com.ve/logo.png" group-title="VENEZUELA", 401 | Catatumbo TV || VENEZUELA
 https://vcp3.myplaytv.com/catatumbotv/catatumbotv/playlist.m3u8
-#EXTINF:-1 tvg-id="VE | Anzoategui TV" tvg-name="VE | Anzoategui TV" tvg-logo="http://anzoategui.tv/LOGO%20BLANCO.png" group-title="VENEZUELA", 402 | Anzoategui TV || VENEZUELA
+#EXTINF:-1 tvg-id="VE | Anzoategui TV" tvg-name="VE | Anzoategui TV" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_09/large.AnzoateguiTV-logo2020-rec1.png.16954ef50ddeff8f97cce0312f5a0ee3.png" group-title="VENEZUELA", 402 | Anzoategui TV || VENEZUELA
 https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 #EXTINF:-1 tvg-id="VE | Canal 11 del Zulia" tvg-name="VE | Canal 11 del Zulia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Channel_11_%28Zulia%2C_Venezuela%29_logo.svg/150px-Channel_11_%28Zulia%2C_Venezuela%29_logo.svg.png" group-title="VENEZUELA", 403 | Canal 11 del Zulia || VENEZUELA
-http://200.6.154.43:1935/canal11/live/chunklist_w352293786.m3u8
+https://cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiI3MDcyNjZlYmI1YTM5OGYwZDUwMmNjMjdjZmY5MGNmZiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNjYyNTA5OTAzLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.ecvbj0tE5BhFFgYmXl92t2oWYdpMJDCeh1jicwXe790mRLhxtTS2spx1MY2nJvQ3-8iSvLtd8G-FKs1nbTBjaz4AICZ1JP0HqlWufwbmdVb66Goc9FJEdPI_RD05zBJHuoc4HJm4er34XzBH9MJ_Hozils8nsxWip1xpP6mUwsxEO3EE4Fozv3wRTeqG-_wNEVDSa6JGYvY81nupJqHUZZ3JZn1ixiwyOCieMRZUR-4FGOlN_57Ahrq7xsNQ-x37LIGdBemipXfAmQX-NU5c5ZR7-D-qtNN4jkxJnR14eFGbcNaT3yfBWvEesNloV0V8ELhHCkqXm-u1X1heZXLiLw/manifest/video.m3u8
 #EXTINF:-1 tvg-id="VE | Promar TV" tvg-name="VE | Promar TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Promar_Television.png/150px-Promar_Television.png" group-title="VENEZUELA", 404 | Promar TV || VENEZUELA
 http://vcp1.myplaytv.com/promar/promar/playlist.m3u8
 #EXTINF:-1 tvg-id="VE | Americana de Televisión" tvg-name="VE | Americana de Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ATELTV_logo.png/200px-ATELTV_logo.png" group-title="VENEZUELA", 405 | Americana de Televisión || VENEZUELA
