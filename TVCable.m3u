@@ -490,7 +490,7 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 #EXTINF:-1 tvg-id="AR | Orbe 21" tvg-name="AR | Orbe 21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Canal_Orbe_21_logo.svg/245px-Canal_Orbe_21_logo.svg.png" group-title="RELIGIOSOS", 241 | Orbe 21
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | ESNE TV" tvg-name="USA | ESNE TV" tvg-logo="https://elsembradorministries.com/esne_deployment/images/logo_azul.png" group-title="RELIGIOSOS", 242 | El Sembrador Televisión
-https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/playlist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=63189c4d278d6a0001559a52&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1662643661%7Eacl%3D%2F*2041519%2F*%7Ehmac%3Df35564638b678139bbe8b21edd44821b48248f3401e5c2a614e4671485a0f078
+https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/playlist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=631975cf562dae0001f5faac&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1662699343%7Eacl%3D%2F*2041519%2F*%7Ehmac%3D805375c141a149f3fbf0b27efc33fae17a59947c2c9814eafde7d4434e1ad310
 #EXTINF:-1 tvg-id="PE | JN19" tvg-name="PE | JN19" tvg-logo="http://www.jn19television.com/templates/televid_23/images/object979167786.png" group-title="RELIGIOSOS", 243 | JN19 Televisión
 https://servilive.com:3149/live/jn19tvlive.m3u8
 #EXTINF:-1 tvg-id="CR | Telefides" tvg-name="CR | Telefides" tvg-logo="https://costaricatelevision.com/sites/default/files/styles/tv_list/public/2020-07/telefides-costa-rica.png.webp?itok=XzDap4zR" group-title="RELIGIOSOS", 244 | Telefides
@@ -1029,10 +1029,12 @@ https://sc1.stweb.tv/airedigital/live/playlist.m3u8
 https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AR | Canal NET" tvg-name="AR | Canal NET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/120px-Net_TV_logo.png" group-title="ARGENTINA", 498 | Canal NET || ARGENTINA
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AR | Canal 7 de Salta" tvg-name="AR | Canal 7 de Salta" tvg-logo="https://canal7salta.com/wp-content/uploads/2017/08/cropped-cropped-LOGO-1.png" group-title="ARGENTINA", En prueba | Canal 7 de Salta || ARGENTINA
+https://panel.dattalive.com/8074/8074/playlist.m3u8
 #EXTINF:-1 tvg-id="UY | Canal 4" tvg-name="UY | Canal 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Canal4_uy.png/150px-Canal4_uy.png" group-title="URUGUAY", 499 | Canal 4 || URUGUAY
 http://nv1connect.com:80/live/3546366/773773/91916.m3u8
 #EXTINF:-1 tvg-id="UY | TV Ciudad" tvg-name="UY | TV Ciudad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TVCiudad_logo_2020.png/140px-TVCiudad_logo_2020.png" group-title="URUGUAY", 500 | TV Ciudad || URUGUAY
-https://vxlive.cdn.antel.net.uy/auth_livesignal_474,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNDc0JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2NjI1ODA3ODMmcmFuZG9tPVdBUDZEZ2dpU20mYy1pcD0xODEuMTc2LjEyOC40OCxjNTkyYjdkODIxZjFkNGFjOTY2YjRhYjk2MTY0N2E3MmI0MzU3MTM3ODk3YzMwNTkyY2EwMzQ2M2MwMWIwNWZl/vxfmt=hls/playlist.m3u8
+https://vxlive.cdn.antel.net.uy/auth_V_TVCiudad,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfVFZDaXVkYWQlMkZ2eGZtdCUzRGhscyUyRiUyQSZleHBpcnk9MTY2MjYyNzM2MyZyYW5kb209ekIyRFo3MHI3NiZjLWlwPTE4MS4xNzYuMTI4LjQ4JmlkX3JlZmVyZW5jaWE9JmlkX2Rpc3Bvc2l0aXZvPTAmaWRfZnJvbnRlbmQ9MTI4MCZwdWJsaWNfaWQ9MnM2cjIsNzZkZDg1OTZmNTMzNWIyYWIzNjRiMjQ3M2EzYjEwMTljYjdkY2U0Nzk0OTI2OTFhZjIzZWUyNmZmNTg5MjE4ZA==/vxfmt=hls/playlist.m3u8
 #EXTINF:-1 tvg-id="UY | Canal 10" tvg-name="UY | Canal 10" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/2014LogoCanal10.png/revision/latest/scale-to-width-down/200?cb=20220202050124&path-prefix=es" group-title="URUGUAY", 501 | Saeta TV Canal 10 || URUGUAY
 http://nv1connect.com:80/live/3546366/773773/91920.m3u8
 #EXTINF:-1 tvg-id="UY | Teledoce" tvg-name="UY | Teledoce" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/LogoTeledoce2019Azul.png" group-title="URUGUAY", 502 | Teledoce || URUGUAY
@@ -1215,10 +1217,12 @@ https://dw6a9whylepvl.cloudfront.net/hls/vtv.m3u8
 https://62418d5684c12.streamlock.net/TENHD/TENLive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HN | Canal 11 HN" tvg-name="HN | Canal 11 HN" tvg-logo="https://canal11.hn/wp-content/themes/streamit/assets/images/logo.png" group-title="HONDURAS", 587 | Canal 11 HN || HONDURAS
 http://200.52.154.247:8080/play/a01g
-#EXTINF:-1 tvg-id="HN | TV Azteca Honduras" tvg-name="HN | TV Azteca Honduras" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/TV_Azteca_Honduras_logo.png/197px-TV_Azteca_Honduras_logo.png" group-title="HONDURAS", 588 | TV Azteca Honduras || HONDURAS
-http://200.52.154.247:8080/play/a079
-#EXTINF:-1 tvg-id="HN | Mega Clásicos" tvg-name="HN | Mega Clásicos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Megacl%C3%A1sicos2018.png/200px-Megacl%C3%A1sicos2018.png" group-title="HONDURAS", 589 | Mega Clásicos || HONDURAS
-http://200.52.154.247:8080/play/a07a
+#EXTINF:-1 tvg-id="HN | Girasol TV" tvg-name="HN | Girasol TV" tvg-logo="https://girasoltv.girasolradiotvhn.com/wp-content/uploads/2020/10/cropped-logo-girasoltv-400x200px963.png" group-title="HONDURAS", 588 | Girasol TV || HONDURAS
+https://video.misistemareseller.com/Girasoltv/Girasoltv/playlist.m3u8
+#EXTINF:-1 tvg-id="HN | Teledanlí" tvg-name="HN | Teledanlí" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_1g2d_zrJFqen8rp4OK-7NBbcQqUt_Z-7N1yng=s900-c-k-c0x00ffffff-no-rj" group-title="HONDURAS", 589 | Teledanlí || HONDURAS
+https://cloud2.streaminglivehd.com:1936/8224/8224/playlist.m3u8
+#EXTINF:-1 tvg-id="HN | UTV" tvg-name="HN | UTV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/utv.png" group-title="HONDURAS", En prueba | UTV || HONDURAS
+https://live-utv.unah.edu.hn/web/salida.m3u8
 #EXTINF:-1 tvg-id="HN | LTV" tvg-name="HN | LTV" tvg-logo="https://d3ld16hid784z2.cloudfront.net/media/2021/01/logo-ltv-top.png" group-title="HONDURAS", 590 | LTV || HONDURAS
 https://5e85d90130e77.streamlock.net/6022/6022/chunklist_w911572265.m3u8
 #EXTINF:-1 tvg-id="HN | DTV Canal 15" tvg-name="HN | DTV Canal 15" tvg-logo="https://www.hn504.net/img/tv/DTP-Canal-15.png" group-title="HONDURAS", 591 | DTV || HONDURAS
