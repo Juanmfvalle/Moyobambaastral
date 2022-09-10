@@ -1237,16 +1237,26 @@ https://panel.dattalive.com/8122/8122/playlist.m3u8
 https://emisoras.hn:8081/metrotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HN | Choluteca TV" tvg-name="HN | Choluteca TV" tvg-logo="https://1.bp.blogspot.com/-7l5aseK7l1I/YTsuVOKgWGI/AAAAAAAAQkk/OfOcu9UyK04GiBMS4R3W5zwHxYbDkWC9wCLcBGAsYHQ/s268/Choluteva%2BTV%2Ben%2Bvivo%2B%25281%2529.png" group-title="HONDURAS", 599 | Choluteca TV || HONDURAS
 https://emisoras.hn:8081/cholutecatv/index.m3u8
-#EXTINF:-1 tvg-id="HN | Teleceiba" tvg-name="HN | Teleceiba" tvg-logo="https://cdn.mitvstatic.com/channels/hn_teleceiba_m.png" group-title="HONDURAS", 600 | Teleceiba || HONDURAS
-http://rastvzas.xyz:8000/mangas/mangas2022/128514
-#EXTINF:-1 tvg-id="HN | Campus TV" tvg-name="HN | Campus TV" tvg-logo="http://live.campushd.tv/wp-content/uploads/2019/05/logo-2.png" group-title="HONDURAS", 601 | Campus Televisión || HONDURAS
+#EXTINF:-1 tvg-id="HN | Campus TV" tvg-name="HN | Campus TV" tvg-logo="http://live.campushd.tv/wp-content/uploads/2019/05/logo-2.png" group-title="HONDURAS", 600 | Campus Televisión || HONDURAS
 http://st2.worldkast.com/8004/8004/playlist.m3u8
-#EXTINF:-1 tvg-id="HN | Alsacias TV" tvg-name="HN | Alsacias TV" tvg-logo="https://play-lh.googleusercontent.com/yACFGtBzI_R0s-XY2r3wVTZW4VE4uMxNW2IkXAramPrckFmihjalpwvaFfhzu0SwRg0" group-title="HONDURAS", 602 | Alsacias Televisión || HONDURAS
+#EXTINF:-1 tvg-id="HN | Alsacias TV" tvg-name="HN | Alsacias TV" tvg-logo="https://play-lh.googleusercontent.com/yACFGtBzI_R0s-XY2r3wVTZW4VE4uMxNW2IkXAramPrckFmihjalpwvaFfhzu0SwRg0" group-title="HONDURAS", 601 | Alsacias Televisión || HONDURAS
 https://emisoras.hn:8081/atv/index.m3u8
-#EXTINF:-1 tvg-id="HN | Canal 34 Comayagua" tvg-name="HN | Canal 34 Comayagua" tvg-logo="https://i.ytimg.com/vi/kafNUQFkf4c/maxresdefault.jpg" group-title="HONDURAS", 603 | Canal 34 Comayagua || HONDURAS
+#EXTINF:-1 tvg-id="HN | Canal 34 Comayagua" tvg-name="HN | Canal 34 Comayagua" tvg-logo="https://i.ytimg.com/vi/kafNUQFkf4c/maxresdefault.jpg" group-title="HONDURAS", 602 | Canal 34 Comayagua || HONDURAS
 http://amixtv.com:8080/canal34/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="HN | Telemas" tvg-name="HN | Telemas" tvg-logo="https://www.telemas.tv/wp-content/uploads/2022/02/cropped-logo-principal-fondo-gris.png" group-title="HONDURAS", En prueba | Telemas || HONDURAS
+#EXTINF:-1 tvg-id="HN | Telemas" tvg-name="HN | Telemas" tvg-logo="https://www.telemas.tv/wp-content/uploads/2022/02/cropped-logo-principal-fondo-gris.png" group-title="HONDURAS", 603 | Telemas || HONDURAS
 http://amixtv.com:8080/telemas/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="HN | Porvenir TV" tvg-name="HN | Porvenir TV" tvg-logo="https://pbs.twimg.com/media/FcUhRnIWAAUl-ZM?format=png&name=small" group-title="HONDURAS", En prueba | Porvenir TV || HONDURAS
+http://amixtv.com:8080/prtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="HN | EDN" tvg-name="HN | EDN" tvg-logo="https://play-lh.googleusercontent.com/58j_6IIJnaGGvTii9eX8pLgQcXQY45QuvILn7hWICaOlZYnfEaVMyaDH6MitzZx6HBY" group-title="HONDURAS", En prueba | EDN || HONDURAS
+https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
+#EXTINF:-1 tvg-id="HN | RSV" tvg-name="HN | RSV" tvg-logo="https://www.rsvhonduras.com/images/RSV---copia.jpg" group-title="HONDURAS", En prueba | RSV || HONDURAS
+https://stmv1.srvif.com/rsvhonduras/rsvhonduras/playlist.m3u8
+#EXTINF:-1 tvg-id="HN | Sula TV" tvg-name="HN | Sula TV" tvg-logo="https://www.sulatv.com/img/gallery/Logo.gif" group-title="HONDURAS", En prueba | Sula TV || HONDURAS
+https://sulatv1.ddns.net/hls/live/index.m3u8
+#EXTINF:-1 tvg-id="HN | Vallevisión" tvg-name="HN | Vallevisión" tvg-logo="https://i.ytimg.com/vi/IBcNGeLfkQs/maxresdefault.jpg" group-title="HONDURAS", En prueba | Vallevisión || HONDURAS
+https://stmv1.zcastbr.com/vallevision/vallevision/playlist.m3u8
+#EXTINF:-1 tvg-id="HN | Lenca TV" tvg-name="HN | Lenca TV" tvg-logo="https://play-lh.googleusercontent.com/Pj0cw_MtiXOVbmPnOYWuxjRg_RdJIDU682YhYxqwUeFtVYX7QSn-lQgxDKBuJYQ9ajm7" group-title="HONDURAS", En prueba | Lenca TV || HONDURAS
+http://lencatelevision.com:8080/hls/ltv1.m3u8
 #EXTINF:-1 tvg-id="USA | Sercano TV" tvg-name="USA | Sercano TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/Sercano-TV-en-vivo-Online-100x70.png" group-title="NOTICIAS E INFORMACION", 604 | Servicio Centroamericano de Noticias
 http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/chunklist_w1521447717_b1248000.m3u8
 #EXTINF:-1 tvg-id="GT | Canal 3" tvg-name="GT | Canal 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Canal3.png/200px-Canal3.png" group-title="GUATEMALA", 605 | Canal 3 el super canal || GUATEMALA
