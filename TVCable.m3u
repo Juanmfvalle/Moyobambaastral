@@ -1122,7 +1122,7 @@ http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CR | TV Sur Canal 9" tvg-name="CR | TV Sur Canal 9" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Sur-Canal-9-en-vivo-Online-100x70.png" group-title="COSTA RICA", 542 | TV Sur Canal 9 || COSTA RICA
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
 #EXTINF:-1 tvg-id="CR | Ticavision Canal 27" tvg-name="CR | Ticavision Canal 27" tvg-logo="https://costaricatelevision.com/sites/default/files/2021-03/ticavision-costa-rica_0.png" group-title="COSTA RICA", 543 | Ticavisión || COSTA RICA
-https://59ef525c24caa.streamlock.net/HBTV/HBTV/chunklist_w1041760160.m3u8
+https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1 tvg-id="CR | Anexión TV 36" tvg-name="CR | Anexión TV 36" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/anexiontv-100x70.png" group-title="COSTA RICA", 544 | Anexión TV 36 || COSTA RICA
 https://liveingesta119.cdnmedia.tv/trivision36live/dvrlive-1500/chunklist.m3u8?DVR
 #EXTINF:-1 tvg-id="CR | San Vito TV" tvg-name="CR | San Vito TV" tvg-logo="https://yt3.ggpht.com/cLTNc45fyk6VrejPCSbSE6nQgKyR_iVQGfVAZEmxfnJ7i__RkHV06KDGfXvMecGAtV_lYmQsCw=s900-c-k-c0x00ffffff-no-rj" group-title="COSTA RICA", En prueba | San Vito TV || COSTA RICA
@@ -1321,54 +1321,58 @@ https://cdn.streamhispanatv.net:3845/live/fullchannelgtlive.m3u8
 https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
 #EXTINF:-1 tvg-id="GT | Tele Arte" tvg-name="GT | Tele Arte" tvg-logo="https://static.wixstatic.com/media/7acae1_69f083ef9b9b4772890e0a2fc9eddcfc~mv2.png" group-title="GUATEMALA", 634 | Tele Arte || GUATEMALA
 https://cdn.streamhispanatv.net:3771/live/teleartegtlive.m3u8
-#EXTINF:-1 tvg-id="GT | Canal 100 TV Chinique" tvg-name="GT | Canal 100 TV Chinique" tvg-logo="https://static.wixstatic.com/media/7acae1_17c09e7dae974060a5cf7d0561412dc9~mv2.png" group-title="GUATEMALA", 635 | Canal 100 TV Chinique || GUATEMALA
+#EXTINF:-1 tvg-id="GT | Jacal TV Canal 5" tvg-name="GT | Jacal TV Canal 5" tvg-logo="https://pbs.twimg.com/profile_images/378800000663308662/dd8733c0e8f9208179e7dd7ce7014787_400x400.png" group-title="GUATEMALA", 635 | Jacal TV Canal 5 || GUATEMALA
+https://stream.oursnetworktv.com/latin/jacaltv/playlist.m3u8
+#EXTINF:-1 tvg-id="GT | Canal 100 TV Chinique" tvg-name="GT | Canal 100 TV Chinique" tvg-logo="https://static.wixstatic.com/media/7acae1_17c09e7dae974060a5cf7d0561412dc9~mv2.png" group-title="GUATEMALA", 636 | Canal 100 TV Chinique || GUATEMALA
 https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
-#EXTINF:-1 tvg-id="GT | Canal 23 TV de Mazatenango" tvg-name="GT | Canal 23 TV de Mazatenango" tvg-logo="https://static.wixstatic.com/media/7acae1_6ee0765d79f44b7b98a5db3f260a6cad~mv2.png" group-title="GUATEMALA", 636 | Canal 23 TV de Mazatenango || GUATEMALA
+#EXTINF:-1 tvg-id="GT | Canal 23 TV de Mazatenango" tvg-name="GT | Canal 23 TV de Mazatenango" tvg-logo="https://static.wixstatic.com/media/7acae1_6ee0765d79f44b7b98a5db3f260a6cad~mv2.png" group-title="GUATEMALA", 637 | Canal 23 TV de Mazatenango || GUATEMALA
 https://cdn.streamhispanatv.net:3399/live/canal23mazatelive.m3u8
-#EXTINF:-1 tvg-id="GT | Knal 4 Quiché" tvg-name="GT | Knal 4 Quiché" tvg-logo="https://static.wixstatic.com/media/7acae1_1dd1a280dfef42a4a904ce4a8582e1aa~mv2.png" group-title="GUATEMALA", 637 | Knal 4 Quiché || GUATEMALA
+#EXTINF:-1 tvg-id="GT | Knal 4 Quiché" tvg-name="GT | Knal 4 Quiché" tvg-logo="https://static.wixstatic.com/media/7acae1_1dd1a280dfef42a4a904ce4a8582e1aa~mv2.png" group-title="GUATEMALA", 638 | Knal 4 Quiché || GUATEMALA
 https://cdn.streamhispanatv.net:3261/live/knal4gtlive.m3u8
-#EXTINF:-1 tvg-id="GT | TV Florencia" tvg-name="GT | TV Florencia" tvg-logo="https://pbs.twimg.com/media/Fa5X4OHX0AAbP3G?format=png&name=small" group-title="GUATEMALA", 638 | TV Florencia || GUATEMALA
+#EXTINF:-1 tvg-id="GT | TV Florencia" tvg-name="GT | TV Florencia" tvg-logo="https://pbs.twimg.com/media/Fa5X4OHX0AAbP3G?format=png&name=small" group-title="GUATEMALA", 639 | TV Florencia || GUATEMALA
 https://cdn.streamhispanatv.net:3819/live/tvflorencialive.m3u8
-#EXTINF:-1 tvg-id="GT | Telecosta" tvg-name="GT | Telecosta" tvg-logo="https://www.telecostaescuintla.com/gallery_gen/3b51c096b46472b84baedd3e6dba34ff_200x176.png" group-title="GUATEMALA", 639 | Telecosta || GUATEMALA
+#EXTINF:-1 tvg-id="GT | Telecosta" tvg-name="GT | Telecosta" tvg-logo="https://www.telecostaescuintla.com/gallery_gen/3b51c096b46472b84baedd3e6dba34ff_200x176.png" group-title="GUATEMALA", 640 | Telecosta || GUATEMALA
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
-#EXTINF:-1 tvg-id="GT | Playmedios TV" tvg-name="GT | Playmedios TV" tvg-logo="https://static.wixstatic.com/media/7acae1_8cf9f5fa2991439b88ea3847bd682565~mv2.png" group-title="GUATEMALA", 640 | Playmedios TV || GUATEMALA
+#EXTINF:-1 tvg-id="GT | Playmedios TV" tvg-name="GT | Playmedios TV" tvg-logo="https://static.wixstatic.com/media/7acae1_8cf9f5fa2991439b88ea3847bd682565~mv2.png" group-title="GUATEMALA", 641 | Playmedios TV || GUATEMALA
 http://45.5.117.138:25461/playgt/123456/51
-#EXTINF:-1 tvg-id="GT | Sur TV" tvg-name="GT | Sur TV" tvg-logo="https://static.wixstatic.com/media/7acae1_43c83483b98d4caf997a9aa66858694c~mv2.png" group-title="GUATEMALA", 641 | Sur TV || GUATEMALA
+#EXTINF:-1 tvg-id="GT | Gardenias TV" tvg-name="GT | Gardenias TV" tvg-logo="https://pbs.twimg.com/media/FclALSUXkAE5jNv?format=png&name=120x120" group-title="GUATEMALA", En prueba | Gardenias TV || GUATEMALA
+https://stream.oursnetworktv.com/latin/gardeniasTv/playlist.m3u8
+#EXTINF:-1 tvg-id="GT | Canal 46 Cristo TV" tvg-name="GT | Canal 46 Cristo TV" tvg-logo="https://pbs.twimg.com/media/FclBoEHXoAABdOW?format=png&name=small" group-title="GUATEMALA", En prueba | Canal 46 Cristo TV || GUATEMALA
+https://stream.oursnetworktv.com/latin/CristoTV/playlist.m3u8
+#EXTINF:-1 tvg-id="GT | Sur TV" tvg-name="GT | Sur TV" tvg-logo="https://static.wixstatic.com/media/7acae1_43c83483b98d4caf997a9aa66858694c~mv2.png" group-title="GUATEMALA", 642 | Sur TV || GUATEMALA
 https://cdn.streamhispanatv.net:3050/live/surtvlive.m3u8
-#EXTINF:-1 tvg-id="GT | TV TUN" tvg-name="GT | TV TUN" tvg-logo="https://pbs.twimg.com/media/FZwGRtKXgAAznhd?format=png&name=240x240" group-title="GUATEMALA", 642 | TV TUN || GUATEMALA
+#EXTINF:-1 tvg-id="GT | TV TUN" tvg-name="GT | TV TUN" tvg-logo="https://pbs.twimg.com/media/FZwGRtKXgAAznhd?format=png&name=240x240" group-title="GUATEMALA", 643 | TV TUN || GUATEMALA
 https://cdn.streamhispanatv.net:3832/live/tvtunlive.m3u8
-#EXTINF:-1 tvg-id="GT | Canal 8 de Nueva Santa Rosa" tvg-name="GT | Canal 8 de Nueva Santa Rosa" tvg-logo="https://static.wixstatic.com/media/7acae1_a986824eaf454764a466d8a78dde6b75~mv2.png" group-title="GUATEMALA", 643 | Canal 8 de Nueva Santa Rosa || GUATEMALA
+#EXTINF:-1 tvg-id="GT | Canal 8 de Nueva Santa Rosa" tvg-name="GT | Canal 8 de Nueva Santa Rosa" tvg-logo="https://static.wixstatic.com/media/7acae1_a986824eaf454764a466d8a78dde6b75~mv2.png" group-title="GUATEMALA", 644 | Canal 8 de Nueva Santa Rosa || GUATEMALA
 https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
-#EXTINF:-1 tvg-id="GT | Multivisión" tvg-name="GT | Multivisión" tvg-logo="https://static.wixstatic.com/media/7acae1_95bf7301ff9847eeafd13b08e3570b64~mv2.png" group-title="GUATEMALA", 644 | Multivisión || GUATEMALA
+#EXTINF:-1 tvg-id="GT | Multivisión" tvg-name="GT | Multivisión" tvg-logo="https://static.wixstatic.com/media/7acae1_95bf7301ff9847eeafd13b08e3570b64~mv2.png" group-title="GUATEMALA", 645 | Multivisión || GUATEMALA
 http://svtmedia.digitalgt.com:8080/hls/multivision/index.m3u8
-#EXTINF:-1 tvg-id="GT | Multivisión Sports" tvg-name="GT | Multivisión Sports" tvg-logo="https://static.wixstatic.com/media/7acae1_e6ccf72d22fd440a9cf3c402b04f1a4a~mv2.png" group-title="GUATEMALA", 645 | Multivisión Sports || GUATEMALA
+#EXTINF:-1 tvg-id="GT | Multivisión Sports" tvg-name="GT | Multivisión Sports" tvg-logo="https://static.wixstatic.com/media/7acae1_e6ccf72d22fd440a9cf3c402b04f1a4a~mv2.png" group-title="GUATEMALA", 646 | Multivisión Sports || GUATEMALA
 http://svtmedia.digitalgt.com:8080/hls/multivisionsports/index.m3u8
-#EXTINF:-1 tvg-id="GT | Barbe TV" tvg-name="GT | Barbe TV" tvg-logo="https://static.wixstatic.com/media/7acae1_b837b981945d4703a1a838aa550156e0~mv2.png" group-title="GUATEMALA", 646 | Barbe TV || GUATEMALA
+#EXTINF:-1 tvg-id="GT | Barbe TV" tvg-name="GT | Barbe TV" tvg-logo="https://static.wixstatic.com/media/7acae1_b837b981945d4703a1a838aa550156e0~mv2.png" group-title="GUATEMALA", 647 | Barbe TV || GUATEMALA
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
-#EXTINF:-1 tvg-id="GT | Izabal TV" tvg-name="GT | Izabal TV" tvg-logo="https://static.wixstatic.com/media/7acae1_390a0d84287a4bf0bea7620324b57e27~mv2.png" group-title="GUATEMALA", 647 | Izabal TV || GUATEMALA
+#EXTINF:-1 tvg-id="GT | Izabal TV" tvg-name="GT | Izabal TV" tvg-logo="https://static.wixstatic.com/media/7acae1_390a0d84287a4bf0bea7620324b57e27~mv2.png" group-title="GUATEMALA", 648 | Izabal TV || GUATEMALA
 https://cdn.streamhispanatv.net:3340/live/izabaltvlive.m3u8
-#EXTINF:-1 tvg-id="GT | Ixchiguan Stereo TV" tvg-name="GT | Ixchiguan Stereo TV" tvg-logo="https://pbs.twimg.com/media/Fa5hIzaXoAAIbV2?format=png&name=120x120" group-title="GUATEMALA", 648 | Ixchiguan Stereo TV || GUATEMALA
+#EXTINF:-1 tvg-id="GT | Ixchiguan Stereo TV" tvg-name="GT | Ixchiguan Stereo TV" tvg-logo="https://pbs.twimg.com/media/Fa5hIzaXoAAIbV2?format=png&name=120x120" group-title="GUATEMALA", 649 | Ixchiguan Stereo TV || GUATEMALA
 https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
-#EXTINF:-1 tvg-id="GT | Maxivisión" tvg-name="GT | Maxivisión" tvg-logo="https://static.wixstatic.com/media/7acae1_ccb27612733c4b5a90b1fcbf30ce7e2a~mv2.png" group-title="GUATEMALA", 649 | Maxivisión || GUATEMALA
+#EXTINF:-1 tvg-id="GT | Maxivisión" tvg-name="GT | Maxivisión" tvg-logo="https://static.wixstatic.com/media/7acae1_ccb27612733c4b5a90b1fcbf30ce7e2a~mv2.png" group-title="GUATEMALA", 650 | Maxivisión || GUATEMALA
 https://stm1.rootuy.xyz:19360/maxivision/maxivision.m3u8
-#EXTINF:-1 tvg-id="GT | Aurora Media Films" tvg-name="GT | Aurora Media Films" tvg-logo="https://static.wixstatic.com/media/7acae1_82b6b5d51d954299bbc7ce7e9d67393d~mv2.png" group-title="GUATEMALA", 650 | Aurora Media Films || GUATEMALA
+#EXTINF:-1 tvg-id="GT | Aurora Media Films" tvg-name="GT | Aurora Media Films" tvg-logo="https://static.wixstatic.com/media/7acae1_82b6b5d51d954299bbc7ce7e9d67393d~mv2.png" group-title="GUATEMALA", 651 | Aurora Media Films || GUATEMALA
 https://cdn.streamhispanatv.net:3398/live/auroramflive.m3u8
-#EXTINF:-1 tvg-id="GT | Nueva Familia TV" tvg-name="GT | Nueva Familia TV" tvg-logo="https://static.wixstatic.com/media/7acae1_74eb30de9b1a4474b86306b8f0b71a55~mv2.png" group-title="GUATEMALA", 651 | Nueva Familia TV || GUATEMALA
-https://cdn.streamhispanatv.net:3057/live/nvafamlive.m3u8
-#EXTINF:-1 tvg-id="GT | Amigos TV" tvg-name="GT | Amigos TV" tvg-logo="https://radiosdeguate.com/image/tv/amigos-tv-chiquimula.png" group-title="GUATEMALA", 652 | Amigos TV || GUATEMALA
+#EXTINF:-1 tvg-id="GT | Canal 38 Fe Viviente" tvg-name="GT | Canal 38 Fe Viviente" tvg-logo="https://pbs.twimg.com/media/Fck9CidXoAIManN?format=png&name=240x240" group-title="GUATEMALA", 652 | Canal 38 Fe Viviente || GUATEMALA
+https://stream.oursnetworktv.com/latin/feVivienteGtm/playlist.m3u8
+#EXTINF:-1 tvg-id="GT | Amigos TV" tvg-name="GT | Amigos TV" tvg-logo="https://radiosdeguate.com/image/tv/amigos-tv-chiquimula.png" group-title="GUATEMALA", 653 | Amigos TV || GUATEMALA
 https://tv91.hostingnuclear.com:19360/amigostv/amigostv.m3u8
-#EXTINF:-1 tvg-id="GT | Canal 13 de Esquipulas" tvg-name="GT | Canal 13 de Esquipulas" tvg-logo="https://radiosdeguate.com/i/tv/canal-13-esquipulas.png" group-title="GUATEMALA", 653 | Canal 13 de Esquipulas || GUATEMALA
+#EXTINF:-1 tvg-id="GT | Canal 13 de Esquipulas" tvg-name="GT | Canal 13 de Esquipulas" tvg-logo="https://radiosdeguate.com/i/tv/canal-13-esquipulas.png" group-title="GUATEMALA", 654 | Canal 13 de Esquipulas || GUATEMALA
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
-#EXTINF:-1 tvg-id="GT | Única TV" tvg-name="GT | Única TV" tvg-logo="https://pbs.twimg.com/media/FU3uz6HWUAAw_fs?format=png&name=small" group-title="GUATEMALA", 654 | Única TV || GUATEMALA
+#EXTINF:-1 tvg-id="GT | Única TV" tvg-name="GT | Única TV" tvg-logo="https://pbs.twimg.com/media/FU3uz6HWUAAw_fs?format=png&name=small" group-title="GUATEMALA", 655 | Única TV || GUATEMALA
 https://cdn.streamhispanatv.net:3642/live/unicatvlive.m3u8
-#EXTINF:-1 tvg-id="GT | Telemax" tvg-name="GT | Telemax" tvg-logo="https://static.wixstatic.com/media/7acae1_5246a327848d4e0f8c39011dd09f0324~mv2.png" group-title="GUATEMALA", 655 | Telemax || GUATEMALA
+#EXTINF:-1 tvg-id="GT | Telemax" tvg-name="GT | Telemax" tvg-logo="https://static.wixstatic.com/media/7acae1_5246a327848d4e0f8c39011dd09f0324~mv2.png" group-title="GUATEMALA", 656 | Telemax || GUATEMALA
 https://cdn.streamhispanatv.net:3824/live/telemaxlive.m3u8
-#EXTINF:-1 tvg-id="GT | Cariñosa TV" tvg-name="GT | Cariñosa TV" tvg-logo="https://static.wixstatic.com/media/7acae1_eb191c99aa9948488be5db82cf03b69b~mv2.png" group-title="GUATEMALA", 656 | Cariñosa TV || GUATEMALA
+#EXTINF:-1 tvg-id="GT | Cariñosa TV" tvg-name="GT | Cariñosa TV" tvg-logo="https://static.wixstatic.com/media/7acae1_eb191c99aa9948488be5db82cf03b69b~mv2.png" group-title="GUATEMALA", 657 | Cariñosa TV || GUATEMALA
 https://cdn.streamhispanatv.net:3110/live/carinosatvlive.m3u8
-#EXTINF:-1 tvg-id="GT | Canal 25 Regional" tvg-name="GT | Canal 25 Regional" tvg-logo="https://play-lh.googleusercontent.com/7ztHD_HAgYKfpaX4S-b3LKlREhXqyVYvO9oXFVK5e9mMVlkVaKcPTxltaCiD7EybyNk=w240-h480-rw" group-title="GUATEMALA", 657 | Canal 25 Regional || GUATEMALA
-http://45.5.117.138:25461/playgt/123456/157
 #EXTINF:-1 tvg-id="GT | Super TV Tuismil" tvg-name="GT | Super TV Tuismil" tvg-logo="https://static.wixstatic.com/media/7acae1_59a88b44a8b844149ffc8b27b1baadda~mv2.png" group-title="GUATEMALA", 658 | Super TV Tuismil || GUATEMALA
-http://45.5.117.138:25461/playgt/123456/158
+https://cdn.streamhispanatv.net:3586/live/tuismillive.m3u8
 #EXTINF:-1 tvg-id="DO | Teleantillas" tvg-name="DO | Teleantillas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/TeleAntillas.jpg/125px-TeleAntillas.jpg" group-title="REPUBLICA DOMINICANA", 659 | Teleantillas || REPUBLICA DOMINICANA
 http://51.81.106.157:8084/hls/tantillas.m3u8
 #EXTINF:-1 tvg-id="DO | Si TV" tvg-name="DO | Si TV" tvg-logo="https://sitv.com.do/wp-content/uploads/2021/10/sitvlogo-1.svg" group-title="REPUBLICA DOMINICANA", 660 | Si TV || REPUBLICA DOMINICANA
