@@ -1322,7 +1322,7 @@ https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
 #EXTINF:-1 tvg-id="GT | Tele Arte" tvg-name="GT | Tele Arte" tvg-logo="https://static.wixstatic.com/media/7acae1_69f083ef9b9b4772890e0a2fc9eddcfc~mv2.png" group-title="GUATEMALA", 634 | Tele Arte || GUATEMALA
 https://cdn.streamhispanatv.net:3771/live/teleartegtlive.m3u8
 #EXTINF:-1 tvg-id="GT | Jacal TV Canal 5" tvg-name="GT | Jacal TV Canal 5" tvg-logo="https://pbs.twimg.com/profile_images/378800000663308662/dd8733c0e8f9208179e7dd7ce7014787_400x400.png" group-title="GUATEMALA", 635 | Jacal TV Canal 5 || GUATEMALA
-https://stream.oursnetworktv.com/latin/jacaltv/playlist.m3u8
+https://stream.oursnetworktv.com:443/latin/jacaltv/playlist.m3u8
 #EXTINF:-1 tvg-id="GT | Canal 100 TV Chinique" tvg-name="GT | Canal 100 TV Chinique" tvg-logo="https://static.wixstatic.com/media/7acae1_17c09e7dae974060a5cf7d0561412dc9~mv2.png" group-title="GUATEMALA", 636 | Canal 100 TV Chinique || GUATEMALA
 https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
 #EXTINF:-1 tvg-id="GT | Canal 23 TV de Mazatenango" tvg-name="GT | Canal 23 TV de Mazatenango" tvg-logo="https://static.wixstatic.com/media/7acae1_6ee0765d79f44b7b98a5db3f260a6cad~mv2.png" group-title="GUATEMALA", 637 | Canal 23 TV de Mazatenango || GUATEMALA
@@ -1336,9 +1336,9 @@ https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1 tvg-id="GT | Playmedios TV" tvg-name="GT | Playmedios TV" tvg-logo="https://static.wixstatic.com/media/7acae1_8cf9f5fa2991439b88ea3847bd682565~mv2.png" group-title="GUATEMALA", 641 | Playmedios TV || GUATEMALA
 http://45.5.117.138:25461/playgt/123456/51
 #EXTINF:-1 tvg-id="GT | Gardenias TV" tvg-name="GT | Gardenias TV" tvg-logo="https://pbs.twimg.com/media/FclALSUXkAE5jNv?format=png&name=120x120" group-title="GUATEMALA", En prueba | Gardenias TV || GUATEMALA
-https://stream.oursnetworktv.com/latin/gardeniasTv/playlist.m3u8
+https://stream.oursnetworktv.com:443/latin/gardeniasTv/playlist.m3u8
 #EXTINF:-1 tvg-id="GT | Canal 46 Cristo TV" tvg-name="GT | Canal 46 Cristo TV" tvg-logo="https://pbs.twimg.com/media/FclBoEHXoAABdOW?format=png&name=small" group-title="GUATEMALA", En prueba | Canal 46 Cristo TV || GUATEMALA
-https://stream.oursnetworktv.com/latin/CristoTV/playlist.m3u8
+https://stream.oursnetworktv.com:443/latin/CristoTV/playlist.m3u8
 #EXTINF:-1 tvg-id="GT | Sur TV" tvg-name="GT | Sur TV" tvg-logo="https://static.wixstatic.com/media/7acae1_43c83483b98d4caf997a9aa66858694c~mv2.png" group-title="GUATEMALA", 642 | Sur TV || GUATEMALA
 https://cdn.streamhispanatv.net:3050/live/surtvlive.m3u8
 #EXTINF:-1 tvg-id="GT | TV TUN" tvg-name="GT | TV TUN" tvg-logo="https://pbs.twimg.com/media/FZwGRtKXgAAznhd?format=png&name=240x240" group-title="GUATEMALA", 643 | TV TUN || GUATEMALA
@@ -1373,6 +1373,7 @@ https://cdn.streamhispanatv.net:3824/live/telemaxlive.m3u8
 https://cdn.streamhispanatv.net:3110/live/carinosatvlive.m3u8
 #EXTINF:-1 tvg-id="GT | Super TV Tuismil" tvg-name="GT | Super TV Tuismil" tvg-logo="https://static.wixstatic.com/media/7acae1_59a88b44a8b844149ffc8b27b1baadda~mv2.png" group-title="GUATEMALA", 658 | Super TV Tuismil || GUATEMALA
 https://cdn.streamhispanatv.net:3586/live/tuismillive.m3u8
+https://vidartv2.todostreaming.es:443/live/radiovida-emisiontvsd.m3u8
 #EXTINF:-1 tvg-id="DO | Teleantillas" tvg-name="DO | Teleantillas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/TeleAntillas.jpg/125px-TeleAntillas.jpg" group-title="REPUBLICA DOMINICANA", 659 | Teleantillas || REPUBLICA DOMINICANA
 http://51.81.106.157:8084/hls/tantillas.m3u8
 #EXTINF:-1 tvg-id="DO | Si TV" tvg-name="DO | Si TV" tvg-logo="https://sitv.com.do/wp-content/uploads/2021/10/sitvlogo-1.svg" group-title="REPUBLICA DOMINICANA", 660 | Si TV || REPUBLICA DOMINICANA
