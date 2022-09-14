@@ -193,12 +193,12 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/CloverCh/40-hls/live-media.m3
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/UNIVERSALCH/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUNIVERSAL_stream_4o&_cdn_session=335214507&_cdn_timestamp=1663226111&_cdn_token=28c9bbdf3d1b2f2526d326869550290faa8d68d1
 #EXTINF:-1 tvg-id="USA | Cinemax" tvg-name="USA | Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="PELICULAS Y SERIES", 95 | Cinemax
 http://190.61.102.67:3000/play/a04a
-#EXTINF:-1 tvg-id="PE | E Cine" tvg-name="PE | E Cine" tvg-logo="https://pbs.twimg.com/media/FSNUAf4X0AI0f0s?format=jpg&name=120x120" group-title="PELICULAS Y SERIES", 96 | E Cine
-http://200.48.184.156:1935/ecine/ecine/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | E Play" tvg-name="PE | E Play" tvg-logo="https://pbs.twimg.com/media/FSNVY30XMAEZsak?format=jpg&name=120x120" group-title="PELICULAS Y SERIES", 97 | E Play
-http://200.48.184.156:1935/eplay/eplay/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Retro" tvg-name="PE | Retro" tvg-logo="https://pbs.twimg.com/media/FSNWMPoWUAAj7gr?format=jpg&name=360x360" group-title="PELICULAS Y SERIES", 98 | Retro
-http://200.48.184.156:1935/eretro/eretro/playlist.m3u8
+#EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", 96 | HBO
+http://190.61.102.67:3000/play/a00h
+#EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="PELICULAS Y SERIES", 97 | HBO Family
+http://190.61.102.67:3000/play/a00k
+#EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 98 | TNT
+http://190.61.102.67:3000/play/a03i
 #EXTINF:-1 tvg-id="USA | Semillitas" tvg-name="USA | Semillitas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Semillitas2011.png/245px-Semillitas2011.png" group-title="INFANTILES", 99 | Semillitas
 http://190.61.102.67:3000/play/a01m
 #EXTINF:-1 tvg-id="CL | Kids 90's TV" tvg-name="CL | Kids 90's TV" tvg-logo="https://i2.paste.pics/4a39976590ab0bd4fe7a0bbbd4411822.png" group-title="INFANTILES", 100 | Kids 90's TV
@@ -265,8 +265,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24Espa%C3%B1ol
 #EXTINF:-1 tvg-id="FR | Euronews" tvg-name="FR | Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/245px-Euronews_2016_logo.svg.png" group-title="NOTICIAS E INFORMACION", 131 | Euronews
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="MX | Canal 10 Noticias" tvg-name="MX | Canal 10 Noticias" tvg-logo="https://s3-us-west-1.amazonaws.com/canal10/Imagenes/Logotipo/Canal10_Oficial2.png" group-title="NOTICIAS E INFORMACION", 132 | Canal 10 Noticias
-https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | Canal N" tvg-name="PE | Canal N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Canal_N_2022.png/150px-Canal_N_2022.png" group-title="NOTICIAS E INFORMACION", 132 | Canal N
+http://onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu7/thjhg3468ihj/7.m3u8
 #EXTINF:-1 tvg-id="MX | Foro TV" tvg-name="MX | Foro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo-ForoTV-2020.png/125px-Logo-ForoTV-2020.png" group-title="NOTICIAS E INFORMACION", 133 | Foro TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
 #EXTINF:-1 tvg-id="AR | Todo Noticias" tvg-name="AR | Todo Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/145px-TN_todo_noticias_logo.svg.png" group-title="NOTICIAS E INFORMACION", 134 | Todo Noticias
@@ -284,7 +284,7 @@ https://live.presstv.ir/live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CH | CGTN Español" tvg-name="CH | CGTN Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/180px-CGTN_Espanol.png" group-title="NOTICIAS E INFORMACION", 140 | CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="CO | Nuestra Tele Noticias 24" tvg-name="CO | Nuestra Tele Noticias 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NTN24_logo.svg/245px-NTN24_logo.svg.png" group-title="NOTICIAS E INFORMACION", 141 | NTN 24
-https://stream-03.sv4.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlx9X7rQCNk0QB9-U1IINLo9fIE70l3lJx9sKHrtRjbpz)/dm/3/x7w4okl/s/live-1.m3u8
+https://stream-04.sv4.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlyHrOr1FnN8-Ja-rxi6xFL7ZzTGSG8Dr2YkiVB2Ooijn)/dm/3/x7w4okl/s/live-1.m3u8
 #EXTINF:-1 tvg-id="ESP | 24 Horas tve" tvg-name="ESP | 24 horas tve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/125px-Logo_TVE-24h.svg.png" group-title="NOTICIAS E INFORMACION", 142 | 24 horas tve
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="CL | CNN Chile" tvg-name="CL | CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/150px-CNN_Chile_logo_2017.svg.png" group-title="NOTICIAS E INFORMACION", 143 | CNN Chile
@@ -344,7 +344,7 @@ https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 #EXTINF:-1 tvg-id="CL | TNT Sports" tvg-name="CL | TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/245px-TNT_Sports_2021_logo.svg.png" group-title="DEPORTES", 170 | TNT Sports
 http://45.160.15.130:8111/play/233
 #EXTINF:-1 tvg-id="HN | Todo Deportes TV" tvg-name="HN | Todo Deportes TV" tvg-logo="https://dd7tel2830j4w.cloudfront.net/f1560359694028x167785582725733730/Group%2012.svg" group-title="DEPORTES", 171 | Todo Deportes TV
-https://5fe2654d6127d.streamlock.net/tododeportesplus/smil:tododeportesplus.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIyIDk6NDk6MDMgQU0maGFzaF92YWx1ZT1WZ3kwRTVrczRHVDJNNjYxeDEwcWdBPT0mdmFsaWRtaW51dGVzPTM2MDAmaWQ9
+https://5ca39be538307.streamlock.net/tododeportesplus/smil:tododeportesplus.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIyIDEyOjQyOjA1IFBNJmhhc2hfdmFsdWU9bmZHVERFNGZoam9ZNG1ydFc3cFdxZz09JnZhbGlkbWludXRlcz0zNjAwJmlkPQ==
 #EXTINF:-1 tvg-id="AR | El Garage TV" tvg-name="AR | El Garage TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS-T1STlbnBP1FvFZIpa4XY9LsYWzX0KuHw72YVeg=s88-c-k-c0x00ffffff-no-rj" group-title="DEPORTES", 172 | El Garage TV
 http://186.0.233.76:1935/Garage/garage.smil/.m3u8
 #EXTINF:-1 tvg-id="ES | Titan Channel" tvg-name="ES | Titan Channel" tvg-logo="https://titanchannel.com/blog/wp-content/uploads/2018/01/LOGO_TITAN_CORREO.png" group-title="DEPORTES", 173 | Titan Channel
@@ -1036,7 +1036,7 @@ https://panel.dattalive.com/8074/8074/playlist.m3u8
 #EXTINF:-1 tvg-id="UY | Canal 4" tvg-name="UY | Canal 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Canal4_uy.png/150px-Canal4_uy.png" group-title="URUGUAY", 499 | Canal 4 || URUGUAY
 http://nv1connect.com:80/live/3546366/773773/91916.m3u8
 #EXTINF:-1 tvg-id="UY | TV Ciudad" tvg-name="UY | TV Ciudad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TVCiudad_logo_2020.png/140px-TVCiudad_logo_2020.png" group-title="URUGUAY", 500 | TV Ciudad || URUGUAY
-https://vxlive.cdn.antel.net.uy/auth_livesignal_474,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNDc0JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2NjMxNzEyMDMmcmFuZG9tPTZyZFJMVWxtMk4mYy1pcD0xODEuMTc2LjEzNi4yNDcsNjE2NDZiMTlhNTczZDk5MzhhNDk2MDU2YTY4ZjgxYzZlNWE5NWY5YTUyOThhNDY4Njg5ZmJhODg3NzQ2NjNlYQ==/vxfmt=hls/playlist.m3u8
+https://vxlive.cdn.antel.net.uy/auth_livesignal_474,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNDc0JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2NjMxODE0NjMmcmFuZG9tPTZicDVjM25jdjYmYy1pcD0xODEuMTc2LjEzNi4yNDcsYmIwODA2NDQ0MmE1ZDJlYWVkNWJhY2ExNGNlYTg5ZTAzZGNiNjg2YTYxNTcyOTYwMWQ2ZjFkMzk0MGJlZmE2NQ==/vxfmt=hls/playlist.m3u8
 #EXTINF:-1 tvg-id="UY | Canal 10" tvg-name="UY | Canal 10" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/2014LogoCanal10.png/revision/latest/scale-to-width-down/200?cb=20220202050124&path-prefix=es" group-title="URUGUAY", 501 | Saeta TV Canal 10 || URUGUAY
 http://nv1connect.com:80/live/3546366/773773/91920.m3u8
 #EXTINF:-1 tvg-id="UY | Teledoce" tvg-name="UY | Teledoce" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/LogoTeledoce2019Azul.png" group-title="URUGUAY", 502 | Teledoce || URUGUAY
@@ -1104,7 +1104,7 @@ https://d3bgcstab9qhdz.cloudfront.net/hls/canal4.m3u8
 #EXTINF:-1 tvg-id="CR | Canal 6" tvg-name="CR | Canal 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Canal6CR.png/150px-Canal6CR.png" group-title="COSTA RICA", 533 | Canal 6 Telecentro || COSTA RICA
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal6.m3u8
 #EXTINF:-1 tvg-id="CR | Teletica Canal 7" tvg-name="CR | Teletica Canal 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Teletica.png/120px-Teletica.png" group-title="COSTA RICA", 534 | Teletica || COSTA RICA
-https://stream-02.sv4.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO577o_k1RReHdIHO7E3i8wSXK_hCO8QRCbCTVmIt80UWV)/dm/3/x29e3wg/d/live-2.m3u8
+https://stream-03.sv4.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5xl6d1wjuLTxyGnZFs-p5j-FoCeiMHUMgKxmsrYuA2TP)/dm/3/x29e3wg/d/live-2.m3u8
 #EXTINF:-1 tvg-id="CR | Canal 8 de Costa Rica" tvg-name="CR | Canal 8 de Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Multi8.png/150px-Multi8.png" group-title="COSTA RICA", 535 | Canal 8 || COSTA RICA
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?uid=C3a7PpdAuZC3sabLt30lYaR3f8eZ4Cmi&sid=2quC4ekWQnoJZeHFhE8blHNWjoZquyAQ&pid=QzfOlvABGmd0T4Aqvnp6zBdfoSC9a9BR&an=screen&at=web-app&av=v5.2.190&ref=https%3A%2F%2Fwww.telediario.cr%2F&res=363x220&without_cookies=false&dnt=true
 #EXTINF:-1 tvg-id="CR | Canal 11" tvg-name="CR | Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/150px-Repretel_11_logo.png" group-title="COSTA RICA", 536 | Canal 11 || COSTA RICA
@@ -1206,9 +1206,9 @@ https://rtmp.info/soltv/envivo/playlist.m3u8
 #EXTINF:-1 tvg-id="SLV | RD Click TV" tvg-name="SLV | RD Click TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSoMCXVxLXziWM9-DaCj8zwCpV9-nCyTcTTRa5Jow=s88-c-k-c0x00ffffff-no-rj" group-title="EL SALVADOR", 580 | RD Click TV || EL SALVADOR
 https://cloudvideo.servers10.com:8081/8064/index.m3u8
 #EXTINF:-1 tvg-id="HN | Telesistema Informativo" tvg-name="HN | Telesistema Informativo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/TSi_logo.png/195px-TSi_logo.png" group-title="HONDURAS", 581 | TSi Canal 3 || HONDURAS
-https://stream-04.sv4.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRGmQHgq4QKJLVxW31eY_N4m7Iqa_VkPdZRLlgowstpfG)/dm/3/x88jdft/s/live-3.m3u8
+https://stream-02.sv4.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRLLjjIeG-M-CcujpbNfFBCCyh1JCEdO5V9p3W_UbKtsz)/dm/3/x88jdft/s/live-3.m3u8
 #EXTINF:-1 tvg-id="HN | Canal 5" tvg-name="HN | Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_5_HN_logo_2019.png/150px-Canal_5_HN_logo_2019.png" group-title="HONDURAS", 582 | Canal 5 El Lider || HONDURAS
-https://stream-04.sv4.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRIFtZilpxjYeacKsUrktp4Dlc8BNTFVdagr7GMHQ_gDM)/dm/3/x88jd1d/s/live-3.m3u8
+https://stream-04.sv4.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRCG6T1KpjEIBUdmGR5Blqukzc3zVWjqMFzj1VGg9WyFG)/dm/3/x88jd1d/s/live-3.m3u8
 #EXTINF:-1 tvg-id="HN | Canal 6 CBC" tvg-name="HN | Canal 6 CBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Canal6.jpg/125px-Canal6.jpg" group-title="HONDURAS", 583 | Canal 6 CBC || HONDURAS
 https://live.canal6.com.hn/Canal6/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="HN | Vica TV" tvg-name="HN | Vica TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/VTV_HN_logo_2019.png/210px-VTV_HN_logo_2019.png" group-title="HONDURAS", 584 | VTV || HONDURAS
