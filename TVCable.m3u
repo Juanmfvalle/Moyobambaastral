@@ -289,6 +289,8 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 https://stream-03.sv4.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl02Lx176Nec5kwqyhDPV6wOqYW2qKr-uCkEUUB3C39-O)/dm/3/x7w4okl/s/live-1.m3u8
 #EXTINF:-1 tvg-id="ESP | 24 Horas tve" tvg-name="ESP | 24 horas tve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/125px-Logo_TVE-24h.svg.png" group-title="NOTICIAS E INFORMACION", 144 | 24 horas tve
 https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg-id="USA | CNN en Español" tvg-name="USA | CNN en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/125px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="NOTICIAS E INFORMACION", En prueba | CNN en Español
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/67.m3u8
 #EXTINF:-1 tvg-id="CL | CNN Chile" tvg-name="CL | CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/150px-CNN_Chile_logo_2017.svg.png" group-title="NOTICIAS E INFORMACION", 145 | CNN Chile
 http://onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu7/thjhg3468ihj/16.m3u8
 #EXTINF:-1 tvg-id="USA | Lifetime" tvg-name="USA | Lifetime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/150px-Logo_Lifetime_2020.svg.png" group-title="MISCELANEO", 146 | Lifetime
@@ -757,10 +759,14 @@ https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
 https://oracle.streaminghd.cl/herconslac/herconslac/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | Canal Capital" tvg-name="CO | Canal Capital" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/135px-2020_Canal_Capital_logo.svg.png" group-title="COLOMBIA", 373 | Canal Capital || COLOMBIA
 https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
-#EXTINF:-1 tvg-id="CO | RCN +" tvg-name="CO | RCN +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/RCN_HD2_2019.png/200px-RCN_HD2_2019.png" group-title="COLOMBIA", 374 | RCN + || COLOMBIA
+#EXTINF:-1 tvg-id="CO | RCN" tvg-name="CO | RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/140px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA", 374 | RCN || COLOMBIA
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/140.m3u8
+#EXTINF:-1 tvg-id="CO | RCN +" tvg-name="CO | RCN +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/RCN_HD2_2019.png/200px-RCN_HD2_2019.png" group-title="COLOMBIA", 374.2 | RCN + || COLOMBIA
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | Canal Caracol" tvg-name="CO | Canal Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="COLOMBIA", 375 | Canal Caracol || COLOMBIA
-http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/62.m3u8
+#EXTINF:-1 tvg-id="CO | Noticias Caracol" tvg-name="CO | Noticias Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Noticias_Caracol_imagotype.svg/150px-Noticias_Caracol_imagotype.svg.png" group-title="COLOMBIA", 375.2 | Noticias Caracol || COLOMBIA
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/NOTICIASCARACOL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNOTICIASCARACOL_stream_93&_cdn_session=338747539&_cdn_timestamp=1663421055&_cdn_token=6d1f098c7f1f09f7e520b8c6d7c25fe2f8c18797
 #EXTINF:-1 tvg-id="CO | Señal Colombia" tvg-name="CO | Señal Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/200px-Se%C3%B1al_Colombia_logo.svg.png" group-title="COLOMBIA", 376 | Señal Colombia || COLOMBIA
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | Canal Institucional" tvg-name="CO | Canal Institucional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Se%C3%B1al_Institucional_logo.svg/140px-Se%C3%B1al_Institucional_logo.svg.png" group-title="COLOMBIA", 377 | Canal Institucional || COLOMBIA
@@ -1495,6 +1501,10 @@ https://vsrv2.az-streamingserver.com:3149/live/alegretvlive.m3u8
 https://vsrv2.az-streamingserver.com:3983/live/larutatvlive.m3u8
 #EXTINF:-1 tvg-id="PR | Boricua TV" tvg-name="PR | Boricua TV" tvg-logo="https://www.boricuatv.net/uploads/8/3/9/1/83918842/published/1468328426.png?1496069545" group-title="PUERTO RICO", 736 | Boricua TV || PUERTO RICO
 https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
+#EXTINF:-1 tvg-id="MX | Azteca Uno" tvg-name="MX | Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Azteca_Uno_logo.webp/245px-Azteca_Uno_logo.webp.png" group-title="MEXICO", En prueba | Azteca Uno || MÉXICO
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/53.m3u8
+#EXTINF:-1 tvg-id="MX | Canal 5" tvg-name="MX | Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/120px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO", En prueba | Canal 5 || MÉXICO
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/60.m3u8
 #EXTINF:-1 tvg-id="MX | Azteca 7" tvg-name="MX | Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/150px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO", 737 | Azteca 7 || MÉXICO
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/54.m3u8
 #EXTINF:-1 tvg-id="MX | Unicable" tvg-name="MX | Unicable" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/100px-Unicable_logo.svg.png" group-title="MEXICO", 738 | Unicable || MÉXICO
@@ -1502,7 +1512,7 @@ http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/173.m3u8
 #EXTINF:-1 tvg-id="MX | N+ Media" tvg-name="MX | N+ Media" tvg-logo="https://www.eleconomista.com.mx/__export/1648521768298/sites/eleconomista/img/2022/03/28/nmas-televisa-univision-cortesia-twitter.png_423392900.png" group-title="MEXICO", 739 | N+ Media || MÉXICO
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_4.m3u8
 #EXTINF:-1 tvg-id="MX | Canal 11" tvg-name="MX | Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_Actual_Canal_Once.png/200px-Logo_Actual_Canal_Once.png" group-title="MEXICO", 740 | Canal 11 || MÉXICO
-https://d24sa4vr9gvjv.cloudfront.net/index_720.m3u8
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/59.m3u8
 #EXTINF:-1 tvg-id="MX | Canal Cultural" tvg-name="MX | Canal Cultural" tvg-logo="https://pbs.twimg.com/media/FXJjLAKWQAA3qfm?format=png&name=small" group-title="MEXICO", 741 | Canal Cultural de Huauchinango; Puebla || MÉXICO
 https://21ed-201-114-106-170.ngrok.io/tmp_hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="USA | UniMás" tvg-name="USA | UniMás" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/200px-Logo_UniM%C3%A1s_2021.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 742 | UniMás || ESTADOS UNIDOS DE AMÉRICA
