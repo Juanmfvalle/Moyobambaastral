@@ -122,7 +122,7 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AZCORAZON/40-hls/live-media.m
 #EXTINF:-1 tvg-id="MX | Tlnovelas" tvg-name="MX | Tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="NOVELAS", 60 | Tlnovelas
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/txn_859t
 #EXTINF:-1 tvg-id="MX | Las Estrellas" tvg-name="MX | Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/180px-Las_Estrellas.svg.png" group-title="INTERNACIONALES", 61 | Las Estrellas
-http://8.243.97.218:2040/play/a0bq/index.m3u8
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/61.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", 62 | Telemundo Internacional
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TELEMUNDO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEMUNDO_stream_fp&_cdn_session=338343867&_cdn_timestamp=1663386257&_cdn_token=2c75aa75d84ed17566524de9abb3374a8a5e8757
 #EXTINF:-1 tvg-id="USA | ID" tvg-name="USA | ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png" group-title="DOCUMENTALES Y SERIES", 63 | Investigation Discovery
@@ -192,13 +192,13 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/CloverCh/40-hls/live-media.m3
 #EXTINF:-1 tvg-id="USA | Universal TV" tvg-name="USA | Universal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/167px-Universal_TV_logo.svg.png" group-title="PELICULAS Y SERIES", 95 | Universal TV
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/UNIVERSALCH/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUNIVERSAL_stream_4o&_cdn_session=338346955&_cdn_timestamp=1663386801&_cdn_token=3fe77c2ca82cb239c73d75cc553239619b5a1bd2
 #EXTINF:-1 tvg-id="USA | Cinemax" tvg-name="USA | Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="PELICULAS Y SERIES", 96 | Cinemax
-http://190.61.102.67:3000/play/a04a
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/66.m3u8
 #EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", 97 | HBO
-http://190.61.102.67:3000/play/a00h
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/118.m3u8
 #EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="PELICULAS Y SERIES", 98 | HBO Family
-http://190.61.102.67:3000/play/a04g
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/120.m3u8
 #EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 99 | TNT
-http://190.61.102.67:3000/play/a01z
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/156.m3u8
 #EXTINF:-1 tvg-id="USA | Semillitas" tvg-name="USA | Semillitas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Semillitas2011.png/245px-Semillitas2011.png" group-title="INFANTILES", 100 | Semillitas
 http://190.61.102.67:3000/play/a01m
 #EXTINF:-1 tvg-id="CL | Kids 90's TV" tvg-name="CL | Kids 90's TV" tvg-logo="https://i2.paste.pics/4a39976590ab0bd4fe7a0bbbd4411822.png" group-title="INFANTILES", 101 | Kids 90's TV
@@ -1523,6 +1523,10 @@ https://vsrv2.az-streamingserver.com:3201/live/streamunotvlive.m3u8
 http://190.61.102.67:3000/play/a04u
 #EXTINF:-1 tvg-id="USA | Tribuna TV" tvg-name="USA | Tribuna TV" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/9f/4c/f9/9f4cf9e4-8bc2-5ddd-e8be-057e688065e5/mzl.ztmkjvqb.jpg/230x0w.webp" group-title="ESTADOS UNIDOS DE AMÉRICA", 745 | Tribuna TV || ESTADOS UNIDOS DE AMÉRICA
 https://cm.hostlagarto.com/TRIBUNA-TV/tribuna.myStream/chunks.m3u8
+#EXTINF:-1 tvg-id="USA | Discovery en Español" tvg-name="USA | Discovery en Español" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Discovery_en_Espa%C3%B1ol_original.png/revision/latest?cb=20100205084500" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | Discovery en Español || ESTADOS UNIDOS DE AMÉRICA
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/72.m3u8
+#EXTINF:-1 tvg-id="USA | Discovery Familia" tvg-name="USA | Discovery Familia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Discovery_Familia_logo_%282%29.svg/245px-Discovery_Familia_logo_%282%29.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | Discovery Familia || ESTADOS UNIDOS DE AMÉRICA
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/73.m3u8
 #EXTINF:-1 tvg-id="ES | TVE" tvg-name="ES | TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/220px-TVE.svg.png" group-title="ESPAÑA", 746 | TVE || ESPAÑA
 http://45.232.210.1:8062/play/a09s/index.m3u8
 #EXTINF:-1 tvg-id="ES | La 1" tvg-name="ES | La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/125px-Logo_TVE-1.svg.png" group-title="ESPAÑA", 747 | La 1 || ESPAÑA
