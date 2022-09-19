@@ -136,7 +136,7 @@ http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/144.m3u8
 #EXTINF:-1 tvg-id="USA | AXN" tvg-name="USA | AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png" group-title="PELICULAS Y SERIES", 66 | AXN
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AXN/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAXN_stream_wo&_cdn_session=341125275&_cdn_timestamp=1663557141&_cdn_token=33579a02235a7a1bb30d158d23deb0f636d32366
 #EXTINF:-1 tvg-id="MX | Azteca Cinema" tvg-name="MX | Azteca Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TV_Azteca_Cinema_logo.svg/200px-TV_Azteca_Cinema_logo.svg.png" group-title="PELICULAS Y SERIES", 67 | Azteca Cinema
-http://bgapp.live/play/tvhd-922.php?id=54&token=blacckghoost&file=.m3u8
+http://gratuita.mrzutv.net:8080/play/_nFsP1LucWDvKgLcHS5HfewmwnRmt3WqVfNHeqWkNbw
 #EXTINF:-1 tvg-id="USA | Cinelife" tvg-name="USA | Cinelife" tvg-logo="https://cinelife.com/wp-content/uploads/2020/04/cinelife_logo.png" group-title="PELICULAS Y SERIES", 68 | Cinelife
 https://magnolia-cinelife.amagi.tv/amRdirect/did=&gdpr=&lat=&lon=&us_privacy=&consent=&dnt=/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Cinecanal" tvg-name="USA | Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/150px-CinecanalLA.png" group-title="PELICULAS Y SERIES", 69 | Cinecanal
@@ -146,7 +146,7 @@ https://servilive.com:3176/live/cineclublive.m3u8
 #EXTINF:-1 tvg-id="PE | Cineastral" tvg-name="PE | Cineastral" tvg-logo="https://pbs.twimg.com/media/FSKSQSAXwAEBxq0?format=jpg&name=360x360" group-title="PELICULAS Y SERIES", 71 | Cineastral || Moyobamba
 https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Paramount Network" tvg-name="USA | Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/150px-Paramount_Network.svg.png" group-title="PELICULAS Y SERIES", 72 | Paramount Network
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PARAMOUNT/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPARAMOUNTCHANNEL_stream_5p&_cdn_session=341125971&_cdn_timestamp=1663557256&_cdn_token=beb2e7fe609b9ce74e9003774dd8289a6a3d953a
+http://gratuita.mrzutv.net:8080/play/_nFsP1LucWDvKgLcHS5HfVKyP-z0FDT_YmpU6h1ZJi4
 #EXTINF:-1 tvg-id="USA | Sony Channel" tvg-name="USA | Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/120px-Sony_Channel_Logo.png" group-title="PELICULAS Y SERIES", 73 | Sony Channel
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/143.m3u8
 #EXTINF:-1 tvg-id="USA | Sony Movies" tvg-name="USA | Sony Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/120px-Sony_Movies_Logo.svg.png" group-title="PELICULAS Y SERIES", 74 | Sony Movies
@@ -219,6 +219,10 @@ http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/120.m3u8
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/128.m3u8
 #EXTINF:-1 tvg-id="USA | HBO Pop" tvg-name="USA | HBO Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/130px-HBO_Pop.svg.png" group-title="PELICULAS Y SERIES", En prueba | HBO Pop
 http://gratuita.mrzutv.net:8080/play/_nFsP1LucWDvKgLcHS5HfRPkj6OX8_U5TxO5jVItEns
+#EXTINF:-1 tvg-id="USA | HBO Mundi" tvg-name="USA | HBO Mundi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/125px-HBO_Mundi.svg.png" group-title="PELICULAS Y SERIES", En prueba | HBO Mundi
+http://gratuita.mrzutv.net:8080/play/_nFsP1LucWDvKgLcHS5HfeQTfAv-Emj2tBKOGKLtR5k
+#EXTINF:-1 tvg-id="USA | HBO Signature" tvg-name="USA | HBO Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/135px-HBO_Signature.svg.png" group-title="PELICULAS Y SERIES", En prueba | HBO Signature
+http://gratuita.mrzutv.net:8080/play/_nFsP1LucWDvKgLcHS5HfZx1GIf8tyDmfJ8susHMvHI
 #EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 100 | TNT
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/156.m3u8
 #EXTINF:-1 tvg-id="USA | TNT Series" tvg-name="USA | TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/94px-TNT_Series_Logo_2016.png" group-title="PELICULAS Y SERIES", En prueba | TNT Series
@@ -330,7 +334,7 @@ http://190.122.96.187:8888/http/006
 #EXTINF:-1 tvg-id="AR | Glitz" tvg-name="AR | Glitz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Glitzlogo.png/150px-Glitzlogo.png" group-title="MISCELANEO", En prueba | Glitz
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/114.m3u8
 #EXTINF:-1 tvg-id="USA | film&arts" tvg-name="USA | film&arts" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Film%26Arts2016.png/200px-Film%26Arts2016.png" group-title="MISCELANEO", 148 | Film & Arts
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FILMSANDARTS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFILMSANDARTS_stream_cb&_cdn_session=341129347&_cdn_timestamp=1663557736&_cdn_token=109b7b1cd9312d85d6d62c5c29c2ccf5763641d3
+http://gratuita.mrzutv.net:8080/play/_nFsP1LucWDvKgLcHS5Hfd5dqZHAmFTyubRHo8QU52s
 #EXTINF:-1 tvg-id="USA | Más Chic" tvg-name="USA | Más Chic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/125px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" group-title="ESTILOS DE VIDA", 149 | Más Chic
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/MASCHIC/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DMASCHIC_stream_pl&_cdn_session=341129499&_cdn_timestamp=1663557759&_cdn_token=9277894f5974deecbe8fadafa276968224fb701f
 #EXTINF:-1 tvg-id="USA | HGTV" tvg-name="USA | HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/200px-HGTV_US_Logo_2015.svg.png" group-title="ESTILOS DE VIDA", 150 | HGTV
