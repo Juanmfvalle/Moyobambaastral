@@ -231,8 +231,14 @@ http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/156.m3u8
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/157.m3u8
 #EXTINF:-1 tvg-id="MX | Cine Latino" tvg-name="MX | Cine Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cine_Latino_logo.svg/150px-Cine_Latino_logo.svg.png" group-title="PELICULAS Y SERIES", 101 | Cine Latino
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/65.m3u8
+#EXTINF:-1 tvg-id="MX | Golden" tvg-name="MX | Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/245px-Canal_Golden_logo.svg.png" group-title="PELICULAS Y SERIES", En prueba | Golden
+http://gratuita.mrzutv.net:8080/play/_nFsP1LucWDvKgLcHS5HfcaS7m1pEi4hGpBkds7e5Xw
+#EXTINF:-1 tvg-id="MX | Golden Edge" tvg-name="MX | Golden Edge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/210px-Golden_Edge_Logo_2020.png" group-title="PELICULAS Y SERIES", En prueba | Golden Edge
+http://gratuita.mrzutv.net:8080/play/_nFsP1LucWDvKgLcHS5HfTL4TnT2mHDpKH9f6bOVIjc
 #EXTINF:-1 tvg-id="MX | Golden Plus" tvg-name="MX | Golden Plus" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus-mediano.png" group-title="PELICULAS Y SERIES", En prueba | Golden Plus
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/117.m3u8
+#EXTINF:-1 tvg-id="MX | Golden Premier" tvg-name="MX | Golden Premier" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_premier-mediano.png" group-title="PELICULAS Y SERIES", En prueba | Golden Premier
+http://gratuita.mrzutv.net:8080/play/_nFsP1LucWDvKgLcHS5HfWQqP0ZaZedQauRrb_SWF4c
 #EXTINF:-1 tvg-id="CL | Kids 90's TV" tvg-name="CL | Kids 90's TV" tvg-logo="https://i2.paste.pics/4a39976590ab0bd4fe7a0bbbd4411822.png" group-title="INFANTILES", 102 | Kids 90's TV
 https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="USA | ZooMoo" tvg-name="USA | ZooMoo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/120px-ZooMoo_logo.svg.png" group-title="INFANTILES", 103 | ZooMoo
@@ -417,6 +423,12 @@ https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?Playlist
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/MTV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DMTV_stream_3f&_cdn_session=341131355&_cdn_timestamp=1663558056&_cdn_token=a63dd142a136071d2e7dfebc9125db172917514c
 #EXTINF:-1 tvg-id="USA | MTV 80s" tvg-name="USA | MTV 80s" tvg-logo="https://cdn.sincroguia.tv/uploads/images/5/4/z/xmtv-80.jpg.pagespeed.ic.iXMVwGV__4.jpg" group-title="MUSICA Y REALITIES", En prueba | MTV 80s
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/177.m3u8
+#EXTINF:-1 tvg-id="USA | MTV 00s" tvg-name="USA | MTV 00s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="MUSICA Y REALITIES", En prueba | MTV 00s
+http://gratuita.mrzutv.net:8080/play/_nFsP1LucWDvKgLcHS5HfeYFW4_a92frpVGcyrz6XSM
+#EXTINF:-1 tvg-id="USA | MTV Hits" tvg-name="USA | MTV Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/100px-MTV_Hits_2017_logo.svg.png" group-title="MUSICA Y REALITIES", En prueba | MTV Hits
+http://gratuita.mrzutv.net:8080/play/_nFsP1LucWDvKgLcHS5HfUYkRp7umwuLu_q7g1UP86M
+#EXTINF:-1 tvg-id="USA | MTV Live" tvg-name="USA | MTV Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/125px-MTV_Live_2021_logo.svg.png" group-title="MUSICA Y REALITIES", En prueba | MTV Live
+http://gratuita.mrzutv.net:8080/play/_nFsP1LucWDvKgLcHS5Hfa9c8XZH68ejUSlpV7V0EOM
 #EXTINF:-1 tvg-id="MX | Teleritmo" tvg-name="MX | Teleritmo" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleritmo-mx.png" group-title="MUSICA Y REALITIES", 187 | Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq&sid=H35JGFJtTorKu8yyo7nztAy4KIUVgJkx&pid=uf6dMZlhGP30u0KO5TmWpO8utXYJqOKN&an=screen&at=web-app&av=v5.2.278&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=774x387&without_cookies=false&listenerid=&dnt=true
 #EXTINF:-1 tvg-id="CL | Old Music TV" tvg-name="CL | Old Music TV" tvg-logo="https://pbs.twimg.com/media/FSimCx8X0AI_8QI?format=png&name=small" group-title="MUSICA Y REALITIES", 188 | Old Music Televisión
