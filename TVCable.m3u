@@ -152,11 +152,11 @@ http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/143.m3u8
 #EXTINF:-1 tvg-id="USA | Sony Movies" tvg-name="USA | Sony Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/120px-Sony_Movies_Logo.svg.png" group-title="PELICULAS Y SERIES", 74 | Sony Movies
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/SONYMOVIES/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONYMOVIES_stream_tj&_cdn_session=341126035&_cdn_timestamp=1663557262&_cdn_token=e1f8c6429b3dcb6e59ff164bf6b26200e3d879ef
 #EXTINF:-1 tvg-id="CL | MX Family" tvg-name="CL | MX Family" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FAMILY-FONDO-2-300x169.jpg" group-title="PELICULAS Y SERIES", 75 | MX Family
-https://marine2.miplay.cl/mxfamily/playlist.m3u8
+http://190.108.83.142:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="CL | MX Classic" tvg-name="CL | MX Classic" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-CLASIC-FONDO-2-300x169.jpg" group-title="PELICULAS Y SERIES", 76 | MX Classic
-https://marine2.miplay.cl/mxclassic/playlist.m3u8
+http://190.108.83.142:8000/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="CL | MX Prime" tvg-name="CL | MX Prime" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FONDO-2-300x169.jpg" group-title="PELICULAS Y SERIES", 77 | MX Prime
-https://marine2.miplay.cl/mxprime/playlist.m3u8
+http://190.108.83.142:8000/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="CL | Old" tvg-name="CL | Old" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/OLD-FONDO-2-300x169.jpg" group-title="PELICULAS Y SERIES", 78 | Old
 https://marine2.miplay.cl/old/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | De Película" tvg-name="MX | De Película" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/250px-DPel%C3%ADcula_2021.svg.png" group-title="PELICULAS Y SERIES", 79 | De Película
