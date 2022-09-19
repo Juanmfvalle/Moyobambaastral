@@ -161,6 +161,10 @@ http://190.108.83.142:8000/play/a005/index.m3u8
 https://marine2.miplay.cl/old/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | De Película" tvg-name="MX | De Película" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/250px-DPel%C3%ADcula_2021.svg.png" group-title="PELICULAS Y SERIES", 79 | De Película
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/69.m3u8
+#EXTINF:-1 tvg-id="MX | De Película Plus" tvg-name="MX | De Película Plus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/DPel%C3%ADcula_Plus_2021.png/revision/latest/scale-to-width-down/175?cb=20210129162928&path-prefix=es" group-title="PELICULAS Y SERIES", En prueba | De Película Plus
+http://gratuita.mrzutv.net:8080/play/_nFsP1LucWDvKgLcHS5HfRtdOjlCp8sruZRRL0gjwa8
+#EXTINF:-1 tvg-id="USA | De Película Clásico" tvg-name="USA | De Película Clásico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/De_Pel%C3%ADcula_Cl%C3%A1sico.png/150px-De_Pel%C3%ADcula_Cl%C3%A1sico.png" group-title="PELICULAS Y SERIES", En prueba | De Película Clásico
+http://gratuita.mrzutv.net:8080/play/_nFsP1LucWDvKgLcHS5HfWoKki15zQWOBIng-dVHkAs
 #EXTINF:-1 tvg-id="CL | Retro Plus 3 TV" tvg-name="CL | Retro Plus 3 TV" tvg-logo="https://pbs.twimg.com/media/FXfp5PNWAAI0YGt?format=png&name=small" group-title="PELICULAS Y SERIES", 80 | Retro Plus 3 TV
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | TCM" tvg-name="USA | TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/120px-TCM_Latam_logo.svg.png" group-title="PELICULAS Y SERIES", En prueba | TCM
@@ -210,7 +214,7 @@ http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/66.m3u8
 #EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", 98 | HBO
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/118.m3u8
 #EXTINF:-1 tvg-id="USA | HBO 2" tvg-name="USA | HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" group-title="PELICULAS Y SERIES", En prueba | HBO 2
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/119.m3u8
+http://gratuita.mrzutv.net:8080/play/_nFsP1LucWDvKgLcHS5HfYz-RD9wvYFp_dfMrMSH41c
 #EXTINF:-1 tvg-id="USA | HBO+" tvg-name="USA | HBO +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/125px-Logohboplus2019.svg.png" group-title="PELICULAS Y SERIES", En prueba | HBO +
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/121.m3u8
 #EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="PELICULAS Y SERIES", 99 | HBO Family
@@ -244,7 +248,7 @@ http://190.108.83.142:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="UY | Latino Kids" tvg-name="UY | Latino Kids" tvg-logo="https://graph.facebook.com/LatinoKidsTvUruguay/picture?width=300&height=300" group-title="INFANTILES", 107 | Latino Kids TV
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Cartoon Network" tvg-name="USA | Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/150px-Cartoon_Network_2010_logo.svg.png" group-title="INFANTILES", 108 | Cartoon Network
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+http://gratuita.mrzutv.net:8080/play/_nFsP1LucWDvKgLcHS5HfXQRZuRVFcVJnGdi7-HGw5o
 #EXTINF:-1 tvg-id="USA | Cartoonito" tvg-name="USA | Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/259px-Cartoonito_-_Logo_2021.svg.png" group-title="INFANTILES", En prueba | Cartoonito
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/58.m3u8
 #EXTINF:-1 tvg-id="USA | Tooncast" tvg-name="USA | Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/200px-Tooncast_logo.svg.png" group-title="INFANTILES", 109 | Tooncast
@@ -253,22 +257,26 @@ http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/158.m3u8
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistASTRAL
 #EXTINF:-1 tvg-id="USA | Toon Goggles" tvg-name="USA | Toon Goggles" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/Toon_Goggles_logo.png/220px-Toon_Goggles_logo.png" group-title="INFANTILES", 111 | Toon Goggles TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
+#EXTINF:-1 tvg-id="USA | BabyTV" tvg-name="USA | BabyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Babytvv.png/200px-Babytvv.png" group-title="INFANTILES", En prueba | BabyTV
+http://gratuita.mrzutv.net:8080/play/_nFsP1LucWDvKgLcHS5HfViozbVA4AcZGdtoI1MfJ04
 #EXTINF:-1 tvg-id="PA | Dreiko TV" tvg-name="PA | Dreiko TV" tvg-logo="https://dreikotv.online/wp-content/uploads/2021/09/logotipo_dreikotv-1024x224-1.png" group-title="INFANTILES", 112 | Dreiko TV
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/chunklist_w2067673743.m3u8
 #EXTINF:-1 tvg-id="USA | Discovery Kids" tvg-name="USA | Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/125px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="INFANTILES", 113 | Discovery Kids
-http://bgapp.live/play/tvhd-922.php?id=117&token=blacckghoost&file=.m3u8
+http://gratuita.mrzutv.net:8080/play/_nFsP1LucWDvKgLcHS5HfbZhtEaAkc1wybhNuiWUFVI
 #EXTINF:-1 tvg-id="PA | Lego Toons" tvg-name="PA | Lego Toons" tvg-logo="https://i.imgur.com/0ksEr4f.png" group-title="INFANTILES", 114 | Lego Toons
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Disney Channel" tvg-name="USA | Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/170px-2019_Disney_Channel_logo.svg.png" group-title="INFANTILES", 115 | Disney Channel
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISNEYCHANNEL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISNEYCHANNEL_stream_0w&_cdn_session=341128187&_cdn_timestamp=1663557578&_cdn_token=b8b42777750b36ec5546267dc8ce372fef729f60
+http://gratuita.mrzutv.net:8080/play/_nFsP1LucWDvKgLcHS5HfaUvddMahqksdLalMabHSVU
 #EXTINF:-1 tvg-id="USA | Disney Junior" tvg-name="USA | Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Disney_Junior_logo.svg/200px-Disney_Junior_logo.svg.png" group-title="INFANTILES", 116 | Disney Junior
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISNEYJR/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISNEYJUNIOR_stream_ec&_cdn_session=341128987&_cdn_timestamp=1663557680&_cdn_token=849411633b2331ca87042159fe73a69bd6d5a99d
+http://gratuita.mrzutv.net:8080/play/_nFsP1LucWDvKgLcHS5HfQTWXniWVmpCB8IN513E53o
 #EXTINF:-1 tvg-id="PE | Identidad Peruana" tvg-name="PE | Identidad Peruana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/190px-Identidad_Peruana_ipe_2020.png" group-title="INFANTILES", 117 | IPE Televisión
 http://190.108.83.142:8000/play/a00k/index.m3u8
 #EXTINF:-1 tvg-id="USA | Nickelodeon" tvg-name="USA | Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/245px-Nickelodeon_2009_logo.svg.png" group-title="INFANTILES", 118 | Nickelodeon
 http://190.108.83.142:8000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="USA | Nick Jr." tvg-name="USA | Nick Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/250px-Nick_Jr._logo_2009.svg.png" group-title="INFANTILES", 119 | Nick Jr.
 http://190.108.83.142:8000/play/a00u/index.m3u8
+#EXTINF:-1 tvg-id="USA | TeenNick" tvg-name="USA | TeenNick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/245px-TeenNick_2019_logo.svg.png" group-title="INFANTILES", En prueba | TeenNick
+http://gratuita.mrzutv.net:8080/play/_nFsP1LucWDvKgLcHS5HfRX3Zz1SK7sJZcxh9RKCne0
 #EXTINF:-1 tvg-id="SK | Duck TV" tvg-name="SK | Duck TV" tvg-logo="https://www.ducktv.tv/wp-content/uploads/2019/07/ducktv-logo.svg" group-title="INFANTILES", 120 | Duck TV
 https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee512f.m3u8
 #EXTINF:-1 tvg-id="AR | Pakapaka" tvg-name="AR | Pakapaka" tvg-logo="http://www.pakapaka.gob.ar/img/botones/logo-pakapaka-2.png" group-title="INFANTILES", 121 | Pakapaka
