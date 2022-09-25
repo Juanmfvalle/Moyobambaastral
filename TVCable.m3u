@@ -1162,7 +1162,7 @@ http://tv.dominiotv.xyz:25461/live/cliente212a/jdkdowjnd/87519.m3u8
 #EXTINF:-1 tvg-id="PA | TVMax" tvg-name="PA | TVMax" tvg-logo="https://img.streann.com/upload2/1625867182282.png?quality=65&width=256&optimize=high&auto=webp" group-title="PANAMÁ", 533 | TVMax || PANAMÁ
 http://45.71.200.254:8000/play/a05d/index.m3u8
 #EXTINF:-1 tvg-id="PA | SERTV" tvg-name="PA | SERTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Log_sertv-80-retina.png/150px-Log_sertv-80-retina.png" group-title="PANAMÁ", 534 | SERTV || PANAMÁ
-http://45.71.200.254:8000/play/a05a/index.m3u8
+http://45.236.28.72:8000/play/a0hh/index.m3u8
 #EXTINF:-1 tvg-id="PA | Telemetro" tvg-name="PA | Telemetro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/150px-Logo-telemetro.svg.png" group-title="PANAMÁ", 535 | Telemetro || PANAMÁ
 http://45.71.200.254:8000/play/a049/index.m3u8
 #EXTINF:-1 tvg-id="PA | Mas 23" tvg-name="PA | Mas 23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/M%C3%A1s_23.png/132px-M%C3%A1s_23.png" group-title="PANAMÁ", 536 | Mas 23 || PANAMÁ
@@ -1239,8 +1239,10 @@ http://nicatv.rylco.com:8075/channel22/playlist.m3u8
 http://nicatv.rylco.com:8075/channel23/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | TV One" tvg-name="NI | TV One" tvg-logo="https://tvonenicaragua.com/wp-content/uploads/2020/02/logo-central-correcto2.png" group-title="NICARAGUA", 572 | TV One || NICARAGUA
 https://srv.panelcast.net/tvoneni/tvoneni/playlist.m3u8
+#EXTINF:-1 tvg-id="NI | Nicarao TV Canal 51" tvg-name="NI | Nicarao TV Canal 51" tvg-logo="https://pbs.twimg.com/media/FdeItS5XwAI_QQf?format=png&name=small" group-title="NICARAGUA", En prueba | Nicarao TV Canal 51 || NICARAGUA
+http://45.71.200.254:8000/play/a04c/index.m3u8
 #EXTINF:-1 tvg-id="NI | Yes TV" tvg-name="NI | Yes TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLROnrZCI5VnoF_aU_h4znfefMJCbBFaq93S_hMR=s900-c-k-c0x00ffffff-no-rj" group-title="NICARAGUA", 573 | Yes TV || NICARAGUA
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/canalyestv
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CpgFRLDG34EYJETCwS38wk7grfwo_07bGkyb0br2_fi8MeVRy1n-Vmy1lR6c1eYl5GcuUTeoziD5Cc571SfFhuQLJ7SNHHsvxaKDDSeav_M3oTOz9HEvZZnnqMhxkB-oDCKflmf98TmK9PEpf-92sqzPk91ybeX75AbPRMD8Dq6n4GB5Kc-7YHiSt99SMI4J5uy-Qhny57W4xxOEmtZDu7SXd2A67dEYVc_zGDnKI3c7oQndiV27Qlf1kEK5QkKdMS9-NoVv9JRuDsCNLq2C3RGKG8-O9Kj2a6dkejL9rZknuorwTwVN7YRK5-t7T4CHhf-JU1SZSk469ShMaHEvTf-0owHjWpeIoxzyqIMb8Q46GIo4-fBxtbi2f8b5JwMuUXXw3IoQnAReHa2VHGDQxb6XnZWF4orDpGKwb4pppwsCbdo7U9vHfiKvTnMBQeiabRHUFRPT9Sx0SvPsQ0HgEkSOoSzEEHn9GR3N7kJfVVBh0deNIgNAI2bxLzyvmBFnbpJZz-crDvL9EtR8cqLAMaUcGacw_kHafeNeVCCpxipU82Wgl8sADnYXCq00XH13Kq0SBotq2BwEeqfzlChqzYtMcpIirgBZw527ycVPDg_PvlxEsCZ3thaWRL6a5TDB2o6NDLYsjzoibvLTp_7I_H6WXZYXvQ5DYBbjOlzb_zgMdmse4HE0SXEqln22DE8_YGFgFIjzwy_hEAOq6RkzZ3MR-rgwmGyA8sHB5TVNcFslvd8F06FjWLSP1VFqZlmT3IDFLYDXWy2We7tsAvw5EIFWAeHm8J1ZJ5SwlVvMk7FyPJuDW7L5F88lwiMAN5a_S8_78ncKIL6jM3332HOPVCmHoQLg7pthbHVtCDD8U5k-zFM920vcGQn_jxoM12duJSBrg0hmTbNFIAEqCXVzLWVhc3QtMTCWAw.m3u8
 #EXTINF:-1 tvg-id="SLV | TV-2" tvg-name="SLV | TV-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/TCS_2_2016.png/150px-TCS_2_2016.png" group-title="EL SALVADOR", 574 | TV-2 || EL SALVADOR
 https://telecorporacion.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/live-video=2000000-audio_0=64000.m3u8
 #EXTINF:-1 tvg-id="SLV | Canal 4" tvg-name="SLV | Canal 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/245px-Canal_4_TCS.png" group-title="EL SALVADOR", 575 | Canal 4 || EL SALVADOR
@@ -1251,6 +1253,8 @@ https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c
 https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CpYFc5RwOtDH5BIgRCb0Wu7wkFeT4tKvNrK4NydjnDAch3Yy2Kx2LMptWth3vjOjztS9hOx-ffJfjb9rmYuwhha6BgerEAmPkz6eXtptfuZfYrohrsrRN8hF3nLgRUc_cBjYo47n0B-_Av_-bUr5NKkK5mj5ufDtlHrIcLqZf4D-H5d7jBg-U0vE4nZQsXlARRS-mmt24_RzhgK-LD4H-p_a_9fMD2d-xG3KeVawtb8mF_uf9sNdFuinIjH6jLZZ11ZDTjnC7ClVUmKrx9HrNq4q_keEnqjMRGqlZcBl7PYqPFoKMY3mFi7njRiDtqP6-c1sg-5l1MYA2D8OdXc1TwbChuC7mE6hxqQhme5QxEoZGlvYtIqLRF2bDYFcjgneYxU4ebcPddWato0Hsygas8siOt3hPutUV7LpulEmmOIwK1bRrxi-FnBiZ1WgLfsHNBNe02xIB7hdWQXhfknnjkx52mmxfuy5DJEmn0Z788YGOF1l3smYA_ZTSEgWUyXvR79TJ6jSTBEtWXT9xxpnSarWM6D7vCThsn_gmA0PzMr_jXS2ei1xN2flUk7n_17bDhVT9cFbeWJRUnPZVJSwgi8-nHCHXPkUmzTiyWOWUa2YmISPEEn88Mo72_CCFZKLasegHoURFmJEPJbPgDquf0ZQl7es64uCs76J_N9YE4SgUaDH-xnQ5L4WvhGXgHXCTSGYqeFrV0qUz-uoZMUh5dU0pu9vAfzIF3yYF1-SUJamnxgth2UiO59G1GcAKaAwnUv1EfyvUfXLP0ubaRzP7FsK_3Z17Zh933O9rrCAvjap6wZjvRnNDbM4iKYq6cHVZh7K57LBk-Dtu9Fs6Mol1P92kmbbyZIakhz4gjGHdq07mAKSFGYWOdMaDHwfz9Lj-OYiARREbyABKgl1cy1lYXN0LTEwlgM.m3u8
 #EXTINF:-1 tvg-id="SLV | Asamblea Legislativa TV" tvg-name="SLV | Asamblea Legislativa TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/9TV_El_Salvador_%282018%29.png/revision/latest/scale-to-width-down/300?cb=20191116000236" group-title="EL SALVADOR", 578 | TV Legislativa || EL SALVADOR
 https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
+#EXTINF:-1 tvg-id="SLV | Canal 10 TV" tvg-name="SLV | Canal 10 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Canal_10_%28El_Salvador%29_2019.svg/200px-Canal_10_%28El_Salvador%29_2019.svg.png" group-title="EL SALVADOR", En prueba | Canal 10 || EL SALVADOR
+http://45.236.28.72:8000/play/a0i1/index.m3u8
 #EXTINF:-1 tvg-id="SLV | Canal 11 TUTV" tvg-name="SLV | Canal 11 TUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/TUTV_11_2014.png/150px-TUTV_11_2014.png" group-title="EL SALVADOR", 579 | Canal 11 TUTV || EL SALVADOR
 https://streaming.grupocsanetwork.net:1936/canal11/canal11/playlist.m3u8
 #EXTINF:-1 tvg-id="SLV | Canal 12" tvg-name="SLV | Canal 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Canal_12_El_Salvador_2018.png/150px-Canal_12_El_Salvador_2018.png" group-title="EL SALVADOR", 580 | Canal 12 || EL SALVADOR
@@ -1600,7 +1604,7 @@ http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/72.m3u8
 #EXTINF:-1 tvg-id="USA | Estrella TV" tvg-name="USA | Estrella TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | Estrella TV || ESTADOS UNIDOS DE AMÉRICA
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/94.m3u8
 #EXTINF:-1 tvg-id="ES | TVE" tvg-name="ES | TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/220px-TVE.svg.png" group-title="ESPAÑA", 746 | TVE || ESPAÑA
-http://45.236.28.72:8000/play/a0hz/index.m3u8
+http://45.160.12.253:8000/play/153
 #EXTINF:-1 tvg-id="ES | La 1" tvg-name="ES | La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/125px-Logo_TVE-1.svg.png" group-title="ESPAÑA", 747 | La 1 || ESPAÑA
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-id="ES | La 2" tvg-name="ES | La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/800px-Logo_TVE-2.svg.png" group-title="ESPAÑA", 748 | La 2 || ESPAÑA
