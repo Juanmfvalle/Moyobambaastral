@@ -269,7 +269,7 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DISCKIDS/40-hls/live-media.m3
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Disney Channel" tvg-name="USA | Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/170px-2019_Disney_Channel_logo.svg.png" group-title="INFANTILES", 128 | Disney Channel
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DISNEYCHANNEL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISNEYCHANNEL_stream_0w&_cdn_session=359889379&_cdn_timestamp=1664866067&_cdn_token=8dbad35da323c4c1032882d56b630ef92f5378e5
-#EXTINF:-1 tvg-id="USA | Disney Junior" tvg-name="USA | Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Disney_Junior_logo.svg/200px-Disney_Junior_logo.svg.png" group-title="INFANTILES", 129 | Disney Junior
+#EXTINF:-1 tvg-id="USA | Disney Junior" tvg-name="USA | Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Disney_Junior_logo.png/200px-Disney_Junior_logo.png" group-title="INFANTILES", 129 | Disney Junior
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/DISNEYJR/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISNEYJUNIOR_stream_ec&_cdn_session=359889483&_cdn_timestamp=1664866082&_cdn_token=33718b028d5f6cefb329067f6b679acf3bc47dc9
 #EXTINF:-1 tvg-id="PE | Identidad Peruana" tvg-name="PE | Identidad Peruana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/190px-Identidad_Peruana_ipe_2020.png" group-title="INFANTILES", 130 | IPE Televisión
 http://190.108.83.142:8000/play/a00k/index.m3u8
@@ -1355,6 +1355,8 @@ https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
 https://emisoras.hn:8081/tvcopan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HN | Teleprogreso" tvg-name="HN | Teleprogreso" tvg-logo="https://www.teleprogreso.tv/wp-content/uploads/2019/09/logo-tp-header.jpg" group-title="HONDURAS", En prueba | Teleprogreso || HONDURAS
 https://stmv1.zcastbr.com/teleprogreso/teleprogreso/playlist.m3u8
+#EXTINF:-1 tvg-id="HN | VS Channel" tvg-name="HN | VS Channel" tvg-logo="https://play-lh.googleusercontent.com/EreEURApvbzEKq6vbjtv0ZlaSpNknn1rGa6PP2FtCs6QLioZA2gsCCyUfvBLL5tkeA=w240-h480-rw" group-title="HONDURAS", En prueba | VS Channel || HONDURAS
+http://190.124.160.164:8081/vschannel/123/chunks.m3u8?nimblesessionid=6302718
 #EXTINF:-1 tvg-id="USA | Sercano TV" tvg-name="USA | Sercano TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/Sercano-TV-en-vivo-Online-100x70.png" group-title="NOTICIAS E INFORMACION", 654 | Servicio Centroamericano de Noticias
 http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/chunklist_w1521447717_b1248000.m3u8
 #EXTINF:-1 tvg-id="GT | Canal 3" tvg-name="GT | Canal 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Canal3.png/200px-Canal3.png" group-title="GUATEMALA", 655 | Canal 3 el super canal || GUATEMALA
