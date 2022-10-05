@@ -61,6 +61,8 @@ https://live.obslivestream.com/norselvatv/index.m3u8
 https://stream.plixitv.live/westv/westv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | California TV" tvg-name="PE | California TV" tvg-logo="https://play-lh.googleusercontent.com/j7Z_mZYKpqbvJ_vvMoJ7qLgsJJmGO_Y8UKif6UOGllo-FpyJUbfqJz11tTKlPp5O2Jc=w1024-h500" group-title="PROVINCIALES", 29 | California TV || Nueva Cajamarca
 http://200.48.184.156:1935/californiatv/californiatv/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | Solnet TV" tvg-name="PE | Solnet TV" tvg-logo="https://solnetv.com/wp-content/uploads/2022/06/logo2.png" group-title="PROVINCIALES", En prueba | Solnet TV || Nueva Cajamarca
+https://live.obslivestream.com/solnet/index.m3u8
 #EXTINF:-1 tvg-id="PE | Antares TV Tarapoto" tvg-name="PE | Antares TV Tarapoto" tvg-logo="https://www.coolstreaming.us/img/ch/image88527916465.jpg" group-title="PROVINCIALES", 30 | Antares Televisión || Tarapoto
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | TV Tarapoto" tvg-name="PE | TV Tarapoto" tvg-logo="https://www.televisiontarapoto.pe/wp-content/uploads/2019/05/logo_tv_tarapoto.png" group-title="PROVINCIALES", 31 | Televisión Tarapoto || Tarapoto
@@ -391,18 +393,18 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/40-hls/live-media.m
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPNMAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPNMAS2_stream_l4&_cdn_session=369735419&_cdn_timestamp=1665354020&_cdn_token=db4d4758e8b921067cea998032b821f752961945
 #EXTINF:-1 tvg-id="MX | Claro Sports" tvg-name="MX | Claro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/150px-Claro_Sports_logo.svg.png" group-title="DEPORTES", 189 | Claro Sports
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
-#EXTINF:-1 tvg-id="MX | TVC Deportes" tvg-name="MX | TVC Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/TVCDeportes.png" group-title="DEPORTES", 190 | TVC Deportes
+#EXTINF:-1 tvg-id="MX | Claro Sports 2" tvg-name="MX | Claro Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest/scale-to-width-down/250?cb=20210423191014&path-prefix=es" group-title="DEPORTES", 190 | Claro Sports 2
+http://45.236.28.72:8000/play/a0c1/index.m3u8
+#EXTINF:-1 tvg-id="MX | TVC Deportes" tvg-name="MX | TVC Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/TVCDeportes.png" group-title="DEPORTES", 191 | TVC Deportes
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/162.m3u8
-#EXTINF:-1 tvg-id="USA | GolTV" tvg-name="USA | GolTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/245px-GolTV_logo.svg.png" group-title="DEPORTES", 191 | GolTV
+#EXTINF:-1 tvg-id="USA | GolTV" tvg-name="USA | GolTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/245px-GolTV_logo.svg.png" group-title="DEPORTES", 192 | GolTV
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/115.m3u8
-#EXTINF:-1 tvg-id="USA | BeIN Sports Ñ" tvg-name="USA | BeIN Sports Ñ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/BeIN_Sports_En_Espa%C3%B1ol.png/200px-BeIN_Sports_En_Espa%C3%B1ol.png" group-title="DEPORTES", 192 | BeIN Sports Ñ
+#EXTINF:-1 tvg-id="USA | BeIN Sports Ñ" tvg-name="USA | BeIN Sports Ñ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/BeIN_Sports_En_Espa%C3%B1ol.png/200px-BeIN_Sports_En_Espa%C3%B1ol.png" group-title="DEPORTES", 193 | BeIN Sports Ñ
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/56.m3u8
-#EXTINF:-1 tvg-id="HN | Todo Deportes TV" tvg-name="HN | Todo Deportes TV" tvg-logo="https://dd7tel2830j4w.cloudfront.net/f1560359694028x167785582725733730/Group%2012.svg" group-title="DEPORTES", 193 | Todo Deportes TV
+#EXTINF:-1 tvg-id="HN | Todo Deportes TV" tvg-name="HN | Todo Deportes TV" tvg-logo="https://dd7tel2830j4w.cloudfront.net/f1560359694028x167785582725733730/Group%2012.svg" group-title="DEPORTES", 194 | Todo Deportes TV
 https://5fe2654d6127d.streamlock.net/tododeportesplus/smil:tododeportesplus.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDIyIDEwOjMyOjUwIFBNJmhhc2hfdmFsdWU9ZGpLRzJHRWF4R1BNSW9UcjluZzZVZz09JnZhbGlkbWludXRlcz0zNjAwJmlkPQ==
-#EXTINF:-1 tvg-id="AR | El Garage TV" tvg-name="AR | El Garage TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS-T1STlbnBP1FvFZIpa4XY9LsYWzX0KuHw72YVeg=s88-c-k-c0x00ffffff-no-rj" group-title="DEPORTES", 194 | El Garage TV
+#EXTINF:-1 tvg-id="AR | El Garage TV" tvg-name="AR | El Garage TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS-T1STlbnBP1FvFZIpa4XY9LsYWzX0KuHw72YVeg=s88-c-k-c0x00ffffff-no-rj" group-title="DEPORTES", 195 | El Garage TV
 http://186.0.233.76:1935/Garage/garage.smil/.m3u8
-#EXTINF:-1 tvg-id="CO | Win Sports" tvg-name="CO | Win Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/WinSports2022.png/150px-WinSports2022.png" group-title="DEPORTES", 195 | Win Sports
-http://45.233.169.1:8000/play/a05r
 #EXTINF:-1 tvg-id="CL | Fit TV" tvg-name="CL | Fit TV" tvg-logo="https://pbs.twimg.com/media/FSNWx2LXwAEneGk?format=jpg&name=240x240" group-title="DEPORTES", 196 | Fit TV
 http://190.108.83.142:8000/play/a00z/index.m3u8
 #EXTINF:-1 tvg-id="CL | Fitmaxx TV" tvg-name="CL | Fitmaxx TV" tvg-logo="https://pbs.twimg.com/media/FSk6Zq7WQAA7Cp8?format=png&name=240x240" group-title="DEPORTES", 197 | Fitmaxx TV
@@ -670,7 +672,7 @@ http://v4.tustreaming.cl/matices/index.m3u8
 #EXTINF:-1 tvg-id="PE | Central TV" tvg-name="PE | Central TV" tvg-logo="https://graph.facebook.com/CentralTVperuLima/picture?width=320&height=320" group-title="REGIONALES", 326 | Central TV || Lima
 https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Nuestra TV" tvg-name="PE | Nuestra TV" tvg-logo="https://pbs.twimg.com/media/FSNYpjRWQAEFGRd?format=jpg&name=small" group-title="REGIONALES", 327 | Nuestra TV || Lima
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CoMF4f13j_OnvssDbt7wb5mI7guOpNq6JNWCFMkkl6I2_DZEZ-Cctp_RKPd50izu_b5LOuQs1JaC1yvP5Cl2jIqyzk-yThomJdCfL6N63sQV1VGtrBczXkc2Oqtx56KoSYNslNeK_l2VwKu8hs-i9O0dj2vgvHGsziAQ6z7XrD3j7AFbp701w-UdGO7SolAeFczo0lK3nnT6o4-UKkljtY4837bhoJY4Nn3-x8m6RoAzjVh0zhtJ-OoWaH-xvjUjTKTPgc79KkTFs-apU_5EL11gIgA7hPV7T-KmtpfVSh1xeiMpMbEo9Maqav2e_Nq-9ksqylHy6sHfJrQxDlCxqKeUm4-p598LCwmx8xHLwVVJmenlhqjLQtMZweqK666Bz33egGWQrRY4Vix_ppHnAfT1ODXTMGIz4l2bvXhaKG0eC559ESKWF5OJE8cp5hjFUpw6YwQr3nuDfd8NqL9HoPUJAOkM1qAzFgFtycCeeC4qbhemJU9gun4l-kFMRt1-A7I5ob-SHkvNPYFeH7j_EndsN3zvjxTehxOz7kQ5hbV4EzbTIGx6BbsDUsD4f0WhBVG_FSNZ0hiihwvHyEEMBVX7trVxd2UO1gi0BhEnjutIy8Bjcu7m5QjUI6pNySN9W2H4WTjM1NEG2xs8h_OApo1MGrFCwsm8oXqAI6duieXyH_9aAx1niVRqp8QLD90l__XM6KVtUhW9QCFX4z0lvnzaW_N19g5t1YeEl5EHEuL7RamBUtK5HsZx-bsacVA_oKuDY7eP2tBZTfXkQXV3nUw0wgIXK0kfIF1oIHvq-eINq1bQyk7-gcrFvNvixNRRqmuabEdZl711_J_iYM9UF2KxhMyuQRoM12IChFd-Ud-EXvqYIAEqCXVzLWVhc3QtMTCgAw.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/nuestratvlima
 #EXTINF:-1 tvg-id="PE | Identidad TV" tvg-name="PE | Identidad TV" tvg-logo="https://www.identidad.tv/media-identidadtv/2021/07/nuevo-logo-identidad.png" group-title="REGIONALES", 328 | Identidad TV || Lima
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Región TV" tvg-name="PE | Región TV" tvg-logo="https://regionteve.com/wp-content/uploads/2020/12/REGIONTV7.png" group-title="REGIONALES", 329 | Región TV || Callao
@@ -1150,7 +1152,7 @@ http://170.83.242.152:5350/play/a025
 #EXTINF:-1 tvg-id="PY | La Tele" tvg-name="PY | La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Latele_Paraguay.jpg" group-title="PARAGUAY", 553 | La Tele || PARAGUAY
 http://170.83.242.152:5350/play/a00j
 #EXTINF:-1 tvg-id="PY | Trece" tvg-name="PY | Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/100px-Logotrececanal.png" group-title="PARAGUAY", 554 | Trece || PARAGUAY
-https://stream.rpc.com.py/live/trece.m3u8
+https://streaming.trece.com.py/live/trece.m3u8
 #EXTINF:-1 tvg-id="PY | Paraguay TV" tvg-name="PY | Paraguay TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Paraguay_TV_logo_2019.png/245px-Paraguay_TV_logo_2019.png" group-title="PARAGUAY", 555 | Paraguay TV || PARAGUAY
 http://170.83.242.152:5350/play/a01o
 #EXTINF:-1 tvg-id="PY | Unicanal" tvg-name="PY | Unicanal" tvg-logo="http://www.unicanal.com.py/public/img/LogoUnicanal452x70.png" group-title="PARAGUAY", 556 | Unicanal || PARAGUAY
