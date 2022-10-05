@@ -695,10 +695,14 @@ https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
 http://190.108.83.142:8000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="PE | TV Norte" tvg-name="PE | TV Norte" tvg-logo="https://appnew.megainfoapp.com/files/1/tvnorte.jpg" group-title="REGIONALES", 338 | TV Norte || Chiclayo
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/TVNORTEHD
+#EXTINF:-1 tvg-id="PE | K9 Studio TV" tvg-name="PE | K9 Studio TV" tvg-logo="https://pbs.twimg.com/media/FeSxhWTWYAIrgFD?format=png&name=small" group-title="REGIONALES", En prueba | K9 Studio TV || Ferreñafe
+http://191.97.60.193:10001/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="PE | Lot Plus TV" tvg-name="PE | Lot Plus TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR6iGa3A35AnYAm29YkkDJahn0mzAQZYDU9q5LJ=s88-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", 339 | Lot Plus TV || Chiclayo
 https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | TV Cosmos" tvg-name="PE | TV Cosmos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Tv_cosmos.jpg/245px-Tv_cosmos.jpg" group-title="REGIONALES", 340 | TV Cosmos || Trujillo
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | Sol TV" tvg-name="PE | Sol TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/150px-Sol_tv_pe.png" group-title="REGIONALES", En prueba | Sol TV || Trujillo
+http://191.97.60.193:10001/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="PE | Caribe TV" tvg-name="PE | Caribe TV" tvg-logo="https://play-lh.googleusercontent.com/RWwrMM2sqjOulasmAQhS86CiDLLJa66Kan9ru_cypXFu97qaPIECyEI5ilrzKF9sHg=s180-rw" group-title="REGIONALES", 341 | Caribe TV || Otuzco
 http://200.48.184.156:1935/caribetv/caribetv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | RTV Oasis" tvg-name="PE | RTV Oasis" tvg-logo="http://oasisrtv.com/wp-content/uploads/2021/07/cropped-00000001-5-1.png" group-title="REGIONALES", 342 | RTV Oasis || Pacasmayo
@@ -1292,9 +1296,9 @@ https://rtmp.info/soltv/envivo/playlist.m3u8
 #EXTINF:-1 tvg-id="SLV | RD Click TV" tvg-name="SLV | RD Click TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSoMCXVxLXziWM9-DaCj8zwCpV9-nCyTcTTRa5Jow=s88-c-k-c0x00ffffff-no-rj" group-title="EL SALVADOR", 623 | RD Click TV || EL SALVADOR
 https://cloudvideo.servers10.com:8081/8064/index.m3u8
 #EXTINF:-1 tvg-id="HN | Telesistema Informativo" tvg-name="HN | Telesistema Informativo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/TSi_logo.png/195px-TSi_logo.png" group-title="HONDURAS", 624 | TSi Canal 3 || HONDURAS
-https://stream-04.nyc.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRD3WxT35kVdkkKZO8DjQcbpu1Su74z69BYeuWrpOmkX9)/dm/3/x88jdft/s/live-3.m3u8
+https://stream-04.nyc.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVROZ4JWkhoOw012Ccy3eV0DSD1CDF1fsZE8qvE1U-8CUR)/dm/3/x88jdft/s/live-3.m3u8
 #EXTINF:-1 tvg-id="HN | Canal 5" tvg-name="HN | Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_5_HN_logo_2019.png/150px-Canal_5_HN_logo_2019.png" group-title="HONDURAS", 625 | Canal 5 El Lider || HONDURAS
-https://stream-01.nyc.dailymotion.com/sec(sdVP4ky6sYlWE27qaDlbfFYw1yptHSm-EvgTq5sjGkzeq8mw8zVh8Qqj1rYE22TI)/dm/3/x8cly8x/s/live-3.m3u8
+https://stream-02.nyc.dailymotion.com/sec(sdVP4ky6sYlWE27qaDlbfEnp1Mf2aPMD6AQmWjnKsoTJkPTGvi4wuUhnccNTYb1m)/dm/3/x8cly8x/s/live-3.m3u8
 #EXTINF:-1 tvg-id="HN | Vica TV" tvg-name="HN | Vica TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/VTV_HN_logo_2019.png/210px-VTV_HN_logo_2019.png" group-title="HONDURAS", 626 | VTV || HONDURAS
 https://dw6a9whylepvl.cloudfront.net/hls/vtv.m3u8
 #EXTINF:-1 tvg-id="HN | TEN Canal 10" tvg-name="HN | TEN Canal 10" tvg-logo="https://1.bp.blogspot.com/-WYepFcQLrXc/XQka9TmZ0uI/AAAAAAAAHz8/eTOqew4vGoocd66uqlPHccAeYN74huzmgCLcBGAs/w350-h350-p-k-no-nu/TEN%2BCanal%2B10.png" group-title="HONDURAS", 627 | TEN Canal 10 || HONDURAS
@@ -1641,10 +1645,24 @@ https://livestreams.flote.app:5443/flote/streams/f7c103f4-4247-4537-be81-f9b3896
 https://cloudvideo.servers10.com:8081/8116/index.m3u8
 #EXTINF:-1 tvg-id="ES | Radio Televisión Estepona" tvg-name="ES | Radio Televisión Estepona" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/tv-estepona.png" group-title="ESPAÑA", 795 | Radio Televisión Estepona || ESPAÑA
 https://cloudvideo.servers10.com:8081/8022/index.m3u8
-#EXTINF:-1 tvg-id="JP | NHK World" tvg-name="JP | NHK World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/245px-NHK_World.svg.png" group-title="JAPON", 796 | NHK World || JAPON
-https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
-#EXTINF:-1 tvg-id="KR | Arirang TV" tvg-name="KR | Arirang TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arirang-TV-Logo.svg/250px-Arirang-TV-Logo.svg.png" group-title="KOREA DEL SUR", 797 | Arirang TV || KOREA DEL SUR
-https://marine2.miplay.cl/arirang/playlist.m3u8
+#EXTINF:-1 tvg-id="ES | 12 Doce TV" tvg-name="ES | 12 Doce TV" tvg-logo="https://www.12tv.es/wp-content/uploads/2019/09/LOGO-NUEVO-12TV.jpg" group-title="ESPAÑA", 796 | 12 Doce TV || ESPAÑA
+http://191.97.60.193:10001/play/a00n/index.m3u8
+#EXTINF:-1 tvg-id="ES | Canal Andalucia Cocina" tvg-name="ES | Canal Andalucia Cocina" tvg-logo="https://www.movistarplus.es/recorte/n/caratula4/MANDATVP1305248" group-title="ESPAÑA", En prueba | Canal Andalucia Cocina || ESPAÑA
+http://191.97.60.193:10001/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="ES | Canal Andalucia Turismo" tvg-name="ES | Canal Andalucia Turismo" tvg-logo="https://cdn.sincroguia.tv/uploads/programs/c/a/n/xcanal-andalucia-turismo-1851_SPA-75.jpg.pagespeed.ic.BsrmhD11e0.jpg" group-title="ESPAÑA", En prueba | Canal Andalucia Turismo || ESPAÑA
+http://191.97.60.193:10001/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="ES | GCM" tvg-name="ES | GCM" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2532-294x165-FFFFFF.jpg" group-title="ESPAÑA", En prueba | GCM || ESPAÑA
+http://191.97.60.193:10001/play/a00m/index.m3u8
+#EXTINF:-1 tvg-id="ES | Guada TV" tvg-name="ES | Guada TV" tvg-logo="http://www.guadatv.tv/web/images/logo2.gif" group-title="ESPAÑA", En prueba | Guada TV || ESPAÑA
+http://191.97.60.193:10001/play/a00l/index.m3u8
+#EXTINF:-1 tvg-id="ES | Telearanda" tvg-name="ES | Telearanda" tvg-logo="https://telearanda.es/admin/Uploads/medias/logo.png" group-title="ESPAÑA", En prueba | Telearanda || ESPAÑA
+http://191.97.60.193:10001/play/a00k/index.m3u8
+#EXTINF:-1 tvg-id="ES | Teletoledo" tvg-name="ES | Teletoledo" tvg-logo="https://www.teletoledo.es/img/logo.png" group-title="ESPAÑA", En prueba | Teletoledo || ESPAÑA
+http://191.97.60.193:10001/play/a00j/index.m3u8
+#EXTINF:-1 tvg-id="ES | Televigo" tvg-name="ES | Televigo" tvg-logo="https://pbs.twimg.com/profile_images/1318433703564054528/30h_y2sj_400x400.jpg" group-title="ESPAÑA", En prueba | Televigo || ESPAÑA
+http://191.97.60.193:10001/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="JP | NHK World" tvg-name="JP | NHK World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/245px-NHK_World.svg.png" group-title="JAPON", 797 | NHK World || JAPON
+https://b-nhkwlive-burnin2.webcdn.stream.ne.jp/vtt/es/webvtt.m3u8
 #EXTINF:-1 tvg-id="KR | Asian TV" tvg-name="KR | Asian TV" tvg-logo="https://tv-iteractiva-prod.s3.amazonaws.com/media/brand/ASIANTV_LOGO_PRETO-01_menor_DURXi6G.png" group-title="KOREA DEL SUR", 798 | Asian TV || KOREA DEL SUR
 https://video01.soultv.com.br/asiantv/asiantv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Radio Latina" tvg-name="PE | Radio Latina" tvg-logo="https://www.planetaradios.com/content/radios_fm/Radio_Latina_FM_San_Matin_3545.png" group-title="EMISORAS LOCALES", 799 | Radio Latina 90.1 FM || Moyobamba; Perú
