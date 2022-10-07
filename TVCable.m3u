@@ -235,8 +235,8 @@ http://45.236.28.72:8000/play/a0gh/index.m3u8
 http://45.236.28.72:8000/play/a0bx/index.m3u8
 #EXTINF:-1 tvg-id="CL | Dos Kids" tvg-name="CL | Dos Kids" tvg-logo="https://multicontenidos.cl/wp-content/uploads/2020/12/DOS-KIDS.png" group-title="INFANTILES", 113 | Dos Kids TV
 http://45.160.12.253:8000/play/002
-#EXTINF:-1 tvg-id="CL | Kids 90's TV" tvg-name="CL | Kids 90's TV" tvg-logo="https://i2.paste.pics/4a39976590ab0bd4fe7a0bbbd4411822.png" group-title="INFANTILES", 114 | Kids 90's TV
-https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="CL | Planeta TV Kids" tvg-name="CL | Planeta TV Kids" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png" group-title="INFANTILES", 114 | Planeta TV Kids
+https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?WebASTRAL
 #EXTINF:-1 tvg-id="USA | ZooMoo" tvg-name="USA | ZooMoo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/120px-ZooMoo_logo.svg.png" group-title="INFANTILES", 115 | ZooMoo
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ZOOMOO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DZOOMOO_stream_sr&_cdn_session=373875219&_cdn_timestamp=1665583919&_cdn_token=a32b33332e6d11d7d3a3e20ef98eaa6c5428a729
 #EXTINF:-1 tvg-id="USA | Planeta Junior TV" tvg-name="USA | Planeta Junior TV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni_--nfDx7dY1f6hpnTgv3hrKLPeD4-B-4MeB5K2A=s900-c-k-c0x00ffffff-no-rj" group-title="INFANTILES", 116 | Planeta Junior TV
@@ -337,7 +337,7 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl3mQty72BA31LJqhvYBHdIzpbPylCexk8EazIVzxGTSm)/dm/3/x7w4okl/s/live-1.m3u8
 #EXTINF:-1 tvg-id="ESP | 24 Horas tve" tvg-name="ESP | 24 horas tve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/125px-Logo_TVE-24h.svg.png" group-title="NOTICIAS E INFORMACION", 159 | 24 horas tve
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-id="USA | CNN en Español" tvg-name="USA | CNN en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/125px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="NOTICIAS E INFORMACION", 160 | CNN en Español
+#EXTINF:-1 tvg-id="USA | CNN en Español" tvg-name="USA | CNN en Español" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png" group-title="NOTICIAS E INFORMACION", 160 | CNN en Español
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/67.m3u8
 #EXTINF:-1 tvg-id="CL | CNN Chile" tvg-name="CL | CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/150px-CNN_Chile_logo_2017.svg.png" group-title="NOTICIAS E INFORMACION", 161 | CNN Chile
 http://onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu7/thjhg3468ihj/16.m3u8
