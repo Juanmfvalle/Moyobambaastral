@@ -159,7 +159,7 @@ http://190.108.83.142:8000/play/a002/index.m3u8
 http://190.108.83.142:8000/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="CL | MX Prime" tvg-name="CL | MX Prime" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FONDO-2-300x169.jpg" group-title="PELICULAS Y SERIES", 78 | MX Prime
 http://190.108.83.142:8000/play/a005/index.m3u8
-#EXTINF:-1 tvg-id="CL | MX Old" tvg-name="CL | MX Old" tvg-logo="https://pbs.twimg.com/media/FSiok8rXIAECASi?format=jpg&name=120x120" group-title="PELICULAS Y SERIES", 79 | MX Old
+#EXTINF:-1 tvg-id="CL | Old" tvg-name="CL | Old" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/OLD-FONDO-2-300x169.jpg" group-title="PELICULAS Y SERIES", 79 | Old
 http://45.160.12.253:8000/play/a01v
 #EXTINF:-1 tvg-id="MX | De Película" tvg-name="MX | De Película" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/250px-DPel%C3%ADcula_2021.svg.png" group-title="PELICULAS Y SERIES", 80 | De Película
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DEPELICULA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDEPELICULA_stream_7v&_cdn_session=380400819&_cdn_timestamp=1665968699&_cdn_token=42815f1033c3e130739a2d5c5565067e4011d309
@@ -1056,7 +1056,7 @@ https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8?PlaylistASTRAL
 #EXTINF:-1 tvg-id="CL | 13 Cultura" tvg-name="CL | 13 Cultura" tvg-logo="https://www-storage.13.cl/c13/13go/image/13cultura.svg" group-title="CHILE", 500.5 | 13 Cultura || CHILE
 https://unlimited1-us.dps.live/13cultura/13cultura.smil/playlist.m3u8?PlaylistASTRAL
 #EXTINF:-1 tvg-id="CL | NTV" tvg-name="CL | NTV" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/ntv-1920-1080-300x169.jpg" group-title="CHILE", 501 | NTV || CHILE
-http://45.160.12.253:8000/play/016
+https://marine2.miplay.cl/ntv/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Wapp TV" tvg-name="CL | Wapp TV" tvg-logo="https://ott-assets.mdstrm.com/51tv/assets/images/logo-light-white.png" group-title="CHILE", En prueba | Wapp TV || CHILE
 https://marine2.miplay.cl/wapp/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | TVU" tvg-name="CL | TVU" tvg-logo="https://www.tvu.cl/_templates/desktop/includes/img/LOGO-TVU-AZUL.png" group-title="CHILE", 502 | TVU || CHILE
@@ -1637,7 +1637,7 @@ http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/113.m3u8
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/173.m3u8
 #EXTINF:-1 tvg-id="MX | ADN 40" tvg-name="MX | ADN 40" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adn40_2022.png/245px-Adn40_2022.png" group-title="MEXICO", 775 | ADN 40 || MÉXICO
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/42.m3u8
-#EXTINF:-1 tvg-id="MX | N+ Media" tvg-name="MX | N+ Media" tvg-logo="https://www.eleconomista.com.mx/__export/1648521768298/sites/eleconomista/img/2022/03/28/nmas-televisa-univision-cortesia-twitter.png_423392900.png" group-title="MEXICO", 776 | N+ Media || MÉXICO
+#EXTINF:-1 tvg-id="MX | N+ Media" tvg-name="MX | N+ Media" tvg-logo="https://img.asmedia.epimg.net/resizer/__0kSWQYeMV8ePRtOMVM_gEfza0=/1952x1098/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/EW3U7NAIBNCOZCYGAGD3NYY54A.jpg" group-title="MEXICO", 776 | N+ Media || MÉXICO
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_4.m3u8
 #EXTINF:-1 tvg-id="MX | Canal 11" tvg-name="MX | Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_Actual_Canal_Once.png/200px-Logo_Actual_Canal_Once.png" group-title="MEXICO", 777 | Canal 11 || MÉXICO
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/59.m3u8
