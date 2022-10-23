@@ -123,6 +123,8 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/KANALD/40-hls/live-media.m3u8
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AZCORAZON/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZCORAZON_stream_p3&_cdn_session=392525699&_cdn_timestamp=1666700382&_cdn_token=f82113633425811dd7a695ce991437b7b2a5a4be
 #EXTINF:-1 tvg-id="MX | Tlnovelas" tvg-name="MX | Tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="NOVELAS", 61 | Tlnovelas
 http://181.78.64.71:8000/play/CH47
+#EXTINF:-1 tvg-id="USA | Univision Tlnovelas" tvg-name="USA | Univision Tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/180px-Univision_tlnovelas_%282019%29.svg.png" group-title="NOVELAS", En prueba | Univision Tlnovelas
+http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/951
 #EXTINF:-1 tvg-id="MX | Las Estrellas" tvg-name="MX | Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/180px-Las_Estrellas.svg.png" group-title="INTERNACIONALES", En prueba | Las Estrellas Latinoamérica
 http://181.78.64.71:8000/play/CH45
 #EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", 62 | Telemundo Internacional
@@ -283,7 +285,7 @@ http://190.83.119.67:8000/play/a0pd/index.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
 #EXTINF:-1 tvg-id="USA | Discovery Kids" tvg-name="USA | Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/125px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="INFANTILES", 135 | Discovery Kids
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/DISCKIDS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCKIDS_stream_fa&_cdn_session=392534483&_cdn_timestamp=1666700919&_cdn_token=38656ef8c0e57beb80ed8e35d0b34e046c2e7d35
-#EXTINF:-1 tvg-id="USA | Disney Channel" tvg-name="USA | Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/170px-2019_Disney_Channel_logo.svg.png" group-title="INFANTILES", 136 | Disney Channel
+#EXTINF:-1 tvg-id="USA | Disney Channel" tvg-name="USA | Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/200px-2019_Disney_Channel_logo.svg.png" group-title="INFANTILES", 136 | Disney Channel
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DISNEYCHANNEL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISNEYCHANNEL_stream_0w&_cdn_session=392534747&_cdn_timestamp=1666700942&_cdn_token=927677bf59b7c0c2069ba058f0cfe1e4f958d5f1
 #EXTINF:-1 tvg-id="USA | Disney Junior" tvg-name="USA | Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Disney_Junior_logo.png/200px-Disney_Junior_logo.png" group-title="INFANTILES", 137 | Disney Junior
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DISNEYJR/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISNEYJUNIOR_stream_ec&_cdn_session=392534867&_cdn_timestamp=1666700951&_cdn_token=a0120e40f3598b621c321e42451f301d18f041e3
@@ -1658,25 +1660,25 @@ https://vsrv2.az-streamingserver.com:3983/live/larutatvlive.m3u8
 #EXTINF:-1 tvg-id="CU | Multivisión" tvg-name="CU | Multivisión" tvg-logo="https://www.tvcubana.icrt.cu/images/logos-canales/logo-mascara/multivision.jpg" group-title="CUBA", 792 | Multivisión || CUBA
 http://45.236.28.72:8000/play/a04c/index.m3u8
 #EXTINF:-1 tvg-id="MX | Azteca Uno" tvg-name="MX | Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Azteca_Uno_logo.webp/245px-Azteca_Uno_logo.webp.png" group-title="MEXICO", 793 | Azteca Uno || MÉXICO
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/53.m3u8
+http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/864
 #EXTINF:-1 tvg-id="MX | Canal 5" tvg-name="MX | Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/120px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO", 794 | Canal 5 || MÉXICO
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/60.m3u8
+http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/872
 #EXTINF:-1 tvg-id="MX | Multimedios Televisión Canal 6" tvg-name="MX | Multimedios Televisión Canal 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/150px-Multimedios_Canal_Seis_Logo.svg.png" group-title="MEXICO", 795 | Multimedios Televisión Canal 6 || MÉXICO
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/131.m3u8
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?uid=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq&sid=8G5n7I0asjGwineBsk5YE167FE72Avfk&pid=brbofKLjN29lLLHwn9quhkRMajR17CM4&an=screen&at=web-app&av=v5.2.287&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=774x387&without_cookies=false&listenerid=&dnt=true&adInsertionSessionId=4d1e160b-7245-4df4-81c2-7a83f479f4e7
 #EXTINF:-1 tvg-id="MX | Azteca 7" tvg-name="MX | Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/150px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO", 796 | Azteca 7 || MÉXICO
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/54.m3u8
+http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/865
 #EXTINF:-1 tvg-id="MX | Imagen Televisión" tvg-name="MX | Imagen Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/140px-Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="MEXICO", 797 | Imagen Televisión || MÉXICO
 https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLiX0MMifN6gHXFfkXu1c24QXGN7Yrlg7D7Km7UgAC4nk)/dm/3/x82z4if/d/live-2.m3u8
 #EXTINF:-1 tvg-id="MX | NU9VE" tvg-name="MX | NU9VE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nueve_%282018_logo%29.png/175px-Nueve_%282018_logo%29.png" group-title="MEXICO", 798 | NU9VE || MÉXICO
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/113.m3u8
+http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/914
 #EXTINF:-1 tvg-id="MX | Unicable" tvg-name="MX | Unicable" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/100px-Unicable_logo.svg.png" group-title="MEXICO", 799 | Unicable || MÉXICO
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/173.m3u8
+http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/957
 #EXTINF:-1 tvg-id="MX | ADN 40" tvg-name="MX | ADN 40" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adn40_2022.png/245px-Adn40_2022.png" group-title="MEXICO", 800 | ADN 40 || MÉXICO
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/42.m3u8
 #EXTINF:-1 tvg-id="MX | N+ Media" tvg-name="MX | N+ Media" tvg-logo="https://img.asmedia.epimg.net/resizer/__0kSWQYeMV8ePRtOMVM_gEfza0=/1952x1098/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/EW3U7NAIBNCOZCYGAGD3NYY54A.jpg" group-title="MEXICO", 801 | N+ Media || MÉXICO
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_4.m3u8
 #EXTINF:-1 tvg-id="MX | Canal 11" tvg-name="MX | Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_Actual_Canal_Once.png/200px-Logo_Actual_Canal_Once.png" group-title="MEXICO", 802 | Canal 11 || MÉXICO
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/59.m3u8
+http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/871
 #EXTINF:-1 tvg-id="MX | Canal Cultural" tvg-name="MX | Canal Cultural" tvg-logo="https://pbs.twimg.com/media/FXJjLAKWQAA3qfm?format=png&name=small" group-title="MEXICO", 803 | Canal Cultural de Huauchinango; Puebla || MÉXICO
 https://50eb-201-114-106-142.ngrok.io/tmp_hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="MX | Telefórmula" tvg-name="MX | Telefórmula" tvg-logo="https://pbs.twimg.com/media/C9y4NqyWAAsrepN.jpg" group-title="MEXICO", En prueba | Telefórmula || MÉXICO
@@ -1684,7 +1686,7 @@ http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/152.m3u8
 #EXTINF:-1 tvg-id="MX | TV Cuatro de Guanajuato" tvg-name="MX | TV Cuatro de Guanajuato" tvg-logo="https://www.tvcuatro.com/logo%201024.png" group-title="MEXICO", En prueba | TV Cuatro de Guanajuato || MÉXICO
 https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | UniMás" tvg-name="USA | UniMás" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/200px-Logo_UniM%C3%A1s_2021.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 804 | UniMás || ESTADOS UNIDOS DE AMÉRICA
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/174.m3u8
+http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/958
 #EXTINF:-1 tvg-id="USA | Stream Uno TV" tvg-name="USA | Stream Uno TV" tvg-logo="https://play-lh.googleusercontent.com/gBsGCIfU_w3CAVGpDoruLQjppjeRAJQoKja0p1kciAGdWHMudwjWfwUvN_3iNdP8BCs" group-title="ESTADOS UNIDOS DE AMÉRICA", 805 | Stream Uno TV || ESTADOS UNIDOS DE AMÉRICA
 https://vsrv2.az-streamingserver.com:3201/live/streamunotvlive.m3u8
 #EXTINF:-1 tvg-id="USA | Tribuna TV" tvg-name="USA | Tribuna TV" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/9f/4c/f9/9f4cf9e4-8bc2-5ddd-e8be-057e688065e5/mzl.ztmkjvqb.jpg/230x0w.webp" group-title="ESTADOS UNIDOS DE AMÉRICA", 806 | Tribuna TV || ESTADOS UNIDOS DE AMÉRICA
