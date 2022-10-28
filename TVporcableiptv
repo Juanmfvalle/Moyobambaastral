@@ -128,7 +128,7 @@ http://190.61.102.67:31589/play/a08d/index.m3u8
 #EXTINF:-1 tvg-id="USA | Univision Tlnovelas" tvg-name="USA | Univision Tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/180px-Univision_tlnovelas_%282019%29.svg.png" group-title="NOVELAS", 61.2 | Univision Tlnovelas
 http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/951
 #EXTINF:-1 tvg-id="MX | Las Estrellas" tvg-name="MX | Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/180px-Las_Estrellas.svg.png" group-title="INTERNACIONALES", 62 | Las Estrellas Latinoamérica
-http://45.232.210.1:8062/play/a093/index.m3u8
+http://8.243.108.57:8000/play/a030
 #EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", 63 | Telemundo Internacional
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TELEMUNDO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEMUNDO_stream_fp&_cdn_session=403713259&_cdn_timestamp=1667371286&_cdn_token=fd5c79a00a7277cdc336d757ee598d5004c7f0ca
 #EXTINF:-1 tvg-id="USA | ID" tvg-name="USA | ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png" group-title="DOCUMENTALES Y SERIES", 64 | Investigation Discovery
@@ -232,13 +232,13 @@ http://45.5.119.202:8000/play/a02n/index.m3u8
 #EXTINF:-1 tvg-id="MX | Cine Latino" tvg-name="MX | Cine Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cine_Latino_logo.svg/150px-Cine_Latino_logo.svg.png" group-title="PELICULAS Y SERIES", 113 | Cine Latino
 http://45.5.119.202:8000/play/a01x/index.m3u8
 #EXTINF:-1 tvg-id="MX | Golden" tvg-name="MX | Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/245px-Canal_Golden_logo.svg.png" group-title="PELICULAS Y SERIES", 114 | Golden
-http://181.78.64.71:8000/play/CH46
+http://8.243.108.57:8000/play/a02k
 #EXTINF:-1 tvg-id="MX | Golden Edge" tvg-name="MX | Golden Edge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/210px-Golden_Edge_Logo_2020.png" group-title="PELICULAS Y SERIES", 115 | Golden Edge
 http://181.78.64.71:8000/play/CH49
 #EXTINF:-1 tvg-id="MX | Multipremier" tvg-name="MX | Multipremier" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/150px-Multipremier_logo.svg.png" group-title="PELICULAS Y SERIES", 116 | Multipremier
 http://181.78.64.71:8000/play/CH11
 #EXTINF:-1 tvg-id="USA | DHE" tvg-name="USA | DHE" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png" group-title="PELICULAS Y SERIES", 117 | DHE
-http://181.78.64.71:8000/play/CH14
+http://190.131.247.82:8000/play/a00i
 #EXTINF:-1 tvg-id="USA | Cine Premium" tvg-name="USA | Cine Premium" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinepremium.png" group-title="PELICULAS Y SERIES", 118 | Cine Premium
 http://181.78.64.71:8000/play/CH50
 #EXTINF:-1 tvg-id="USA | Cine Hispano" tvg-name="USA | Cine Hispano" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/03/logoCineHispano.png" group-title="PELICULAS Y SERIES", 119 | Cine Hispano
@@ -401,8 +401,8 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOODNETWORK/40-hls/live-media
 https://marine2.miplay.cl/mundoysabor/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Best Cable Sports" tvg-name="PE | Best Cable Sports" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=239x10000:format=jpg/path/s86a1480785a470a0/image/i3cd2b522eae1ddb2/version/1637874672/image.jpg" group-title="DEPORTES", 198 | Best Cable Sports
 https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
-#EXTINF:-1 tvg-id="USA | Fox Sports" tvg-name="USA | Fox Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/150px-FOX_Sports_logo.svg.png" group-title="DEPORTES", 199 | Fox Sports
-http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/912
+#EXTINF:-1 tvg-id="PE | Gol Perú" tvg-name="PE | Gol Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/245px-Gol_Per%C3%BA_2019.svg.png" group-title="DEPORTES", 199 | Gol Perú
+http://8.243.108.57:8000/play/a02r
 #EXTINF:-1 tvg-id="USA | Fox Sports 2" tvg-name="USA | Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/175px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES", 200 | Fox Sports 2
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=403718547&_cdn_timestamp=1667372495&_cdn_token=66f18845d366cf09415b964df7f92ba7a29b0655
 #EXTINF:-1 tvg-id="USA | Fox Sports 3" tvg-name="USA | Fox Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/180px-Fox_sports_3_logo.svg.png" group-title="DEPORTES", 201 | Fox Sports 3
@@ -1695,8 +1695,8 @@ http://op.cdloop.eu/6696641212mariana/349dvjkdf4r/958
 https://vsrv2.az-streamingserver.com:3201/live/streamunotvlive.m3u8
 #EXTINF:-1 tvg-id="USA | Tribuna TV" tvg-name="USA | Tribuna TV" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/9f/4c/f9/9f4cf9e4-8bc2-5ddd-e8be-057e688065e5/mzl.ztmkjvqb.jpg/230x0w.webp" group-title="ESTADOS UNIDOS DE AMÉRICA", 806 | Tribuna TV || ESTADOS UNIDOS DE AMÉRICA
 https://cm.hostlagarto.com/TRIBUNA-TV/tribuna.myStream/chunks.m3u8
-#EXTINF:-1 tvg-id="USA | Discovery en Español" tvg-name="USA | Discovery en Español" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Discovery_en_Espa%C3%B1ol_original.png/revision/latest?cb=20100205084500" group-title="ESTADOS UNIDOS DE AMÉRICA", 807 | Discovery en Español || ESTADOS UNIDOS DE AMÉRICA
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/72.m3u8
+#EXTINF:-1 tvg-id="USA | Discovery Family" tvg-name="USA | Discovery Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Discovery_Family_logo.svg/245px-Discovery_Family_logo.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 807 | Discovery Family || ESTADOS UNIDOS DE AMÉRICA
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/511.m3u8
 #EXTINF:-1 tvg-id="USA | Estrella TV" tvg-name="USA | Estrella TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 808 | Estrella TV || ESTADOS UNIDOS DE AMÉRICA
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/94.m3u8
 #EXTINF:-1 tvg-id="USA | Univision" tvg-name="USA | Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 809 | Univision || ESTADOS UNIDOS DE AMÉRICA
