@@ -196,7 +196,7 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/EUROPAEUROPA/40-hls/live-medi
 #EXTINF:-1 tvg-id="USA | Eurochannel" tvg-name="USA | Eurochannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Eurochannel.png/150px-Logo_Eurochannel.png" group-title="PELICULAS Y SERIES", 95 | Eurochannel
 http://181.119.67.75:8000/play/CH09
 #EXTINF:-1 tvg-id="USA | I.Sat" tvg-name="USA | I.Sat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/150px-I.Sat_logo.svg.png" group-title="PELICULAS Y SERIES", 96 | I.Sat
-http://190.108.85.116:8000/play/a00z/index.m3u8
+http://190.60.39.17:4000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="PE | Smart Películas" tvg-name="PE | Smart Películas" tvg-logo="https://pbs.twimg.com/media/FSlkGKTXwBAllT1?format=png&name=120x120" group-title="PELICULAS Y SERIES", 97 | Smart Películas
 http://190.108.83.142:8000/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="PELICULAS Y SERIES", 98 | Star Channel
@@ -218,7 +218,7 @@ http://181.175.41.170:8000/play/a0gg
 #EXTINF:-1 tvg-id="USA | Universal Premiere" tvg-name="USA | Universal Premiere" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_premiere-mediano.png" group-title="PELICULAS Y SERIES", 106 | Universal Premiere
 http://181.175.41.170:8000/play/a0ge
 #EXTINF:-1 tvg-id="USA | Cinemax" tvg-name="USA | Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="PELICULAS Y SERIES", 107 | Cinemax
-http://45.5.119.202:8000/play/a01y/index.m3u8
+http://190.60.39.17:4000/play/a07e/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", 108 | HBO
 http://190.83.119.67:8000/play/a0or/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO 2" tvg-name="USA | HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" group-title="PELICULAS Y SERIES", 109 | HBO 2
@@ -268,7 +268,7 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="USA | Cartoonito" tvg-name="USA | Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/259px-Cartoonito_-_Logo_2021.svg.png" group-title="INFANTILES", 131 | Cartoonito
 http://45.5.119.202:8000/play/a02f/index.m3u8
 #EXTINF:-1 tvg-id="USA | Tooncast" tvg-name="USA | Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/200px-Tooncast_logo.svg.png" group-title="INFANTILES", 132 | Tooncast
-http://45.5.119.202:8000/play/a00z/index.m3u8
+http://181.189.243.254:8000/play/a0s3/index.m3u8
 #EXTINF:-1 tvg-id="USA | Retro Cartoon" tvg-name="USA | Retro Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNgVAzhKEkkeyQQOJXImzZwdg9jk55MjA5gQ&usqp=CAU" group-title="INFANTILES", 133 | Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistASTRAL
 #EXTINF:-1 tvg-id="CL | Energeek Fan" tvg-name="CL | Energeek Fan" tvg-logo="https://i2.paste.pics/6e12320dbdc58fc4ae26350c244f72af.png" group-title="INFANTILES", 134 | Energeek Fan
@@ -280,7 +280,7 @@ https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
 #EXTINF:-1 tvg-id="PA | Dreiko TV" tvg-name="PA | Dreiko TV" tvg-logo="https://dreikotv.online/wp-content/uploads/2021/09/logotipo_dreikotv-1024x224-1.png" group-title="INFANTILES", 137 | Dreiko TV
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/chunklist_w2067673743.m3u8
 #EXTINF:-1 tvg-id="USA | BabyFirst" tvg-name="USA | BabyFirst" tvg-logo="https://e7.pngegg.com/pngimages/1014/985/png-clipart-babyfirsttv-babytv-smile-baby-watching-tv-text-balloon-thumbnail.png" group-title="INFANTILES", 138 | BabyFirst
-http://45.5.119.202:8000/play/a009/index.m3u8
+http://190.60.39.17:4000/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="USA | BabyTV" tvg-name="USA | BabyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Babytvv.png/200px-Babytvv.png" group-title="INFANTILES", 139 | BabyTV
 http://181.119.67.75:8000/play/CH01
 #EXTINF:-1 tvg-id="USA | Semillitas" tvg-name="USA | Semillitas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Semillitas2011.png/245px-Semillitas2011.png" group-title="INFANTILES", 140 | Semillitas
@@ -1245,9 +1245,9 @@ http://45.228.232.204:16000/play/a028/index.m3u8
 http://45.228.232.204:16000/play/a06t/index.m3u8
 #EXTINF:-1 tvg-id="PA | Oye TV" tvg-name="PA | Oye TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/OYE_TV.jpg/150px-OYE_TV.jpg" group-title="PANAMÁ", 604 | Oye TV || PANAMÁ
 http://tv.dominiotv.xyz:25461/live/cliente212a/jdkdowjnd/87519.m3u8
-#EXTINF:-1 tvg-id="PA | TVMax" tvg-name="PA | TVMax" tvg-logo="https://img.streann.com/upload2/1625867182282.png?quality=65&width=256&optimize=high&auto=webp" group-title="PANAMÁ", 605 | TVMax || PANAMÁ
+#EXTINF:-1 tvg-id="PA | TVMax" tvg-name="PA | TVMax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png" group-title="PANAMÁ", 605 | TVMax || PANAMÁ
 http://45.236.28.72:8000/play/a0fz/index.m3u8
-#EXTINF:-1 tvg-id="PA | SERTV" tvg-name="PA | SERTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Log_sertv-80-retina.png/150px-Log_sertv-80-retina.png" group-title="PANAMÁ", 606 | SERTV || PANAMÁ
+#EXTINF:-1 tvg-id="PA | SERTV" tvg-name="PA | SERTV" tvg-logo="https://sertv.gob.pa/wp-content/uploads/2018/10/log_sertv-80-retina.png" group-title="PANAMÁ", 606 | SERTV || PANAMÁ
 http://181.189.243.254:8000/play/a0nn/index.m3u8
 #EXTINF:-1 tvg-id="PA | Telemetro" tvg-name="PA | Telemetro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/150px-Logo-telemetro.svg.png" group-title="PANAMÁ", 607 | Telemetro || PANAMÁ
 http://45.228.232.204:16000/play/a027/index.m3u8
