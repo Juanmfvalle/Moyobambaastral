@@ -196,7 +196,7 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/EUROPAEUROPA/40-hls/live-medi
 #EXTINF:-1 tvg-id="USA | Eurochannel" tvg-name="USA | Eurochannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Eurochannel.png/150px-Logo_Eurochannel.png" group-title="PELICULAS Y SERIES", 95 | Eurochannel
 http://181.119.67.75:8000/play/CH09
 #EXTINF:-1 tvg-id="USA | I.Sat" tvg-name="USA | I.Sat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/150px-I.Sat_logo.svg.png" group-title="PELICULAS Y SERIES", 96 | I.Sat
-http://190.108.85.116:8000/play/a00z/index.m3u8
+http://190.60.39.17:4000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="PE | Smart Películas" tvg-name="PE | Smart Películas" tvg-logo="https://pbs.twimg.com/media/FSlkGKTXwBAllT1?format=png&name=120x120" group-title="PELICULAS Y SERIES", 97 | Smart Películas
 http://190.108.83.142:8000/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="PELICULAS Y SERIES", 98 | Star Channel
@@ -218,7 +218,7 @@ http://181.175.41.170:8000/play/a0gg
 #EXTINF:-1 tvg-id="USA | Universal Premiere" tvg-name="USA | Universal Premiere" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_premiere-mediano.png" group-title="PELICULAS Y SERIES", 106 | Universal Premiere
 http://181.175.41.170:8000/play/a0ge
 #EXTINF:-1 tvg-id="USA | Cinemax" tvg-name="USA | Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="PELICULAS Y SERIES", 107 | Cinemax
-http://45.5.119.202:8000/play/a01y/index.m3u8
+http://190.60.39.17:4000/play/a07e/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", 108 | HBO
 http://190.83.119.67:8000/play/a0or/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO 2" tvg-name="USA | HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" group-title="PELICULAS Y SERIES", 109 | HBO 2
@@ -268,7 +268,7 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="USA | Cartoonito" tvg-name="USA | Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/259px-Cartoonito_-_Logo_2021.svg.png" group-title="INFANTILES", 131 | Cartoonito
 http://45.5.119.202:8000/play/a02f/index.m3u8
 #EXTINF:-1 tvg-id="USA | Tooncast" tvg-name="USA | Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/200px-Tooncast_logo.svg.png" group-title="INFANTILES", 132 | Tooncast
-http://45.5.119.202:8000/play/a00z/index.m3u8
+http://181.189.243.254:8000/play/a0s3/index.m3u8
 #EXTINF:-1 tvg-id="USA | Retro Cartoon" tvg-name="USA | Retro Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNgVAzhKEkkeyQQOJXImzZwdg9jk55MjA5gQ&usqp=CAU" group-title="INFANTILES", 133 | Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistASTRAL
 #EXTINF:-1 tvg-id="CL | Energeek Fan" tvg-name="CL | Energeek Fan" tvg-logo="https://i2.paste.pics/6e12320dbdc58fc4ae26350c244f72af.png" group-title="INFANTILES", 134 | Energeek Fan
@@ -280,7 +280,7 @@ https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
 #EXTINF:-1 tvg-id="PA | Dreiko TV" tvg-name="PA | Dreiko TV" tvg-logo="https://dreikotv.online/wp-content/uploads/2021/09/logotipo_dreikotv-1024x224-1.png" group-title="INFANTILES", 137 | Dreiko TV
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/chunklist_w2067673743.m3u8
 #EXTINF:-1 tvg-id="USA | BabyFirst" tvg-name="USA | BabyFirst" tvg-logo="https://e7.pngegg.com/pngimages/1014/985/png-clipart-babyfirsttv-babytv-smile-baby-watching-tv-text-balloon-thumbnail.png" group-title="INFANTILES", 138 | BabyFirst
-http://45.5.119.202:8000/play/a009/index.m3u8
+http://190.60.39.17:4000/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="USA | BabyTV" tvg-name="USA | BabyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Babytvv.png/200px-Babytvv.png" group-title="INFANTILES", 139 | BabyTV
 http://181.119.67.75:8000/play/CH01
 #EXTINF:-1 tvg-id="USA | Semillitas" tvg-name="USA | Semillitas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Semillitas2011.png/245px-Semillitas2011.png" group-title="INFANTILES", 140 | Semillitas
@@ -322,7 +322,7 @@ http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQ
 #EXTINF:-1 tvg-id="USA | Comedy Central" tvg-name="USA | Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/250px-Comedy_Central_2018.svg.png" group-title="ENTRETENIMIENTO", 158 | Comedy Central 
 http://190.108.83.142:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="USA | TruTV" tvg-name="USA | TruTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/TruTV_logo_2014.png/150px-TruTV_logo_2014.png" group-title="ENTRETENIMIENTO", 159 | TruTV
-http://177.234.242.242:50032/play/a049/index.m3u8
+http://190.83.119.67:8000/play/a0pe/index.m3u8
 #EXTINF:-1 tvg-id="RU | RT" tvg-name="RU | RT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png" group-title="NOTICIAS E INFORMACION", 160 | RT Noticias
 http://190.108.83.142:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="VE | Telesur" tvg-name="VE | Telesur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/150px-TeleSUR-Logo.svg.png" group-title="NOTICIAS E INFORMACION", 161 | Telesur
@@ -468,11 +468,11 @@ https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?Playlist
 #EXTINF:-1 tvg-id="USA | MTV" tvg-name="USA | MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/125px-MTV-2021.svg.png" group-title="MUSICA Y REALITIES", 231 | MTV
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/MTV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DMTV_stream_3f&_cdn_session=409069323&_cdn_timestamp=1667723981&_cdn_token=61eab0ee0cd807b96d28a3e2caf01f50c16126a7
 #EXTINF:-1 tvg-id="USA | MTV 80s" tvg-name="USA | MTV 80s" tvg-logo="https://cdn.sincroguia.tv/uploads/images/5/4/z/xmtv-80.jpg.pagespeed.ic.iXMVwGV__4.jpg" group-title="MUSICA Y REALITIES", 232 | MTV 80s
-http://45.5.119.202:8000/play/a02t/index.m3u8
+http://181.189.243.254:8000/play/a0po/index.m3u8
 #EXTINF:-1 tvg-id="USA | MTV 00s" tvg-name="USA | MTV 00s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_00s_remaster.png/150px-MTV_00s_remaster.png" group-title="MUSICA Y REALITIES", 233 | MTV 00s
-http://45.5.119.202:8000/play/a00l/index.m3u8
+http://181.189.243.254:8000/play/a0sw/index.m3u8
 #EXTINF:-1 tvg-id="USA | MTV Hits" tvg-name="USA | MTV Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/125px-MTV_Hits_2021.svg.png" group-title="MUSICA Y REALITIES", 234 | MTV Hits
-http://45.5.119.202:8000/play/a02s/index.m3u8
+http://181.189.243.254:8000/play/a0pn/index.m3u8
 #EXTINF:-1 tvg-id="MX | Teleritmo" tvg-name="MX | Teleritmo" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleritmo-mx.png" group-title="MUSICA Y REALITIES", 235 | Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq&sid=H35JGFJtTorKu8yyo7nztAy4KIUVgJkx&pid=uf6dMZlhGP30u0KO5TmWpO8utXYJqOKN&an=screen&at=web-app&av=v5.2.278&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=774x387&without_cookies=false&listenerid=&dnt=true
 #EXTINF:-1 tvg-id="CL | Old Music TV" tvg-name="CL | Old Music TV" tvg-logo="https://pbs.twimg.com/media/FSimCx8X0AI_8QI?format=png&name=small" group-title="MUSICA Y REALITIES", 236 | Old Music Televisión
@@ -1245,10 +1245,10 @@ http://45.228.232.204:16000/play/a028/index.m3u8
 http://45.228.232.204:16000/play/a06t/index.m3u8
 #EXTINF:-1 tvg-id="PA | Oye TV" tvg-name="PA | Oye TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/OYE_TV.jpg/150px-OYE_TV.jpg" group-title="PANAMÁ", 604 | Oye TV || PANAMÁ
 http://tv.dominiotv.xyz:25461/live/cliente212a/jdkdowjnd/87519.m3u8
-#EXTINF:-1 tvg-id="PA | TVMax" tvg-name="PA | TVMax" tvg-logo="https://img.streann.com/upload2/1625867182282.png?quality=65&width=256&optimize=high&auto=webp" group-title="PANAMÁ", 605 | TVMax || PANAMÁ
+#EXTINF:-1 tvg-id="PA | TVMax" tvg-name="PA | TVMax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png" group-title="PANAMÁ", 605 | TVMax || PANAMÁ
 http://45.236.28.72:8000/play/a0fz/index.m3u8
-#EXTINF:-1 tvg-id="PA | SERTV" tvg-name="PA | SERTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Log_sertv-80-retina.png/150px-Log_sertv-80-retina.png" group-title="PANAMÁ", 606 | SERTV || PANAMÁ
-http://45.236.28.72:8000/play/a0hh/index.m3u8
+#EXTINF:-1 tvg-id="PA | SERTV" tvg-name="PA | SERTV" tvg-logo="https://sertv.gob.pa/wp-content/uploads/2018/10/log_sertv-80-retina.png" group-title="PANAMÁ", 606 | SERTV || PANAMÁ
+http://181.189.243.254:8000/play/a0nn/index.m3u8
 #EXTINF:-1 tvg-id="PA | Telemetro" tvg-name="PA | Telemetro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/150px-Logo-telemetro.svg.png" group-title="PANAMÁ", 607 | Telemetro || PANAMÁ
 http://45.228.232.204:16000/play/a027/index.m3u8
 #EXTINF:-1 tvg-id="PA | Mas 23" tvg-name="PA | Mas 23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/M%C3%A1s_23.png/132px-M%C3%A1s_23.png" group-title="PANAMÁ", 608 | Mas 23 || PANAMÁ
