@@ -938,7 +938,7 @@ http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="VE | Vale TV" tvg-name="VE | Vale TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Logo_de_VALE_TV.png/200px-Logo_de_VALE_TV.png" group-title="VENEZUELA", 458 | Vale TV || VENEZUELA
 http://181.236.192.254:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="VE | Venezolana de Televisión" tvg-name="VE | Venezolana de Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/1024px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" group-title="VENEZUELA", 459 | VTV || VENEZUELA
-https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLlZkQRtuvdbm59hM-OyG1C1iyMKxzG6VnmdtV5UADZ_p)/dm/3/x828i6j/s/live-3.m3u8
+https://vcp5.myplaytv.com/vtv/vtv/playlist.m3u8
 #EXTINF:-1 tvg-id="VE | Televen" tvg-name="VE | Televen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Televen_logo.PNG/150px-Televen_logo.PNG" group-title="VENEZUELA", 460 | Televen || VENEZUELA
 http://45.236.28.72:8000/play/a06i/index.m3u8
 #EXTINF:-1 tvg-id="VE | Vepaco TV" tvg-name="VE | Vepaco TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Logo-Vepaco-TV.png/245px-Logo-Vepaco-TV.png" group-title="VENEZUELA", 461 | Vepaco TV || VENEZUELA
@@ -975,8 +975,10 @@ https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiI2NWZiNWNhOTBmNGQwZGVlZGU3ODU3ZTVmOTk4MTgzNiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNjY3NzkzMTk5LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.OM6h22FiGJDNhwvdaD486--lBIZos8wg94Z5Qcj1AqJ3HgblEvOB1yLFxmL517DdwQiw0n4MJeYabSr5fFPQslWV35sbj9-QUoiPXRKBOuSXwYeVhxaF6aGOcCrDpYtR9Sp-yHTWqkw3hVNwMXIShRedG9KZ5NFArUX0aCek0obULMo9JQdjEE8UDhupkVHEmbaIUbyG6MrHycp00sPPsJ-EHebVo_VfQbNj20gxcr6LIx1uDCNKaOztmSE43eo7ETWIjMmKQumXj8mRDUrthbt7jFhUT2saSOVdIpZ5-y--WUKIgcWpn0agRzfPCKleVoLApHBRl2TooUC6mkR1qw/manifest/video.m3u8
 #EXTINF:-1 tvg-id="VE | Promar TV" tvg-name="VE | Promar TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Promar_Television.png/150px-Promar_Television.png" group-title="VENEZUELA", 477 | Promar TV || VENEZUELA
 http://vcp1.myplaytv.com/promar/promar/playlist.m3u8
-#EXTINF:-1 tvg-id="VE | Americana de Televisión" tvg-name="VE | Americana de Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ATELTV_logo.png/200px-ATELTV_logo.png" group-title="VENEZUELA", 478 | Americana de Televisión || VENEZUELA
+#EXTINF:-1 tvg-id="VE | Americana Televisión" tvg-name="VE | Americana Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ATELTV_logo.png/200px-ATELTV_logo.png" group-title="VENEZUELA", 478 | Americana Televisión || VENEZUELA
 https://distrib010.noisypeak.com/d/ZNC912ALUX18TOYWN3J9/hls3/now_-1m_15s/m.m3u8
+#EXTINF:-1 tvg-id="VE | Telesol" tvg-name="VE | Telesol" tvg-logo="http://www.telesoltv.com/telesol.png" group-title="VENEZUELA", En prueba | Telesol || VENEZUELA
+https://vcp2.myplaytv.com/telesol/telesol/playlist.m3u8
 #EXTINF:-1 tvg-id="BR | SBT" tvg-name="BR | SBT" tvg-logo="https://www.adlatina.com/uploads/img/fotoNoticiaG44044.jpg" group-title="BRASIL", 479 | SBT || BRASIL
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/SBTBRASIL/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSBTBRASIL_stream_7j&_cdn_session=416451683&_cdn_timestamp=1668126852&_cdn_token=a00399588e2369c38931c1a7e17ef8efa8bb9d26
 #EXTINF:-1 tvg-id="BR | Rede TV" tvg-name="BR | Rede TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/89/Logotipo_da_RedeTV%21.png/200px-Logotipo_da_RedeTV%21.png" group-title="BRASIL", 480 | Rede TV || BRASIL
@@ -987,7 +989,7 @@ http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="BR | Agro Brasil TV" tvg-name="BR | Agro Brasil TV" tvg-logo="https://www.agrobrasiltv.com.br/images/logo_agrobrasil_v10.png" group-title="BRASIL", 483 | Agro Brasil TV || BRASIL
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="BR | Rede Bandeirantes" tvg-name="BR | Rede Bandeirantes" tvg-logo="http://play.myplaytv.com/uploads/images/channel_62_1603754534_thumb.jpg" group-title="BRASIL", 484 | Band || BRASIL
+#EXTINF:-1 tvg-id="BR | Rede Bandeirantes" tvg-name="BR | Rede Bandeirantes" tvg-logo="https://www.newslinereport.com/online/foto_485.jpg" group-title="BRASIL", 484 | Band || BRASIL
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w74540908.m3u8
 #EXTINF:-1 tvg-id="BR | TV Aracati" tvg-name="BR | TV Aracati" tvg-logo="https://pa-str.srvsite.com/arquivos/6487/cabecalho-6487-20210315111823.png" group-title="BRASIL", 485 | TV Aracati || BRASIL
 https://livefocamundo.com:8081/tvaracati/index.m3u8
