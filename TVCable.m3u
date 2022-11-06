@@ -979,6 +979,8 @@ http://vcp1.myplaytv.com/promar/promar/playlist.m3u8
 https://distrib010.noisypeak.com/d/ZNC912ALUX18TOYWN3J9/hls3/now_-1m_15s/m.m3u8
 #EXTINF:-1 tvg-id="VE | Telesol" tvg-name="VE | Telesol" tvg-logo="http://www.telesoltv.com/telesol.png" group-title="VENEZUELA", En prueba | Telesol || VENEZUELA
 https://vcp2.myplaytv.com/telesol/telesol/playlist.m3u8
+#EXTINF:-1 tvg-id="VE | Explosión Creativa TV" tvg-name="VE | Explosión Creativa TV" tvg-logo="http://lorini.net/exctv/EXC-TV.png" group-title="VENEZUELA", En prueba | Explosión Creativa TV || VENEZUELA
+https://vcp.myplaytv.com/explosioncreativa/ngrp:explosioncreativa_all/playlist.m3u8
 #EXTINF:-1 tvg-id="BR | SBT" tvg-name="BR | SBT" tvg-logo="https://www.adlatina.com/uploads/img/fotoNoticiaG44044.jpg" group-title="BRASIL", 479 | SBT || BRASIL
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/SBTBRASIL/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSBTBRASIL_stream_7j&_cdn_session=416451683&_cdn_timestamp=1668126852&_cdn_token=a00399588e2369c38931c1a7e17ef8efa8bb9d26
 #EXTINF:-1 tvg-id="BR | Rede TV" tvg-name="BR | Rede TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/89/Logotipo_da_RedeTV%21.png/200px-Logotipo_da_RedeTV%21.png" group-title="BRASIL", 480 | Rede TV || BRASIL
