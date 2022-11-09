@@ -25,8 +25,6 @@ http://190.187.247.206:8000/play/a03n/index.m3u8
 https://servilive.com:3449/live/mlecaroslive.m3u8
 #EXTINF:-1 tvg-id="PE | Onda Digital" tvg-name="PE | Onda Digital" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQRrS2R_HFcGI0RVqhw9IN02y3s05eq4oq10yZ5UQ=s88-c-k-c0x00ffffff-no-rj" group-title="PERU", 11 | Onda Digital Noticias
 https://v4.tustreaming.cl/ondadigitaltv/index.m3u8
-#EXTINF:-1 tvg-id="PE | PBO TV" tvg-name="PE | PBO TV" tvg-logo="https://pboradio.minegocio21.com/wp-content/uploads/2020/10/logo278.jpg" group-title="PERU", En prueba | PBO TV
-srt://181.224.241.214:9010
 #EXTINF:-1 tvg-id="PE | USMP TV" tvg-name="PE | USMP TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/USMP_TV_2017.svg/revision/latest/scale-to-width-down/56?cb=20210504214359&path-prefix=es" group-title="PERU", 12 | USMP Televisión
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/USMPTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUSMPTV_stream_61&_cdn_session=416373443&_cdn_timestamp=1668123984&_cdn_token=09ac0c8839605692801160887434f9ead94ba650
 #EXTINF:-1 tvg-id="PE | Global Televisión" tvg-name="PE | Global Televisión" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMObN_3dPu0x6ipIMnQiPhMsWdYVDq5ZXCPA68_3m2KC_k9CT4VpttLSvI7f-mzLYi7w8&usqp=CAU" group-title="PERU", 13 | Global Televisión
@@ -697,6 +695,8 @@ https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TVEMPRESA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVEMPRESA_stream_yi&_cdn_session=416486435&_cdn_timestamp=1668128102&_cdn_token=17a3ee21badf352331cca891cbb45c7a0e91475a
 #EXTINF:-1 tvg-id="PE | Gamarra Channel" tvg-name="PE | Gamarra Channel" tvg-logo="https://yt3.ggpht.com/_5nCk-rEsNPQeXAHT_ZA6gx5D15x_QadepvUi--KmY6psR9n85GAYxyCuap4P2kDIDqOmvT5584=s88-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", 343 | Gamarra Channel || Lima
 https://video2.lhdserver.es/gamarrachannel/live.m3u8
+#EXTINF:-1 tvg-id="PE | PBO TV" tvg-name="PE | PBO TV" tvg-logo="https://pboradio.minegocio21.com/wp-content/uploads/2020/10/logo278.jpg" group-title="REGIONALES", En prueba | PBO TV
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PBO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=421467283&_cdn_timestamp=1668405560&_cdn_token=43e68fe05390e9a83ef90fd1aade7b14e4492109 || Lima
 #EXTINF:-1 tvg-id="PE | Asiri TV" tvg-name="PE | Asiri TV" tvg-logo="https://graph.facebook.com/904990302901417/picture?type=large" group-title="REGIONALES", 344 | Asiri Televisión || Lima
 https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTINF:-1 tvg-id="PE | Intuitiva TV" tvg-name="PE | Intuitiva TV" tvg-logo="https://pbs.twimg.com/media/FVyWpMHXsAUe7UU?format=png&name=small" group-title="REGIONALES", 345 | Intuitiva TV || Lima
@@ -1808,7 +1808,7 @@ http://190.108.83.142:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="PE | Radio Disney" tvg-name="PE | Radio Disney" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio-Disney.png/225px-Radio-Disney.png" group-title="EMISORAS NACIONALES", 879 | Radio Disney 91.1 FM || Lima; Perú
 https://20283.live.streamtheworld.com/DISNEY_PER_LM_SC
 #EXTINF:-1 tvg-id="PE | Radio PBO" tvg-name="PE | Radio PBO" tvg-logo="https://pboradio.minegocio21.com/wp-content/uploads/2020/10/logo.jpg" group-title="EMISORAS NACIONALES", 880 | Radio PBO 91.9 FM || Lima; Perú
-https://s5.voscast.com:10345/pbo-radiofm
+https://streaming.shoutcast.com/pbo-radio-fm?1667974759724
 #EXTINF:-1 tvg-id="PE | Radio Studio 92" tvg-name="PE | Radio Studio 92" tvg-logo="https://eaudioplayer.radio-grpp.io/static/dist/img/logo_studio92.png" group-title="EMISORAS NACIONALES", 881 | Radio Studio 92 92.5 FM || Lima; Perú
 http://190.108.83.142:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-id="PE | Ritmo Romántica" tvg-name="PE | Ritmo Romántica" tvg-logo="https://ritmoromantica.pe/assets/images/logo-ritmo-romantica.png" group-title="EMISORAS NACIONALES", 882 | Ritmo Romántica 93.1 FM || Lima; Perú
