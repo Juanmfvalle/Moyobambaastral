@@ -150,7 +150,7 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/CINECANALHD/10-hls/live-media
 #EXTINF:-1 tvg-id="PE | Cineclub" tvg-name="PE | Cineclub" tvg-logo="https://lh3.googleusercontent.com/-s0IKUMAsHJo/X7qWRlxQFoI/AAAAAAAA7kQ/P07ldtCVVOEh-KVOaz8uhVr20VjdDHs0wCK8BGAsYHg/s0/2020-11-22.png" group-title="PELICULAS Y SERIES", 72 | Cine Club
 https://servilive.com:3176/live/cineclublive.m3u8
 #EXTINF:-1 tvg-id="PE | Cineastral" tvg-name="PE | Cineastral" tvg-logo="https://pbs.twimg.com/media/FSKSQSAXwAEBxq0?format=jpg&name=360x360" group-title="PELICULAS Y SERIES", 73 | Cineastral || Moyobamba
-https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
+https://vdo.grupolimalive.com:3245/multi_web/play.m3u8
 #EXTINF:-1 tvg-id="USA | Paramount Network" tvg-name="USA | Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/150px-Paramount_Network.svg.png" group-title="PELICULAS Y SERIES", 74 | Paramount Network
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PARAMOUNT/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPARAMOUNTCHANNEL_stream_5p&_cdn_session=430613299&_cdn_timestamp=1668893208&_cdn_token=ed463cc1a58ddeb1e4edea1b74c0958fe398b2a6
 #EXTINF:-1 tvg-id="USA | Sony Channel" tvg-name="USA | Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/120px-Sony_Channel_Logo.png" group-title="PELICULAS Y SERIES", 75 | Sony Channel
@@ -315,10 +315,8 @@ http://45.236.28.72:8000/play/a069/index.m3u8
 http://181.119.67.75:8000/play/CH06
 #EXTINF:-1 tvg-id="PE | E Kids" tvg-name="PE | E Kids" tvg-logo="https://pbs.twimg.com/media/FWNa8oVWAAAWvTx?format=png&name=small" group-title="INFANTILES", 155 | E Kids
 https://stream.plixitv.live/ekids/ekids/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Los Simpson TV" tvg-name="USA | Los Simpson TV" tvg-logo="https://static.wikia.nocookie.net/dei8941/images/3/35/The_Simpsons_-_Logo_%28Espa%C3%B1ol%29.png/revision/latest?cb=20210927211520&path-prefix=es" group-title="INFANTILES", En prueba | Los Simpson TV
+#EXTINF:-1 tvg-id="USA | Los Simpson TV" tvg-name="USA | Los Simpson TV" tvg-logo="https://static.wikia.nocookie.net/dei8941/images/3/35/The_Simpsons_-_Logo_%28Espa%C3%B1ol%29.png/revision/latest?cb=20210927211520&path-prefix=es" group-title="INFANTILES", 156 | Los Simpson TV
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/713.m3u8
-#EXTINF:-1 tvg-id="MX | El Chavo del 8 TV" tvg-name="MX | El Chavo del 8 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/245px-El_Chavo_%28simple_logo%29.svg.png" group-title="ENTRETENIMIENTO", 156 | El Chavo del 8 TV
-https://videostreaming.cloudserverlatam.com/elchavoplus/elchavoplus/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | Distrito Comedia" tvg-name="MX | Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/175px-DistritoComediaLOGO2018.png" group-title="ENTRETENIMIENTO", 157 | Distrito Comedia
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/691.m3u8
 #EXTINF:-1 tvg-id="USA | Comedy Central" tvg-name="USA | Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/250px-Comedy_Central_2018.svg.png" group-title="ENTRETENIMIENTO", 158 | Comedy Central 
