@@ -964,9 +964,9 @@ http://190.61.43.117:45000/play/a05f
 #EXTINF:-1 tvg-id="VE | TVFANB" tvg-name="VE | TVFANB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVFanb_logo.png/150px-TVFanb_logo.png" group-title="VENEZUELA", 467 | TVFANB || VENEZUELA
 http://190.61.43.117:45000/play/a05k
 #EXTINF:-1 tvg-id="VE | TLT" tvg-name="VE | TLT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/LOGO-HORIZONTAL_text.png" group-title="VENEZUELA", 468 | La Tele Tuya || VENEZUELA
-http://190.61.43.117:45000/play/a05x
+http://190.61.43.117:45000/play/a05r
 #EXTINF:-1 tvg-id="VE | Colombeia" tvg-name="VE | Colombeia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_Colombeia.png/150px-Logo_Colombeia.png" group-title="VENEZUELA", 469 | Colombeia || VENEZUELA
-http://45.236.28.72:8000/play/a068/index.m3u8
+http://190.61.43.117:45000/play/a05g
 #EXTINF:-1 tvg-id="VE | ConCiencia TV" tvg-name="VE | ConCiencia TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ConcienciaTV_logo_letras.png/300px-ConcienciaTV_logo_letras.png" group-title="VENEZUELA", 470 | ConCiencia TV || VENEZUELA
 http://190.61.43.117:45000/play/a05j
 #EXTINF:-1 tvg-id="VE | ShowVen TV" tvg-name="VE | ShowVen TV" tvg-logo="https://play-lh.googleusercontent.com/vVd1VPRW9BgIgv1NzShVoVvYSwaxR3Xri99Dv4Ofm5qJd6jBMto0ZL9-mG0rTAdr6w" group-title="VENEZUELA", 471 | ShowVen TV || VENEZUELA
@@ -1683,8 +1683,12 @@ https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
 https://vsrv2.az-streamingserver.com:3149/live/alegretvlive.m3u8
 #EXTINF:-1 tvg-id="DO | La Ruta TV" tvg-name="DO | La Ruta TV" tvg-logo="https://yt3.ggpht.com/ZukRlhCuw6HbWdDrEqAHsoqTA6Hjjl_hWkNDlOcAOAzArBalOnV43dU0nL1s3gd6RlAb2KTFOQ=s48-c-k-c0x00ffffff-no-rj" group-title="REPUBLICA DOMINICANA", 814 | La Ruta TV || REPUBLICA DOMINICANA
 https://vsrv2.az-streamingserver.com:3983/live/larutatvlive.m3u8
-#EXTINF:-1 tvg-id="CU | Multivisión" tvg-name="CU | Multivisión" tvg-logo="https://www.tvcubana.icrt.cu/images/logos-canales/logo-mascara/multivision.jpg" group-title="CUBA", 815 | Multivisión || CUBA
-http://45.236.28.72:8000/play/a04c/index.m3u8
+#EXTINF:-1 tvg-id="CU | Canal Habana" tvg-name="CU | Canal Habana" tvg-logo="https://www.tvcubana.icrt.cu/images/logos-canales/logo-mascara/ch.jpg" group-title="CUBA", 815 | Canal Habana || CUBA
+http://190.61.43.117:45000/play/a06b
+#EXTINF:-1 tvg-id="CU | Canal Clave" tvg-name="CU | Canal Clave" tvg-logo="https://www.ecured.cu/images/e/e7/Canal_clave.jpg" group-title="CUBA", En prueba | Canal Clave || CUBA
+http://190.61.43.117:45000/play/a069
+#EXTINF:-1 tvg-id="CU | Cubavisión Internacional" tvg-name="CU | Cubavisión Internacional" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Cubavisi%C3%B3n-Internacional-en-vivo-Online.png?fit=1920%2C1080&ssl=1" group-title="CUBA", En prueba | Cubavisión Internacional || CUBA
+http://190.61.43.117:45000/play/a06a
 #EXTINF:-1 tvg-id="MX | Azteca Uno" tvg-name="MX | Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Azteca_Uno_logo.webp/245px-Azteca_Uno_logo.webp.png" group-title="MEXICO", 816 | Azteca Uno || MÉXICO
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/678.m3u8
 #EXTINF:-1 tvg-id="MX | Canal 5" tvg-name="MX | Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/120px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO", 817 | Canal 5 || MÉXICO
