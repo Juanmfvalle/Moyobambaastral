@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="PE | Willax Televisión" tvg-name="PE | Willax Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Willax_Televisi%C3%B3n_2020.png/245px-Willax_Televisi%C3%B3n_2020.png" group-title="PERU", 1 | Willax Televisión
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/WILLAX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=439163379&_cdn_timestamp=1669380554&_cdn_token=8809de9a4b24a334b510711bc22338c4474f3281
 #EXTINF:-1 tvg-id="PE | Latina Televisión" tvg-name="PE | Latina Televisión" tvg-logo="https://www.latina.pe/wp-content/themes/genesis-latina/img/latina_pe.png" group-title="PERU", 2 | Latina Televisión
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/LATINA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINA_stream_hj&_cdn_session=439559499&_cdn_timestamp=1669389940&_cdn_token=d5e5d60f12e9e7bbd755bad25513dfe974bae07c
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/LATINA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINA_stream_hj&_cdn_session=440259347&_cdn_timestamp=1669407349&_cdn_token=cea7c99fdb5462a3bfa014f4f1475cf59cb1c7e6
 #EXTINF:-1 tvg-id="PE | Nacional TV" tvg-name="PE | Nacional TV" tvg-logo="https://pbs.twimg.com/media/FSIIqcqXIAAG2My?format=jpg&name=small" group-title="PERU", 3 | Nacional TV
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | América Televisión
@@ -409,8 +409,8 @@ https://marine2.miplay.cl/mundoysabor/playlist.m3u8
 https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
 #EXTINF:-1 tvg-id="USA | GolTV" tvg-name="USA | GolTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/245px-GolTV_logo.svg.png" group-title="DEPORTES", 201 | GolTV
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/559.m3u8
-#EXTINF:-1 tvg-id="PE| Gol Perú" tvg-name="MX | Gol Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/245px-Gol_Per%C3%BA_2019.svg.png" group-title="DEPORTES", 202 | Gol Perú
-http://190.43.92.71:8000/play/a0h9/index.m3u8
+#EXTINF:-1 tvg-id="BO | Deporte Total TV" tvg-name="BO | Deporte Total TV" tvg-logo="https://deportetotal.com.bo/wp-content/uploads/2018/09/dt-horizontal-logo-1024x254.png" group-title="DEPORTES", 202 | Deporte Total TV
+https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
 #EXTINF:-1 tvg-id="USA | Fox Sports 2" tvg-name="USA | Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/175px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES", 203 | Fox Sports 2
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=437146755&_cdn_timestamp=1669266140&_cdn_token=e564681e6ef57905b3e74e6b527820dcb5bb77b9
 #EXTINF:-1 tvg-id="USA | Fox Sports 3" tvg-name="USA | Fox Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/180px-Fox_sports_3_logo.svg.png" group-title="DEPORTES", 204 | Fox Sports 3
@@ -1024,17 +1024,17 @@ https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Asociación de Teledifusoras Bolivianas" tvg-name="BO | Asociación de Teledifusoras Bolivianas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/ATBBo2020Logo.png/150px-ATBBo2020Logo.png" group-title="BOLIVIA", 491 | ATB || BOLIVIA
 http://186.121.206.197/live/daniel/index.m3u8
 #EXTINF:-1 tvg-id="BO | Red Uno" tvg-name="BO | Red Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/245px-Uno_logo.svg.png" group-title="BOLIVIA", 492 | Red Uno || BOLIVIA
-https://stream-02.nyc.dailymotion.com/sec(Fpdg9PMCCI6ZZV-w0AWDx9R8e19_pdobdujr0AzHR6yTImUfwxuOHB6BuRdh3bME)/dm/3/x8foc30/s/live-4.m3u8
+https://www.dailymotion.com/cdn/live/video/x828xvr.m3u8?sec=E5eBCPwkmiLRanoa0e7q5YLaOx3oQ6AOKI9OUKmpcbOd1INPtiWliyUDOqPCRfhpNJbEj1vUOVYYZict0dXFEQ&dmTs=365201&dmV1st=ACD0687CC447E5E92053BBB35C70878D
 #EXTINF:-1 tvg-id="BO | Red Periodistas Asociados Televisión" tvg-name="BO | Red Periodistas Asociados Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Red_pat_new.jpg/220px-Red_pat_new.jpg" group-title="BOLIVIA", 493 | PAT || BOLIVIA
 https://master.tucableip.com//pat/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BO | Cadena A" tvg-name="BO | Cadena A" tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2022/03/logoaweb.png" group-title="BOLIVIA", 494 | Cadena A || BOLIVIA
 https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Abya Yala TV" tvg-name="BO | Abya Yala TV" tvg-logo="https://www.prensa-latina.cu/wp-content/uploads/2022/08/abya-yala-tv.jpg" group-title="BOLIVIA", 495 | Abya Yala TV || BOLIVIA
-https://5fc584f3f19c9.streamlock.net/televisionhd/videotelevisionhd/playlist.m3u8
+https://master.tucableip.com/abyayalatvsd/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Mega TV" tvg-name="BO | Mega TV" tvg-logo="https://megatv.com.bo/wp-content/uploads/2022/02/cropped-MEGA-TV-LOGO-PNG.png" group-title="BOLIVIA", 496 | Mega TV || BOLIVIA
 https://stmv.panel.grupolimalive.com/mega/mega/playlist.m3u8
-#EXTINF:-1 tvg-id="BO | Mega Amazonía Rurrenabaque" tvg-name="BO | Mega Amazonía Rurrenabaque" tvg-logo="https://play-lh.googleusercontent.com/Cp6jZxm65zil9JoRVTmbLNpDcC9wVSrWO4Wg7b1Gn7z573yw7NWovolOw04JmLK8kQ" group-title="BOLIVIA", 497 | Mega Amazonía Rurrenabaque || BOLIVIA
-https://solo.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8
+#EXTINF:-1 tvg-id="BO | Erbol TV" tvg-name="BO | Erbol TV" tvg-logo="https://erbol.com.bo/sites/all/themes/atb/logo-principal.png" group-title="BOLIVIA", 497 | Erbol TV || BOLIVIA
+https://cloud2.streaminglivehd.com:1936/8182/8182/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Canal 38 de Viacha" tvg-name="BO | Canal 38 de Viacha" tvg-logo="https://play-lh.googleusercontent.com/wBDtKyxJylDf9zGpInH-85vidL1gvvl0clXukW6QWwOwckzeWzvdQFRJB9hvzLPX804=s48-rw" group-title="BOLIVIA", 498 | Canal 38 de Viacha || BOLIVIA
 https://hls.servidor.stream/storage/canal38viacha.m3u8
 #EXTINF:-1 tvg-id="BO | Coral TV" tvg-name="BO | Coral TV" tvg-logo="https://play-lh.googleusercontent.com/4GZtRfAZ36H4pyoxz1htoVE46eRt_M9sj2Y56En4h0Neezca7wFMaX7ec2n9sW5zJZo=s180-rw" group-title="BOLIVIA", 499 | Coral TV || BOLIVIA
@@ -1079,8 +1079,8 @@ https://master.tucableip.com/neotv/index.m3u8
 https://stmv.panel.grupolimalive.com/tarija/tarija/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | UPP TV" tvg-name="BO | UPP TV" tvg-logo="https://www.redbolivision.tv.bo/wp-content/uploads/2020/10/UPP-ULT.png" group-title="BOLIVIA", 517 | UPP TV || BOLIVIA
 https://d2byzrnrdb259r.cloudfront.net/hls/upptv.m3u8
-#EXTINF:-1 tvg-id="BO | Vos TV Canal 49" tvg-name="BO | Vos TV Canal 49" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9nkEZnDJ16JzcZm6cVP-y-RL0Xd3bo9WU9uiZZOg=s900-c-k-c0x00ffffff-no-rj" group-title="BOLIVIA", 518 | Vos TV Canal 49 || BOLIVIA
-http://canaltv.istbolivia.com:1935/vostv/vostv/playlist.m3u8
+#EXTINF:-1 tvg-id="BO | Delta Instituto TV" tvg-name="BO | Delta Instituto TV" tvg-logo="https://institutodeltabolivia.org/wp-content/uploads/2021/12/cropped-LOGO-DELTA-500.png" group-title="BOLIVIA", 518 | Delta Instituto TV || BOLIVIA
+https://vsrv1.az-streamingserver.com:3068/live/vdsocmnulive.m3u8
 #EXTINF:-1 tvg-id="BO | Carigso Televisión" tvg-name="BO | Carigso Televisión" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs4ChCFlI-i5W3XYw-pFZ6jFR5eEIa--LXALWrzCg4bxt7qtIBOGMoOA4VaoRL76ovO3I&usqp=CAU" group-title="BOLIVIA", 519 | Carigso Televisión || BOLIVIA
 https://stmv1.voxhdnet.com/carigsoradiotv010622/carigsoradiotv010622/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Zuraca TV" tvg-name="BO | Zuraca TV" tvg-logo="https://zuracatv.com/wp-content/uploads/2022/03/257477285_574967930220591_8545729480647595827_n-removebg-preview.png" group-title="BOLIVIA", 520 | Zuraca TV || BOLIVIA
@@ -1089,8 +1089,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/zuracatvh
 http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Cristal de Televisión" tvg-name="BO | Cristal de Televisión" tvg-logo="https://pbs.twimg.com/media/FZ6Up_DWAAAIYZY?format=png&name=240x240" group-title="BOLIVIA", 522 | Cristal de Televisión || BOLIVIA
 http://america.tucableip.com/bolivia/cristaltv/index.m3u8
-#EXTINF:-1 tvg-id="BO | Canal 35 TV Cable Camargo" tvg-name="BO | Canal 35 TV Cable Camargo" tvg-logo="https://tvcamargo.com/wp-content/uploads/2020/05/LOGO-1-300x300.png" group-title="BOLIVIA", 523 | Canal 35 TV Cable Camargo || BOLIVIA
-https://master.tucableip.com/35camargo/playlist.m3u8
+#EXTINF:-1 tvg-id="BO | Canal F10" tvg-name="BO | Canal F10" tvg-logo="https://f10.tv.bo/images/Recurso-4.png" group-title="BOLIVIA", 523 | Canal F10 || BOLIVIA
+https://video.live.com.bo:3253/live/f10hdlive.m3u8
 #EXTINF:-1 tvg-id="CL | Telecanal" tvg-name="CL | Telecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Telecanal_-_2011_logo_%283D_variant%29.png/150px-Telecanal_-_2011_logo_%283D_variant%29.png" group-title="CHILE", 524 | Telecanal || CHILE
 https://unlimited2-cl-isp.dps.live/tctc/tctc.smil/playlist.m3u8?PlaylistASTRAL
 #EXTINF:-1 tvg-id="CL | La Red" tvg-name="CL | La Red" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Emblema_de_La_Red.png/200px-Emblema_de_La_Red.png" group-title="CHILE", 525 | La Red || CHILE
