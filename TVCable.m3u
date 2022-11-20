@@ -589,11 +589,13 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/HISTORY1/40-hls/live-media.m3
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/HISTORYCH2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHISTORYCH2_stream_z0&_cdn_session=437154667&_cdn_timestamp=1669266605&_cdn_token=726a92b8fa40aa66e712582dfa83dcf74dad2351
 #EXTINF:-1 tvg-id="CA | Love Nature" tvg-name="CA | Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2019/11/love_nature_logo_rgb_colour.png" group-title="CULTURA Y EDUCACION", 290 | Love Nature
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/LOVENATURE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLOVENATURE_stream_0s&_cdn_session=437154867&_cdn_timestamp=1669266622&_cdn_token=30bbab426c5254b1b3b51c5a0466bb1190d48775
-#EXTINF:-1 tvg-id="PE | Documentales E +" tvg-name="PE | Documentales E +" tvg-logo="https://pbs.twimg.com/media/FSNTiYiXwAEcuyN?format=jpg&name=240x240" group-title="CULTURA Y EDUCACION", 291 | Documentales E +
+#EXTINF:-1 tvg-id="PE | Documentales E" tvg-name="PE | Documentales E" tvg-logo="https://pbs.twimg.com/media/FSKT_wSXwAYXu3D?format=jpg&name=240x240" group-title="CULTURA Y EDUCACION", 291 | Documentales E
+https://stream.plixitv.live/docue/docue/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | Documentales E +" tvg-name="PE | Documentales E +" tvg-logo="https://pbs.twimg.com/media/FSNTiYiXwAEcuyN?format=jpg&name=240x240" group-title="CULTURA Y EDUCACION", 292 | Documentales E +
 https://stream.plixitv.live/docue2/docue2/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Documentales Astral" tvg-name="PE | Documentales Astral" tvg-logo="https://pbs.twimg.com/media/FhxOiAFaYAIRw_Y?format=png&name=360x360" group-title="PELICULAS Y SERIES", 292 | Documentales Astral || Moyobamba
+#EXTINF:-1 tvg-id="PE | Documentales Astral" tvg-name="PE | Documentales Astral" tvg-logo="https://pbs.twimg.com/media/FhxOiAFaYAIRw_Y?format=png&name=360x360" group-title="PELICULAS Y SERIES", 293 | Documentales Astral || Moyobamba
 https://vdo.grupolimalive.com:3245/multi_web/play.m3u8
-#EXTINF:-1 tvg-id="CO | Avivamiento TV" tvg-name="CO | Avivamiento TV" tvg-logo="https://avivamiento.com/images/all-images/tv/tv.png" group-title="RELIGIOSOS", 293 | Avivamiento Televisión
+#EXTINF:-1 tvg-id="CO | Avivamiento TV" tvg-name="CO | Avivamiento TV" tvg-logo="https://avivamiento.com/images/all-images/tv/tv.png" group-title="RELIGIOSOS", En prueba | Avivamiento Televisión
 https://s2.abntelevision.com/avivamientoabr/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | Vida Nueva TV" tvg-name="CO | Vida Nueva TV" tvg-logo="https://mividanueva.org/wp-content/uploads/2021/02/Logo-Horizontal.png" group-title="RELIGIOSOS", 294 | Vida Nueva Televisión
 https://eu1.servers10.com:8081/vidanuevatv/tracks-v1a1/mono.m3u8
@@ -1022,7 +1024,7 @@ https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Asociación de Teledifusoras Bolivianas" tvg-name="BO | Asociación de Teledifusoras Bolivianas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/ATBBo2020Logo.png/150px-ATBBo2020Logo.png" group-title="BOLIVIA", 491 | ATB || BOLIVIA
 http://186.121.206.197/live/daniel/index.m3u8
 #EXTINF:-1 tvg-id="BO | Red Uno" tvg-name="BO | Red Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/245px-Uno_logo.svg.png" group-title="BOLIVIA", 492 | Red Uno || BOLIVIA
-https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLt4tnLxF5wGcu6xvbDdA7UJ1KFQogO0WYptMVC5D2ckE)/dm/3/x828xvr/d/live-3.m3u8
+https://stream-02.nyc.dailymotion.com/sec(Fpdg9PMCCI6ZZV-w0AWDx9R8e19_pdobdujr0AzHR6yTImUfwxuOHB6BuRdh3bME)/dm/3/x8foc30/s/live-4.m3u8
 #EXTINF:-1 tvg-id="BO | Red Periodistas Asociados Televisión" tvg-name="BO | Red Periodistas Asociados Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Red_pat_new.jpg/220px-Red_pat_new.jpg" group-title="BOLIVIA", 493 | PAT || BOLIVIA
 https://master.tucableip.com//pat/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BO | Cadena A" tvg-name="BO | Cadena A" tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2022/03/logoaweb.png" group-title="BOLIVIA", 494 | Cadena A || BOLIVIA
@@ -1326,7 +1328,7 @@ http://nicatv.rylco.com:8075/channel8/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Canal 9" tvg-name="NI | Canal 9" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/b/bc/Canal9nicaragua.png/revision/latest/scale-to-width-down/185?cb=20210203203806&path-prefix=es" group-title="NICARAGUA", 635 | Canal 9 || NICARAGUA
 http://nicatv.rylco.com:8075/channel9/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Canal 10" tvg-name="NI | Canal 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Canal_10_Nicaragua.png/190px-Canal_10_Nicaragua.png" group-title="NICARAGUA", 636 | Canal 10 || NICARAGUA
-https://dr16kqaca4jpc.cloudfront.net/hls/canal10.m3u8
+http://nicatv.rylco.com:8075/channel10/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Canal 11 TV Red" tvg-name="NI | Canal 11 TV Red" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Canal-11-Nicaragua-en-vivo-Online-100x70.png" group-title="NICARAGUA", 637 | Canal 11 TV Red || NICARAGUA
 http://nicatv.rylco.com:8075/channel11/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Nicavisión" tvg-name="NI | Nicavisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Canal_12_Nicaragua_logo.webp/200px-Canal_12_Nicaragua_logo.webp.png" group-title="NICARAGUA", 638 | Canal 12 Nicavisión || NICARAGUA
