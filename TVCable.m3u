@@ -249,8 +249,8 @@ http://181.119.67.75:8000/play/CH52
 http://181.119.67.75:8000/play/CH53
 #EXTINF:-1 tvg-id="CL | Dos Kids" tvg-name="CL | Dos Kids" tvg-logo="https://multicontenidos.cl/wp-content/uploads/2020/12/DOS-KIDS.png" group-title="INFANTILES", 122 | Dos Kids TV
 http://45.160.12.253:8000/play/002
-#EXTINF:-1 tvg-id="CL | Planeta TV Kids" tvg-name="CL | Planeta TV Kids" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png" group-title="INFANTILES", 123 | Planeta TV Kids
-https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?WebASTRAL
+#EXTINF:-1 tvg-id="AR | Magic Kids" tvg-name="AR | Magic Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logomagic96.png/145px-Logomagic96.png" group-title="INFANTILES", 123 | Magic Kids
+https://magicstream.ddns.net/magicstream/stream.m3u8?WebASTRAL
 #EXTINF:-1 tvg-id="USA | ZooMoo" tvg-name="USA | ZooMoo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/120px-ZooMoo_logo.svg.png" group-title="INFANTILES", 124 | ZooMoo
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ZOOMOO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DZOOMOO_stream_sr&_cdn_session=464806123&_cdn_timestamp=1670465487&_cdn_token=8d8371c0e2bdeb47ce72ee95c20b1a5b8b5f21e4
 #EXTINF:-1 tvg-id="USA | Planeta Junior TV" tvg-name="USA | Planeta Junior TV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni_--nfDx7dY1f6hpnTgv3hrKLPeD4-B-4MeB5K2A=s900-c-k-c0x00ffffff-no-rj" group-title="INFANTILES", 125 | Planeta Junior TV
@@ -1326,7 +1326,7 @@ http://nicatv.rylco.com:8075/channel8/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Canal 9" tvg-name="NI | Canal 9" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/b/bc/Canal9nicaragua.png/revision/latest/scale-to-width-down/185?cb=20210203203806&path-prefix=es" group-title="NICARAGUA", 635 | Canal 9 || NICARAGUA
 http://nicatv.rylco.com:8075/channel9/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Canal 10" tvg-name="NI | Canal 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Canal_10_Nicaragua.png/190px-Canal_10_Nicaragua.png" group-title="NICARAGUA", 636 | Canal 10 || NICARAGUA
-https://cootv.cootel.com.ni:8095/channel10T/playlist.m3u8
+https://cootv.cootel.com.ni:8095/Canal10_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Canal 11 TV Red" tvg-name="NI | Canal 11 TV Red" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Canal-11-Nicaragua-en-vivo-Online-100x70.png" group-title="NICARAGUA", 637 | Canal 11 TV Red || NICARAGUA
 http://nicatv.rylco.com:8075/channel11/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Nicavisión" tvg-name="NI | Nicavisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Canal_12_Nicaragua_logo.webp/200px-Canal_12_Nicaragua_logo.webp.png" group-title="NICARAGUA", 638 | Canal 12 Nicavisión || NICARAGUA
