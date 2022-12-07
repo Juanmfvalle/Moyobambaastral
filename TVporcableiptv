@@ -854,7 +854,7 @@ https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
 #EXTINF:-1 tvg-id="EC | Ecotel TV" tvg-name="EC | Ecotel TV" tvg-logo="https://www.ecotel.tv/images/logoecotel.svg" group-title="ECUADOR", 415 | Ecotel TV || ECUADOR
 https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
 #EXTINF:-1 tvg-id="EC | Puruwa TV" tvg-name="EC | Puruwa TV" tvg-logo="https://image.roku.com/developer_channels/prod/386a41b84216c7010cf0b4ed536fc04f74e2f936aec3509bd1e1b6fd52628f11.png" group-title="ECUADOR", 416 | Puruwa TV || ECUADOR
-https://srv.panelcast.net/puruwalive/puruwalive/playlist.m3u8
+https://mediacp.us:8081/8054/index.m3u8
 #EXTINF:-1 tvg-id="EC | RTU El canal de noticias" tvg-name="EC | RTU El canal de noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_rtu.jpg/556px-Logo_rtu.jpg" group-title="ECUADOR", 417 | RTU || ECUADOR
 http://190.216.105.66:6020/play/a0do/index.m3u8
 #EXTINF:-1 tvg-id="EC | Capricho TV" tvg-name="EC | Capricho TV" tvg-logo="http://www.caprichotvradio.com/wp-content/uploads/2021/12/cropped-cropped-cropped-logo-capricho-1.png" group-title="ECUADOR", 418 | Capricho TV || ECUADOR
@@ -1478,7 +1478,7 @@ https://tvlatina.live:1936/8030/8030/playlist.m3u8
 #EXTINF:-1 tvg-id="GT | TV Azteca Guatemala" tvg-name="GT | TV Azteca Guatemala" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Azteca_Guate_2017.png/200px-Azteca_Guate_2017.png" group-title="GUATEMALA", 709 | TV Azteca Guate || GUATEMALA
 http://190.83.119.67:8000/play/a0rq/index.m3u8
 #EXTINF:-1 tvg-id="GT | Canal Antigua" tvg-name="GT | Canal Antigua" tvg-logo="https://i2.wp.com/canalantigua.tv/wp-content/uploads/2020/12/cropped-cropped-544-x-180-logo-300x99-1.png?fit=300%2C99&ssl=1" group-title="GUATEMALA", 710 | Canal Antigua || GUATEMALA
-https://streannlivefeedlatino.cachefly.net/feedlatino1/feedlatino1/playlist.m3u8
+http://190.115.15.177:58003/play/a0bv/index.m3u8
 #EXTINF:-1 tvg-id="GT | VEA Canal" tvg-name="GT | VEA Canal" tvg-logo="http://veacanal.tv/wp-content/uploads/2017/05/logoveacanal.png" group-title="GUATEMALA", 711 | VEA Canal || GUATEMALA
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/veacanalgt
 #EXTINF:-1 tvg-id="GT | Canal de Gobierno" tvg-name="GT | Canal de Gobierno" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR_Hm3vKJu8-yXqyi7Q66F8ME2CsBddRLq4JnyVcQ=s88-c-k-c0x00ffffff-no-rj" group-title="GUATEMALA", 712 | Canal de Gobierno || GUATEMALA
