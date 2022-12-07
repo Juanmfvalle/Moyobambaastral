@@ -832,19 +832,19 @@ https://1667517699.rsc.cdn77.org/hls/mollendo.m3u8
 #EXTINF:-1 tvg-id="PE | Telesur de Camaná" tvg-name="PE | Telesur de Camaná" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png" group-title="REGIONALES", 404.4 | Telesur || Camana
 https://1667517699.rsc.cdn77.org/hls/camana.m3u8
 #EXTINF:-1 tvg-id="EC | Gamavisión" tvg-name="EC | Gamavisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ECUADOR", 405 | Gamavisión || ECUADOR
-http://45.179.140.242:8000/play/a0jq
+http://190.216.105.66:6020/play/a0e0/index.m3u8
 #EXTINF:-1 tvg-id="EC | Teleamazonas" tvg-name="EC | Teleamazonas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/150px-Teleamazonas_Logo.png" group-title="ECUADOR", 406 | Teleamazonas || ECUADOR
-http://vps-c97214f4.vps.ovh.net/hls/ecutv4.m3u8
+http://190.216.105.66:6020/play/a0dr/index.m3u8
 #EXTINF:-1 tvg-id="EC | TVC" tvg-name="EC | TVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/TVCEC.png/150px-TVCEC.png" group-title="ECUADOR", 407 | TVC || ECUADOR
 https://d6op0qag07k4o.cloudfront.net/hls/tvc.m3u8
 #EXTINF:-1 tvg-id="EC | Ecuador TV" tvg-name="EC | Ecuador TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/150px-EcuadorTV_logo.png" group-title="ECUADOR", 408 | Ecuador TV || ECUADOR
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ECUADORTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DECUADORTV_stream_wj&_cdn_session=464843859&_cdn_timestamp=1670466748&_cdn_token=1703bf785e8f86930ed5e1fc9dbfc5440848e745
 #EXTINF:-1 tvg-id="EC | Ecuavisa" tvg-name="EC | Ecuavisa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/200px-Ecuavisa_Logo_2019.png" group-title="ECUADOR", 409 | Ecuavisa || ECUADOR
-http://vps-c97214f4.vps.ovh.net/hls/ecutv1.m3u8?aa
+http://190.216.105.66:6020/play/a0du/index.m3u8
 #EXTINF:-1 tvg-id="EC | Red Telesistema" tvg-name="EC | Red Telesistema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/150px-Rts_logo.png" group-title="ECUADOR", 410 | RTS || ECUADOR
 https://d6op0qag07k4o.cloudfront.net/hls/rts.m3u8
 #EXTINF:-1 tvg-id="EC | Televisora Central Ecuatoriana" tvg-name="EC | Telecentro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png" group-title="ECUADOR", 411 | TC Televisión || ECUADOR
-http://vps-c97214f4.vps.ovh.net/hls/ecutv3.m3u8?aa
+http://190.216.105.66:6020/play/a0dp/index.m3u8
 #EXTINF:-1 tvg-id="EC | Oromar TV" tvg-name="EC | Oromar TV" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="ECUADOR", 412 | Oromar Televisión || ECUADOR
 http://190.61.43.119:45000/play/a05y
 #EXTINF:-1 tvg-id="EC | Telerama" tvg-name="EC | Telerama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_Telerama.png/250px-Logo_Telerama.png" group-title="ECUADOR", 413 | Telerama || ECUADOR
@@ -856,7 +856,7 @@ https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
 #EXTINF:-1 tvg-id="EC | Puruwa TV" tvg-name="EC | Puruwa TV" tvg-logo="https://image.roku.com/developer_channels/prod/386a41b84216c7010cf0b4ed536fc04f74e2f936aec3509bd1e1b6fd52628f11.png" group-title="ECUADOR", 416 | Puruwa TV || ECUADOR
 https://srv.panelcast.net/puruwalive/puruwalive/playlist.m3u8
 #EXTINF:-1 tvg-id="EC | RTU El canal de noticias" tvg-name="EC | RTU El canal de noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_rtu.jpg/556px-Logo_rtu.jpg" group-title="ECUADOR", 417 | RTU || ECUADOR
-https://streamingwowza.com:19360/rtutv/rtutv.m3u8
+http://190.216.105.66:6020/play/a0do/index.m3u8
 #EXTINF:-1 tvg-id="EC | Capricho TV" tvg-name="EC | Capricho TV" tvg-logo="http://www.caprichotvradio.com/wp-content/uploads/2021/12/cropped-cropped-cropped-logo-capricho-1.png" group-title="ECUADOR", 418 | Capricho TV || ECUADOR
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 #EXTINF:-1 tvg-id="EC | Multicanal" tvg-name="EC | Multicanal" tvg-logo="https://www.multicanalcatamayo.com/wp-content/uploads/2018/10/logo-final-multicanal-web-listo.png" group-title="ECUADOR", 419 | Multicanal || ECUADOR
@@ -1282,7 +1282,7 @@ https://d3bgcstab9qhdz.cloudfront.net/hls/canal4.m3u8
 #EXTINF:-1 tvg-id="CR | Canal 6" tvg-name="CR | Canal 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Canal6CR.png/150px-Canal6CR.png" group-title="COSTA RICA", 613 | Canal 6 Telecentro || COSTA RICA
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal6.m3u8
 #EXTINF:-1 tvg-id="CR | Teletica Canal 7" tvg-name="CR | Teletica Canal 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Teletica.png/120px-Teletica.png" group-title="COSTA RICA", 614 | Teletica || COSTA RICA
-http://190.61.102.67:8000/play/a01t
+http://190.7.192.162:8007/play/s10
 #EXTINF:-1 tvg-id="CR | Canal 8 de Costa Rica" tvg-name="CR | Canal 8 de Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Multi8.png/150px-Multi8.png" group-title="COSTA RICA", 615 | Canal 8 || COSTA RICA
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?uid=C3a7PpdAuZC3sabLt30lYaR3f8eZ4Cmi&sid=2quC4ekWQnoJZeHFhE8blHNWjoZquyAQ&pid=QzfOlvABGmd0T4Aqvnp6zBdfoSC9a9BR&an=screen&at=web-app&av=v5.2.190&ref=https%3A%2F%2Fwww.telediario.cr%2F&res=363x220&without_cookies=false&dnt=true
 #EXTINF:-1 tvg-id="CR | Canal 11" tvg-name="CR | Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/150px-Repretel_11_logo.png" group-title="COSTA RICA", 616 | Canal 11 || COSTA RICA
@@ -1473,8 +1473,6 @@ http://190.83.119.67:8000/play/a0qi/index.m3u8
 https://dslvfq5ee0geu.cloudfront.net/hls/canal23.m3u8
 #EXTINF:-1 tvg-id="GT | Guatevisión" tvg-name="GT | Guatevisión" tvg-logo="https://www.guatevision.com/wp-content/uploads/sites/2/2019/09/logo-1.png?quality=82" group-title="GUATEMALA", 707 | Guatevisión || GUATEMALA
 https://prensalibre-live.cdn.vustreams.com/live/cd8f5328-7a1c-49d9-b318-9190858d1826/live.isml/live-audio_track_0_0_und=64000-video_track=3000000.m3u8
-#EXTINF:-1 tvg-id="GT | Canal 27 El Canal de la Esperanza" tvg-name="GT | Canal 27 El Canal de la Esperanza" tvg-logo="https://www.canal27.org/wp-content/uploads/2019/01/logo_c27f4.png" group-title="GUATEMALA", En prueba | Canal 27 El Canal de la Esperanza || GUATEMALA
-http://45.228.234.185:8000/play/a04m/index.m3u8
 #EXTINF:-1 tvg-id="GT | Nuevo Mundo Televisión" tvg-name="GT | Nuevo Mundo Televisión" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s819cb0bb844c8380/image/i28512c8451c19f44/version/1488494562/image.png" group-title="GUATEMALA", 708 | Nuevo Mundo Televisión || GUATEMALA
 https://tvlatina.live:1936/8030/8030/playlist.m3u8
 #EXTINF:-1 tvg-id="GT | TV Azteca Guatemala" tvg-name="GT | TV Azteca Guatemala" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Azteca_Guate_2017.png/200px-Azteca_Guate_2017.png" group-title="GUATEMALA", 709 | TV Azteca Guate || GUATEMALA
@@ -1738,7 +1736,7 @@ http://190.83.119.67:8000/play/a0v0/index.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo" tvg-name="USA | Telemundo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | Telemundo || ESTADOS UNIDOS DE AMÉRICA
 https://w3ertgfdsawerty8765432qwsdfghjsaw4.tunelive.net:3252/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="ES | TVE" tvg-name="ES | TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/220px-TVE.svg.png" group-title="ESPAÑA", 835 | TVE || ESPAÑA
-http://45.232.211.196:1080/play/a01x
+http://190.97.172.4:8000/play/a02d/index.m3u8
 #EXTINF:-1 tvg-id="ES | La 1" tvg-name="ES | La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/125px-Logo_TVE-1.svg.png" group-title="ESPAÑA", 836 | La 1 || ESPAÑA
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-id="ES | La 2" tvg-name="ES | La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/800px-Logo_TVE-2.svg.png" group-title="ESPAÑA", 837 | La 2 || ESPAÑA
