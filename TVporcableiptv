@@ -76,7 +76,7 @@ https://multimedia.tmcreativos.com:1936/viatelevision/viatelevision/playlist.m3u
 #EXTINF:-1 tvg-id="PE | TV Tropical" tvg-name="PE | TV Tropical" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILk-jY1zv90_cln_aHQVRYRO2VEvi7tDWxSaym1za11jp-36P7vBbdIQKJbWOEj9Na4Y&usqp=CAU" group-title="PROVINCIALES", 36 | TV Tropical || Tarapoto
 https://multimedia.tmcreativos.com:1936/raditropical/ngrp:raditropical_all/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | On TV Channel" tvg-name="PE | On TV Channel" tvg-logo="https://pbs.twimg.com/media/FaGr83kXgAEFas0?format=png&name=240x240" group-title="PROVINCIALES", 37 | On TV Channel || Tarapoto
-http://190.108.83.142:8000/play/a00c/index.m3u8
+https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Innova TV" tvg-name="PE | Innova TV" tvg-logo="https://yt3.ggpht.com/LwObXIX7IQVXWNqLBA0GXlJ3B-STlxrWPrR4vu6_3fCTtga32AySAbBIXnQ-sTeO9gl7ZgFdKg=s88-c-k-c0x00ffffff-no-rj" group-title="PROVINCIALES", 38 | Innova TV || Tarapoto
 http://200.48.184.156:1935/innovatv/innovatv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Millenium TV" tvg-name="PE | Millenium TV" tvg-logo="http://milleniumrtv.com/logo.png" group-title="PROVINCIALES", 39 | Millenium TV || Lamas
@@ -710,7 +710,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/Congr
 #EXTINF:-1 tvg-id="PE | Cultura 24" tvg-name="PE | Cultura 24" tvg-logo="https://cultura24.tv/sites/default/files/inline-images/logo.png" group-title="REGIONALES", 347 | Cultura 24 TV || Lima
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w366215588_b564000_sles.m3u8
 #EXTINF:-1 tvg-id="PE | Vamisa TV" tvg-name="PE | Vamisa TV" tvg-logo="https://radiovamisa.tv/wp-content/uploads/2020/03/logo-1.png" group-title="REGIONALES", 348 | Vamisa TV || Lima
-https://vps1.lnx.pe/vamisa/envivo/index.m3u8
+https://inliveserver.com:1936/9502/9502/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | CCN TV" tvg-name="PE | CCN TV" tvg-logo="http://www.cablenetword.com/img/logo.png" group-title="REGIONALES", 349 | CCN TV || Lima
 https://tv.inka.net.pe/cntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="PE | Monterrico TV" tvg-name="PE | Monterrico TV" tvg-logo="https://hipodromodemonterrico.com.pe/generales_logos_hipodromos/logo_mont.gif" group-title="REGIONALES", 350 | Monterrico TV || Lima
