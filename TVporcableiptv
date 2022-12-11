@@ -233,12 +233,14 @@ http://45.160.12.253:8000/play/109
 http://45.160.12.253:8000/play/108
 #EXTINF:-1 tvg-id="MX | Cine Latino" tvg-name="MX | Cine Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cine_Latino_logo.svg/150px-Cine_Latino_logo.svg.png" group-title="PELICULAS Y SERIES", 114 | Cine Latino
 http://45.179.164.9:8000/play/a062/index.m3u8
-#EXTINF:-1 tvg-id="MX | Golden Plus" tvg-name="MX | Golden Plus" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/f/f9/Golden_Plus_LA_2020.png/revision/latest/scale-to-width-down/250?cb=20201219032836&path-prefix=es" group-title="PELICULAS Y SERIES", 115 | Golden Plus
+#EXTINF:-1 tvg-id="MX | Golden" tvg-name="MX | Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/245px-Canal_Golden_logo.svg.png" group-title="PELICULAS Y SERIES", 115 | Golden
 http://45.179.164.9:8000/play/a04b/index.m3u8
 #EXTINF:-1 tvg-id="MX | Golden Edge" tvg-name="MX | Golden Edge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/210px-Golden_Edge_Logo_2020.png" group-title="PELICULAS Y SERIES", 116 | Golden Edge
 http://181.119.67.75:8000/play/CH49
+#EXTINF:-1 tvg-id="MX | Multicinema" tvg-name="MX | Multicinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/150px-MC_logo_2022.png" group-title="PELICULAS Y SERIES", En prueba | Multicinema
+http://45.179.164.9:8000/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="MX | Multipremier" tvg-name="MX | Multipremier" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/150px-Multipremier_logo.svg.png" group-title="PELICULAS Y SERIES", 117 | Multipremier
-http://181.119.67.75:8000/play/CH11
+http://45.179.164.9:8000/play/a061/index.m3u8
 #EXTINF:-1 tvg-id="USA | DHE" tvg-name="USA | DHE" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png" group-title="PELICULAS Y SERIES", 118 | DHE
 http://190.131.247.82:8000/play/a00i
 #EXTINF:-1 tvg-id="USA | Cine Premium" tvg-name="USA | Cine Premium" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinepremium.png" group-title="PELICULAS Y SERIES", 119 | Cine Premium
