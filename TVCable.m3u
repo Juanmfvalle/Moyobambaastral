@@ -348,11 +348,11 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/LANACIONAL/40-hls/live-media.
 #EXTINF:-1 tvg-id="AR | A24" tvg-name="AR | A24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/A24_%282019-1%29.png/150px-A24_%282019-1%29.png" group-title="NOTICIAS E INFORMACION", 171 | A24
 http://onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu7/thjhg3468ihj/5.m3u8
 #EXTINF:-1 tvg-id="IRN | HispanTV" tvg-name="IRN | HispanTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/245px-HispanTv_logo.svg.png" group-title="NOTICIAS E INFORMACION", 172 | HispanTV
-https://live1.presstv.ir/live/hispan_360p/index.m3u8
+https://cdnlive.presstv.ir/cdnlive/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CH | CGTN Español" tvg-name="CH | CGTN Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/180px-CGTN_Espanol.png" group-title="NOTICIAS E INFORMACION", 173 | CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="CO | Nuestra Tele Noticias 24" tvg-name="CO | Nuestra Tele Noticias 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NTN24_logo.svg/245px-NTN24_logo.svg.png" group-title="NOTICIAS E INFORMACION", 174 | NTN 24
-https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl2DApJbHVAzejrZOg0JvaDr-oo-oygkoqJ7JIEBaoMB1)/dm/3/x7w4okl/s/live-1.m3u8
+https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl2DApJbHVAzejrZOg0JvaDr-oo-oygkoqJ7JIEBaoMB1)/dm/3/x7w4okl/s/live-1.m3u8
 #EXTINF:-1 tvg-id="ESP | 24 Horas tve" tvg-name="ESP | 24 horas tve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/125px-Logo_TVE-24h.svg.png" group-title="NOTICIAS E INFORMACION", 175 | 24 horas tve
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="USA | CNN en Español" tvg-name="USA | CNN en Español" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png" group-title="NOTICIAS E INFORMACION", 176 | CNN en Español
@@ -1270,7 +1270,7 @@ https://d3bgcstab9qhdz.cloudfront.net/hls/canal4.m3u8
 #EXTINF:-1 tvg-id="CR | Canal 6" tvg-name="CR | Canal 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Canal6CR.png/150px-Canal6CR.png" group-title="COSTA RICA", 616 | Canal 6 Telecentro || COSTA RICA
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal6.m3u8
 #EXTINF:-1 tvg-id="CR | Teletica Canal 7" tvg-name="CR | Teletica Canal 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Teletica.png/120px-Teletica.png" group-title="COSTA RICA", 617 | Teletica || COSTA RICA
-http://190.7.192.162:8007/play/s10
+http://190.7.192.163:8006/play/s33
 #EXTINF:-1 tvg-id="CR | Canal 8 de Costa Rica" tvg-name="CR | Canal 8 de Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Multi8.png/150px-Multi8.png" group-title="COSTA RICA", 618 | Canal 8 || COSTA RICA
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?uid=C3a7PpdAuZC3sabLt30lYaR3f8eZ4Cmi&sid=2quC4ekWQnoJZeHFhE8blHNWjoZquyAQ&pid=QzfOlvABGmd0T4Aqvnp6zBdfoSC9a9BR&an=screen&at=web-app&av=v5.2.190&ref=https%3A%2F%2Fwww.telediario.cr%2F&res=363x220&without_cookies=false&dnt=true
 #EXTINF:-1 tvg-id="CR | Canal 11" tvg-name="CR | Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/150px-Repretel_11_logo.png" group-title="COSTA RICA", 619 | Canal 11 || COSTA RICA
@@ -1702,7 +1702,7 @@ http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQ
 #EXTINF:-1 tvg-id="MX | TV Cuatro de Guanajuato" tvg-name="MX | TV Cuatro de Guanajuato" tvg-logo="https://www.tvcuatro.com/logo%201024.png" group-title="MEXICO", 832 | TV Cuatro de Guanajuato || MÉXICO
 https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | UniMás" tvg-name="USA | UniMás" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/200px-Logo_UniM%C3%A1s_2021.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 833 | UniMás || ESTADOS UNIDOS DE AMÉRICA
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/663.m3u8
+https://v-la.mybtv.net/live/168.m3u8
 #EXTINF:-1 tvg-id="USA | Galavisión" tvg-name="USA | Galavisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/160px-Galavision_Logo_2013.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 834 | Galavisión || ESTADOS UNIDOS DE AMÉRICA
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/556.m3u8
 #EXTINF:-1 tvg-id="USA | Stream Uno TV" tvg-name="USA | Stream Uno TV" tvg-logo="https://play-lh.googleusercontent.com/gBsGCIfU_w3CAVGpDoruLQjppjeRAJQoKja0p1kciAGdWHMudwjWfwUvN_3iNdP8BCs" group-title="ESTADOS UNIDOS DE AMÉRICA", 835 | Stream Uno TV || ESTADOS UNIDOS DE AMÉRICA
@@ -1714,7 +1714,7 @@ http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQ
 #EXTINF:-1 tvg-id="USA | Nat Geo Mundo" tvg-name="USA | Nat Geo Mundo" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Nat_Geo_Mundo.svg/revision/latest/scale-to-width-down/300?cb=20140626190709" group-title="ESTADOS UNIDOS DE AMÉRICA", 838 | Nat Geo Mundo || ESTADOS UNIDOS DE AMÉRICA
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/598.m3u8
 #EXTINF:-1 tvg-id="USA | Estrella TV" tvg-name="USA | Estrella TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 839 | Estrella TV || ESTADOS UNIDOS DE AMÉRICA
-https://dai.google.com/linear/hls/pa/event/CvTZNYjrRC2HJU4io--aAA/stream/fb34c414-a171-42dc-ab17-67fe241c06b7:SCL/variant/4b8d71b7a4052ad0c11b003c07c7dd08/bandwidth/906400.m3u8
+https://estrellatv-oando.amagi.tv/playlistR720P.m3u8
 #EXTINF:-1 tvg-id="USA | Univision" tvg-name="USA | Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 840 | Univision || ESTADOS UNIDOS DE AMÉRICA
 http://190.83.119.67:8000/play/a0v0/index.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo" tvg-name="USA | Telemundo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 841 | Telemundo || ESTADOS UNIDOS DE AMÉRICA
