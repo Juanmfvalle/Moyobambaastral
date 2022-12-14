@@ -1741,6 +1741,12 @@ https://v-px.mybtv.net/live/3.m3u8
 https://v-px.mybtv.net/live/4.m3u8
 #EXTINF:-1 tvg-id="USA | Ion Mystery" tvg-name="USA | Ion Mystery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/220px-ION_Mystery_logo.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | Ion Mystery || ESTADOS UNIDOS DE AMÉRICA
 https://v-px.mybtv.net/live/5.m3u8
+#EXTINF:-1 tvg-id="USA | True Crime Network" tvg-name="USA | True Crime Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/True_Crime_Network_logo.svg/265px-True_Crime_Network_logo.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | True Crime Network || ESTADOS UNIDOS DE AMÉRICA
+https://v-px.mybtv.net/live/6.m3u8
+#EXTINF:-1 tvg-id="USA | Arizona PBS TV" tvg-name="USA | Arizona PBS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/81/KAET_logo_2015.svg/250px-KAET_logo_2015.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | Arizona PBS TV || ESTADOS UNIDOS DE AMÉRICA
+https://v-px.mybtv.net/live/9.m3u8
+#EXTINF:-1 tvg-id="USA | World Channel" tvg-name="USA | World Channel" tvg-logo="https://pbs.twimg.com/media/Fj6qlUBWYAApjN_?format=png&name=240x240" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | World Channel || ESTADOS UNIDOS DE AMÉRICA
+https://v-px.mybtv.net/live/10.m3u8
 #EXTINF:-1 tvg-id="ES | TVE" tvg-name="ES | TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/220px-TVE.svg.png" group-title="ESPAÑA", 842 | TVE || ESPAÑA
 http://190.115.15.177:58003/play/a0cc/index.m3u8
 #EXTINF:-1 tvg-id="ES | La 1" tvg-name="ES | La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/125px-Logo_TVE-1.svg.png" group-title="ESPAÑA", 843 | La 1 || ESPAÑA
@@ -1791,7 +1797,7 @@ https://sp.dattavolt.com/8062/stream
 https://radio.livestreamingmundial.com/8034/stream/;type=mp3
 #EXTINF:-1 tvg-id="PE | Radio La Voz de Moyobamba" tvg-name="PE | Radio La Voz de Moyobamba" tvg-logo="https://play-lh.googleusercontent.com/n1rtB2umm4Aiu1hkiKnRhGDlnnBLJYO2ZEWAClKuaJShBrMmKg7xvnWAZX4jbMMwn0I=w240-h480-rw" group-title="EMISORAS LOCALES", 866 | Radio La Voz de Moyobamba || Moyobamba; Perú
 https://radio.livestreamingmundial.com:7193/stream?icy=http
-#EXTINF:-1 tvg-id="PE | Radio Moyobamba" tvg-name="PE | Radio Moyobamba" tvg-logo="https://radiomoyobamba.com/wp-content/uploads/2021/10/Logo-Radio-Moyobamba-para-web-1536x607.png" group-title="EMISORAS LOCALES", 867 | Radio Moyobamba || Moyobamba; Perú
+#EXTINF:-1 tvg-id="PE | Radio Moyobamba" tvg-name="PE | Radio Moyobamba" tvg-logo="https://www.planetaradios.com/content/radios_fm/radio-moyobamba-online.png" group-title="EMISORAS LOCALES", 867 | Radio Moyobamba || Moyobamba; Perú
 https://conectperu.com/8236/stream
 #EXTINF:-1 tvg-id="PE | Radio Tropicana" tvg-name="PE | Radio Tropicana" tvg-logo="https://play-lh.googleusercontent.com/SbNWROdHc1mgEQpZQBDPHcdjlNsKX2K1-q3_6V5LXOGtg36sttuxX_7qgNTX3C79JA" group-title="EMISORAS LOCALES", 868 | Radio Tropicana 99.7 FM || Soritor; Perú
 https://radio.livestreamingmundial.com:7086/live
@@ -1893,11 +1899,11 @@ https://5c3fb01839654.streamlock.net:1963/ipradioovacion1/liveovacion1radio/play
 https://dattavolt.com/8164/stream
 #EXTINF:-1 tvg-id="PE | Radio Bienestar" tvg-name="PE | Radio Bienestar" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/bienestar.png" group-title="EMISORAS NACIONALES", 917 | Radio Bienestar 760 AM || Lima; Perú
 https://26373.live.streamtheworld.com/BIENESTAR_SC?dist=20001
-#EXTINF:-1 tvg-id="PE | Radio Victoria" tvg-name="PE | Radio Victoria" tvg-logo="http://www.radiovictoria.com.pe/imgs/logo_4.png" group-title="EMISORAS NACIONALES", 918 | Radio Victoria 780 AM || Lima; Perú
+#EXTINF:-1 tvg-id="PE | Radio Victoria" tvg-name="PE | Radio Victoria" tvg-logo="https://admin.auto-messenger.ru/storage/radios/5260/7077/conversions/radio-victorialima-lg.webp" group-title="EMISORAS NACIONALES", 918 | Radio Victoria 780 AM || Lima; Perú
 http://65.60.45.74:8156/;
 #EXTINF:-1 tvg-id="PE | Radio Libertad" tvg-name="PE | Radio Libertad" tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/5fb35d0c937166520cc7699bcc829cd5.jpg" group-title="EMISORAS NACIONALES", 919 | Radio Libertad 820 AM || Lima; Perú
 https://radio.pjcks.com/9972/stream
-#EXTINF:-1 tvg-id="PE | Radio Latina" tvg-name="PE | Radio Latina" tvg-logo="http://www.radiolatina.com.pe/admin/assets/img/logo.png" group-title="EMISORAS NACIONALES", 920 | Radio Latina 990 AM || Lima; Perú
+#EXTINF:-1 tvg-id="PE | Radio Latina" tvg-name="PE | Radio Latina" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/latina-lima.png" group-title="EMISORAS NACIONALES", 920 | Radio Latina 990 AM || Lima; Perú
 http://server07.srvsh.com.br:8016/;
 #EXTINF:-1 tvg-id="PE | Radio Cielo" tvg-name="PE | Radio Cielo" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/cielo-lima.png" group-title="EMISORAS NACIONALES", 921 | Radio Cielo 1010 AM || Lima; Perú
 https://serverssl.innovatestream.pe:8080/http://167.114.118.120:7342/;
