@@ -125,10 +125,12 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/KANALD/40-hls/live-media.m3u8
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AZCORAZON/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZCORAZON_stream_p3&_cdn_session=487290947&_cdn_timestamp=1671374868&_cdn_token=d63edfc8614808f1f6bc148c6e38fa9aeccbff45
 #EXTINF:-1 tvg-id="MX | Tlnovelas" tvg-name="MX | Tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="NOVELAS", 61 | Tlnovelas
 http://190.61.102.67:31589/play/a08d/index.m3u8
-#EXTINF:-1 tvg-id="USA | Univision Tlnovelas" tvg-name="USA | Univision Tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/180px-Univision_tlnovelas_%282019%29.svg.png" group-title="NOVELAS", 61.2 | Univision Tlnovelas
+#EXTINF:-1 tvg-id="USA | Univision Tlnovelas" tvg-name="USA | Univision Tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/180px-Univision_tlnovelas_%282019%29.svg.png" group-title="NOVELAS", 61.2 | Univisión Tlnovelas
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/667.m3u8
-#EXTINF:-1 tvg-id="MX | Las Estrellas" tvg-name="MX | Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/180px-Las_Estrellas.svg.png" group-title="INTERNACIONALES", 62 | Las Estrellas Latinoamérica
+#EXTINF:-1 tvg-id="MX | Las Estrellas Latinoamérica" tvg-name="MX | Las Estrellas Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/180px-Las_Estrellas.svg.png" group-title="INTERNACIONALES", 62 | Las Estrellas Latinoamérica
 http://200.48.19.140:10021/play/a00i
+#EXTINF:-1 tvg-id="USA | Univisión Latinoamérica" tvg-name="USA | Univisión Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="INTERNACIONALES", En prueba | Univisión Latinoamérica
+http://190.83.119.67:8000/play/a0v0/index.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", 63 | Telemundo Internacional
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TELEMUNDO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEMUNDO_stream_fp&_cdn_session=487292395&_cdn_timestamp=1671374911&_cdn_token=8934a92d3f507baa6b218c45bd08ff1ffcb0720c
 #EXTINF:-1 tvg-id="USA | ID" tvg-name="USA | ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png" group-title="DOCUMENTALES Y SERIES", 64 | Investigation Discovery
@@ -871,8 +873,10 @@ https://oracle.streaminghd.cl/herconslac/herconslac/playlist.m3u8
 http://181.119.67.75:8000/play/CH66
 #EXTINF:-1 tvg-id="CO | RCN" tvg-name="CO | RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/140px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA", 427 | RCN || COLOMBIA
 http://181.119.67.75:8000/play/CH60
-#EXTINF:-1 tvg-id="CO | RCN +" tvg-name="CO | RCN +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/RCN_HD2_2019.png/200px-RCN_HD2_2019.png" group-title="COLOMBIA", 427.2 | RCN + || COLOMBIA
+#EXTINF:-1 tvg-id="CO | RCN+" tvg-name="CO | RCN+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/RCN_HD2_2019.png/200px-RCN_HD2_2019.png" group-title="COLOMBIA", 427.2 | RCN+ || COLOMBIA
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CO | RCN Xtra" tvg-name="CO | RCN Xtra" tvg-logo="https://pbs.twimg.com/media/Fj6XrAoXwAAOLKg?format=png&name=120x120" group-title="COLOMBIA", 427.3 | RCN Xtra || COLOMBIA
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | Canal Caracol" tvg-name="CO | Canal Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="COLOMBIA", 428 | Canal Caracol || COLOMBIA
 http://181.119.67.75:8000/play/CH59
 #EXTINF:-1 tvg-id="CO | Noticias Caracol" tvg-name="CO | Noticias Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Noticias_Caracol_imagotype.svg/150px-Noticias_Caracol_imagotype.svg.png" group-title="COLOMBIA", 428.2 | Noticias Caracol || COLOMBIA
@@ -1703,6 +1707,8 @@ http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQ
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/714.m3u8
 #EXTINF:-1 tvg-id="MX | TV Cuatro de Guanajuato" tvg-name="MX | TV Cuatro de Guanajuato" tvg-logo="https://www.tvcuatro.com/logo%201024.png" group-title="MEXICO", 832 | TV Cuatro de Guanajuato || MÉXICO
 https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PR | TeleOnce" tvg-name="PR | TeleOnce" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Teleonce_Logo_2021.png/220px-Teleonce_Logo_2021.png" group-title="PUERTO RIC0", En prueba | TeleOnce || PUERTO RICO
+https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 #EXTINF:-1 tvg-id="USA | UniMás" tvg-name="USA | UniMás" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/200px-Logo_UniM%C3%A1s_2021.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 833 | UniMás || ESTADOS UNIDOS DE AMÉRICA
 https://v-la.mybtv.net/live/168.m3u8
 #EXTINF:-1 tvg-id="USA | Galavisión" tvg-name="USA | Galavisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/160px-Galavision_Logo_2013.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 834 | Galavisión || ESTADOS UNIDOS DE AMÉRICA
@@ -1717,10 +1723,22 @@ http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQ
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/598.m3u8
 #EXTINF:-1 tvg-id="USA | Estrella TV" tvg-name="USA | Estrella TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 839 | Estrella TV || ESTADOS UNIDOS DE AMÉRICA
 https://estrellatv-oando.amagi.tv/playlistR720P.m3u8
-#EXTINF:-1 tvg-id="USA | Univision" tvg-name="USA | Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 840 | Univision || ESTADOS UNIDOS DE AMÉRICA
-http://190.83.119.67:8000/play/a0v0/index.m3u8
+#EXTINF:-1 tvg-id="USA | Azteca América" tvg-name="USA | Azteca América" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Azteca_Am%C3%A9rica_logo_2015.png/170px-Azteca_Am%C3%A9rica_logo_2015.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 840 | Azteca América || ESTADOS UNIDOS DE AMÉRICA
+https://v-px.mybtv.net/live/41.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo" tvg-name="USA | Telemundo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 841 | Telemundo || ESTADOS UNIDOS DE AMÉRICA
 https://w3ertgfdsawerty8765432qwsdfghjsaw4.tunelive.net:3252/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="USA | TeleXitos" tvg-name="USA | TeleXitos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Telexitos_logo.png/220px-Telexitos_logo.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | TeleXitos || ESTADOS UNIDOS DE AMÉRICA
+https://v-px.mybtv.net/live/47.m3u8
+#EXTINF:-1 tvg-id="USA | Américatevé" tvg-name="USA | Américatevé" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/af/Am%C3%A9rica_Tev%C3%A9_Logo.png/200px-Am%C3%A9rica_Tev%C3%A9_Logo.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | Américatevé || ESTADOS UNIDOS DE AMÉRICA
+https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
+#EXTINF:-1 tvg-id="USA | Laff" tvg-name="USA | Laff" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/LAFF_logo.png/200px-LAFF_logo.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | Laff || ESTADOS UNIDOS DE AMÉRICA
+https://v-px.mybtv.net/live/2.m3u8
+#EXTINF:-1 tvg-id="USA | Grit" tvg-name="USA | Grit" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Grit_TV_Network_Logo.gif/225px-Grit_TV_Network_Logo.gif" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | Grit || ESTADOS UNIDOS DE AMÉRICA
+https://v-px.mybtv.net/live/3.m3u8
+#EXTINF:-1 tvg-id="USA | Bounce TV" tvg-name="USA | Bounce TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/250px-Bounce_TV_logo.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | Bounce TV || ESTADOS UNIDOS DE AMÉRICA
+https://v-px.mybtv.net/live/4.m3u8
+#EXTINF:-1 tvg-id="USA | Ion Mystery" tvg-name="USA | Ion Mystery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/220px-ION_Mystery_logo.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | Ion Mystery || ESTADOS UNIDOS DE AMÉRICA
+https://v-px.mybtv.net/live/5.m3u8
 #EXTINF:-1 tvg-id="ES | TVE" tvg-name="ES | TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/220px-TVE.svg.png" group-title="ESPAÑA", 842 | TVE || ESPAÑA
 http://190.115.15.177:58003/play/a0cc/index.m3u8
 #EXTINF:-1 tvg-id="ES | La 1" tvg-name="ES | La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/125px-Logo_TVE-1.svg.png" group-title="ESPAÑA", 843 | La 1 || ESPAÑA
