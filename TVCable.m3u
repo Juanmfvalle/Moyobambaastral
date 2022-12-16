@@ -738,7 +738,7 @@ https://video.ingenioperu.com:3681/live/palmerastvlive.m3u8
 #EXTINF:-1 tvg-id="PE | Clips TV" tvg-name="PE | Clips TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSf-gnmJJq2Q_TJ4yCg_ZpuMp--UUb_MrHN5D7Z=s900-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", 361 | Clips TV || Sechura; Piura
 https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
 #EXTINF:-1 tvg-id="PE | TV Norte" tvg-name="PE | TV Norte" tvg-logo="https://appnew.megainfoapp.com/files/1/tvnorte.jpg" group-title="REGIONALES", 362 | TV Norte || Chiclayo
-https://stream-03.nyc.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqlSntWDuoHd_kZ7j5ABbkZNL3u98_azkgOUf6rKszUf8)/dm/3/x7uk62a/s/live-3.m3u8
+https://stream-01.nyc.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqlSntWDuoHd_kZ7j5ABbkZNL3u98_azkgOUf6rKszUf8)/dm/3/x7uk62a/s/live-3.m3u8
 #EXTINF:-1 tvg-id="PE | Lot Plus TV" tvg-name="PE | Lot Plus TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR6iGa3A35AnYAm29YkkDJahn0mzAQZYDU9q5LJ=s88-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", 363 | Lot Plus TV || Chiclayo
 https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | TV Cosmos" tvg-name="PE | TV Cosmos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Tv_cosmos.jpg/245px-Tv_cosmos.jpg" group-title="REGIONALES", 364 | TV Cosmos || Trujillo
@@ -1761,6 +1761,18 @@ https://v-px.mybtv.net/live/15.m3u8
 https://v-px.mybtv.net/live/19.m3u8
 #EXTINF:-1 tvg-id="USA | MeTV Arizona" tvg-name="USA | MeTV Arizona" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/MeTV_Arizona_logo.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | MeTV Arizona || ESTADOS UNIDOS DE AMÉRICA
 https://v-px.mybtv.net/live/20.m3u8
+#EXTINF:-1 tvg-id="USA | Cozi TV" tvg-name="USA | Cozi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/200px-Cozi_TV_logo.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | Cozi TV || ESTADOS UNIDOS DE AMÉRICA
+https://v-px.mybtv.net/live/23.m3u8
+#EXTINF:-1 tvg-id="USA | Good News TV" tvg-name="USA | Good News TV" tvg-logo="https://play-lh.googleusercontent.com/nhs49pdwRUhuGWVGYFCKuskKL1f2B-m0mu0PUujX9GkfenjEF-NxFYl5B07aR4vS5jc" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | Good News TV || ESTADOS UNIDOS DE AMÉRICA
+https://v-px.mybtv.net/live/24.m3u8
+#EXTINF:-1 tvg-id="USA | Smile" tvg-name="USA | Smile" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Smile_TV.jpg/220px-Smile_TV.jpg" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | Smile || ESTADOS UNIDOS DE AMÉRICA
+https://v-px.mybtv.net/live/25.m3u8
+#EXTINF:-1 tvg-id="USA | TBN Inspire" tvg-name="USA | TBN Inspire" tvg-logo="https://tbninspire.wpengine.com/wp-content/uploads/2021/12/TBN-Inspire-Logo_Transparent.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | TBN Inspire || ESTADOS UNIDOS DE AMÉRICA
+https://v-px.mybtv.net/live/26.m3u8
+#EXTINF:-1 tvg-id="USA | American Broadcasting Company (ABC)" tvg-name="USA | American Broadcasting Company (ABC)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/120px-ABC-2021-LOGO.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | American Broadcasting Company (ABC) || ESTADOS UNIDOS DE AMÉRICA
+https://v-px.mybtv.net/live/27.m3u8
+#EXTINF:-1 tvg-id="USA | Univision" tvg-name="USA | Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/150px-Logo_Univision_2019.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | Univision || ESTADOS UNIDOS DE AMÉRICA
+https://v-px.mybtv.net/live/28.m3u8
 #EXTINF:-1 tvg-id="ES | TVE" tvg-name="ES | TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/220px-TVE.svg.png" group-title="ESPAÑA", 842 | TVE || ESPAÑA
 http://190.115.15.177:58003/play/a0cc/index.m3u8
 #EXTINF:-1 tvg-id="ES | La 1" tvg-name="ES | La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/125px-Logo_TVE-1.svg.png" group-title="ESPAÑA", 843 | La 1 || ESPAÑA
