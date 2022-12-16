@@ -3,7 +3,7 @@
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/WILLAX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=493459371&_cdn_timestamp=1671576115&_cdn_token=3c4e10c42d6fff3bac291816741802074a677955
 #EXTINF:-1 tvg-id="PE | Latina Televisión" tvg-name="PE | Latina Televisión" tvg-logo="https://www.latina.pe/wp-content/themes/genesis-latina/img/latina_pe.png" group-title="PERU", 2 | Latina Televisión
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/LATINA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINA_stream_hj&_cdn_session=493455299&_cdn_timestamp=1671575951&_cdn_token=123b77338b4dbfd9daf5e77d7e10f8231d4436bf
-#EXTINF:-1 tvg-id="PE | Nacional TV" tvg-name="PE | Nacional TV" tvg-logo="https://pbs.twimg.com/media/FSIIqcqXIAAG2My?format=jpg&name=small" group-title="PERU", 3 | Nacional TV
+#EXTINF:-1 tvg-id="PE | Tele Perú" tvg-name="PE | Tele Perú" tvg-logo="https://pbs.twimg.com/media/FkEbdlNWQAAFCx7?format=png&name=240x240" group-title="PERU", 3 | Tele Perú
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | América Televisión
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AMERIK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=493459475&_cdn_timestamp=1671576122&_cdn_token=0704caff1a7115a76a6571af66ccb72e5bd571ee
@@ -1735,6 +1735,8 @@ https://v-px.mybtv.net/live/47.m3u8
 https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Vision Latina TV" tvg-name="USA | Vision Latina TV" tvg-logo="https://visionlatina.com/wp-content/uploads/2022/02/VL5-1536x509.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | Vision Latina TV || ESTADOS UNIDOS DE AMÉRICA
 https://v-px.mybtv.net/live/54.m3u8
+#EXTINF:-1 tvg-id="USA | Univision" tvg-name="USA | Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/150px-Logo_Univision_2019.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | Univision || ESTADOS UNIDOS DE AMÉRICA
+https://v-px.mybtv.net/live/28.m3u8
 #EXTINF:-1 tvg-id="USA | Laff" tvg-name="USA | Laff" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/LAFF_logo.png/200px-LAFF_logo.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | Laff || ESTADOS UNIDOS DE AMÉRICA
 https://v-px.mybtv.net/live/2.m3u8
 #EXTINF:-1 tvg-id="USA | Grit" tvg-name="USA | Grit" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Grit_TV_Network_Logo.gif/225px-Grit_TV_Network_Logo.gif" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | Grit || ESTADOS UNIDOS DE AMÉRICA
@@ -1771,8 +1773,8 @@ https://v-px.mybtv.net/live/25.m3u8
 https://v-px.mybtv.net/live/26.m3u8
 #EXTINF:-1 tvg-id="USA | American Broadcasting Company (ABC)" tvg-name="USA | American Broadcasting Company (ABC)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/120px-ABC-2021-LOGO.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | American Broadcasting Company (ABC) || ESTADOS UNIDOS DE AMÉRICA
 https://v-px.mybtv.net/live/27.m3u8
-#EXTINF:-1 tvg-id="USA | Univision" tvg-name="USA | Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/150px-Logo_Univision_2019.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | Univision || ESTADOS UNIDOS DE AMÉRICA
-https://v-px.mybtv.net/live/28.m3u8
+#EXTINF:-1 tvg-id="USA | This TV" tvg-name="USA | This TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/This_TV_logo.svg/215px-This_TV_logo.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | This TV || ESTADOS UNIDOS DE AMÉRICA
+https://v-px.mybtv.net/live/34.m3u8
 #EXTINF:-1 tvg-id="ES | TVE" tvg-name="ES | TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/220px-TVE.svg.png" group-title="ESPAÑA", 842 | TVE || ESPAÑA
 http://190.115.15.177:58003/play/a0cc/index.m3u8
 #EXTINF:-1 tvg-id="ES | La 1" tvg-name="ES | La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/125px-Logo_TVE-1.svg.png" group-title="ESPAÑA", 843 | La 1 || ESPAÑA
