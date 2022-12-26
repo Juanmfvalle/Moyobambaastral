@@ -743,6 +743,8 @@ https://stream-03.nyc.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqu6wneTypvzAoUZkrF
 https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | TV Cosmos" tvg-name="PE | TV Cosmos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Tv_cosmos.jpg/245px-Tv_cosmos.jpg" group-title="REGIONALES", 364 | TV Cosmos || Trujillo
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | Sol TV" tvg-name="PE | Sol TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/150px-Sol_tv_pe.png" group-title="REGIONALES", En prueba | Sol TV || Trujillo
+http://190.211.140.89:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Caribe TV" tvg-name="PE | Caribe TV" tvg-logo="https://play-lh.googleusercontent.com/RWwrMM2sqjOulasmAQhS86CiDLLJa66Kan9ru_cypXFu97qaPIECyEI5ilrzKF9sHg=s180-rw" group-title="REGIONALES", 365 | Caribe TV || Otuzco
 http://200.48.184.156:1935/caribetv/caribetv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | RTV Oasis" tvg-name="PE | RTV Oasis" tvg-logo="http://oasisrtv.com/wp-content/uploads/2021/07/cropped-00000001-5-1.png" group-title="REGIONALES", 366 | RTV Oasis || Pacasmayo
@@ -805,6 +807,8 @@ https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
 https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CpwF7bOmPgNtlf-aqf9GF0lh5FZYCeOEYZKKNY9l8JYYhoYqagRCaPYuSQoMMV_YG1WQWoDJ9u4RwkWKlbQ3u5N7xo8OiTOcsvscn39ZNvkA-riO4M_mZsdVBUBhKWldiieePtq2Ek7vcp6C-UwimIfsZvnELRpOhPmPPWXAvXOt4CYgbbTPFvvJUhGAhdbifQpPiYN3uJeAyOfHLVW5WH4OCKyyEW_ZPBNXWQymgKUqF79za5ZXZhLqhyOBsEJp5Kl5LMvBTvfVwT6kCLiJJIn1h123CvhroRM-M4w08n1TJntBz_oUI4DiDsExTkkh7tS78SOQ7MCK6x6L42hzPSaiun-Mh7mM-RUz1lh2-G2H2i6Gfr8EKDgn5o5AGf8r3z6Ta7cNL_c07hA-uCXWDXO9tbs4O0jOQIg3X3M6WqY0EDQgtpqQjmoDFL1EcC3Lv0jGYeMA6jWuKbVvVj92fAvwWC0nmfMnQBCb_Xfjxnt0ryoYshBfCbsV89UdZApJA7InZe1ylNn7HbvfDCi-Yy8DtN6W4WDQ5R1-OfgmgZxUbbrO3COCBflDdnRh3i_CnLKddr7AXS6aSqXKi6YyN4Tp3-KdyXreUFoSDS4mbHUI-FBo5IfPWQ05_F3XbMi5AcqfxOb7rYQjYDXE9fUc3hdCVnEwYIuT6nR4Do-k_S6Vz9Fuj2TiuEnbKAjOFfM0OmSqJF4MiuFAJyoK7HjFyDiFriQS2aFYXBeozzNbO6I3GHBFJMkNIc4CqfrR-BjWqpqDq2lQk90MkW8Wfsm4U1sc-5gY1V7hq-fk-bklCQPeCAzWwo3hB2Hm9rq4j0apZc3Yd-tBMCNPFYZ0UJR5rwRRVJbk4tDYeMHDwK1AwrafY6Zr-1ZgW9EStQanZ4waDPrmU-0z326H8UV26CABKgl1cy1lYXN0LTEw8gM.m3u8
 #EXTINF:-1 tvg-id="PE | Mega TV" tvg-name="PE | Mega TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Mega-TV-Arequipa-en-vivo-Online-100x70.png" group-title="REGIONALES", 395 | Mega TV || Arequipa
 https://hls.servidor.stream/storage/megatv.m3u8
+#EXTINF:-1 tvg-id="PE | Visión Sur" tvg-name="PE | Visión Sur" tvg-logo="https://yt3.ggpht.com/7gYYwN5Vcc60oExLwR3qVffR8Hln2KwuwkGB4v95cfk4TsvazLINUrXt9MWagrzjbuWee8Vc=s900-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", En prueba | Visión Sur || Arequipa
+https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Primavera 15 TV" tvg-name="PE | Primavera 15 TV" tvg-logo="https://pbs.twimg.com/media/FWsfeoIXwAEHs4b?format=png&name=small" group-title="REGIONALES", 396 | Primavera 15 TV || Moquegua
 https://stmv.streamingvip.click/primaveratv/primaveratv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Canal Sur" tvg-name="PE | Canal Sur" tvg-logo="https://graph.facebook.com/surtvilo/picture?width=320&height=320" group-title="REGIONALES", 397 | Canal Sur || Ilo
@@ -2038,6 +2042,8 @@ https://media.dominiocreativo.com/radioyskl
 https://s2.mexside.net/8020/stream
 #EXTINF:-1 tvg-id="USA | Red de Radiodifusión Bíblica" tvg-name="USA | Red de Radiodifusión Bíblica" tvg-logo="https://bbn1.bbnradio.org/spanish/wp-content/uploads/sites/5/2020/12/50thLogoSP.png" group-title="EMISORAS INTERNACIONALES", 967 | BBN (Bible Broadcasting Network) Radio || ESTADOS UNIDOS
 https://audio-edge-es6pf.mia.g.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f
+#EXTINF:-1 tvg-id="DO | Amor FM" tvg-name="D0 | Amor FM" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-do/amor.png" group-title="EMISORAS INTERNACIONALES", En prueba | Amor 91.9 FM || REPUBLICA DOMINICANA
+http://radio.domiplay.net:9190/stream/1/
 #EXTINF:-1 tvg-id="ES | NSE (Nuestra Señora del Encuentro con Dios) Radio" tvg-name="ES | NSE (Nuestra Señora del Encuentro con Dios) Radio" tvg-logo="https://public-rf-upload.minhawebradio.net/166842/cover/73f0ce5e8eab2e197fc683cb50d7b20b.jpg" group-title="EMISORAS INTERNACIONALES", 968 | NSE Radio || ESPAÑA
 https://evcast.mediacp.eu:2060/stream
 #EXTINF:-1 tvg-id="CL | Infinita 100.1 FM" tvg-name="CL | Infinita 100.1 FM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Infinita2016.png/revision/latest?cb=20210415153756&path-prefix=es" group-title="EMISORAS DE RADIO POR TV", 969 | Infinita 100.1 FM || CHILE
