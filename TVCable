@@ -428,13 +428,13 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/40-hls/live-media.m
 #EXTINF:-1 tvg-id="USA | ESPN Extra" tvg-name="USA | ESPN Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/190px-ESPN_Extra_Logo_2022.webp.png" group-title="DEPORTES", 210 | ESPN Extra
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPNMAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPNMAS2_stream_l4&_cdn_session=507557859&_cdn_timestamp=1672208059&_cdn_token=be2a87bb557245ff08a2de645e0cd5dc31eb0984
 #EXTINF:-1 tvg-id="MX | Claro Sports" tvg-name="MX | Claro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/150px-Claro_Sports_logo.svg.png" group-title="DEPORTES", 211 | Claro Sports
-https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
+http://200.229.147.76:4000/play/a07d/index.m3u8
 #EXTINF:-1 tvg-id="MX | Claro Sports 2" tvg-name="MX | Claro Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest/scale-to-width-down/250?cb=20210423191014&path-prefix=es" group-title="DEPORTES", 212 | Claro Sports 2
 http://190.83.119.67:8000/play/a0on/index.m3u8
 #EXTINF:-1 tvg-id="CL | TNT Sports" tvg-name="CL | TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/245px-TNT_Sports_2021_logo.svg.png" group-title="DEPORTES", 213 | TNT Sports
 http://200.52.154.125:8000/play/a06g/index.m3u8
 #EXTINF:-1 tvg-id="AR | TyC Sports" tvg-name="AR | TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/245px-TyC_Sports_logo.svg.png" group-title="DEPORTES", 214 | TyC Sports
-http://190.239.220.37:8000/play/a09k/index.m3u8
+http://200.24.141.2:4000/play/a0e3/index.m3u8
 #EXTINF:-1 tvg-id="USA | BeIN Sports Ñ" tvg-name="USA | BeIN Sports Ñ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/BeIN_Sports_En_Espa%C3%B1ol.png/200px-BeIN_Sports_En_Espa%C3%B1ol.png" group-title="DEPORTES", 215 | BeIN Sports Ñ
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 #EXTINF:-1 tvg-id="GT | Tigo Sports" tvg-name="GT | Tigo Sports" tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="DEPORTES", 216 | Tigo Sports
@@ -818,23 +818,23 @@ https://1667517699.rsc.cdn77.org/hls/mollendo.m3u8
 #EXTINF:-1 tvg-id="PE | Telesur de Camaná" tvg-name="PE | Telesur de Camaná" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png" group-title="REGIONALES", 398.4 | Telesur || Camana
 https://1667517699.rsc.cdn77.org/hls/camana.m3u8
 #EXTINF:-1 tvg-id="EC | Gamavisión" tvg-name="EC | Gamavisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ECUADOR", 399 | Gamavisión || ECUADOR
-http://200.24.132.99:8000/play/a02h
+http://200.24.141.2:4000/play/a1j1/index.m3u8
 #EXTINF:-1 tvg-id="EC | Teleamazonas" tvg-name="EC | Teleamazonas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/150px-Teleamazonas_Logo.png" group-title="ECUADOR", 400 | Teleamazonas || ECUADOR
-http://200.24.132.99:8000/play/a006
+http://200.24.141.2:4000/play/a1l1/index.m3u8
 #EXTINF:-1 tvg-id="EC | TVC" tvg-name="EC | TVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/TVCEC.png/150px-TVCEC.png" group-title="ECUADOR", 401 | TVC || ECUADOR
 https://d6op0qag07k4o.cloudfront.net/hls/tvc.m3u8
 #EXTINF:-1 tvg-id="EC | Ecuador TV" tvg-name="EC | Ecuador TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/150px-EcuadorTV_logo.png" group-title="ECUADOR", 402 | Ecuador TV || ECUADOR
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ECUADORTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DECUADORTV_stream_wj&_cdn_session=507566379&_cdn_timestamp=1672208676&_cdn_token=253c8b3b46e4a5d820e9f2eb66ec9cfc56055a38
 #EXTINF:-1 tvg-id="EC | Ecuavisa" tvg-name="EC | Ecuavisa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/200px-Ecuavisa_Logo_2019.png" group-title="ECUADOR", 403 | Ecuavisa || ECUADOR
-http://200.24.132.99:8000/play/a012
+http://200.24.141.2:4000/play/a1nc/index.m3u8
 #EXTINF:-1 tvg-id="EC | Red Telesistema" tvg-name="EC | Red Telesistema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/150px-Rts_logo.png" group-title="ECUADOR", 404 | RTS || ECUADOR
 https://d6op0qag07k4o.cloudfront.net/hls/rts.m3u8
 #EXTINF:-1 tvg-id="EC | Televisora Central Ecuatoriana" tvg-name="EC | Telecentro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png" group-title="ECUADOR", 405 | TC Televisión || ECUADOR
-http://200.24.132.99:8000/play/a008
+http://200.24.141.2:4000/play/a1ix/index.m3u8
 #EXTINF:-1 tvg-id="EC | Oromar TV" tvg-name="EC | Oromar TV" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="ECUADOR", 406 | Oromar Televisión || ECUADOR
 http://190.115.15.177:58003/play/a05q/index.m3u8
 #EXTINF:-1 tvg-id="EC | Telerama" tvg-name="EC | Telerama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_Telerama.png/250px-Logo_Telerama.png" group-title="ECUADOR", 407 | Telerama || ECUADOR
-https://envivo.telerama.ec/stream.m3u8
+http://200.24.141.2:4000/play/a1n4/index.m3u8
 #EXTINF:-1 tvg-id="EC | Hechos Ecuador TV" tvg-name="EC | Hechos Ecuador TV" tvg-logo="https://www.hechosecuador.com/rw_common/images/HECHOS%20LOGO%20REAL%202018.png" group-title="ECUADOR", 408 | Hechos Ecuador TV || ECUADOR
 https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
 #EXTINF:-1 tvg-id="EC | Ecotel TV" tvg-name="EC | Ecotel TV" tvg-logo="https://www.ecotel.tv/images/logoecotel.svg" group-title="ECUADOR", 409 | Ecotel TV || ECUADOR
@@ -842,7 +842,7 @@ https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
 #EXTINF:-1 tvg-id="EC | Puruwa TV" tvg-name="EC | Puruwa TV" tvg-logo="https://image.roku.com/developer_channels/prod/386a41b84216c7010cf0b4ed536fc04f74e2f936aec3509bd1e1b6fd52628f11.png" group-title="ECUADOR", 410 | Puruwa TV || ECUADOR
 https://mediacp.us:8081/8054/index.m3u8
 #EXTINF:-1 tvg-id="EC | RTU El canal de noticias" tvg-name="EC | RTU El canal de noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_rtu.jpg/556px-Logo_rtu.jpg" group-title="ECUADOR", 411 | RTU || ECUADOR
-http://190.216.105.66:6020/play/a0do/index.m3u8
+http://200.24.141.2:4000/play/a1iw/index.m3u8
 #EXTINF:-1 tvg-id="EC | Capricho TV" tvg-name="EC | Capricho TV" tvg-logo="http://www.caprichotvradio.com/wp-content/uploads/2021/12/cropped-cropped-cropped-logo-capricho-1.png" group-title="ECUADOR", 412 | Capricho TV || ECUADOR
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 #EXTINF:-1 tvg-id="EC | Multicanal" tvg-name="EC | Multicanal" tvg-logo="https://www.multicanalcatamayo.com/wp-content/uploads/2018/10/logo-final-multicanal-web-listo.png" group-title="ECUADOR", 413 | Multicanal || ECUADOR
@@ -1349,7 +1349,7 @@ https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CpgFrqvQltPhB2zbXyrTbe2ZTDg
 #EXTINF:-1 tvg-id="SV | TV-2" tvg-name="SV | TV-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/TCS_2_2016.png/150px-TCS_2_2016.png" group-title="EL SALVADOR", 651 | TV-2 || EL SALVADOR
 https://telecorporacion.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/live-video=2000000-audio_0=64000.m3u8
 #EXTINF:-1 tvg-id="SV | Canal 4" tvg-name="SV | Canal 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/245px-Canal_4_TCS.png" group-title="EL SALVADOR", 652 | Canal 4 || EL SALVADOR
-https://telecorporacion.cdn.vustreams.com/live/71c9503a-be8f-4ce4-ac17-345a96cff63a/live.isml/live-video=2000000-audio_0=64000.m3u8
+http://200.229.147.76:4000/play/a02i/index.m3u8
 #EXTINF:-1 tvg-id="SV | TV Seis" tvg-name="SV | TV Seis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Canal_6_TCS.png/200px-Canal_6_TCS.png" group-title="EL SALVADOR", 653 | TV Seis || EL SALVADOR
 https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/live-video=2000000-audio_0=64000.m3u8
 #EXTINF:-1 tvg-id="SV | Agape TV Canal 8" tvg-name="SV | Agape TV Canal 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Agape_8_2001.png/200px-Agape_8_2001.png" group-title="EL SALVADOR", 654 | Agape TV Canal 8 || EL SALVADOR
@@ -1387,9 +1387,9 @@ https://rtmp.info/soltv/envivo/playlist.m3u8
 #EXTINF:-1 tvg-id="SV | RD Click TV" tvg-name="SV | RD Click TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSoMCXVxLXziWM9-DaCj8zwCpV9-nCyTcTTRa5Jow=s88-c-k-c0x00ffffff-no-rj" group-title="EL SALVADOR", 670 | RD Click TV || EL SALVADOR
 https://cloudvideo.servers10.com:8081/8064/index.m3u8
 #EXTINF:-1 tvg-id="HN | Telesistema Informativo" tvg-name="HN | Telesistema Informativo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/TSi_logo.png/195px-TSi_logo.png" group-title="HONDURAS", 671 | TSi Canal 3 || HONDURAS
-https://stream-01.nyc.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRLRpBe7180Lr-xh2IYLwhIc0RBb5vy9UOG8caadRQ2vd)/dm/3/x88jdft/s/live-3.m3u8
+http://200.229.147.76:4000/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="HN | Canal 5" tvg-name="HN | Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_5_HN_logo_2019.png/150px-Canal_5_HN_logo_2019.png" group-title="HONDURAS", 672 | Canal 5 El Lider || HONDURAS
-https://stream-04.nyc.dailymotion.com/sec(sdVP4ky6sYlWE27qaDlbfN7M6Sctvl-TO16cQLQ59zvQzht0-WC1y_7rk4_GrfGe)/dm/3/x8cly8x/s/live-3.m3u8
+http://200.229.147.76:4000/play/a02k/index.m3u8
 #EXTINF:-1 tvg-id="HN | Vica TV" tvg-name="HN | Vica TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/VTV_HN_logo_2019.png/210px-VTV_HN_logo_2019.png" group-title="HONDURAS", 673 | VTV || HONDURAS
 https://dw6a9whylepvl.cloudfront.net/hls/vtv.m3u8
 #EXTINF:-1 tvg-id="HN | TEN Canal 10" tvg-name="HN | TEN Canal 10" tvg-logo="https://1.bp.blogspot.com/-WYepFcQLrXc/XQka9TmZ0uI/AAAAAAAAHz8/eTOqew4vGoocd66uqlPHccAeYN74huzmgCLcBGAs/w350-h350-p-k-no-nu/TEN%2BCanal%2B10.png" group-title="HONDURAS", 674 | TEN Canal 10 || HONDURAS
