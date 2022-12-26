@@ -1400,6 +1400,10 @@ https://dw6a9whylepvl.cloudfront.net/hls/vtv.m3u8
 https://62418d5684c12.streamlock.net/TENHD/TENLive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HN | Canal 11" tvg-name="HN | Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Canal_11_HN_logo_2010.png/190px-Canal_11_HN_logo_2010.png" group-title="HONDURAS", En prueba | Canal 11 || HONDURAS
 http://200.229.147.76:4000/play/a065/index.m3u8
+#EXTINF:-1 tvg-id="HN | TV Azteca Honduras" tvg-name="HN | TV Azteca Honduras" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/TV_Azteca_Honduras_logo.png/197px-TV_Azteca_Honduras_logo.png" group-title="HONDURAS", En prueba | TV Azteca Honduras || HONDURAS
+http://190.83.116.230:9010/play/a07l/index.m3u8
+#EXTINF:-1 tvg-id="HN | Gotv" tvg-name="HN | Gotv" tvg-logo="http://www.gotv.hn/wp-content/uploads/2020/08/gotvlogo.png" group-title="HONDURAS", En prueba | Gotv || HONDURAS
+http://190.83.116.230:9010/play/a05x/index.m3u8
 #EXTINF:-1 tvg-id="HN | Girasol TV" tvg-name="HN | Girasol TV" tvg-logo="https://girasoltv.girasolradiotvhn.com/wp-content/uploads/2020/10/cropped-logo-girasoltv-400x200px963.png" group-title="HONDURAS", 675 | Girasol TV || HONDURAS
 https://video.misistemareseller.com/Girasoltv/Girasoltv/playlist.m3u8
 #EXTINF:-1 tvg-id="HN | Teledanlí" tvg-name="HN | Teledanlí" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_1g2d_zrJFqen8rp4OK-7NBbcQqUt_Z-7N1yng=s900-c-k-c0x00ffffff-no-rj" group-title="HONDURAS", 676 | Teledanlí || HONDURAS
