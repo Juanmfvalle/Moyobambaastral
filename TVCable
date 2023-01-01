@@ -364,7 +364,7 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="USA | CNN en Español" tvg-name="USA | CNN en Español" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png" group-title="NOTICIAS E INFORMACION", 176 | CNN en Español
 http://190.83.119.67:8000/play/a0ps/index.m3u8
 #EXTINF:-1 tvg-id="CL | CNN Chile" tvg-name="CL | CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/150px-CNN_Chile_logo_2017.svg.png" group-title="NOTICIAS E INFORMACION", 177 | CNN Chile
-http://201.182.251.146:37584/play/a05o/index.m3u8
+http://www.onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu711/thjhg3468ihj/5.m3u8
 #EXTINF:-1 tvg-id="USA | CNN Internacional" tvg-name="CL | CNN Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/162px-CNN_International_logo.svg.png" group-title="NOTICIAS E INFORMACION", 178 | CNN Internacional
 http://190.83.119.67:8000/play/a0o7/index.m3u8
 #EXTINF:-1 tvg-id="CL | Canal 24 Horas" tvg-name="CL | Canal 24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png" group-title="NOTICIAS E INFORMACION", 179 | Canal 24 Horas
@@ -1191,7 +1191,9 @@ http://onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu7/thjhg3468ihj/2.m3u8
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TELEFE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEFE_stream_te&_cdn_session=520297475&_cdn_timestamp=1672901293&_cdn_token=cb17b0f35ea17e52dad0ba068b946255a0dea821
 #EXTINF:-1 tvg-id="AR | El Nueve" tvg-name="AR | El Nueve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Canal_9_2015.png/120px-Canal_9_2015.png" group-title="ARGENTINA", 572 | El Nueve || ARGENTINA
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/a14edc07-d8c1-482a-b3b2-a91b646ab6f3/5.m3u8
-#EXTINF:-1 tvg-id="AR | El Trece Internacional" tvg-name="AR | El Trece Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Isotipo_eltrece_2016.png/120px-Isotipo_eltrece_2016.png" group-title="INTERNACIONALES", 573 | El Trece Internacional || ARGENTINA
+#EXTINF:-1 tvg-id="AR | Canal 13 de Buenos Aires" tvg-name="AR | Canal 13 de Buenos Aires" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/120px-Logo_de_eltrece_lanzado_en_2016.png" group-title="ARGENTINA", 573 | Canal 13 de Buenos Aires || ARGENTINA
+http://www.onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu711/thjhg3468ihj/12.m3u8
+#EXTINF:-1 tvg-id="AR | El Trece Internacional" tvg-name="AR | El Trece Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Isotipo_eltrece_2016.png/120px-Isotipo_eltrece_2016.png" group-title="INTERNACIONALES", 573.2 | El Trece Internacional || ARGENTINA
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TRECEARGENTINA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRECEARGENTINA_stream_e4&_cdn_session=520297491&_cdn_timestamp=1672901299&_cdn_token=e9b7ea1bf0151686385a6eec48a06a574cedb014
 #EXTINF:-1 tvg-id="AR | Argentinísima Satelital" tvg-name="AR | Argentinísima Satelital" tvg-logo="http://argentinisimatv.com.ar/wp-content/uploads/2017/09/LOGO-1.png" group-title="ARGENTINA", 574 | Argentinísima Satelital || ARGENTINA
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
