@@ -358,7 +358,7 @@ https://cdnlive.presstv.ir/cdnlive/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CH | CGTN Español" tvg-name="CH | CGTN Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/180px-CGTN_Espanol.png" group-title="NOTICIAS E INFORMACION", 173 | CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="CO | Nuestra Tele Noticias 24" tvg-name="CO | Nuestra Tele Noticias 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NTN24_logo.svg/245px-NTN24_logo.svg.png" group-title="NOTICIAS E INFORMACION", 174 | NTN 24
-https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl4NJ5ytDpE5iqOclRYeU3HCvroT2dYjuz3QZ3JBmE657)/dm/3/x7w4okl/s/live-1.m3u8
+https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl4NJ5ytDpE5iqOclRYeU3HCvroT2dYjuz3QZ3JBmE657)/dm/3/x7w4okl/s/live-1.m3u8
 #EXTINF:-1 tvg-id="ESP | 24 Horas tve" tvg-name="ESP | 24 horas tve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/125px-Logo_TVE-24h.svg.png" group-title="NOTICIAS E INFORMACION", 175 | 24 horas tve
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="USA | CNN en Español" tvg-name="USA | CNN en Español" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png" group-title="NOTICIAS E INFORMACION", 176 | CNN en Español
@@ -698,11 +698,11 @@ https://ca2.inka.net.pe/bestcable/index.m3u8
 #EXTINF:-1 tvg-id="PE | Visión Noticias Perú" tvg-name="PE | Visión Noticias Perú" tvg-logo="https://www.vnp.pe/wp-content/uploads/2020/11/logo-vnp-color.png" group-title="REGIONALES", 339 | VNP || Lima
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Teve Empresa" tvg-name="PE | Teve Empresa" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQHBJhDs6-ZbNQ/company-logo_200_200/0/1589815974379?e=2147483647&v=beta&t=EHFypU7gpyeZEF2o92AzGgeJ8HDQwbIaURH-yVEY15w" group-title="REGIONALES", 340 | Teve Empresa || Lima
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TVEMPRESA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVEMPRESA_stream_yi&_cdn_session=514998899&_cdn_timestamp=1672553629&_cdn_token=2f24d3bed5ae1dcd1775aef9192ef4c3d9ec15dd
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TVEMPRESA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVEMPRESA_stream_yi&_cdn_session=522764427&_cdn_timestamp=1673062052&_cdn_token=620700ba0f4fe473d68d2bc56b6f12497c263582
 #EXTINF:-1 tvg-id="PE | Gamarra Channel" tvg-name="PE | Gamarra Channel" tvg-logo="https://yt3.ggpht.com/_5nCk-rEsNPQeXAHT_ZA6gx5D15x_QadepvUi--KmY6psR9n85GAYxyCuap4P2kDIDqOmvT5584=s88-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", 341 | Gamarra Channel || Lima
 https://video2.lhdserver.es/gamarrachannel/live.m3u8
 #EXTINF:-1 tvg-id="PE | PBO TV" tvg-name="PE | PBO TV" tvg-logo="https://pboradio.minegocio21.com/wp-content/uploads/2020/10/logo278.jpg" group-title="REGIONALES", 342 | PBO TV
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PBO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=514999315&_cdn_timestamp=1672553679&_cdn_token=bc1de843823578155f24920f69a74faeca9cee89
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PBO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=522764147&_cdn_timestamp=1673062041&_cdn_token=512b7990dd10b8948b94bfc6b9ece9e46c7322d6
 #EXTINF:-1 tvg-id="PE | Asiri TV" tvg-name="PE | Asiri TV" tvg-logo="https://graph.facebook.com/904990302901417/picture?type=large" group-title="REGIONALES", 343 | Asiri Televisión || Lima
 https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTINF:-1 tvg-id="PE | Intuitiva TV" tvg-name="PE | Intuitiva TV" tvg-logo="https://pbs.twimg.com/media/FVyWpMHXsAUe7UU?format=png&name=small" group-title="REGIONALES", 344 | Intuitiva TV || Lima
@@ -1803,6 +1803,8 @@ https://v-px.mybtv.net/live/41.m3u8
 https://v-px.mybtv.net/live/51.m3u8
 #EXTINF:-1 tvg-id="USA | Hallmark Channel" tvg-name="USA | Hallmark Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/245px-Hallmark_Channel.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | Hallmark Channel
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/561.m3u8
+#EXTINF:-1 tvg-id="USA | Time Life Television" tvg-name="USA | Time Life Television" tvg-logo="https://yt3.googleusercontent.com/ytc/AMLnZu_Y2BfXNZWOwiiE80xVE2vrgKH03VULSgOjldyjJQ=s900-c-k-c0x00ffffff-no-rj" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | Time Life Television || ESTADOS UNIDOS DE AMÉRICA
+https://v-px.mybtv.net/live/59.m3u8
 #EXTINF:-1 tvg-id="ES | TVE" tvg-name="ES | TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/220px-TVE.svg.png" group-title="ESPAÑA", 842 | TVE || ESPAÑA
 http://190.115.15.177:58003/play/a0cc/index.m3u8
 #EXTINF:-1 tvg-id="ES | La 1" tvg-name="ES | La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/125px-Logo_TVE-1.svg.png" group-title="ESPAÑA", 843 | La 1 || ESPAÑA
