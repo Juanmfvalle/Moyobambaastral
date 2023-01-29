@@ -130,7 +130,7 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AZCORAZON/40-hls/live-media.m
 #EXTINF:-1 tvg-id="USA | Novelisima" tvg-name="USA | Novelisima" tvg-logo="https://www.novelisima.com/assets/images/logo.png" group-title="NOVELAS", 63 | Novelisima
 https://v-fn.mybtv.net/live/946.m3u8
 #EXTINF:-1 tvg-id="MX | Tlnovelas" tvg-name="MX | Tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="NOVELAS", 64 | Tlnovelas
-http://191.102.106.46:15028/play/a02i/index.m3u8
+http://179.189.222.226:8000/play/ch45
 #EXTINF:-1 tvg-id="MX | Las Estrellas Latinoamérica" tvg-name="MX | Las Estrellas Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/180px-Las_Estrellas.svg.png" group-title="INTERNACIONALES", 65 | Las Estrellas Latinoamérica
 http://45.160.12.253:8000/play/151
 #EXTINF:-1 tvg-id="USA | Univisión Latinoamérica" tvg-name="USA | Univisión Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="INTERNACIONALES", 66 | Univisión Latinoamérica
@@ -314,7 +314,7 @@ http://infantil-crtvg.flumotion.com/chunks.m3u8
 #EXTINF:-1 tvg-id="VE | 1·2·3 TV" tvg-name="VE | 1·2·3 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/123TV_logo_2022.jpg/245px-123TV_logo_2022.jpg" group-title="INFANTILES", 155 | 1·2·3 TV
 http://45.179.164.9:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="USA | Canal Infantil" tvg-name="USA | Canal Infantil" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/canal-infantil.png" group-title="INFANTILES", 156 | Canal Infantil
-http://179.56.9.218:9001/play/a033/index.m3u8
+http://179.189.222.226:8000/play/ch06
 #EXTINF:-1 tvg-id="AR | Anime Zone TV" tvg-name="AR | Anime Zone TV" tvg-logo="http://animezonetv.net/aztv.png" group-title="INFANTILES", 157 | Anime Zone TV
 http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AR | Locomotion" tvg-name="AR | Locomotion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Locomotion.png/250px-Locomotion.png" group-title="INFANTILES", 158 | Locomotion
@@ -534,13 +534,13 @@ https://panel.miplay.cl:8081/zoomback/index.m3u8
 #EXTINF:-1 tvg-id="CR | Colosal TV" tvg-name="CR | Colosal TV" tvg-logo="https://pbs.twimg.com/media/FcB6HSyXwAAsFGg?format=png&name=360x360" group-title="MUSICA Y REALITIES", 265 | Colosal TV
 https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Mimusica Reggaeton" tvg-name="USA | Mimusica Reggaeton" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/03/logoMiMusicaReggaeton.png" group-title="MUSICA Y REALITIES", 266 | Mimusica Reggaeton
-http://179.56.9.218:9001/play/a03l/index.m3u8
+http://179.189.222.226:8000/play/ch53
 #EXTINF:-1 tvg-id="USA | Mimusica Popular" tvg-name="USA | Mimusica Popular" tvg-logo="https://pbs.twimg.com/media/FfuliqvXoAEuTtS?format=png&name=240x240" group-title="MUSICA Y REALITIES", 267 | Mimusica Popular
-http://181.119.67.75:8000/play/CH43
+http://179.189.222.226:8000/play/ch56
 #EXTINF:-1 tvg-id="USA | Mimusica Salsa" tvg-name="USA | Mimusica Salsa" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/03/MiMusicaSalsa.png" group-title="MUSICA Y REALITIES", 268 | Mimusica Salsa
-http://181.119.67.75:8000/play/CH41
+http://179.189.222.226:8000/play/ch55
 #EXTINF:-1 tvg-id="USA | Mimusica Romántica" tvg-name="USA | Mimusica Romántica" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/03/logoMiMusicaRomantica.png" group-title="MUSICA Y REALITIES", 269 | Mimusica Romántica
-http://179.56.9.218:9001/play/a03m/index.m3u8
+http://179.189.222.226:8000/play/ch54
 #EXTINF:-1 tvg-id="CO | La Kalle TV" tvg-name="CO | La Kalle TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTRRtr619tHKwzAwhRCFmk-mSywt3iTukJdhg7h3jx4saUPB3o5ZPAkYLRxjqZr9oFW18&usqp=CAU" group-title="MUSICA Y REALITIES", 270 | La Kalle TV
 http://152.200.181.236:15000/play/a037
 #EXTINF:-1 tvg-id="RU | Europa Plus" tvg-name="RU | Europa Plus" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/SYQyeRTD73.png" group-title="MUSICA Y REALITIES", 271 | Europa Plus
@@ -886,7 +886,7 @@ https://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/playlist
 #EXTINF:-1 tvg-id="CO | Canal Trece +" tvg-name="CO | Canal Trece +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/TRECE%2B.png/150px-TRECE%2B.png" group-title="COLOMBIA", 433.2 | Canal Trece + || COLOMBIA
 https://canaltreceplus-live.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | City TV" tvg-name="CO | City TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/City_tv_Bogot%C3%A1_logo.svg/170px-City_tv_Bogot%C3%A1_logo.svg.png" group-title="COLOMBIA", 434 | City TV || COLOMBIA
-http://181.78.24.187:8006/play/a09n/index.m3u8
+http://179.189.222.226:8000/play/ch42
 #EXTINF:-1 tvg-id="CO | Canal Congreso" tvg-name="CO | Canal Congreso" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Canal_Congreso_de_Colombia_logo.png" group-title="COLOMBIA", 435 | Canal Congreso || COLOMBIA
 http://152.200.181.236:15000/play/a03c
 #EXTINF:-1 tvg-id="CO | Canal TRO" tvg-name="CO | Canal TRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Canal_tro_logo.PNG/150px-Canal_tro_logo.PNG" group-title="COLOMBIA", 436 | Canal TRO || COLOMBIA
