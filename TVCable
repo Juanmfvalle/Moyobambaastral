@@ -130,7 +130,7 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AZCORAZON/40-hls/live-media.m
 #EXTINF:-1 tvg-id="USA | Novelisima" tvg-name="USA | Novelisima" tvg-logo="https://www.novelisima.com/assets/images/logo.png" group-title="NOVELAS", 63 | Novelisima
 https://v-fn.mybtv.net/live/946.m3u8
 #EXTINF:-1 tvg-id="MX | Tlnovelas" tvg-name="MX | Tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="NOVELAS", 64 | Tlnovelas
-http://179.189.222.226:8000/play/ch45
+http://191.102.106.46:15028/play/a02i/index.m3u8
 #EXTINF:-1 tvg-id="MX | Las Estrellas Latinoamérica" tvg-name="MX | Las Estrellas Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/180px-Las_Estrellas.svg.png" group-title="INTERNACIONALES", 65 | Las Estrellas Latinoamérica
 http://45.160.12.253:8000/play/151
 #EXTINF:-1 tvg-id="USA | Univisión Latinoamérica" tvg-name="USA | Univisión Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="INTERNACIONALES", 66 | Univisión Latinoamérica
@@ -906,7 +906,7 @@ https://stmv2.voxtvhd.com.br/canalccali/canalccali/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | Telecaribe" tvg-name="CO | Telecaribe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Telecaribe2017.png/150px-Telecaribe2017.png" group-title="COLOMBIA", 442 | Telecaribe || COLOMBIA
 https://tkx.mp.lura.live/rest/v2/mcp/video/adstB64MXYxqLZwy?anvack=4gXmVVoVIp3YeECJWm6af3j0mlHwl6vO&eud=SKjoH1L/9Enwo5zQBiBTRfTSNGfENMNO6udm4CQNVvix/L9XX8kucBOvzWalIghNrL5GllGH8ou17ICYGv29Rg==
 #EXTINF:-1 tvg-id="CO | Mundo +" tvg-name="CO | Mundo +" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTDVbXdzqg5wRA2IZDnWEJyezQIhnUGxI8fEuLOgA=s88-c-k-c0x00ffffff-no-rj" group-title="COLOMBIA", 443 | Mundo + || COLOMBIA
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CqQFK0hmt0jF5biwX1434mKjBQch6DBbXpSuvodrgvwLotPekKQ-WgiIG1Bbq5NxfjyG17VYsv66T3ufBV3m5oSgN1-GmMtcQL6tRWRw1Quzlsa8pU_NyGi7WA35Xsj1kiCWeJyWToTwKOhiv0DUW4KwEAYlqk4M-GyUauLCaFHEu482EF-SqZCb1M9NxPDUSsYS37s9Refvd-X8a8mSOi38Aq4ZMckXPsUEOLdxTkMPoVGnhM4HX8lIC5KijKuuUTizXTbHd9Gos_c9UMwbO2MSnlTIi8xlTq8ccljrsRSIWQ4UAQ02ZElu1FZMGtWR9p9oB4CubG7STXmnQlQ5YqeIyFkWcP1HhAOM9Ck7H1srr9PVtls9pyGr_YQ1kVQoJ-STySFG5nqFFHvC4mNYk0zQyglLhziAOGwBD-lfytAh8PG2AKAUHbaHQnBkD56TCUcX4LTLYJAyX7pd77nXEysT9UsoZWF_1X-R1rNz6nvERu7jQJq5S7y8iT1iYSqntIxb2xwXhPVsBWixISUI8HkqfGj2B0hFzrHSRtewa7naUFlsIeSIZ8KoFwZWmSGb00_nIVrgRIgcEROROU716mjT-gEmuVMIhKnO1kaQZbIiv03QXBd42Tk7o1h1ezDybIhM6J-H3OMz7jOxQQ_GygqE6_j9utDDeG3Ss0VeLlc7s2Y8EMQhWCEoeKLF6M7hkFt9lWdnWfAISDE65ACIt0hcrVAjuMC6AjthxvpYUJlleQY9srmilajMj0hyo24Iny-fLzAisn1-5Z2wMtjBHOE6Cc5DJ-1ZkwFjbeHkqFlZfyCFKqIFL_R_7z6Rw_TCL0qbtKi1jNTSAz_OX98HDKcPha9dViH2-V8gmRzxwCLTWS-ses_28XC12lVfXQybpVVZPObS_BoMxJ7qsgFLm-kfqDFqIAEqCXVzLWVhc3QtMTCRBA.m3u8
+http://162.212.152.104:25461/Mund@Mas/Live/18
 #EXTINF:-1 tvg-id="CO | Canal 2 de Cali" tvg-name="CO | Canal 2 de Cali" tvg-logo="https://www.canal2.co/wp-content/uploads/2017/02/logo-2.png" group-title="COLOMBIA", 444 | Canal 2 de Cali || COLOMBIA
 https://video13.virtualtronics.com/streamer/canal2.m3u8
 #EXTINF:-1 tvg-id="CO | Veo Televisión" tvg-name="CO | Veo Televisión" tvg-logo="https://65d1d783ef.cbaul-cdnwnd.com/06f4edf4e9e95af4fc21b37e09fc303b/200000026-203cf203d1/450/VEO%20TELEVISION%202%20OK.png?ph=65d1d783ef" group-title="COLOMBIA", 445 | Veo Televisión || COLOMBIA
