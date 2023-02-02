@@ -448,11 +448,11 @@ https://marine2.miplay.cl/fitmaxx/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Sport Ext" tvg-name="CL | Sport Ext" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/SPORT-EXT-FONDO-2-300x169.jpg" group-title="DEPORTES", 220 | Sport Ext
 https://marine2.miplay.cl/sportext/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | Win Sports+" tvg-name="CO | Win Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/WinSportsM%C3%A1s2022.png/200px-WinSportsM%C3%A1s2022.png" group-title="DEPORTES", 221 | Win Sports+
-http://181.119.67.75:8000/play/a062
+http://190.27.253.211:8000/play/a07g/index.m3u8
 #EXTINF:-1 tvg-id="CR | FUTV" tvg-name="CR | FUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_de_FUTV.svg/200px-Logo_de_FUTV.svg.png" group-title="DEPORTES", 222 | FUTV
 http://190.83.119.67:8000/play/a0t3/index.m3u8
 #EXTINF:-1 tvg-id="HN | Todo Deportes TV" tvg-name="HN | Todo Deportes TV" tvg-logo="https://dd7tel2830j4w.cloudfront.net/f1560359694028x167785582725733730/Group%2012.svg" group-title="DEPORTES", 223 | Todo Deportes TV
-https://5fe2654d6127d.streamlock.net/tododeportesplus/smil:tododeportesplus.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xLzIwMjMgNDozNjowNCBQTSZoYXNoX3ZhbHVlPVZ4dUFIQnV0Y3RZM1pPNE1VRlBvMGc9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZpZD0=
+https://5fe2654d6127d.streamlock.net/tododeportesplus/smil:tododeportesplus.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjMgNToyMjowNCBBTSZoYXNoX3ZhbHVlPUlpSVFvSExkS2Y1YTAvc09mTmcwSEE9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZpZD0=
 #EXTINF:-1 tvg-id="PE | Gol Perú" tvg-name="PE | Gol Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/245px-Gol_Per%C3%BA_2019.svg.png" group-title="DEPORTES", 224 | Gol Perú
 http://200.24.141.2:4000/play/a0zd/index.m3u8
 #EXTINF:-1 tvg-id="PE | EdX TV" tvg-name="PE | EdX TV" tvg-logo="https://pbs.twimg.com/media/FVzsfVnWUAc1ffp?format=png&name=240x240" group-title="DEPORTES", 225 | EdX TV
@@ -477,6 +477,8 @@ http://181.189.243.254:8000/play/a0pn/index.m3u8
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq&sid=H35JGFJtTorKu8yyo7nztAy4KIUVgJkx&pid=uf6dMZlhGP30u0KO5TmWpO8utXYJqOKN&an=screen&at=web-app&av=v5.2.278&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=774x387&without_cookies=false&listenerid=&dnt=true
 #EXTINF:-1 tvg-id="CL | Old Music TV" tvg-name="CL | Old Music TV" tvg-logo="https://pbs.twimg.com/media/FSimCx8X0AI_8QI?format=png&name=small" group-title="MUSICA Y REALITIES", 235 | Old Music Televisión
 https://marine2.miplay.cl/oldmusic/playlist.m3u8
+#EXTINF:-1 tvg-id="CO | Telenostalgia" tvg-name="CO | Telenostalgia" tvg-logo="https://canaltelenostalgia.com/wp-content/uploads/2022/03/logo_telenostalgia.png" group-title="MUSICA Y REALITIES", En prueba | Telenostalgia
+http://190.2.209.159:4000/play/telenostalgia/index.m3u8
 #EXTINF:-1 tvg-id="USA | Memorias TV" tvg-name="USA | Memorias TV" tvg-logo="https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1-224x96.png" group-title="MUSICA Y REALITIES", 236 | Memorias TV
 https://mediacp.us:8081/8002/index.m3u8
 #EXTINF:-1 tvg-id="PE | Retro Plus TV" tvg-name="PE | Retro Plus TV" tvg-logo="https://www.retroplustv.com/wp-content/uploads/2022/03/logo_1.png" group-title="MUSICA Y REALITIES", 237 | Retro Plus TV
@@ -900,7 +902,7 @@ http://181.78.24.187:8006/play/a0a0/index.m3u8
 #EXTINF:-1 tvg-id="CO | Teleantioquia" tvg-name="CO | Teleantioquia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Teleantioquia_logo.svg/250px-Teleantioquia_logo.svg.png" group-title="COLOMBIA", 438 | Teleantioquia || COLOMBIA
 http://152.200.181.236:15000/play/a022
 #EXTINF:-1 tvg-id="CO | Telemedellín" tvg-name="CO | Telemedellín" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Logotipo_de_Telemedell%C3%ADn.png/150px-Logotipo_de_Telemedell%C3%ADn.png" group-title="COLOMBIA", 439 | Telemedellín || COLOMBIA
-http://179.189.222.226:8000/play/ch73
+http://190.2.209.159:4000/play/telemedellin/index.m3u8
 #EXTINF:-1 tvg-id="CO | Zoom TV"  tvg-name="CO | Zoom TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/CanalZoom2018.png/revision/latest/scale-to-width-down/78?cb=20210501194343&path-prefix=es" group-title="COLOMBIA", 440 | Zoom TV || COLOMBIA
 https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
 #EXTINF:-1 tvg-id="CO | Canal C de Cali" tvg-name="CO | Canal C de Cali" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRhl94w4Xil6sWKn-TpwbBo4oDXDJ6IZdILATFNKw=s900-c-k-c0x00ffffff-no-rj" group-title="COLOMBIA", 441 | Canal C de Cali || COLOMBIA
@@ -1236,7 +1238,7 @@ https://d4xunn272arip.cloudfront.net/hls/snt.m3u8
 #EXTINF:-1 tvg-id="PY | Sur Televisión" tvg-name="PY | Sur Televisión" tvg-logo="https://cdn.mitvstatic.com/channels/116c52f1-8f55-4325-af6d-ab11f98e81d5_m.jpg" group-title="PARAGUAY", 598 | Sur Televisión || PARAGUAY
 http://170.83.242.152:5350/play/a025
 #EXTINF:-1 tvg-id="PY | La Tele" tvg-name="PY | La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Latele_Paraguay.jpg" group-title="PARAGUAY", 599 | La Tele || PARAGUAY
-http://131.196.194.2:8000/play/a0gz/index.m3u8
+http://190.27.253.211:8000/play/a05u/index.m3u8
 #EXTINF:-1 tvg-id="PY | Trece" tvg-name="PY | Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/100px-Logotrececanal.png" group-title="PARAGUAY", 600 | Trece || PARAGUAY
 https://streaming.trece.com.py/live/trece.m3u8
 #EXTINF:-1 tvg-id="PY | Paraguay TV" tvg-name="PY | Paraguay TV" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_VMtrTllkAGA0qgsmMYtMoCV6XAjYORRStO5kzYg=s900-c-k-c0x00ffffff-no-rj" group-title="PARAGUAY", 601 | Paraguay TV || PARAGUAY
