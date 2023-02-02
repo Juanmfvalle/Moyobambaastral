@@ -475,6 +475,8 @@ http://181.189.243.254:8000/play/a0sw/index.m3u8
 http://181.189.243.254:8000/play/a0pn/index.m3u8
 #EXTINF:-1 tvg-id="MX | Teleritmo" tvg-name="MX | Teleritmo" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleritmo-mx.png" group-title="MUSICA Y REALITIES", 234 | Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq&sid=H35JGFJtTorKu8yyo7nztAy4KIUVgJkx&pid=uf6dMZlhGP30u0KO5TmWpO8utXYJqOKN&an=screen&at=web-app&av=v5.2.278&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=774x387&without_cookies=false&listenerid=&dnt=true
+#EXTINF:-1 tvg-id="CO | Rumba TV" tvg-name="CO | Rumba TV" tvg-logo="https://globalmedia1.tv/wp-content/uploads/2022/03/rtv-curvas.png" group-title="MUSICA Y REALITIES", En prueba | Rumba TV
+http://190.2.209.152:4000/play/rumbatv/index.m3u8
 #EXTINF:-1 tvg-id="CL | Old Music TV" tvg-name="CL | Old Music TV" tvg-logo="https://pbs.twimg.com/media/FSimCx8X0AI_8QI?format=png&name=small" group-title="MUSICA Y REALITIES", 235 | Old Music Televisión
 https://marine2.miplay.cl/oldmusic/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | Telenostalgia" tvg-name="CO | Telenostalgia" tvg-logo="https://canaltelenostalgia.com/wp-content/uploads/2022/03/logo_telenostalgia.png" group-title="MUSICA Y REALITIES", En prueba | Telenostalgia
@@ -558,7 +560,7 @@ https://srv3.zcast.com.br/mastermedia/mastermedia/tvsalud.cl.m3u8
 #EXTINF:-1 tvg-id="AR | Rural TV" tvg-name="AR | Rural TV" tvg-logo="https://www.elrural.com/wp-content/themes/el-rural2016/images/canal-rural.png" group-title="CULTURA Y EDUCACION", 274 | Canal Rural
 https://cda2.alsolnet.com/elrural/live/chunklist_w1152779177.m3u8
 #EXTINF:-1 tvg-id="CO | TV Agro" tvg-name="CO | TV Agro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/TV_Agro_logo.svg/245px-TV_Agro_logo.svg.png" group-title="CULTURA Y EDUCACION", 275 | TV Agro
-http://179.1.7.198:1935/live/TVAgroHD.stream_360p/chunklist_w1692266694.m3u8
+http://190.2.209.152:4000/play/tvagro/index.m3u8
 #EXTINF:-1 tvg-id="CO | Agrotendencia TV" tvg-name="CO | Agrotendencia TV" tvg-logo="https://agrotendencia.tv/agropedia/wp-content/uploads/2020/11/logoat_mosca-150x150.png" group-title="CULTURA Y EDUCACION", 276 | Agrotendencia TV
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/chunklist_w653625610.m3u8
 #EXTINF:-1 tvg-id="CL | Canal del Caballo" tvg-name="CL | Canal del Caballo" tvg-logo="https://fiesta2022.canaldelcaballo.cl/assets/images/logo-canal.png" group-title="CULTURA Y EDUCACION", 277 | Canal del Caballo
