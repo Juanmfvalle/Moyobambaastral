@@ -267,7 +267,9 @@ https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/3000.m3u8
 https://emisoras.hn:8081/diostevekids/index.m3u8
 #EXTINF:-1 tvg-id="UY | Latino Kids" tvg-name="UY | Latino Kids" tvg-logo="https://graph.facebook.com/LatinoKidsTvUruguay/picture?width=300&height=300" group-title="INFANTILES", 132 | Latino Kids TV
 https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Cartoon Network" tvg-name="USA | Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/150px-Cartoon_Network_2010_logo.svg.png" group-title="INFANTILES", 133 | Cartoon Network
+#EXTINF:-1 tvg-id="USA | Cartoon Network" tvg-name="USA | Cartoon Network" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png" group-title="INFANTILES", 133 | Cartoon Network Señal Perú
+http://181.65.154.170:8000/play/a07d/index.m3u8
+#EXTINF:-1 tvg-id="USA | Cartoon Network" tvg-name="USA | Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/150px-Cartoon_Network_2010_logo.svg.png" group-title="INFANTILES", 133.2 | Cartoon Network Señal Argentina
 http://190.83.119.67:8000/play/a0op/index.m3u8
 #EXTINF:-1 tvg-id="USA | Cartoonito" tvg-name="USA | Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/259px-Cartoonito_-_Logo_2021.svg.png" group-title="INFANTILES", 134 | Cartoonito
 http://181.189.243.254:8000/play/a0pa/index.m3u8
@@ -1843,38 +1845,38 @@ https://radio.livestreamingmundial.com/8092/stream
 https://stream-40.zeno.fm/nmx8e1y7cm0uv?zs=e2hAOnVRRs2NRTKp98xR6Q&aw_0_req_lsid=1663150054202_0.5060922715387872&an-uid=5362203318446947601&triton-uid=cookie%3A1a8575a0-a2d8-4284-a5c1-853a8ffb7673
 #EXTINF:-1 tvg-id="PE | Radio Moda Star" tvg-name="PE | Radio Moda Star" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/moda-moyobamba.png" group-title="EMISORAS LOCALES", 897 | Radio Moda Star || Moyobamba; Perú
 https://sp.onliveperu.com/8004/stream
-#EXTINF:-1 tvg-id="PE | Selvática Radio" tvg-name="PE | Selvática Radio" tvg-logo="https://pbs.twimg.com/media/FSNczelWUAAkAcH?format=jpg&name=240x240" group-title="EMISORAS LOCALES", 898 | Selvática Radio || Moyobamba; Perú
-https://radio.livestreamingmundial.com:7100/stream
-#EXTINF:-1 tvg-id="PE | Radio Power" tvg-name="PE | Radio Power" tvg-logo="https://www.radiopowertv.com/wp-content/uploads/2021/11/logopower.jpg" group-title="EMISORAS LOCALES", 899 | Radio Power || Moyobamba; Perú
+#EXTINF:-1 tvg-id="PE | Radio Power" tvg-name="PE | Radio Power" tvg-logo="https://www.radiopowertv.com/wp-content/uploads/2021/11/logopower.jpg" group-title="EMISORAS LOCALES", 898 | Radio Power || Moyobamba; Perú
 https://sp.dattavolt.com/8062/stream
-#EXTINF:-1 tvg-id="PE | Radio G" tvg-name="PE | Radio G" tvg-logo="https://radiog.pe/wp-content/uploads/2020/08/1logo-radio1.png" group-title="EMISORAS LOCALES", 900 | Radio G || Moyobamba; Perú
+#EXTINF:-1 tvg-id="PE | Radio G" tvg-name="PE | Radio G" tvg-logo="https://radiog.pe/wp-content/uploads/2020/08/1logo-radio1.png" group-title="EMISORAS LOCALES", 899 | Radio G || Moyobamba; Perú
 https://radio.livestreamingmundial.com/8034/stream/;type=mp3
-#EXTINF:-1 tvg-id="PE | Radio La Voz de Moyobamba" tvg-name="PE | Radio La Voz de Moyobamba" tvg-logo="https://play-lh.googleusercontent.com/n1rtB2umm4Aiu1hkiKnRhGDlnnBLJYO2ZEWAClKuaJShBrMmKg7xvnWAZX4jbMMwn0I=w240-h480-rw" group-title="EMISORAS LOCALES", 901 | Radio La Voz de Moyobamba || Moyobamba; Perú
+#EXTINF:-1 tvg-id="PE | Radio La Voz de Moyobamba" tvg-name="PE | Radio La Voz de Moyobamba" tvg-logo="https://play-lh.googleusercontent.com/n1rtB2umm4Aiu1hkiKnRhGDlnnBLJYO2ZEWAClKuaJShBrMmKg7xvnWAZX4jbMMwn0I=w240-h480-rw" group-title="EMISORAS LOCALES", 900 | Radio La Voz de Moyobamba || Moyobamba; Perú
 https://radio.livestreamingmundial.com:7193/stream?icy=http
-#EXTINF:-1 tvg-id="PE | Radio Moyobamba" tvg-name="PE | Radio Moyobamba" tvg-logo="https://www.planetaradios.com/content/radios_fm/radio-moyobamba-online.png" group-title="EMISORAS LOCALES", 902 | Radio Moyobamba || Moyobamba; Perú
+#EXTINF:-1 tvg-id="PE | Radio Moyobamba" tvg-name="PE | Radio Moyobamba" tvg-logo="https://www.planetaradios.com/content/radios_fm/radio-moyobamba-online.png" group-title="EMISORAS LOCALES", 901 | Radio Moyobamba || Moyobamba; Perú
 https://conectperu.com/8236/stream
-#EXTINF:-1 tvg-id="PE | Radio Tropicana" tvg-name="PE | Radio Tropicana" tvg-logo="https://play-lh.googleusercontent.com/SbNWROdHc1mgEQpZQBDPHcdjlNsKX2K1-q3_6V5LXOGtg36sttuxX_7qgNTX3C79JA" group-title="EMISORAS LOCALES", 903 | Radio Tropicana 99.7 FM || Soritor; Perú
+#EXTINF:-1 tvg-id="PE | Radio Tropicana" tvg-name="PE | Radio Tropicana" tvg-logo="https://play-lh.googleusercontent.com/SbNWROdHc1mgEQpZQBDPHcdjlNsKX2K1-q3_6V5LXOGtg36sttuxX_7qgNTX3C79JA" group-title="EMISORAS LOCALES", 902 | Radio Tropicana 99.7 FM || Soritor; Perú
 https://radio.livestreamingmundial.com:7086/live
-#EXTINF:-1 tvg-id="PE | Radio Nor Selva" tvg-name="PE | Radio Nor Selva" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/norselva-98-7.png" group-title="EMISORAS PROVINCIALES", 904 | Radio Nor Selva 98.7 FM || Rioja; Perú
+#EXTINF:-1 tvg-id="PE | Radio Nor Selva" tvg-name="PE | Radio Nor Selva" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/norselva-98-7.png" group-title="EMISORAS PROVINCIALES", 903 | Radio Nor Selva 98.7 FM || Rioja; Perú
 https://sp.onliveperu.com/8150/stream/;type=mp3
-#EXTINF:-1 tvg-id="PE | Radio Rioja" tvg-name="PE | Radio Rioja" tvg-logo="https://www.radioriojaperu.com/panel/archivos-panel/logotipo/Logo-ie4jb-1.png" group-title="EMISORAS PROVINCIALES", 905 | Radio Rioja 101.1 FM || Rioja; Perú
+#EXTINF:-1 tvg-id="PE | Radio Rioja" tvg-name="PE | Radio Rioja" tvg-logo="https://www.radioriojaperu.com/panel/archivos-panel/logotipo/Logo-ie4jb-1.png" group-title="EMISORAS PROVINCIALES", 904 | Radio Rioja 101.1 FM || Rioja; Perú
 http://185.183.34.102:8164/;
-#EXTINF:-1 tvg-id="PE | Radio Via Alto Mayo" tvg-name="PE | Radio Via Alto Mayo" tvg-logo="https://www.viaaltomayotv.com/img/logotipo_radioref.png" group-title="EMISORAS PROVINCIALES", 906 | Radio Vía Alto Mayo || Rioja; Perú
-https://sonic.whitelabelservers.co.uk:7016/;/live
-#EXTINF:-1 tvg-id="PE | Radio California" tvg-name="PE | Radio California" tvg-logo="https://www.planetaradios.com/content/radios_fm/lradio-california-nueva-cajamarca.png" group-title="EMISORAS PROVINCIALES", 907 | Radio California 102.9 FM || Nueva Cajamarca; Perú
+#EXTINF:-1 tvg-id="PE | Radio Via Alto Mayo" tvg-name="PE | Radio Via Alto Mayo" tvg-logo="https://www.viaaltomayotv.com/img/logotipo_radioref.png" group-title="EMISORAS PROVINCIALES", 905 | Radio Vía Alto Mayo || Rioja; Perú
+https://whmsonic.playerfullhd.com:7099/;/live
+#EXTINF:-1 tvg-id="PE | Radio California" tvg-name="PE | Radio California" tvg-logo="https://www.planetaradios.com/content/radios_fm/lradio-california-nueva-cajamarca.png" group-title="EMISORAS PROVINCIALES", 906 | Radio California 102.9 FM || Nueva Cajamarca; Perú
 https://sp01.servidor.stream/8026/stream
-#EXTINF:-1 tvg-id="PE | Radio Ondas del Río Mayo" tvg-name="PE | Radio Ondas del Río Mayo" tvg-logo="https://play-lh.googleusercontent.com/dW1vUmmvg33AvAYIX9wlpQhe015pXfQG2ynFAUtpPtZVh_YXJOg29_GqdcozsFhMmeI" group-title="EMISORAS PROVINCIALES", 908 | Radio Ondas del Río Mayo 105.7 FM || Nueva Cajamarca; Perú
+#EXTINF:-1 tvg-id="PE | Radio Ondas del Río Mayo" tvg-name="PE | Radio Ondas del Río Mayo" tvg-logo="https://play-lh.googleusercontent.com/dW1vUmmvg33AvAYIX9wlpQhe015pXfQG2ynFAUtpPtZVh_YXJOg29_GqdcozsFhMmeI" group-title="EMISORAS PROVINCIALES", 907 | Radio Ondas del Río Mayo 105.7 FM || Nueva Cajamarca; Perú
 https://sp.onliveperu.com/8090/stream
-#EXTINF:-1 tvg-id="PE | Radio Amistad" tvg-name="PE | Radio Amistad" tvg-logo="https://www.planetaradios.com/content/radios_fm/pr215.png" group-title="EMISORAS PROVINCIALES", 909 | Radio Amistad 94.3 FM || Tarapoto; Perú
+#EXTINF:-1 tvg-id="PE | Radio Amistad" tvg-name="PE | Radio Amistad" tvg-logo="https://www.planetaradios.com/content/radios_fm/pr215.png" group-title="EMISORAS PROVINCIALES", 908 | Radio Amistad 94.3 FM || Tarapoto; Perú
 https://node-05.zeno.fm/00x5zgc5xg0uv.aac?zs=gaosDMhVRUudgtuUqhx1RA&rj-tok=AAABgW3OIMAAfufZoQ7F6_2Tpg&rj-ttl=5
-#EXTINF:-1 tvg-id="PE | Radio Interactiva" tvg-name="PE | Radio Interactiva" tvg-logo="https://interactivaradio.com/wp-content/uploads/2020/06/logo-blanco-2.png" group-title="EMISORAS PROVINCIALES", 910 | Interactiva Radio 98.3 FM || Tarapoto; Perú
+#EXTINF:-1 tvg-id="PE | Radio Interactiva" tvg-name="PE | Radio Interactiva" tvg-logo="https://interactivaradio.com/wp-content/uploads/2020/06/logo-blanco-2.png" group-title="EMISORAS PROVINCIALES", 909 | Interactiva Radio 98.3 FM || Tarapoto; Perú
 https://conectperu.com/8426/stream
-#EXTINF:-1 tvg-id="PE | Radio Fans" tvg-name="PE | Radio Fans" tvg-logo="https://static-media.streema.com/media/cache/0c/f0/0cf0fce695bd125e78e44ff5fc8badf6.jpg" group-title="EMISORAS PROVINCIALES", 911 | Radio Fans 95.5 FM || Picota; Perú
+#EXTINF:-1 tvg-id="PE | Radio Fans" tvg-name="PE | Radio Fans" tvg-logo="https://static-media.streema.com/media/cache/0c/f0/0cf0fce695bd125e78e44ff5fc8badf6.jpg" group-title="EMISORAS PROVINCIALES", 910 | Radio Fans 95.5 FM || Picota; Perú
 http://eu1.serviaudio.com:8066/stream/;
-#EXTINF:-1 tvg-id="PE | Radio Poderosa" tvg-name="PE | Radio Poderosa" tvg-logo="https://play-lh.googleusercontent.com/rs0UVLt2k9ON12iW-dzghfoKwKuAChW3aFDh4SSIAIzI49_m8ktG33GmWanD2bSk3Q=s200" group-title="EMISORAS PROVINCIALES", 912 | Radio Poderosa 96.7 FM || Picota; Perú
+#EXTINF:-1 tvg-id="PE | Radio Poderosa" tvg-name="PE | Radio Poderosa" tvg-logo="https://play-lh.googleusercontent.com/rs0UVLt2k9ON12iW-dzghfoKwKuAChW3aFDh4SSIAIzI49_m8ktG33GmWanD2bSk3Q=s200" group-title="EMISORAS PROVINCIALES", 911 | Radio Poderosa 96.7 FM || Picota; Perú
 http://eu1.serviaudio.com:8038/
-#EXTINF:-1 tvg-id="PE | Radio La Mega de Picota" tvg-name="PE | Radio La Mega de Picota" tvg-logo="https://static-media.streema.com/media/cache/93/9e/939e2e96ae1bd97da85be744a85fda6e.jpg" group-title="EMISORAS PROVINCIALES", 913 | Radio La Mega 98.7 FM || Picota; Perú
+#EXTINF:-1 tvg-id="PE | Radio La Mega de Picota" tvg-name="PE | Radio La Mega de Picota" tvg-logo="https://static-media.streema.com/media/cache/93/9e/939e2e96ae1bd97da85be744a85fda6e.jpg" group-title="EMISORAS PROVINCIALES", 912 | Radio La Mega 98.7 FM || Picota; Perú
 http://ip.blstreamperu.com:9854/;
+#EXTINF:-1 tvg-id="PE | Radio La Voz de la Selva" tvg-name="PE | Radio La Voz de la Selva" tvg-logo="https://radiolavozdelaselva.org/wp-content/uploads/2023/01/LOGO-LVS-WEB.png" group-title="EMISORAS REGIONALES", 913 | Radio La Voz de la Selva || Iquitos; Perú
+https://serverssl.innovatestream.pe:8080/167.114.118.120:7664/stream
 #EXTINF:-1 tvg-id="PE | Radio Rutas" tvg-name="PE | Radio Rutas" tvg-logo="https://play-lh.googleusercontent.com/7hUpRIhYXUf2VRDm9oBEZLvqzSc6eCtMYzRLelnfqYwRFXc75nhJlZZrvZ9ujzgmCw=w240-h480-rw" group-title="EMISORAS REGIONALES", 914 | Radio Rutas || Quillabamba; Perú
 http://65.60.45.74:8014/stream/1/
 #EXTINF:-1 tvg-id="PE | Expresión Radio TV" tvg-name="PE | Expresión Radio TV" tvg-logo="https://www.telesur.com.pe/recursos/page/expresion/images/logo.png" group-title="EMISORAS DE RADIO CON VIDEO", 915 | Expresión Radio TV || Ilo
@@ -1897,7 +1899,7 @@ https://streaming.shoutcast.com/pbo-radio-fm?1667974759724
 https://us-b5-p-e-wo1-audio.cdn.mdstrm.com/live-audio-aw/5fada553978fe1080e3ac5ea?aid=5faaeb72f92d7b07dfe10181&pid=N7Kt9AVFS5pXx8zALe8kUAy2w2KDSYac&sid=aImakKiyNM09Mn7NzmJV69oLUQvKe0dH&uid=DhyLihsgnb8wgjVIvB8gbMe95dwzRrfr&es=us-b5-p-e-wo1-audio.cdn.mdstrm.com&ote=1644900553939&ot=yshajNUBj0QXo5U0MqBRYg&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada553978fe1080e3ac5ea&referer=https%3A%2F%2Fradios.com.pe%2F
 #EXTINF:-1 tvg-id="PE | Ritmo Romántica" tvg-name="PE | Ritmo Romántica" tvg-logo="https://ritmoromantica.pe/assets/images/logo-ritmo-romantica.png" group-title="EMISORAS NACIONALES", 924 | Ritmo Romántica 93.1 FM || Lima; Perú
 http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_RIT_SC
-#EXTINF:-1 tvg-id="PE | Radio La Inolvidable" tvg-name="PE | Radio La Inolvidable" tvg-logo="https://lainolvidable.pe/assets/images/logo-lainolvidable-2020.png" group-title="EMISORAS NACIONALES", 925 | Radio La Inolvidable 93.7 FM y 660 AM || Lima; Perú
+#EXTINF:-1 tvg-id="PE | Radio La Inolvidable" tvg-name="PE | Radio La Inolvidable" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/8e/08/21103/c175.png" group-title="EMISORAS NACIONALES", 925 | Radio La Inolvidable 93.7 FM y 660 AM || Lima; Perú
 http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_LI_SC?dist=20001
 #EXTINF:-1 tvg-id="PE | Radio Corazon" tvg-name="PE | Radio Corazon" tvg-logo="https://eaudioplayer.radio-grpp.io/static/dist/img/logo_corazon.png" group-title="EMISORAS NACIONALES", 926 | Radio Corazón 94.3 FM || Lima; Perú
 https://us-b5-p-e-kj2-audio.cdn.mdstrm.com/live-audio-aw/5fada514fc16c006bd63370f?aid=5faaeb72f92d7b07dfe10181&pid=MTBdKnXgdL0rMWyKuoxNsuO6hGEixgsV&sid=aImakKiyNM09Mn7NzmJV69oLUQvKe0dH&uid=DhyLihsgnb8wgjVIvB8gbMe95dwzRrfr&es=us-b5-p-e-kj2-audio.cdn.mdstrm.com&ote=1644900382175&ot=Ste_WjED56Nhthwc0M0laA&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada514fc16c006bd63370f&referer=https%3A%2F%2Fradios.com.pe%2F
@@ -1911,13 +1913,13 @@ https://7.innovatestream.pe:2020/stream/lakalleoficial/stream
 https://us-b5-p-e-kj2-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951/playlist.m3u8?listeningSessionID=61e56819e0a91de6_2525916_o0RHblwF__0000008LfEZ&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=Qi96VNv4XEwozwo5rChmzveTPyuimQu8&sid=kNuMOtOgmwhd4cL8DRIc6DTUWuqlraxV&pid=iBx0AQXYwvOC9Pa2Rg6cDhWbAKkEY1pM&ref=audioplayer.pe&es=us-b5-p-e-kj2-audio.cdn.mdstrm.com&ote=1645036471875&ot=qLXlFIoFT3fp9aF1o_L9Ow&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada56fe4e09508207a7951&referer=https%3A%2F%2Faudioplayer.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=v0.0.183
 #EXTINF:-1 tvg-id="PE | Radio Moda" tvg-name="PE | Radio Moda" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Moda_2018.png/225px-Moda_2018.png" group-title="EMISORAS NACIONALES", 931 | Radio Moda 97.3 FM || Lima; Perú
 http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MOD_SC
-#EXTINF:-1 tvg-id="PE | Radio Moda +" tvg-name="PE | Radio Moda +" tvg-logo="https://moda.com.pe/assets/images/logo_modamas.png" group-title="EMISORAS NACIONALES", 932 | Radio Moda + || Lima; Perú
+#EXTINF:-1 tvg-id="PE | Radio Moda +" tvg-name="PE | Radio Moda +" tvg-logo="https://web.archive.org/web/20220929081706if_/https://moda.com.pe/assets/images/logo_modamas.png" group-title="EMISORAS NACIONALES", 932 | Radio Moda + || Lima; Perú
 https://18733.live.streamtheworld.com/CRP_MOD2_S01.mp3?csegid=1010&dist=1010&tdsdk=js-%40td&lat=-6&long=-77&pname=TDSdk&pversion=%40td&banners=300x250%2C728x90
 #EXTINF:-1 tvg-id="PE | Radio Onda Cero" tvg-name="PE | Radio Onda Cero" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Logo-Onda.jpg/225px-Logo-Onda.jpg" group-title="EMISORAS NACIONALES", 933 | Radio Onda Cero 98.1 FM y 1160 AM || Lima; Perú
 https://streaming.gometri.com/stream/8011/stream
 #EXTINF:-1 tvg-id="PE | Doble Nueve" tvg-name="PE | Radio Doble Nueve" tvg-logo="https://radiosperu.net/sites/default/files/styles/116_x_116/public/radio/logos/logo-radio-doble-nueve.png?itok=IC3yv-Om" group-title="EMISORAS NACIONALES", 934 | Radio Doble Nueve 99.1 FM || Lima; Perú
 http://149.56.241.147:8004/stream?icy=http
-#EXTINF:-1 tvg-id="PE | Radio Oasis" tvg-name="PE | Radio Oasis" tvg-logo="https://oasis.pe/assets/images/logo-radio-oasis.png" group-title="EMISORAS NACIONALES", 935 | Radio Oasis 100.1 FM || Lima; Perú
+#EXTINF:-1 tvg-id="PE | Radio Oasis" tvg-name="PE | Radio Oasis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Oasis_2015.png/225px-Oasis_2015.png" group-title="EMISORAS NACIONALES", 935 | Radio Oasis 100.1 FM || Lima; Perú
 http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_OAS_SC
 #EXTINF:-1 tvg-id="PE | Radio Panamericana" tvg-name="PE | Radio Panamericana" tvg-logo="https://www.radiopanamericana.com/images/logo-pana_blanco.png" group-title="EMISORAS NACIONALES", 936 | Radio Panamericana 101.1 FM y 960 AM || Lima; Perú
 https://streaming.gometri.com/stream/8000/stream
@@ -1933,7 +1935,7 @@ https://cdnh4.iblups.com/hls/OisZOgZAOB.m3u8
 https://us-b5-p-e-kj2-audio.cdn.mdstrm.com/live-audio-aw/60bfd82b9488941e9d86eb1d/playlist.m3u8?listeningSessionID=6221b313eb6cd2c5_1699774_HZjG6feJ__0000005vrDv&downloadSessionID=0&aid=5b8ea6f89ff52d0770a144c4&dnt=true&uid=gcl6jHrQNCYjW2aeqW0nb2fXL33TJuqG&sid=RGgDqsqCNRZo9pgnNRTfzNE621wFzqXL&pid=CUHEKdaPzNcFr6QFFqmAwzLYiurhd5RN&ref=radioamerica.pe&es=us-b5-p-e-kj2-audio.cdn.mdstrm.com&ote=1648161841224&ot=xHK3jX8QeGd8q1Isljo5YQ&proto=https&pz=us&cP=128000&awCollectionId=5b8ea6f89ff52d0770a144c4&liveId=60bfd82b9488941e9d86eb1d&referer=https%3A%2F%2Fradioamerica.pe%2F&propertyName=appName&propertyType=web-app&propertyVersion=v0.0.169
 #EXTINF:-1 tvg-id="PE | Radio La Ñ" tvg-name="PE | Radio La Ñ" tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/3/25953.v22.png" group-title="EMISORAS NACIONALES", 942 | Radio La Ñ 105.5 FM || Lima; Perú
 https://node-30.zeno.fm/v83x1mqnnnruv?rj-ttl=5&rj-tok=AAABfGg7cF8AMFkIqh42CgzQVg
-#EXTINF:-1 tvg-id="PE | Radiomar" tvg-name="PE | Radiomar" tvg-logo="https://radiomar.pe/assets/images/logo-radiomar.png" group-title="EMISORAS NACIONALES", 943 | Radiomar 106.3 FM || Lima; Perú
+#EXTINF:-1 tvg-id="PE | Radiomar" tvg-name="PE | Radiomar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Radiomar_2017.svg/revision/latest/scale-to-width-down/1200?cb=20220706023913&path-prefix=es" group-title="EMISORAS NACIONALES", 943 | Radiomar 106.3 FM || Lima; Perú
 http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MAR_SC
 #EXTINF:-1 tvg-id="PE | Radio Nueva Q" tvg-name="PE | Radio Nueva Q" tvg-logo="https://radionuevaq.pe/assets/images/logo-nueva-q.png" group-title="EMISORAS NACIONALES", 944 | Radio Nueva Q 107.1 FM || Lima; Perú
 http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_NQ_SC
