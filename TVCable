@@ -134,7 +134,7 @@ http://190.2.209.159:4000/play/tlnovelas/index.m3u8
 #EXTINF:-1 tvg-id="MX | Las Estrellas Latinoamérica" tvg-name="MX | Las Estrellas Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/180px-Las_Estrellas.svg.png" group-title="INTERNACIONALES", 65 | Las Estrellas Latinoamérica
 http://45.160.12.253:8000/play/151
 #EXTINF:-1 tvg-id="USA | Univisión Latinoamérica" tvg-name="USA | Univisión Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="INTERNACIONALES", 66 | Univisión Latinoamérica
-http://190.83.119.67:8000/play/a0v0/index.m3u8
+http://45.5.119.155:8000/play/a0kr/index.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", 67 | Telemundo Internacional
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TELEMUNDO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEMUNDO_stream_fp&_cdn_session=576376171&_cdn_timestamp=1675668420&_cdn_token=1392e2065f63f34f6126aa83e7d43c38b439fb87
 #EXTINF:-1 tvg-id="USA | ID" tvg-name="USA | ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png" group-title="DOCUMENTALES Y SERIES", 68 | Investigation Discovery
@@ -176,7 +176,7 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussen
 #EXTINF:-1 tvg-id="USA | TCM" tvg-name="USA | TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/120px-TCM_Latam_logo.svg.png" group-title="PELICULAS Y SERIES", 86 | TCM
 http://181.189.243.254:8000/play/a0ri/index.m3u8
 #EXTINF:-1 tvg-id="MX | Claro Cinema" tvg-name="MX | Claro Cinema" tvg-logo="https://trademarks.justia.com/media/og_image.php?serial=86830508" group-title="PELICULAS Y SERIES", 87 | Claro Cinema
-http://170.83.242.152:5350/play/a00d
+http://45.5.119.155:8000/play/a0hl/index.m3u8
 #EXTINF:-1 tvg-id="USA | TBS" tvg-name="USA | TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/135px-TBS_logo_2016.svg.png" group-title="PELICULAS Y SERIES", 88 | TBS
 http://45.179.164.9:8000/play/a02v/index.m3u8
 #EXTINF:-1 tvg-id="USA | Studio Universal" tvg-name="USA | Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/175px-StudioUniversal2016.png" group-title="PELICULAS Y SERIES", 89 | Studio Universal
@@ -222,15 +222,15 @@ http://181.175.41.170:8000/play/a0ge
 #EXTINF:-1 tvg-id="USA | Cinemax" tvg-name="USA | Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="PELICULAS Y SERIES", 109 | Cinemax
 http://45.228.234.77:4430/play/cinemax
 #EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", 110 | HBO
-http://190.83.119.67:8000/play/a0or/index.m3u8
+http://45.5.119.155:8000/play/a0l2/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO 2" tvg-name="USA | HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" group-title="PELICULAS Y SERIES", 111 | HBO 2
-http://190.83.119.67:8000/play/a0os/index.m3u8
+http://45.5.119.155:8000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO+" tvg-name="USA | HBO +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/125px-Logohboplus2019.svg.png" group-title="PELICULAS Y SERIES", 112 | HBO +
-http://190.83.119.67:8000/play/a0ot/index.m3u8
+http://45.5.119.155:8000/play/a0l4/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="PELICULAS Y SERIES", 113 | HBO Family
-http://190.83.119.67:8000/play/a0ou/index.m3u8
+http://45.5.119.155:8000/play/a0l5/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO Xtreme" tvg-name="USA | HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" group-title="PELICULAS Y SERIES", 114 | HBO Xtreme
-http://190.83.119.67:8000/play/a0ov/index.m3u8
+http://45.5.119.155:8000/play/a0l6/index.m3u8
 #EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 115 | TNT
 http://45.179.164.9:8000/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="USA | TNT Series" tvg-name="USA | TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/94px-TNT_Series_Logo_2016.png" group-title="PELICULAS Y SERIES", 116 | TNT Series
@@ -374,7 +374,7 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/LIFETIME/40-hls/live-media.m3
 #EXTINF:-1 tvg-id="VE | Ve Plus" tvg-name="VE | Ve Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ve_Plus_Logo_2019.png/130px-Ve_Plus_Logo_2019.png" group-title="MISCELANEO", 184 | Ve Plus
 http://190.122.96.187:8888/http/006
 #EXTINF:-1 tvg-id="MX | Canal Claro" tvg-name="MX | Canal Claro" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_wMka8ic6GW1I8vfkcLln4EVGxKvqesLkuFTuI=s900-c-k-c0x00ffffff-no-rj" group-title="MISCELANEO", 185 | Canal Claro
-http://204.157.255.31:20001/play/a054/index.m3u8
+http://45.5.119.155:8000/play/a0fv/index.m3u8
 #EXTINF:-1 tvg-id="USA | film&arts" tvg-name="USA | film&arts" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Film%26Arts2016.png/200px-Film%26Arts2016.png" group-title="MISCELANEO", 186 | Film & Arts
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FILMSANDARTS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFILMSANDARTS_stream_cb&_cdn_session=576379659&_cdn_timestamp=1675669407&_cdn_token=b9207153dc6e9e9f3f99061d3d8312891b82b12d
 #EXTINF:-1 tvg-id="CL | Canal DOS" tvg-name="CL | Canal DOS" tvg-logo="https://pbs.twimg.com/media/Fm4LCw_WYAESJ5v?format=png&name=small" group-title="MISCELANEO", 187 | Canal DOS
@@ -904,7 +904,7 @@ http://152.200.181.236:15000/play/a03j
 #EXTINF:-1 tvg-id="CO | Telecafé" tvg-name="CO | Telecafé" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Telecaf%C3%A9_logo.svg/200px-Telecaf%C3%A9_logo.svg.png" group-title="COLOMBIA", 437 | Telecafé || COLOMBIA
 http://181.78.24.187:8006/play/a0a0/index.m3u8
 #EXTINF:-1 tvg-id="CO | Teleantioquia" tvg-name="CO | Teleantioquia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Teleantioquia_logo.svg/250px-Teleantioquia_logo.svg.png" group-title="COLOMBIA", 438 | Teleantioquia || COLOMBIA
-http://8.242.174.18:4040/play/a03d/index.m3u8
+http://190.2.209.155:4000/play/teleantioquia/index.m3u8
 #EXTINF:-1 tvg-id="CO | Telemedellín" tvg-name="CO | Telemedellín" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Logotipo_de_Telemedell%C3%ADn.png/150px-Logotipo_de_Telemedell%C3%ADn.png" group-title="COLOMBIA", 439 | Telemedellín || COLOMBIA
 http://190.2.209.159:4000/play/telemedellin/index.m3u8
 #EXTINF:-1 tvg-id="CO | Zoom TV"  tvg-name="CO | Zoom TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/CanalZoom2018.png/revision/latest/scale-to-width-down/78?cb=20210501194343&path-prefix=es" group-title="COLOMBIA", 440 | Zoom TV || COLOMBIA
