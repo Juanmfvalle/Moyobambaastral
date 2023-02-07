@@ -130,7 +130,7 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AZCORAZON/40-hls/live-media.m
 #EXTINF:-1 tvg-id="USA | Novelisima" tvg-name="USA | Novelisima" tvg-logo="https://www.novelisima.com/assets/images/logo.png" group-title="NOVELAS", 63 | Novelisima
 https://v-fn.mybtv.net/live/946.m3u8
 #EXTINF:-1 tvg-id="MX | Tlnovelas" tvg-name="MX | Tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="NOVELAS", 64 | Tlnovelas
-http://190.2.209.159:4000/play/tlnovelas/index.m3u8
+http://45.228.234.77:3340/play/tlnovelas/index.m3u8
 #EXTINF:-1 tvg-id="MX | Las Estrellas Latinoamérica" tvg-name="MX | Las Estrellas Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/180px-Las_Estrellas.svg.png" group-title="INTERNACIONALES", 65 | Las Estrellas Latinoamérica
 http://45.160.12.253:8000/play/151
 #EXTINF:-1 tvg-id="USA | Univisión Latinoamérica" tvg-name="USA | Univisión Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="INTERNACIONALES", 66 | Univisión Latinoamérica
@@ -356,7 +356,7 @@ https://cdnlive.presstv.ir/cdnlive/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CH | CGTN Español" tvg-name="CH | CGTN Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/180px-CGTN_Espanol.png" group-title="NOTICIAS E INFORMACION", 176 | CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="CO | Nuestra Tele Noticias 24" tvg-name="CO | Nuestra Tele Noticias 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NTN24_logo.svg/245px-NTN24_logo.svg.png" group-title="NOTICIAS E INFORMACION", 177 | NTN 24
-https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl0_LlE0mdcGTDZEYJKOUlOjBaNlc7uZCr8p5upV2Q0jk)/dm/3/x7w4okl/s/live-1.m3u8
+https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl4XqcM9iLVLFtkTF-jU2JNc4krTsYnOHJMhF186sx-8w)/dm/3/x7w4okl/s/live-1.m3u8
 #EXTINF:-1 tvg-id="CO | Cablenoticias" tvg-name="CO | Cablenoticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/175px-Cable_Noticias_logo.svg.png" group-title="NOTICIAS E INFORMACION", En prueba | Cablenoticias
 https://5ea86ddd14ce7.streamlock.net:443/live/cable09061970/chunklist_w491572862.m3u8
 #EXTINF:-1 tvg-id="ESP | 24 Horas tve" tvg-name="ESP | 24 horas tve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/125px-Logo_TVE-24h.svg.png" group-title="NOTICIAS E INFORMACION", 178 | 24 horas tve
@@ -452,7 +452,7 @@ http://190.27.253.211:8000/play/a07g/index.m3u8
 #EXTINF:-1 tvg-id="CR | FUTV" tvg-name="CR | FUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_de_FUTV.svg/200px-Logo_de_FUTV.svg.png" group-title="DEPORTES", 222 | FUTV
 http://181.189.243.254:8000/play/a0t3/index.m3u8
 #EXTINF:-1 tvg-id="HN | Todo Deportes TV" tvg-name="HN | Todo Deportes TV" tvg-logo="https://dd7tel2830j4w.cloudfront.net/f1560359694028x167785582725733730/Group%2012.svg" group-title="DEPORTES", 223 | Todo Deportes TV
-https://5fe2654d6127d.streamlock.net/tododeportesplus/smil:tododeportesplus.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjMgMzo1MTozOCBBTSZoYXNoX3ZhbHVlPVJmLytTaVZmTUM5SEpNY0NScUtqbkE9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZpZD0=
+https://5fe2654d6127d.streamlock.net/tododeportesplus/smil:tododeportesplus.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjMgMTE6MTM6MTcgUE0maGFzaF92YWx1ZT1PamRZdklPbmJ6elRFRXFzTi9BaWpBPT0mdmFsaWRtaW51dGVzPTM2MDAmaWQ9
 #EXTINF:-1 tvg-id="PE | Gol Perú" tvg-name="PE | Gol Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/245px-Gol_Per%C3%BA_2019.svg.png" group-title="DEPORTES", 224 | Gol Perú
 http://200.24.141.2:4000/play/a0zd/index.m3u8
 #EXTINF:-1 tvg-id="PE | EdX TV" tvg-name="PE | EdX TV" tvg-logo="https://pbs.twimg.com/media/FVzsfVnWUAc1ffp?format=png&name=240x240" group-title="DEPORTES", 225 | EdX TV
@@ -490,7 +490,7 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 #EXTINF:-1 tvg-id="CL | Retro Play TV" tvg-name="CL | Retro Play TV" tvg-logo="https://play-lh.googleusercontent.com/T4_7BFebh_PJCxdz0SJgUna1OvsqzW1ZDfw4TEYKqQNJVy9CcDNj5Oha9Uq5XOs7OZY=w600-h300-pc0xffffff-pd" group-title="MUSICA Y PELICULAS", 239 | Retro Play TV
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
 #EXTINF:-1 tvg-id="USA | Rockola Televisión" tvg-name="USA | Rockola Televisión" tvg-logo="https://pbs.twimg.com/profile_images/962425009745616896/rZ63oyzp_400x400.jpg" group-title="MUSICA Y REALITIES", 240 | Rockola Televisión
-https://306b0749deb441bea6849d705e36bd15.mediatailor.us-east-1.amazonaws.com/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-RAD/61a804b5-9926-4b71-9884-2d7d549953e0/0.m3u8
+https://306b0749deb441bea6849d705e36bd15.mediatailor.us-east-1.amazonaws.com/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-RAD/f69286b8-832f-4451-9396-1808d22646ab/0.m3u8
 #EXTINF:-1 tvg-id="CL | Radio Recuerdos Retro TV" tvg-name="CL | Radio Recuerdos Retro TV" tvg-logo="https://recuerdosretro.com/wp-content/uploads/2022/03/cropped-logo_new_web10.png" group-title="MUSICA Y REALITIES", 241 | Radio Recuerdos Retro TV
 https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Top Latino" tvg-name="PE | Top Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png/150px-LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="MUSICA Y REALITIES", 242 | Top Latino TV
@@ -1480,7 +1480,7 @@ https://dslvfq5ee0geu.cloudfront.net/hls/canal23.m3u8
 #EXTINF:-1 tvg-id="GT | Guatevisión" tvg-name="GT | Guatevisión" tvg-logo="https://www.guatevision.com/wp-content/uploads/sites/2/2019/09/logo-1.png?quality=82" group-title="GUATEMALA", 715 | Guatevisión || GUATEMALA
 http://181.189.243.254:8000/play/a0oz/index.m3u8
 #EXTINF:-1 tvg-id="GT | Canal 27 El Canal de la Esperanza" tvg-name="GT | Canal 27 El Canal de la Esperanza" tvg-logo="https://www.canal27.org/wp-content/uploads/2019/01/logo_c27f4.png" group-title="GUATEMALA", 716 | Canal 27 El Canal de la Esperanza || GUATEMALA
-http://45.5.117.138:8005/play/a00l/index.m3u8
+http://45.228.234.77:3340/play/canalveintisiete/index.m3u8
 #EXTINF:-1 tvg-id="GT | Nuevo Mundo Televisión" tvg-name="GT | Nuevo Mundo Televisión" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s819cb0bb844c8380/image/i28512c8451c19f44/version/1488494562/image.png" group-title="GUATEMALA", 717 | Nuevo Mundo Televisión || GUATEMALA
 https://tvlatina.live:1936/8030/8030/playlist.m3u8
 #EXTINF:-1 tvg-id="GT | TV Azteca Guatemala" tvg-name="GT | TV Azteca Guatemala" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Azteca_Guate_2017.png/200px-Azteca_Guate_2017.png" group-title="GUATEMALA", 718 | TV Azteca Guate || GUATEMALA
@@ -1738,7 +1738,7 @@ https://v-px.mybtv.net/live/45.m3u8
 #EXTINF:-1 tvg-id="USA | Azteca América" tvg-name="USA | Azteca América" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Azteca_Am%C3%A9rica_logo_2015.png/170px-Azteca_Am%C3%A9rica_logo_2015.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 844 | Azteca América || ESTADOS UNIDOS DE AMÉRICA
 https://v-px.mybtv.net/live/41.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo" tvg-name="USA | Telemundo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 845 | Telemundo || ESTADOS UNIDOS DE AMÉRICA
-http://190.61.102.67:8000/play/a04t
+https://w3ertgfdsawerty8765432qwsdfghjsaw4.tunelive.net:3252/stream/play.m3u8
 #EXTINF:-1 tvg-id="USA | TeleXitos" tvg-name="USA | TeleXitos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Telexitos_logo.png/220px-Telexitos_logo.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 846 | TeleXitos || ESTADOS UNIDOS DE AMÉRICA
 https://v-px.mybtv.net/live/47.m3u8
 #EXTINF:-1 tvg-id="USA | Américatevé" tvg-name="USA | Américatevé" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/af/Am%C3%A9rica_Tev%C3%A9_Logo.png/200px-Am%C3%A9rica_Tev%C3%A9_Logo.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 847 | Américatevé || ESTADOS UNIDOS DE AMÉRICA
