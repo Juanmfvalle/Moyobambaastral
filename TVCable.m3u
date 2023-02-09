@@ -53,6 +53,8 @@ https://live.obslivestream.com/cdeportivo/index.m3u8
 https://live.obslivestream.com/sanjuanera/index.m3u8
 #EXTINF:-1 tvg-id="PE | Mayo Televisión" tvg-name="PE | Mayo Televisión" tvg-logo="https://pbs.twimg.com/media/FmnVo8KX0AY3PZ7?format=png&name=900x900" group-title="LOCALES", 25 | Mayo Televisión || Moyobamba
 https://live.obslivestream.com/mayotv/index.m3u8
+#EXTINF:-1 tvg-id="PE | Red Digital TV" tvg-name="PE | Red Digital TV" tvg-logo="https://playmax.tv/wp-content/uploads/2023/02/red-digitatvl.png" group-title="LOCALES", En prueba | Red Digital TV || Moyobamba
+https://live.obslivestream.com/reddigital/index.m3u8
 #EXTINF:-1 tvg-id="PE | Ok Teve" tvg-name="PE | Ok Teve" tvg-logo="https://playmax.tv/wp-content/uploads/2022/11/oktv.png" group-title="PROVINCIALES", 26 | OK Televisión || Soritor
 https://stream.plixitv.live/oktv/oktv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | TV5" tvg-name="PE | TV5" tvg-logo="https://tv5soritor.com/wp-content/uploads/2021/07/LOGO-TV5.png" group-title="PROVINCIALES", 27 | TV5 || Soritor
@@ -83,6 +85,8 @@ https://multimedia.tmcreativos.com:1936/raditropical/ngrp:raditropical_all/playl
 https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Innova TV" tvg-name="PE | Innova TV" tvg-logo="https://play-lh.googleusercontent.com/ZKYIGUiCEX1iPZmVTTjLyAwHPZCXmL60bkaTw1M5tg2ErI7yb21-J20nCTNJTTHRnwY=w2560-h1440-rw" group-title="PROVINCIALES", 40 | Innova TV || Tarapoto
 http://200.48.184.156:1935/innovatv/innovatv/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | RW Televisión" tvg-name="PE | RW Televisión" tvg-logo="https://pbs.twimg.com/media/FohkCHjXgAEo88j?format=png&name=360x360" group-title="PROVINCIALES", En prueba | RW Televisión || Tarapoto
+https://live.obslivestream.com/rwtv/index.m3u8
 #EXTINF:-1 tvg-id="PE | Millenium TV" tvg-name="PE | Millenium TV" tvg-logo="https://play-lh.googleusercontent.com/uTetNKtedjE1JM0TYr8bL4accz8BdnDHPHqwM7d35DpnOTMV2Oz7ZJtIGb5vUW6d3ZSt=w240-h480-rw" group-title="PROVINCIALES", 41 | Millenium TV || Lamas
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 #EXTINF:-1 tvg-id="PE | Sori TV" tvg-name="PE | Sori TV" tvg-logo="https://pbs.twimg.com/media/Fm5oWKSWQAAAfjZ?format=png&name=900x900" group-title="PROVINCIALES", 42 | Sori TV || Picota
