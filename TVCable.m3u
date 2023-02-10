@@ -134,7 +134,7 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AZCORAZON/40-hls/live-media.m
 #EXTINF:-1 tvg-id="USA | Novelisima" tvg-name="USA | Novelisima" tvg-logo="https://www.novelisima.com/assets/images/logo.png" group-title="NOVELAS", 63 | Novelisima
 https://v-fn.mybtv.net/live/946.m3u8
 #EXTINF:-1 tvg-id="MX | Tlnovelas" tvg-name="MX | Tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="NOVELAS", 64 | Tlnovelas
-http://190.2.209.159:4000/play/tlnovelas/index.m3u8
+http://45.228.234.77:3340/play/tlnovelas/index.m3u8
 #EXTINF:-1 tvg-id="MX | Las Estrellas Latinoamérica" tvg-name="MX | Las Estrellas Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/180px-Las_Estrellas.svg.png" group-title="INTERNACIONALES", 65 | Las Estrellas Latinoamérica
 http://45.160.12.253:8000/play/151
 #EXTINF:-1 tvg-id="USA | Univisión Latinoamérica" tvg-name="USA | Univisión Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="INTERNACIONALES", 66 | Univisión Latinoamérica
@@ -279,12 +279,12 @@ http://181.189.243.254:8000/play/a0pa/index.m3u8
 http://181.189.243.254:8000/play/a0s3/index.m3u8
 #EXTINF:-1 tvg-id="USA | Retro Cartoon" tvg-name="USA | Retro Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNgVAzhKEkkeyQQOJXImzZwdg9jk55MjA5gQ&usqp=CAU" group-title="INFANTILES", 136 | Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistASTRAL
-#EXTINF:-1 tvg-id="CL | Energeek Fan" tvg-name="CL | Energeek Fan" tvg-logo="https://i2.paste.pics/6e12320dbdc58fc4ae26350c244f72af.png" group-title="INFANTILES", 137 | Energeek Fan
-https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
+#EXTINF:-1 tvg-id="CL | Energeek Retro" tvg-name="CL | Energeek Retro" tvg-logo="https://i.paste.pics/9e8d6f93eeee68542c756fbecacf896d.png" group-title="INFANTILES", 137 | Energeek Retro
+https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Energeek Fan Pop" tvg-name="CL | Energeek Fan Pop" tvg-logo="https://www.coolstreaming.us/img/ch/ima32115728874.jpg" group-title="INFANTILES", 138 | Energeek Fan Pop
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
-#EXTINF:-1 tvg-id="CL | Energeek Wowly" tvg-name="CL | Energeek Wowly" tvg-logo="https://pbs.twimg.com/media/FeW8SXUXEAE7WFd?format=png&name=small" group-title="INFANTILES", 139 | Energeek Wowly
-https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
+#EXTINF:-1 tvg-id="CL | Energeek Animate" tvg-name="CL | Energeek Animate" tvg-logo="https://i.paste.pics/415f623047f69e0cdc5c06b09d149de8.png" group-title="INFANTILES", 139 | Energeek Animate
+https://wifispeed.trapemn.tv:1936/infantil/energeek-tres/playlist.m3u8
 #EXTINF:-1 tvg-id="PA | Dreiko TV" tvg-name="PA | Dreiko TV" tvg-logo="https://play-lh.googleusercontent.com/MKxancjPSbqrJIaCcndA9s6VkmYrNZC1X4SR7hDaMvJKUMd33qTN6pob2mVkS8Azd2o=w240-h480-rw" group-title="INFANTILES", 140 | Dreiko TV
 https://cloudvideo.servers10.com:8081/8242/rewind-3600.m3u8?DVR
 #EXTINF:-1 tvg-id="USA | BabyFirst" tvg-name="USA | BabyFirst" tvg-logo="https://e7.pngegg.com/pngimages/1014/985/png-clipart-babyfirsttv-babytv-smile-baby-watching-tv-text-balloon-thumbnail.png" group-title="INFANTILES", 141 | BabyFirst
@@ -325,8 +325,8 @@ http://179.189.222.226:8000/play/ch06
 http://160.20.165.246:8000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="CL | Funbox" tvg-name="CL | Funbox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/FunBox_TV_logo.svg/120px-FunBox_TV_logo.svg.png" group-title="INFANTILES", 159 | Funbox
 http://160.20.165.246:8000/play/a005/index.m3u8
-#EXTINF:-1 tvg-id="CL | Kanade TV" tvg-name="CL | Kanade TV" tvg-logo="https://i.paste.pics/abc447b0667e0012a060e9a79f10fcb2.png" group-title="INFANTILES", 160 | Kanade TV
-https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
+#EXTINF:-1 tvg-id="MX | bitMe" tvg-name="MX | bitMe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/175px-BitMe_logo.svg.png" group-title="INFANTILES", 160 | bitMe
+http://45.228.234.77:3340/play/bitme/index.m3u8
 #EXTINF:-1 tvg-id="PE | E Kids" tvg-name="PE | E Kids" tvg-logo="https://pbs.twimg.com/media/FWNa8oVWAAAWvTx?format=png&name=small" group-title="INFANTILES", 161 | E Kids
 https://stream.plixitv.live/ekids/ekids/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Comedy Central" tvg-name="USA | Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/250px-Comedy_Central_2018.svg.png" group-title="ENTRETENIMIENTO", 162 | Comedy Central 
@@ -1474,7 +1474,7 @@ http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/chunklist_w15214477
 #EXTINF:-1 tvg-id="GT | Canal 3" tvg-name="GT | Canal 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Canal3GT2022.png/800px-Canal3GT2022.png" group-title="GUATEMALA", 710 | Canal 3 el super canal || GUATEMALA
 https://dslvfq5ee0geu.cloudfront.net/hls/canal3.m3u8
 #EXTINF:-1 tvg-id="GT | Televisiete" tvg-name="GT | Televisiete" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Canal7GT2022.png/1024px-Canal7GT2022.png" group-title="GUATEMALA", 711 | Televisiete || GUATEMALA
-https://dslvfq5ee0geu.cloudfront.net/hls/canal7.m3u8
+http://45.228.234.77:3340/play/canal_siete/index.m3u8
 #EXTINF:-1 tvg-id="GT | Teleonce" tvg-name="GT | Teleonce" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Canal11GT2022.png/200px-Canal11GT2022.png" group-title="GUATEMALA", 712 | Teleonce || GUATEMALA
 http://45.228.234.77:3340/play/canal_once/index.m3u8
 #EXTINF:-1 tvg-id="GT | Trecevisión" tvg-name="GT | Trecevisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Canal13GT2022.png/250px-Canal13GT2022.png" group-title="GUATEMALA", 713 | Trecevisión || GUATEMALA
