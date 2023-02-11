@@ -138,7 +138,7 @@ http://45.228.234.77:3340/play/tlnovelas/index.m3u8
 #EXTINF:-1 tvg-id="MX | Las Estrellas Latinoamérica" tvg-name="MX | Las Estrellas Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/180px-Las_Estrellas.svg.png" group-title="INTERNACIONALES", 65 | Las Estrellas Latinoamérica
 http://45.160.12.253:8000/play/151
 #EXTINF:-1 tvg-id="USA | Univisión Latinoamérica" tvg-name="USA | Univisión Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="INTERNACIONALES", 66 | Univisión Latinoamérica
-http://45.5.119.155:8000/play/a0kr/index.m3u8
+http://181.189.243.254:8000/play/a0v0/index.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", 67 | Telemundo Internacional
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TELEMUNDO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEMUNDO_stream_fp&_cdn_session=590528963&_cdn_timestamp=1676414574&_cdn_token=6f00a6c28edba2325786fb0c07bc094f0bc33b01
 #EXTINF:-1 tvg-id="USA | ID" tvg-name="USA | ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png" group-title="DOCUMENTALES Y SERIES", 68 | Investigation Discovery
@@ -180,7 +180,7 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussen
 #EXTINF:-1 tvg-id="USA | TCM" tvg-name="USA | TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/120px-TCM_Latam_logo.svg.png" group-title="PELICULAS Y SERIES", 86 | TCM
 http://181.189.243.254:8000/play/a0ri/index.m3u8
 #EXTINF:-1 tvg-id="MX | Claro Cinema" tvg-name="MX | Claro Cinema" tvg-logo="https://trademarks.justia.com/media/og_image.php?serial=86830508" group-title="PELICULAS Y SERIES", 87 | Claro Cinema
-http://45.5.119.155:8000/play/a0hl/index.m3u8
+http://170.83.242.30:5350/play/a00d
 #EXTINF:-1 tvg-id="USA | TBS" tvg-name="USA | TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/135px-TBS_logo_2016.svg.png" group-title="PELICULAS Y SERIES", 88 | TBS
 http://45.179.164.9:8000/play/a02v/index.m3u8
 #EXTINF:-1 tvg-id="USA | Studio Universal" tvg-name="USA | Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/175px-StudioUniversal2016.png" group-title="PELICULAS Y SERIES", 89 | Studio Universal
@@ -218,11 +218,11 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/UNIVERSALCH/10-hls/live-media
 #EXTINF:-1 tvg-id="USA | Universal Crime" tvg-name="USA | Universal Crime" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_crime-mediano.png" group-title="PELICULAS Y SERIES", 105 | Universal Crime
 http://181.189.243.254:8000/play/a0t0/index.m3u8
 #EXTINF:-1 tvg-id="USA | Universal Cinema" tvg-name="USA | Universal Cinema" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_cinema-mediano.png" group-title="PELICULAS Y SERIES", 106 | Universal Cinema
-http://45.5.119.155:8000/play/a0kt/index.m3u8
+http://181.189.243.254:8000/play/a0v2/index.m3u8
 #EXTINF:-1 tvg-id="USA | Universal Reality" tvg-name="USA | Universal Reality" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_reality-mediano.png" group-title="PELICULAS Y SERIES", 107 | Universal Reality
 http://181.189.243.254:8000/play/a0sz/index.m3u8
 #EXTINF:-1 tvg-id="USA | Universal Premiere" tvg-name="USA | Universal Premiere" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_premiere-mediano.png" group-title="PELICULAS Y SERIES", 108 | Universal Premiere
-http://181.175.41.170:8000/play/a0ge
+http://181.189.243.254:8000/play/a0ui/index.m3u8
 #EXTINF:-1 tvg-id="USA | Cinemax" tvg-name="USA | Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="PELICULAS Y SERIES", 109 | Cinemax
 http://45.228.234.77:4430/play/cinemax
 #EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", 110 | HBO
@@ -1338,7 +1338,7 @@ https://cootv.cootel.com.ni:8095/Canal04_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Canal 6" tvg-name="NI | Canal 6" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/6_de_nicaragua-mediano.png" group-title="NICARAGUA", 636 | Canal 6 Nicaragüense || NICARAGUA
 https://cootv.cootel.com.ni:8095/Canal06_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Canal 8 Telenica" tvg-name="NI | Canal 8 Telenica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Tn8_logotipo_2021.png/165px-Tn8_logotipo_2021.png" group-title="NICARAGUA", 637 | TN8 Telenica || NICARAGUA
-https://cootv.cootel.com.ni:8095/Canal08_CooTel/playlist.m3u8
+https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDIzIDM6MzM6MDIgUE0maGFzaF92YWx1ZT1CemR0SytxTThOeUkzUUJYa0hwYmFnPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
 #EXTINF:-1 tvg-id="NI | Canal 9" tvg-name="NI | Canal 9" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/b/bc/Canal9nicaragua.png/revision/latest/scale-to-width-down/185?cb=20210203203806&path-prefix=es" group-title="NICARAGUA", 638 | Canal 9 || NICARAGUA
 https://cootv.cootel.com.ni:8095/Canal09_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Canal 10" tvg-name="NI | Canal 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Canal_10_Nicaragua.png/190px-Canal_10_Nicaragua.png" group-title="NICARAGUA", 639 | Canal 10 || NICARAGUA
@@ -1348,7 +1348,7 @@ https://cootv.cootel.com.ni:8095/Canal11_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Nicavisión" tvg-name="NI | Nicavisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Canal_12_Nicaragua_logo.webp/200px-Canal_12_Nicaragua_logo.webp.png" group-title="NICARAGUA", 641 | Canal 12 Nicavisión || NICARAGUA
 https://cootv.cootel.com.ni:8095/Canal12_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Viva Nicaragua Canal 13" tvg-name="NI | Viva Nicaragua Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Logo_Viva_Nicaragua_Canal_13.png/200px-Logo_Viva_Nicaragua_Canal_13.png" group-title="NICARAGUA", 642 | Viva Nicaragua Canal 13 || NICARAGUA
-https://cootv.cootel.com.ni:8095/Canal13_CooTel/playlist.m3u8
+http://181.189.243.254:8000/play/a0qt/index.m3u8
 #EXTINF:-1 tvg-id="NI | Vos TV Canal 14" tvg-name="NI | Vos TV Canal 14" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/14_de_nicaragua-mediano.png" group-title="NICARAGUA", 643 | Vos TV || NICARAGUA
 https://cootv.cootel.com.ni:8095/Channel14/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Canal 15" tvg-name="NI | Canal 15" tvg-logo="https://pbs.twimg.com/media/FgYBiv_XEAEwavW?format=png&name=small" group-title="NICARAGUA", 644 | Canal 15 || NICARAGUA
