@@ -485,6 +485,14 @@ http://181.189.243.254:8000/play/a0t3/index.m3u8
 https://5ca39be538307.streamlock.net/tododeportesplus/smil:tododeportesplus.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDIzIDk6MDA6MTUgUE0maGFzaF92YWx1ZT1IYmptcmpkbm1tRUplcWNIcVZXaHB3PT0mdmFsaWRtaW51dGVzPTM2MDAmaWQ9
 #EXTINF:-1 tvg-id="PE | Gol Perú" tvg-name="PE | Gol Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/245px-Gol_Per%C3%BA_2019.svg.png" group-title="DEPORTES", 224 | Gol Perú
 http://200.24.141.2:4000/play/a0zd/index.m3u8
+#EXTINF:-1 tvg-id="ES | LaLigaTV por M+" tvg-name="ES | LaLigaTV por M+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/250px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="DEPORTES", En prueba | LaLigaTV por M+
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/126981
+#EXTINF:-1 tvg-id="MX | Afizzionados" tvg-name="MX | Afizzionados" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/320px-Afizzionados_Logo.svg.png" group-title="DEPORTES", En prueba | Afizzionados
+http://tv.nousiptv.com:8080/live/Jomyson/JuJH.8628jT/8248.m3u8
+#EXTINF:-1 tvg-id="USA | TUDN" tvg-name="USA | TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/200px-TUDN_Logo.svg.png" group-title="DEPORTES", En prueba | TUDN
+http://tv.nousiptv.com:8080/live/Jomyson/JuJH.8628jT/3963.m3u8
+#EXTINF:-1 tvg-id="USA | DSports+" tvg-name="USA | DSports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/DSportsM%C3%A1s.png/150px-DSportsM%C3%A1s.png" group-title="DEPORTES", En prueba | DSports+
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127284
 #EXTINF:-1 tvg-id="PE | EdX TV" tvg-name="PE | EdX TV" tvg-logo="https://pbs.twimg.com/media/FVzsfVnWUAc1ffp?format=png&name=240x240" group-title="DEPORTES", 225 | EdX TV
 https://stream.plixitv.live/edx/edx/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Portal Foxmix" tvg-name="CL | Portal Foxmix" tvg-logo="http://www.portalfoxmix.cl/web/wp-content/uploads/2016/03/logoPFM.png" group-title="MUSICA Y REALITIES", 226 | Portal Foxmix TV
@@ -1264,9 +1272,9 @@ https://tv.clientetvstudio.net:3507/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="UY | Charrua TV" tvg-name="UY | Charrua TV" tvg-logo="https://1.bp.blogspot.com/-5oMEGv6pLAo/YToskYNBjdI/AAAAAAAAQes/FLUAZ0CmW8E3ZqGT0XFAlD8GdMiD5TzewCLcBGAsYHQ/w700-h400-p-k-no-nu/charr%25C3%25BAa-televisi%25C3%25B3n-en-vivo_optimized.png" group-title="URUGUAY", 592 | Charrua TV || URUGUAY
 https://stmv.video.gmpro.top/tvcharrua/tvcharrua/playlist.m3u8
 #EXTINF:-1 tvg-id="PY | Noticias Paraguay" tvg-name="PY | Noticias Paraguay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/NPY_%28Noticias_Paraguay%29.png/250px-NPY_%28Noticias_Paraguay%29.png" group-title="PARAGUAY", 593 | Noticias Paraguay || PARAGUAY
-http://170.83.242.152:5350/play/a024
+http://tv.nousiptv.com:8080/live/Jomyson/JuJH.8628jT/7428.m3u8
 #EXTINF:-1 tvg-id="PY | Telefuturo" tvg-name="PY | Telefuturo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Telefuturo2017.png/150px-Telefuturo2017.png" group-title="PARAGUAY", 594 | Telefuturo || PARAGUAY
-http://181.78.27.188:5350/play/a03e
+http://tv.nousiptv.com:8080/live/Jomyson/JuJH.8628jT/7529.m3u8
 #EXTINF:-1 tvg-id="PY | Paravisión" tvg-name="PY | Paravisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Paravision_logo.png/150px-Paravision_logo.png" group-title="PARAGUAY", 595 | Paravisión || PARAGUAY
 http://170.83.242.152:5350/play/a021
 #EXTINF:-1 tvg-id="PY | Canal 9 Noticias" tvg-name="PY | Canal 9 Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Canal_9_Noticias.jpg/125px-Canal_9_Noticias.jpg" group-title="PARAGUAY", 596 | C9N || PARAGUAY
@@ -1274,13 +1282,13 @@ https://d4xunn272arip.cloudfront.net/hls/c9n.m3u8
 #EXTINF:-1 tvg-id="PY | Sistema Nacional de Televisión" tvg-name="PY | Sistema Nacional de Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/SNT_LOGO.jpg/220px-SNT_LOGO.jpg" group-title="PARAGUAY", 597 | SNT || PARAGUAY
 https://d4xunn272arip.cloudfront.net/hls/snt.m3u8
 #EXTINF:-1 tvg-id="PY | Sur Televisión" tvg-name="PY | Sur Televisión" tvg-logo="https://cdn.mitvstatic.com/channels/116c52f1-8f55-4325-af6d-ab11f98e81d5_m.jpg" group-title="PARAGUAY", 598 | Sur Televisión || PARAGUAY
-http://170.83.242.152:5350/play/a025
+http://tv.nousiptv.com:8080/live/Jomyson/JuJH.8628jT/7447.m3u8
 #EXTINF:-1 tvg-id="PY | La Tele" tvg-name="PY | La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Latele_Paraguay.jpg" group-title="PARAGUAY", 599 | La Tele || PARAGUAY
-http://190.27.253.211:8000/play/a05u/index.m3u8
+http://tv.nousiptv.com:8080/live/Jomyson/JuJH.8628jT/23224.m3u8
 #EXTINF:-1 tvg-id="PY | Trece" tvg-name="PY | Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/100px-Logotrececanal.png" group-title="PARAGUAY", 600 | Trece || PARAGUAY
 https://streaming.trece.com.py/live/trece.m3u8
 #EXTINF:-1 tvg-id="PY | Paraguay TV" tvg-name="PY | Paraguay TV" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_VMtrTllkAGA0qgsmMYtMoCV6XAjYORRStO5kzYg=s900-c-k-c0x00ffffff-no-rj" group-title="PARAGUAY", 601 | Paraguay TV || PARAGUAY
-http://170.83.242.152:5350/play/a01o
+http://tv.nousiptv.com:8080/live/Jomyson/JuJH.8628jT/7423.m3u8
 #EXTINF:-1 tvg-id="PY | Unicanal" tvg-name="PY | Unicanal" tvg-logo="http://www.unicanal.com.py/public/img/LogoUnicanal452x70.png" group-title="PARAGUAY", 602 | Unicanal || PARAGUAY
 http://45.55.127.106/live/unicanal_mid.m3u8
 #EXTINF:-1 tvg-id="PY | ABC TV" tvg-name="PY | ABC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Abc_color.PNG/245px-Abc_color.PNG" group-title="PARAGUAY", 603 | ABC TV || PARAGUAY
@@ -1296,13 +1304,13 @@ http://45.228.232.204:16000/play/a06t/index.m3u8
 #EXTINF:-1 tvg-id="PA | TVMax" tvg-name="PA | TVMax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png" group-title="PANAMÁ", 608 | TVMax || PANAMÁ
 http://45.5.117.182:8000/play/a0ip/index.m3u8
 #EXTINF:-1 tvg-id="PA | SERTV" tvg-name="PA | SERTV" tvg-logo="https://sertv.gob.pa/wp-content/uploads/2018/10/log_sertv-80-retina.png" group-title="PANAMÁ", 609 | SERTV || PANAMÁ
-http://200.229.147.76:4000/play/a04h/index.m3u8
+http://45.228.232.204:16000/play/a06p/index.m3u8
 #EXTINF:-1 tvg-id="PA | Telemetro" tvg-name="PA | Telemetro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/150px-Logo-telemetro.svg.png" group-title="PANAMÁ", 610 | Telemetro || PANAMÁ
 http://45.228.232.204:16000/play/a027/index.m3u8
 #EXTINF:-1 tvg-id="PA | Mas 23" tvg-name="PA | Mas 23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/M%C3%A1s_23.png/132px-M%C3%A1s_23.png" group-title="PANAMÁ", 611 | Mas 23 || PANAMÁ
 http://45.228.232.204:16000/play/a051/index.m3u8
 #EXTINF:-1 tvg-id="PA | Nex" tvg-name="PA | Nex" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Nexnew.png/132px-Nexnew.png" group-title="PANAMÁ", 612 | Nex || PANAMÁ
-https://mediacp.us:8081/nex/mono.m3u8
+http://181.189.243.254:8000/play/a0qw/index.m3u8
 #EXTINF:-1 tvg-id="PA | Asamblea Nacional TV" tvg-name="PA | Asamblea Nacional TV" tvg-logo="https://pbs.twimg.com/media/Flcb7irXkAAkf_p?format=png&name=900x900" group-title="PANAMÁ", 613 | Asamblea Nacional TV || PANAMÁ
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/28aad57d1f7e4f13be8d0c8390f679b2/chunklist_b2028000.m3u8
 #EXTINF:-1 tvg-id="CR | Canal 2 Central de Radios" tvg-name="CR | Canal 2 Central de Radios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Repretel_2_CDR.png/120px-Repretel_2_CDR.png" group-title="COSTA RICA", 614 | Canal 2 CDR || COSTA RICA
@@ -1763,8 +1771,8 @@ http://tv.nousiptv.com:8080/live/Jomyson/JuJH.8628jT/4031.m3u8
 https://vsrv2.az-streamingserver.com:3201/live/streamunotvlive.m3u8
 #EXTINF:-1 tvg-id="USA | Tribuna TV" tvg-name="USA | Tribuna TV" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/9f/4c/f9/9f4cf9e4-8bc2-5ddd-e8be-057e688065e5/mzl.ztmkjvqb.jpg/230x0w.webp" group-title="ESTADOS UNIDOS DE AMÉRICA", 840 | Tribuna TV || ESTADOS UNIDOS DE AMÉRICA
 https://cm.hostlagarto.com/TRIBUNA-TV/tribuna.myStream/chunks.m3u8
-#EXTINF:-1 tvg-id="USA | Discovery Familia" tvg-name="USA | Discovery Familia" tvg-logo="https://static.wikia.nocookie.net/discovery-kids/images/9/9f/Discovery_Familia_2022_-_Actual.png/revision/latest?cb=20220526160750&path-prefix=es" group-title="ESTADOS UNIDOS DE AMÉRICA", 841 | Discovery Familia || ESTADOS UNIDOS DE AMÉRICA
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/511.m3u8
+#EXTINF:-1 tvg-id="USA | Nat Geo Mundo" tvg-name="USA | Nat Geo Mundo" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Nat_Geo_Mundo.svg/revision/latest/scale-to-width-down/300?cb=20140626190709" group-title="ESTADOS UNIDOS DE AMÉRICA", 841 | Nat Geo Mundo || ESTADOS UNIDOS DE AMÉRICA
+http://tv.nousiptv.com:8080/live/Jomyson/JuJH.8628jT/3774.m3u8
 #EXTINF:-1 tvg-id="USA | Sol Televisión" tvg-name="USA | Sol Televisión" tvg-logo="https://image.roku.com/developer_channels/prod/e2b47319671e03eb8f0b479b2b8395470cedd4b03d6549d958ffc7f6eb8faeb5.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 842 | Sol Televisión || ESTADOS UNIDOS DE AMÉRICA
 https://soltvusa.com/soltvsp/ngrp:soltelevisionsp_all/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Estrella TV" tvg-name="USA | Estrella TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 843 | Estrella TV || ESTADOS UNIDOS DE AMÉRICA
