@@ -237,8 +237,6 @@ http://181.189.243.254:8000/play/a0ot/index.m3u8
 http://181.189.243.254:8000/play/a0ou/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO Xtreme" tvg-name="USA | HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" group-title="PELICULAS Y SERIES", 114 | HBO Xtreme
 http://181.189.243.254:8000/play/a0ov/index.m3u8
-#EXTINF:-1 tvg-id="USA | HBO Pop" tvg-name="USA | HBO Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/130px-HBO_Pop.svg.png" group-title="PELICULAS Y SERIES", En prueba | HBO Pop
-http://45.191.196.40:8000/play/342
 #EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 115 | TNT
 http://45.179.164.9:8000/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="USA | TNT Series" tvg-name="USA | TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/94px-TNT_Series_Logo_2016.png" group-title="PELICULAS Y SERIES", 116 | TNT Series
@@ -335,8 +333,6 @@ http://160.20.165.246:8000/play/a01f/index.m3u8
 http://160.20.165.246:8000/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="MX | bitMe" tvg-name="MX | bitMe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/175px-BitMe_logo.svg.png" group-title="INFANTILES", 160 | bitMe
 http://45.228.234.77:3340/play/bitme/index.m3u8
-#EXTINF:-1 tvg-id="BO | Gogoplay TV" tvg-name="BO | Gogoplay TV" tvg-logo="https://play-lh.googleusercontent.com/jy888YnXiR9L0HAuDTzHuUCOpGCVD9pSTgg-yqO2umVXk80i3f-fYhb2r1_hiIQL4XA=s48-rw" group-title="INFANTILES", En prueba | Gogoplay TV
-http://200.119.222.198:8000/play/a04w/index.m3u8
 #EXTINF:-1 tvg-id="PE | E Kids" tvg-name="PE | E Kids" tvg-logo="https://pbs.twimg.com/media/FWNa8oVWAAAWvTx?format=png&name=small" group-title="INFANTILES", 161 | E Kids
 https://stream.plixitv.live/ekids/ekids/playlist.m3u8
 #EXTINF:-1 tvg-id="JP | Sailor Moon TV" tvg-name="JP | Sailor Moon TV" tvg-logo="https://i.pinimg.com/originals/9f/0e/be/9f0ebed455212b88aec66427cf3736fa.png" group-title="Canales 24/7", En prueba | Sailor Moon TV
@@ -388,7 +384,7 @@ https://cdnlive.presstv.ir/cdnlive/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CH | CGTN Español" tvg-name="CH | CGTN Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/180px-CGTN_Espanol.png" group-title="NOTICIAS E INFORMACION", 176 | CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="CO | Nuestra Tele Noticias 24" tvg-name="CO | Nuestra Tele Noticias 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NTN24_logo.svg/245px-NTN24_logo.svg.png" group-title="NOTICIAS E INFORMACION", 177 | NTN 24
-https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl-HAAoneHe1Fnd_wNr3Hsd68Tc-v0toiO43VZ0UuyutD)/dm/3/x7w4okl/s/live-1.m3u8
+https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl5ZROYZRjmpcLKnt2zGeJcKw27v56ggu97_IhpsTURCy)/dm/3/x7w4okl/s/live-1.m3u8
 #EXTINF:-1 tvg-id="CO | Cablenoticias" tvg-name="CO | Cablenoticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/175px-Cable_Noticias_logo.svg.png" group-title="NOTICIAS E INFORMACION", En prueba | Cablenoticias
 https://5ea86ddd14ce7.streamlock.net:443/live/cable09061970/chunklist_w491572862.m3u8
 #EXTINF:-1 tvg-id="ESP | 24 Horas tve" tvg-name="ESP | 24 horas tve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/125px-Logo_TVE-24h.svg.png" group-title="NOTICIAS E INFORMACION", 178 | 24 horas tve
@@ -1064,11 +1060,11 @@ https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Asociación de Teledifusoras Bolivianas" tvg-name="BO | Asociación de Teledifusoras Bolivianas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/ATBBo2020Logo.png/150px-ATBBo2020Logo.png" group-title="BOLIVIA", 496 | ATB || BOLIVIA
 http://186.121.206.197/live/daniel/index.m3u8
 #EXTINF:-1 tvg-id="BO | Red Uno" tvg-name="BO | Red Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/245px-Uno_logo.svg.png" group-title="BOLIVIA", 497 | Red Uno || BOLIVIA
-http://200.119.222.198:8000/play/a04t/index.m3u8
+https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLqmL0-dS8JyV6f7uy2EBxnWU5RcvzFu6hWALZ1r8eO3Y)/dm/3/x828xvr/d/live-3.m3u8
 #EXTINF:-1 tvg-id="BO | Red Periodistas Asociados Televisión" tvg-name="BO | Red Periodistas Asociados Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Red_pat_new.jpg/220px-Red_pat_new.jpg" group-title="BOLIVIA", 498 | PAT || BOLIVIA
 https://master.tucableip.com//pat/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BO | Cadena A" tvg-name="BO | Cadena A" tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2022/03/logoaweb.png" group-title="BOLIVIA", 499 | Cadena A || BOLIVIA
-http://200.119.222.198:8000/play/a053/index.m3u8
+https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Abya Yala TV" tvg-name="BO | Abya Yala TV" tvg-logo="https://www.prensa-latina.cu/wp-content/uploads/2022/08/abya-yala-tv.jpg" group-title="BOLIVIA", 500 | Abya Yala TV || BOLIVIA
 https://master.tucableip.com/abyayalatv/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Erbol TV" tvg-name="BO | Erbol TV" tvg-logo="https://erbol.com.bo/sites/all/themes/atb/logo-principal.png" group-title="BOLIVIA", 501 | Erbol TV || BOLIVIA
@@ -1091,8 +1087,8 @@ https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
 https://ca2.inka.net.pe/renuevatv/index.m3u8
 #EXTINF:-1 tvg-id="BO | TV Off Travel" tvg-name="BO | TV Off Travel" tvg-logo="https://tvoff.tv/wp-content/uploads/2021/05/tv-off-2.png" group-title="BOLIVIA", 508 | TV Off Travel || BOLIVIA
 https://videohd.sistemareal.com:3290/live/tvoffhdlive.m3u8
-#EXTINF:-1 tvg-id="BO | RED Gigavision" tvg-name="BO | RED Gigavision" tvg-logo="https://pbs.twimg.com/media/FoqjBSnXsAAgabD?format=png&name=360x360" group-title="BOLIVIA", 509 | RED Gigavision || BOLIVIA
-http://200.119.222.198:8000/play/a051/index.m3u8
+#EXTINF:-1 tvg-id="BO | Facetas Televisión" tvg-name="BO | Facetas Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/FTVHD.png/200px-FTVHD.png" group-title="BOLIVIA", 509 | Facetas Televisión || BOLIVIA
+https://master.tucableip.com/ftv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BO | Marvision TV de Potosi" tvg-name="BO | Marvision TV de Potosi" tvg-logo="https://marvisiontv.com/wp-content/uploads/elementor/thumbs/logoMV-ouzyrkgtwyns6td1jknv46cuol1f6qonx4cd92wb4y.png" group-title="BOLIVIA", 510 | Marvision TV de Potosi || BOLIVIA
 https://stmv.panel.grupolimalive.com/marvision/marvision/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | RTVE Canal 50" tvg-name="BO | RTVE Canal 50" tvg-logo="https://redencuentro.com/wp-content/uploads/2021/09/logo_rtve_oficial.png" group-title="BOLIVIA", 511 | Radio TV Encuentro || BOLIVIA
@@ -1129,8 +1125,6 @@ http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
 http://america.tucableip.com/bolivia/cristaltv/index.m3u8
 #EXTINF:-1 tvg-id="BO | Canal F10" tvg-name="BO | Canal F10" tvg-logo="https://f10.tv.bo/images/Recurso-4.png" group-title="BOLIVIA", 527 | Canal F10 || BOLIVIA
 https://video.live.com.bo:3253/live/f10hdlive.m3u8
-#EXTINF:-1 tvg-id="BO | Agenda Minera TV" tvg-name="BO | Agenda Minera TV" tvg-logo="https://pbs.twimg.com/media/FoqmavvXgAERws6?format=png&name=240x240" group-title="BOLIVIA", En prueba | Agenda Minera TV || BOLIVIA
-http://200.119.222.198:8000/play/a050/index.m3u8
 #EXTINF:-1 tvg-id="CL | Telecanal" tvg-name="CL | Telecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Telecanal_-_2011_logo_%283D_variant%29.png/150px-Telecanal_-_2011_logo_%283D_variant%29.png" group-title="CHILE", 528 | Telecanal || CHILE
 https://unlimited2-cl-isp.dps.live/tctc/tctc.smil/playlist.m3u8?PlaylistASTRAL
 #EXTINF:-1 tvg-id="CL | La Red" tvg-name="CL | La Red" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Emblema_de_La_Red.png/200px-Emblema_de_La_Red.png" group-title="CHILE", 529 | La Red || CHILE
@@ -1512,7 +1506,7 @@ https://s2.netmax-host.eu:2053/guayapetv/guayapetv2000/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Sercano TV" tvg-name="USA | Sercano TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/Sercano-TV-en-vivo-Online-100x70.png" group-title="NOTICIAS E INFORMACION", 709 | Servicio Centroamericano de Noticias
 http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/chunklist_w1521447717_b1248000.m3u8
 #EXTINF:-1 tvg-id="GT | Canal 3" tvg-name="GT | Canal 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Canal3GT2022.png/800px-Canal3GT2022.png" group-title="GUATEMALA", 710 | Canal 3 el super canal || GUATEMALA
-https://dslvfq5ee0geu.cloudfront.net/hls/canal3.m3u8
+http://45.228.234.77:3340/play/canal03/index.m3u8
 #EXTINF:-1 tvg-id="GT | Televisiete" tvg-name="GT | Televisiete" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Canal7GT2022.png/1024px-Canal7GT2022.png" group-title="GUATEMALA", 711 | Televisiete || GUATEMALA
 http://45.228.234.77:3340/play/canal_siete/index.m3u8
 #EXTINF:-1 tvg-id="GT | Teleonce" tvg-name="GT | Teleonce" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Canal11GT2022.png/200px-Canal11GT2022.png" group-title="GUATEMALA", 712 | Teleonce || GUATEMALA
@@ -1520,7 +1514,7 @@ http://45.228.234.77:3340/play/canal_once/index.m3u8
 #EXTINF:-1 tvg-id="GT | Trecevisión" tvg-name="GT | Trecevisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Canal13GT2022.png/250px-Canal13GT2022.png" group-title="GUATEMALA", 713 | Trecevisión || GUATEMALA
 http://45.228.234.77:3340/play/canal_trece/index.m3u8
 #EXTINF:-1 tvg-id="GT | TN 23" tvg-name="GT | TN 23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/TN23logo2016.png/250px-TN23logo2016.png" group-title="GUATEMALA", 714 | TN 23 || GUATEMALA
-https://dslvfq5ee0geu.cloudfront.net/hls/canal23.m3u8
+http://45.228.234.77:3340/play/canal23/index.m3u8
 #EXTINF:-1 tvg-id="GT | Guatevisión" tvg-name="GT | Guatevisión" tvg-logo="https://www.guatevision.com/wp-content/uploads/sites/2/2019/09/logo-1.png?quality=82" group-title="GUATEMALA", 715 | Guatevisión || GUATEMALA
 http://181.189.243.254:8000/play/a0oz/index.m3u8
 #EXTINF:-1 tvg-id="GT | Canal 27 El Canal de la Esperanza" tvg-name="GT | Canal 27 El Canal de la Esperanza" tvg-logo="https://www.canal27.org/wp-content/uploads/2019/01/logo_c27f4.png" group-title="GUATEMALA", 716 | Canal 27 El Canal de la Esperanza || GUATEMALA
@@ -1532,7 +1526,7 @@ http://181.189.243.254:8000/play/a0rq/index.m3u8
 #EXTINF:-1 tvg-id="GT | Canal Antigua" tvg-name="GT | Canal Antigua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Canal_antigua_logo.png/115px-Canal_antigua_logo.png" group-title="GUATEMALA", 719 | Canal Antigua || GUATEMALA
 http://181.189.243.254:8000/play/a0rp/index.m3u8
 #EXTINF:-1 tvg-id="GT | VEA Canal" tvg-name="GT | VEA Canal" tvg-logo="http://veacanal.tv/wp-content/uploads/2017/05/logoveacanal.png" group-title="GUATEMALA", 720 | VEA Canal || GUATEMALA
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CqAF3csjtYu-JpQzNKoWqA1A6xS29_EIhpPmk2-KjkY4yqp4ELmG-yAQ3cqadjypsfuHnghLfL4uyB_xx0brnIOXpojyWR7TpuKLtfhX-w76oYflsoujjUB1T6js5s42ie0hZNnYQRbg_8c7M_6z9AQx7-lBAS-NNLyFCeaVbWAUaVY1ljtkaInx9MiSxWbzkxPXWWscs-VAaLIBvr8S5DHXzKFUhK7IDrom1TJImeJk7S76jSiMgDbS4VULJWpjR7mdkMZGgAOPqioLuluEaebBaZFQgUHm6jgTXCZMPXvzo16oqz9DUJi7K26QOnTWQzhbmcajJQNrULFGVov-qblqvAm5jmSB4S8dXaxlmkgQ0x2P3qKyz7ESt_lG8njQlKQRyO83GFZawCZtzC6u9SGcUVLihOeSfNs3fDPmnagZHvz3WyXW63uQ-7QXPrtUJ9rzW6hwj0RwI2Z4IwaiGVIOPBRk8jWsVPPn9L9qsX0XHpMmP2qLvJ6dHNAkvpMItEH4SoT_K9yLz_1cpys7LQFgdmKNLgA3tWvToSfslnpyhvDxbjbKbcdv-9VB3XJfkk1fE7MjmnT7lK6jZr7gepyzuAMktevp8z5PJSj04yl7SgDH48bzsp5yTZHOmg84kkWE0ARHvd996cscHFfCrI4w4G13h9PJLiLXki3lY6vMKHEZ_bD-LOU1g-YZ82RJzwz97A6ohZhE8cmnXH5NXIuWz9lpFpAFiP_lsQM2Xcjr4Rbk2RE4sgzYg9jQVbld9lXuo_0o0fGZJi6u-UicQZMvZvFgL0s0cOhIsz31aUOpGAD0vWr_8ALwBzs_1P1V9W3Qv3NPMuXvtw5YtYBdnlmJtJ5D_cZabH0K9_OfgaSaKhLn2A-vIsVJqasGPjQDIXnDGgxvxnh1mym_iHSEoV4gASoJdXMtZWFzdC0xMKUE.m3u8
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CqAFKB1oGLSmRn-LCfAX2BjUoMbRWtKAWQEL4hsfLJpjMKp2CaGxBKpgVtWjg9_gVoteem2TQ06U_uhMzK9KRcreua2162iVvQle2Fc2BPLcDVymcZ7bI2VsHbOIH4-R6XZSkD5xhEQSqJXnaaOlsFVM1z_25zok6b8qEzSEd15E-P_5UMCFYLdeySOoQGKAxBVr1G5mNogTBEumMZRtfQZ30Sg1vjgfSC7AxlXKH5O942Y2yizZM8urcWZIdImX66kev6yaPQCq7umXU_0XufYoOyhLgfMhLnbcQXe1RXdK-QqpP689tqslf-DLmbmSxO2aBGvApgl1ngIuE-zbtKRv2gsuYsob3uj9uqTIR-mm8L4TraZJdP_tWhmTrbpGSHyyG4cwSfp6uoEBPcVFnXY5DuwemTfCy_Idt9bpVQdPhSsHVYIsSOWu911apU-zno9eWq4XUMhyTicDIWnNHzMR_dNXw8ly76ar9ZhaZjPy00ulGBTn0al7V_qhbeKlI6DZjaRS2bpG3HTC1endWCOFiM8wslsbUjguobKKQUv_cu6lgvWa4BS0ojzfZ1qgkNFarczthtQVbz8u9BeTqiOYcb_B4LCaEo8W1Ygnt9bA6aTTR67-jho12tBsHq65K5lCy214F3if24sirsoNTkTbb6wIptZ-CDgo-T4t-qJ6JXkOzcOY8OF93WDEwbsGbRBE7QPaK0hzORXrHUV0N7GOjqCucHwgvgSKrCSE08PN2VBX9YhdmN5b0wg68DEEbJiGuSwgNcrR5ovw5eI2LR_HFByJ3xCPsvXzjgASDWzAetTM_Szv1CyA1HZQu7MrrMxbgwxa7PyjXfSDL0YXqi3pgNCgNaL0i1v0qPpqPAxrPOSjrL9aEpYtA0tJN8xYdh9aGgzlL9heoEe4uyU5iBcgASoJdXMtZWFzdC0xMKYE.m3u8
 #EXTINF:-1 tvg-id="GT | Canal de Gobierno" tvg-name="GT | Canal de Gobierno" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR_Hm3vKJu8-yXqyi7Q66F8ME2CsBddRLq4JnyVcQ=s88-c-k-c0x00ffffff-no-rj" group-title="GUATEMALA", 721 | Canal de Gobierno || GUATEMALA
 https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/Cq8FrUkFAY3Kh3BGqqjd8fkOcE0L34vRonytVk32qBfrcGACAawLcnPUnF2Lk1W18NDimToPPgGv70aywHAjYD3W5KoUNsAh9WZ7AXRFQX03ViKBkT1Dpf2zu19k1G9YGcLFyZdZctAAqPiobCCpibfkdBSxONHLkmevGkSLL4sA6RCrzlHXTNeo5VMoPQovyOE_wb30zI2aiu54clcdEHeLNYYRfr5cqol84EmGIpfbBF8BxLTnE0y6gK_a0ZNX2y7tlSnPmtlzyLsNa3MA0VOM-dGJV7XHoJqyWlr5iWyD4STioxhcBIOa3hq9qffSyeTbD9tfplJrUhLerzfNUFmEnh9lwQzy6hYpsBbx2m27bs6Q7PfaBVwL__-R1jtr2AI8GGXxF8NL6V_0OWHqOSVgtrpMmMt2AvszrxtSjMDBwyErhCMcfp2lZXuYeJ617MpvPKxXSu2Up3pAgW14VSEhp8Qz7BCdGEqni0bqdoTm__9IhpwYpvV6CKqOv-w3bjB_ksQTHsGGr4J3BoSzLPPVFV1Wk9HBFsz6eHo0AuPdxSv8Fw_LFcpYkLeDmqg9n3vfKMNCJLs1Oj4xRp4SWqPWpxzdIuSUjtF4fDGFkEGWRxuL_sIgEcyrGPdu8rFuCZmis4BhSOX80K9UT0w7MO4lYOtZcIXaB-0nP_Eqc6XprAttRL4Lrg9UhbAiwmfrfFk7hcaAvzKW7SRa-hA9rBKL8Nkp2Sx0LPt6M8HFSRpLOphRx9jpKYm97dj6xdRTnX0pRmyTdj5rYKS2Tml1adoZzdDZpnjbQKkHsagH4DZtFTLLtnNaAwPAPyxWNTw3gIf60KYA94HHRagZH5P-H5ZVu6DujpVkNqe3-_59SBNUsK_FoLaPdr8k2RXHdHP2eR2AEg3eP4TsMLxOZtSHST6UGgx5dZWqxOE2X4FTQwogASoJdXMtd2VzdC0yMO8F.m3u8
 #EXTINF:-1 tvg-id="GT | Canal 5 Sololá" tvg-name="GT | Canal 5 Sololá" tvg-logo="https://play-lh.googleusercontent.com/nM4lpY-B8PmfTf61UOpV2wSHLKD02F7stYKL36nzjs5OT6QXTF4dEsyoCVJVW4KlXg=w526-h296-rw" group-title="GUATEMALA", 722 | Canal 5 Sololá || GUATEMALA
@@ -1602,7 +1596,7 @@ https://stm1.rootuy.xyz:19360/maxivision/maxivision.m3u8
 #EXTINF:-1 tvg-id="GT | Aurora Media Films" tvg-name="GT | Aurora Media Films" tvg-logo="https://static.wixstatic.com/media/7acae1_82b6b5d51d954299bbc7ce7e9d67393d~mv2.png" group-title="GUATEMALA", 754 | Aurora Media Films || GUATEMALA
 https://cdn.streamhispanatv.net:3398/live/auroramflive.m3u8
 #EXTINF:-1 tvg-id="GT | Como antes TV" tvg-name="GT | Como antes TV" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/4cb24625-2cac-450f-82a0-f4b838992f80-profile_image-70x70.png" group-title="GUATEMALA", 755 | Como antes TV || GUATEMALA
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CrIFqa5Cpe2A55QMPJ5d2mFkGZmHRocg0BMBIkcNURFzB9yK985hxGj3g9fXVnMtPYx_uDBlNF7m-GBoykZQg8Cdnc84Xs-iL1attFDnJbQbEuorFD3bAEUZKLuw_Sz6FTLn-4CQxFFu5BDiNrmdrToFFGGtQFKFmVxF3a-iJGl2sjPRQe68-O1qbBUzaT50eGriy94BqAXWEVRjrisYJtj9F73jNxhX8R23sSZGSgXfYN_BFtpjArKVff2BCoLMBI5QElNWgFMH0X6pPGCKpPzZBpos3iYlgih9BAGWpoEYg3QLhiri6_XZYRXPX8r1FAEE-Ttw5ipnBFUQRt4ZrAH3yUTbHYIBU8y_3h9DhC1Kayx1sQ1eU6v5XYat3Vn6zPQ2-B5O5gflrl_zZk9uVQu-Yj2c-GfCqKMj2290bewCb2mh5XtcxnudqD4TU47lkDNJErHEPUXi-jDa7l9jm-OQ2NHa10fPpLTblG4l_sfncNqNUf-exNq6kPfdBBZ6P5J3P-uxfQNnNmtXk10QTqjzOQqJxJChEYQz7kj1FjocZwBeaDG_6E_mlZ9wkaKbHSuu15sBQnr5ERN8GqviwbhY-T9sazVBRq7mwcdqRW3XOD4eezMMUiSaHR-kszQPpLKuTyrlfcmfExQN-cvcgIflywXfa1yke4Da2BKKnfM2KSlusY-iuL8f5UdKQXWoiDjeRXnyCkkaYQU120uXnDqjYJQILUEkTOKWlDRqEvZkKBPzoO1jQ0n-Qn29sd13DYSgK1X6SH7P-sJ7l6MyjROId17EZGFCXhHTL7zM5Lqdjo4g-IGO8UrQ4Y6KhLXjwNsZxHu8xEkgaj-X72CnNR6QeEtCICnc-1ADgcraTbqby-fJz6VpoedK5m1O6QNWTjzd0P-DQI1k2_9PnOJUetRQZmz_GgzKsuK9gZsW0tXSyy4gASoJdXMtZWFzdC0yMO4F.m3u8
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CrIFX6G4UTGNKSidFAraBzl1jQaNNziw7Ddh6jMYzEoTVLzm9iiYmil0OTT2v6QfoECfwBu8UqPshH9ltvgD5H6T3Thp8apQ1TLjrPNk3wuik9Lm6TLnXseV1eFwC-JSazeRQ8jgR-kj4O5bkZlCyAsT4tqxgR5V3H63xVO4hngZTIS7McNQoNbgiAGXZKzaQ4PJE0PX3OPcYt2jQ0lFaQqh9R04x6xv0AUjhjesuYXY5ORH5LOgmngsK96HQ3aPKWfHN6WSpOUu5ySPunCzznxzxfUl3uKBH3WH0KG6gBUYe6Ly1Phl2OgpQTwv3LK8Ru-MSaBAqhlm1UDHonlfIXMTxn9ozBsNOH2V5hGI5RhTS3rrXSH19q9GNuNSLEmk25c1iO2-8Hf9zO7B_ZdLFdkMBbxbKegy5hlQ5UcODAFKNxwO6V1G2Ia2XSnMYvT4gP-fVXw8hTGtEvZhWcZSzAsJaHLQzrxxN6Marf7Y5KX5r7gLgPMkRaEHEW8JzelrRIRGDox9XYVU0EW2KMgbLtQtevamSL2zsm_qgq4q-c_8xL6L9ljNd4RirADehWghZVEIPyk24HBDt7IhLp4iHl5tUz32jaEsOuB_T_3rgvo285rwaXpeHbQTRMyAAt3EOhFQ-YxmXeE3eMTx7nPvMT8V2crBlXRcrUXan2bbmBQmx8kBuqUf35ssNy-2r1adFd-0DsByjDwGEVyvVC-JmYpe-ep9iOSHRQsM61kLCFqxJyJ69UZXj0ODmEVIT6T-598byIiGY0ZXRVR0HebEGTNuM_jOLM8p6NapKy4lsTw8ddH3zF_zDLHGn-z4B7m6Fl_Pww8eRfrLONaeNh2k49jiupgnxofGzr1rRib6Fjt2t7zNVSl2WThdwvFjCQYcLrwmiUwfDpPz5FRaeyu69WTBlns1GgxJqEhi9HmoMdyk95wgASoJdXMtZWFzdC0yMO8F.m3u8
 #EXTINF:-1 tvg-id="GT | Amigos TV" tvg-name="GT | Amigos TV" tvg-logo="https://radiosdeguate.com/image/tv/amigos-tv-chiquimula.png" group-title="GUATEMALA", 756 | Amigos TV || GUATEMALA
 https://tv91.hostingnuclear.com:19360/amigostv/amigostv.m3u8
 #EXTINF:-1 tvg-id="GT | Esquipulas TV" tvg-name="GT | Esquipulas TV" tvg-logo="https://tvguatemala.net/wp-content/uploads/2022/11/Esquipulas-TV-Chiquimula-Guatemala-e1667264346773-289x300.webp" group-title="GUATEMALA", 757 | Esquipulas TV || GUATEMALA
