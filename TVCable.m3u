@@ -404,7 +404,7 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/LIFETIME/40-hls/live-media.m3
 #EXTINF:-1 tvg-id="VE | Ve Plus" tvg-name="VE | Ve Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ve_Plus_Logo_2019.png/130px-Ve_Plus_Logo_2019.png" group-title="MISCELANEO", 184 | Ve Plus
 http://190.122.96.187:8888/http/006
 #EXTINF:-1 tvg-id="MX | Canal Claro" tvg-name="MX | Canal Claro" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_wMka8ic6GW1I8vfkcLln4EVGxKvqesLkuFTuI=s900-c-k-c0x00ffffff-no-rj" group-title="MISCELANEO", 185 | Canal Claro
-http://204.157.255.31:20001/play/a054/index.m3u8
+http://181.78.105.146:8000/play/a013
 #EXTINF:-1 tvg-id="USA | film&arts" tvg-name="USA | film&arts" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Film%26Arts2016.png/200px-Film%26Arts2016.png" group-title="MISCELANEO", 186 | Film & Arts
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FILMSANDARTS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFILMSANDARTS_stream_cb&_cdn_session=599624043&_cdn_timestamp=1676873749&_cdn_token=406e01b1f715adce6b6f36d6d3f7e82a205d35bb
 #EXTINF:-1 tvg-id="CL | Canal DOS" tvg-name="CL | Canal DOS" tvg-logo="https://pbs.twimg.com/media/Fm4LCw_WYAESJ5v?format=png&name=small" group-title="MISCELANEO", 187 | Canal DOS
@@ -1364,7 +1364,7 @@ https://cootv.cootel.com.ni:8095/Canal04_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Canal 6" tvg-name="NI | Canal 6" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/6_de_nicaragua-mediano.png" group-title="NICARAGUA", 636 | Canal 6 Nicaragüense || NICARAGUA
 https://cootv.cootel.com.ni:8095/Canal06_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Canal 8 Telenica" tvg-name="NI | Canal 8 Telenica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Tn8_logotipo_2021.png/165px-Tn8_logotipo_2021.png" group-title="NICARAGUA", 637 | TN8 Telenica || NICARAGUA
-https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIzIDM6MDI6MTQgUE0maGFzaF92YWx1ZT0vWDN3L0VnbGo5dzZjS1IrQ1JSS0dBPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
+https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIzIDQ6MDA6MTYgUE0maGFzaF92YWx1ZT14dDFLZVYvQnIrczgyUHgveFN6d3l3PT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
 #EXTINF:-1 tvg-id="NI | Canal 9" tvg-name="NI | Canal 9" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/b/bc/Canal9nicaragua.png/revision/latest/scale-to-width-down/185?cb=20210203203806&path-prefix=es" group-title="NICARAGUA", 638 | Canal 9 || NICARAGUA
 https://cootv.cootel.com.ni:8095/Canal09_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Canal 10" tvg-name="NI | Canal 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Canal_10_Nicaragua.png/190px-Canal_10_Nicaragua.png" group-title="NICARAGUA", 639 | Canal 10 || NICARAGUA
@@ -1372,7 +1372,7 @@ https://cootv.cootel.com.ni:8095/Canal10_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Canal 11 TV Red" tvg-name="NI | Canal 11 TV Red" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Canal-11-Nicaragua-en-vivo-Online-100x70.png" group-title="NICARAGUA", 640 | Canal 11 TV Red || NICARAGUA
 https://cootv.cootel.com.ni:8095/Canal11_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Nicavisión" tvg-name="NI | Nicavisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Canal_12_Nicaragua_logo.webp/200px-Canal_12_Nicaragua_logo.webp.png" group-title="NICARAGUA", 641 | Canal 12 Nicavisión || NICARAGUA
-https://cootv.cootel.com.ni:8095/Canal12_CooTel/playlist.m3u8
+https://5ca9af4645e15.streamlock.net/canal12/videocanal12/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIzIDM6NTc6MjYgUE0maGFzaF92YWx1ZT16N2hwR05aRTZoc29qdDAwZEt4Tk5nPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
 #EXTINF:-1 tvg-id="NI | Viva Nicaragua Canal 13" tvg-name="NI | Viva Nicaragua Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Logo_Viva_Nicaragua_Canal_13.png/200px-Logo_Viva_Nicaragua_Canal_13.png" group-title="NICARAGUA", 642 | Viva Nicaragua Canal 13 || NICARAGUA
 http://181.189.243.254:8000/play/a0qt/index.m3u8
 #EXTINF:-1 tvg-id="NI | Vos TV Canal 14" tvg-name="NI | Vos TV Canal 14" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/14_de_nicaragua-mediano.png" group-title="NICARAGUA", 643 | Vos TV || NICARAGUA
@@ -1391,10 +1391,12 @@ https://stream.cvisiontv.com/cvision_stream.m3u8
 https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Yes TV" tvg-name="NI | Yes TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLROnrZCI5VnoF_aU_h4znfefMJCbBFaq93S_hMR=s900-c-k-c0x00ffffff-no-rj" group-title="NICARAGUA", 650 | Yes TV || NICARAGUA
 https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CpoFX3usYDqjpFc3eNR3YDtaXsAiGKiF2KllM0ZFndR2AQSYUdTG7xyAMee4xRYcmtjl5NuZIWHDSwrnG8JTmslYAOJJUxVE3RVYcl6EDHd8KKPdJlhJODT6y_BBUAdRXPxA5rVTTejBdHYfK0mRdjYLVuWqBnHIvHQHUdCGU5xlGgC8FYpHwp6CapFnyw3zv1-tqInzC3INyqovRpqo8EUm1Bh6B7Cd1U2vLuTLx_klMtAYaaiqCzkIwE6bGtIETw6lprgU46XknwTbrzbNVEA0ezNDr93ILT6Pr7tQIQoOKsVO1kisjcgY5rhZMRovMD3HmPBeq-jZZALsDD5U9rsPLLOjuHGs5wbVkP9yZHpHGVQIf2rU3uEFcR2CvjsP-E3G8ZH2dG1r2_Td8grxSg7p97jgSb-FyTPdlpUu6kdYnbn4vw9_FJtJ5-gYViHGQ3CaL4phbrMjszrNxeyAruHeNLqEuzISeZU7x8i4Jmaqo84EsqTOjCYnME1PNe1ZfWKbzDouj88s_QyGvPakEns9O3KA9xtxfbNni6ePzSSozgBvhn7OZxEAmV0yWD3Z2jxwuM5vb0eABX9Krj1T0dCa-eHzsIfAp3aZLU0Rd92wAtKk-HptlwZKl6OteOQxVJpTFKkdwVjEhLilvi3F8mH8bNp-JgeNhs-XX1jaeh0iX6Lv21hJwt4jReqDNwp_l2eD4DdcU6Tyhu1bRkYxSx8ZmaoKWbMdeC73CiXYG7NM-J903WhWEyWnZTP3b-417vYxhQE9OdoU624G0BWaxOhIqqA9jktJ5wliKH5TiSi4bEowA9wpfOwAZolkMGwgNa5vzQKkcSfFpL0JPLsmxsLswmTlZL6x1PyPHVtWVF7ptfGVIPpU9pcWFoUCGgwtTu_h74igP4qt-FwgASoJdXMtZWFzdC0xMKgE.m3u8
+#EXTINF:-1 tvg-id="NI | Nicarao TV" tvg-name="NI | Nicarao TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Nicarao_TV_Logo.jpg/150px-Nicarao_TV_Logo.jpg" group-title="NICARAGUA", En prueba | Nicarao TV || NICARAGUA
+http://181.78.105.146:8000/play/a03w
 #EXTINF:-1 tvg-id="SV | TV-2" tvg-name="SV | TV-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/TCS_2_2016.png/150px-TCS_2_2016.png" group-title="EL SALVADOR", 651 | TV-2 || EL SALVADOR
 https://telecorporacion.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/live-video=2000000-audio_0=64000.m3u8
 #EXTINF:-1 tvg-id="SV | Canal 4" tvg-name="SV | Canal 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/245px-Canal_4_TCS.png" group-title="EL SALVADOR", 652 | Canal 4 || EL SALVADOR
-http://200.229.147.76:4000/play/a02i/index.m3u8
+https://telecorporacion.cdn.vustreams.com/live/2b859d1c-bd37-47c8-8b90-00c326d9f6fc/live.isml/live-video=2000000-audio_0=64000.m3u8
 #EXTINF:-1 tvg-id="SV | TV Seis" tvg-name="SV | TV Seis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Canal_6_TCS.png/200px-Canal_6_TCS.png" group-title="EL SALVADOR", 653 | TV Seis || EL SALVADOR
 https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/live-video=2000000-audio_0=64000.m3u8
 #EXTINF:-1 tvg-id="SV | Agape TV Canal 8" tvg-name="SV | Agape TV Canal 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Agape_8_2001.png/200px-Agape_8_2001.png" group-title="EL SALVADOR", 654 | Agape TV Canal 8 || EL SALVADOR
@@ -1402,7 +1404,7 @@ https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CpgFWRbUjbBxpww6ImmS3de9k77
 #EXTINF:-1 tvg-id="SV | Asamblea Legislativa TV" tvg-name="SV | Asamblea Legislativa TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/9TV_El_Salvador_%282018%29.png/revision/latest/scale-to-width-down/300?cb=20191116000236" group-title="EL SALVADOR", 655 | TV Legislativa || EL SALVADOR
 https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
 #EXTINF:-1 tvg-id="SV | Canal 10" tvg-name="SV | Canal 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Canal_10_%28El_Salvador%29_2019.svg/200px-Canal_10_%28El_Salvador%29_2019.svg.png" group-title="EL SALVADOR", 656 | Canal 10 || EL SALVADOR
-http://181.189.243.254:8000/play/a0o0/index.m3u8
+http://181.78.105.146:8000/play/a00o
 #EXTINF:-1 tvg-id="SV | Canal 11 TUTV" tvg-name="SV | Canal 11 TUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/TUTV_11_2014.png/150px-TUTV_11_2014.png" group-title="EL SALVADOR", 657 | Canal 11 TUTV || EL SALVADOR
 https://streaming.grupocsanetwork.net:1936/canal11/canal11/playlist.m3u8
 #EXTINF:-1 tvg-id="SV | Canal 12" tvg-name="SV | Canal 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Canal_12_El_Salvador_2018.png/150px-Canal_12_El_Salvador_2018.png" group-title="EL SALVADOR", 658 | Canal 12 || EL SALVADOR
@@ -1414,9 +1416,9 @@ https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/0/streamPlayl
 #EXTINF:-1 tvg-id="SV | Canal 21" tvg-name="SV | Canal 21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Canal-21.png/245px-Canal-21.png" group-title="EL SALVADOR", 661 | Canal 21 Megavisión || EL SALVADOR
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="SV | TVM" tvg-name="SV | TVM" tvg-logo="https://tvm.com.sv/wp-content/uploads/2021/07/TVM_Design-01.png" group-title="EL SALVADOR", 662 | Televisión Migueleña || EL SALVADOR
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tvmelsalvador
+http://181.78.105.146:8000/play/a007
 #EXTINF:-1 tvg-id="SV | TVO Canal 23" tvg-name="SV | TVO Canal 23" tvg-logo="https://tvocanal23.com/wp-content/uploads/2020/10/logo.png" group-title="EL SALVADOR", 663 | TVO Canal 23 || EL SALVADOR
-http://200.229.147.76:4000/play/a00z/index.m3u8
+http://181.78.105.146:8000/play/a004
 #EXTINF:-1 tvg-id="SV | WOW TV Canal 24" tvg-name="SV | WOW TV Canal 24" tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="EL SALVADOR", 664 | WOW TV || EL SALVADOR
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SV | Órbita TV Canal 25" tvg-name="SV | Órbita TV Canal 25" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8c20da0d7134ea2390120155e3d88ba5.webp" group-title="EL SALVADOR", 665 | Órbita TV || EL SALVADOR
@@ -1543,10 +1545,10 @@ https://cdn.streamhispanatv.net:3700/live/tv5sololalive.m3u8
 https://stream.meteorito.cloud/canal6/smil:canal6.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="GT | Televisión Departamental Sololá" tvg-name="GT | Televisión Departamental Sololá" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSty18cfbX8fc5AhCUoQNosfvdF6OUGS7XfObo7WA=s900-c-k-c0x00ffffff-no-rj" group-title="GUATEMALA", 724 | TDS || GUATEMALA
 https://cdn.streamhispanatv.net:3081/live/tdsolgtlive.m3u8
-#EXTINF:-1 tvg-id="GT | Canal 9 Sololá" tvg-name="GT | Canal 9 Sololá" tvg-logo="https://static.wixstatic.com/media/7acae1_af8e141a8b0641ba8b1f6e818ed47357~mv2.png" group-title="GUATEMALA", 725 | Canal 9 Sololá || GUATEMALA
+#EXTINF:-1 tvg-id="GT | TV Paisaje" tvg-name="GT | TV Paisaje" tvg-logo="https://tvguatemala.net/wp-content/uploads/2023/02/TV-Paisaje-Solola-En-Vivo.webp" group-title="GUATEMALA", 725 | TV Paisaje || GUATEMALA
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CqkFrTt5unHhfLH84rRnmM9LR5MdE5gs__QzQTFevi0uxI2fXKLFbJpW8mA1lk9LwOcFbDBNly7zmsu7IjZTgNwPpy15kFyTxL5mnxJwuIL1tTDj_As7dj-5iVPXdcLgd_yS4IdlKLfjgr_Ng36TAvFTFrd8ceG9wO8pjR4u4lguNCSPtgUwVZZQTfiEfbCSzDoJbypLN7jFqkW2dkZrhhOLyiU0VDrlLe36CcOA_7_Ivfssz8-f6yglYYibL8TnfoRnWwD84UDwlioMLa1TRut_3_Htw1qp5fnYA2jKgsXAf4Cpxk5l2qOd6e9xeez-NtbBhE0eORFZ8m19gexyCOPR_6uFDls8RIMFzJiRSYFvUQEHNLgNiCLwRgGL-CL_uniQMdbFxRVBHIoEsjdQ_i8Kl3Y2cBOK3SiTQy0Enzjv35XR219Y55Uh7v9gmZxsGYOToqjAkYvzT1u0JK8WtUaugGlNtuJYZeT9jgBQ6TMs6Npvln6vKQQQpddr54PInLjLT9cQtMVFqJ38-r4PKZ7bd3r9hL5KC1n0qYQskApd8SapigmAmjyJQpptjcVVC6FHPxrMOKh3_QhjXAOnzjT8eOtO9_g6Po8tkcYW-vjRhKMKm1yC5ZQ167SFat3HKHP1rJiTmj8CKsanz1g-j1AOzu5pVZfr7K0OtLOQsyWoC3otMXgvwJZN4l0q3qMYpfxIWM775c-5097rPdy0TBwFl6D7MJmX9hBk7DqijrZVt8uOC4g4FdUZZ6azPlubdhYyCKlEfiVaxLNs13znN830E8ShG0ry5nhkERvQBgQvAIHIsMraHLqLYqA_dVv41mhbatlD8Z3cgK0o26N1QpwdQhCTuGVF9L7-Y88u1HF47Vjcs4N-fnH_H02C8kwja6Rddmt0lXX9AW3mGgyyGHgVX4oFW-CEJ-ogASoJdXMtZWFzdC0yMPEF.m3u8
+#EXTINF:-1 tvg-id="GT | Canal 9 Sololá" tvg-name="GT | Canal 9 Sololá" tvg-logo="https://static.wixstatic.com/media/7acae1_af8e141a8b0641ba8b1f6e818ed47357~mv2.png" group-title="GUATEMALA", 726 | Canal 9 Sololá || GUATEMALA
 https://cdn.streamhispanatv.net:3237/live/canal9tvgtlive.m3u8
-#EXTINF:-1 tvg-id="GT | TV Paisaje" tvg-name="GT | TV Paisaje" tvg-logo="https://tvguatemala.net/wp-content/uploads/2023/02/TV-Paisaje-Solola-En-Vivo.webp" group-title="GUATEMALA", 726 | TV Paisaje || GUATEMALA
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CqkFeI0ctETmpj4ZaDlZU-Y4dbys-daFksXFdr-kawsrLWe5x_NTfC-N8oZ4Lf3SA0ZzGK0ZwhaF9KJZwswJ4YFnml5hBgEZCBEDafZOtD7kpc-7oPeRJYhu6Yh1slX7osOozaehaXE0VYxXfpQtdX1Oxqk2Sd5owefElsypV_iI6cbJYfADarQHHm83pD3P7_telJl8Te8jFsu86OJAmaF_pI34fm8c3ZhxfaRrrZc7CQ1-jcoKeQ9Kxij23kbTbXi6RPeV9eKmLVZRlng3Q1TUY8YO1NoD4MLqhjbtucB3sU5pPeE6E7VB7LGVjpT_K8EkwcrVMHKR5SZO-hmlBntwkTTnia4bfoDwtey2Gp3EBRJ4Jaon9z5dVawoo0uVHpV7biHSTPjqOUuynBCqhKqCKZloA2IHCEaC8noiES2qTnoLesx6quUHGL8-Ws-A9lH843J7u3TCZ8qMSuJdn2kOa-Cwk0zSXysE7ygEJ2s56jva_gnL6QUcwcd5LislF1yWCiUY-KmKQUkGS6TFuvHzdxIEOaVekBxQ6Egs0M3yoAn5YEK9XChhZpEv4ZEChAYOGuyUElm_l7T1gU81Vrd7ZIASjuoUmtsdwsbyW0VybFJ-DCS4bcZqYEb3jPGZ9sKOc-lWhPyfF3HZGeEHGh7pL-FCkIWcMXVpu8Izs1dimgHRBg_LgqOOGuAEL5zniRUCztWiFqj2ygKIriu2034cy8Lhxek6n3JbhQMsk4lDZaoYeFS7QiKXDQEJpdMZz5fkRjpwbCzVAa_P52bhWGRkvsk-wULKqs0dX5osPtWWwBsjG7_qaxUPvXQixXLp-DyoQ2FTIWbFY4we32stle7LmdhjoyeQTQm0dMuYKum8fsldD4mlrq27ic6_E0FX2OHQKuroBtAdBW7-GgxUCv48p-7bEqIXHUIgASoJdXMtZWFzdC0yMPEF.m3u8
 #EXTINF:-1 tvg-id="GT | Guatv" tvg-name="GT | Guatv" tvg-logo="https://static.wixstatic.com/media/7acae1_8cd678c8791045eb8fab68a10b36a1f6~mv2.png" group-title="GUATEMALA", 727 | Guatv || GUATEMALA
 https://cdn.streamhispanatv.net:3589/live/guatvgtlive.m3u8
 #EXTINF:-1 tvg-id="GT | Nim TV" tvg-name="GT | Nim TV" tvg-logo="https://static.wixstatic.com/media/7acae1_a52030788e08407abb6f67a51e0d5276~mv2.png" group-title="GUATEMALA", 728 | Nim TV || GUATEMALA
