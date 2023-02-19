@@ -136,7 +136,7 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AZCORAZON/40-hls/live-media.m
 #EXTINF:-1 tvg-id="USA | Novelisima" tvg-name="USA | Novelisima" tvg-logo="https://www.novelisima.com/assets/images/logo.png" group-title="NOVELAS", 63 | Novelisima
 https://v-fn.mybtv.net/live/946.m3u8
 #EXTINF:-1 tvg-id="MX | Tlnovelas" tvg-name="MX | Tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="NOVELAS", 64 | Tlnovelas
-http://45.228.234.77:3340/play/tlnovelas/index.m3u8
+http://190.2.209.159:4000/play/tlnovelas/index.m3u8
 #EXTINF:-1 tvg-id="USA | Univision Tlnovelas" tvg-name="USA | Univision Tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/180px-Univision_tlnovelas_%282019%29.svg.png" group-title="NOVELAS", 64.2 | Univision Tlnovelas
 http://tv.nousiptv.com:8080/live/Jomyson/JuJH.8628jT/1090591.m3u8
 #EXTINF:-1 tvg-id="MX | Las Estrellas Latinoamérica" tvg-name="MX | Las Estrellas Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/180px-Las_Estrellas.svg.png" group-title="INTERNACIONALES", 65 | Las Estrellas Latinoamérica
@@ -208,7 +208,7 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/EUROPAEUROPA/40-hls/live-medi
 #EXTINF:-1 tvg-id="USA | Eurochannel" tvg-name="USA | Eurochannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Eurochannel.png/150px-Logo_Eurochannel.png" group-title="PELICULAS Y SERIES", 98 | Eurochannel
 http://190.149.66.90:16000/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="USA | I.Sat" tvg-name="USA | I.Sat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/150px-I.Sat_logo.svg.png" group-title="PELICULAS Y SERIES", 99 | I.Sat
-http://186.3.76.238:8000/play/a07e/index.m3u8
+http://hplay.xyz:80/live/LVH60Ml8Hc/O4XSkHm6Yj/302676.m3u8
 #EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="PELICULAS Y SERIES", 100 | Star Channel
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/STARCHANNEL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXCHANNEL_stream_1f&_cdn_session=606150091&_cdn_timestamp=1677224327&_cdn_token=1a152593b1aaf997e8ca612dae01ea873f82af7e
 #EXTINF:-1 tvg-id="USA | FX" tvg-name="USA | FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/125px-FX_International_logo.svg.png" group-title="PELICULAS Y SERIES", 101 | FX
@@ -241,6 +241,8 @@ http://181.189.243.254:8000/play/a0ov/index.m3u8
 http://181.78.24.67:8010/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO Signature" tvg-name="USA | HBO Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/135px-HBO_Signature.svg.png" group-title="PELICULAS Y SERIES", En prueba | HBO Signature
 http://hplay.xyz:80/live/LVH60Ml8Hc/O4XSkHm6Yj/302670.m3u8
+#EXTINF:-1 tvg-id="USA | HBO Mundi" tvg-name="USA | HBO Mundi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/125px-HBO_Mundi.svg.png" group-title="PELICULAS Y SERIES", En prueba | HBO Mundi
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127167
 #EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 115 | TNT
 http://45.179.164.9:8000/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="USA | TNT Series" tvg-name="USA | TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/94px-TNT_Series_Logo_2016.png" group-title="PELICULAS Y SERIES", 116 | TNT Series
@@ -432,7 +434,7 @@ https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 #EXTINF:-1 tvg-id="CO | Hogar TV" tvg-name="CO | Hogar TV" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9bfzmH9iDHAVFvxVrkv1iaNoyA0amDyt9Znqfs=s900-c-k-c0x00ffffff-no-rj" group-title="ESTILOS DE VIDA", 195 | Hogar TV
 http://190.2.209.159:4000/play/hogartv/index.m3u8
 #EXTINF:-1 tvg-id="USA | Glitz" tvg-name="USA | Glitz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Glitzlogo.png/150px-Glitzlogo.png" group-title="ESTILOS DE VIDA", En prueba | Glitz
-http://181.78.12.119:16123/play/ch34/index.m3u8
+http://tv.nousiptv.com:8080/live/Jomyson/JuJH.8628jT/3238.m3u8
 #EXTINF:-1 tvg-id="CL | Ladies TV" tvg-name="CL | Ladies TV" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/LADIES-FONDO-2-300x169.jpg" group-title="ESTILOS DE VIDA", 196 | Ladies TV
 https://panel.miplay.cl:8081/ladies/index.m3u8
 #EXTINF:-1 tvg-id="USA | TLC" tvg-name="USA | TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/150px-TLC_Logo.svg.png" group-title="ESTILOS DE VIDA", 197 | Travel & Living Channel
