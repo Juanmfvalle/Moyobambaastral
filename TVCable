@@ -386,7 +386,7 @@ https://cdnlive.presstv.ir/cdnlive/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CH | CGTN Español" tvg-name="CH | CGTN Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/180px-CGTN_Espanol.png" group-title="NOTICIAS E INFORMACION", 176 | CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="CO | Nuestra Tele Noticias 24" tvg-name="CO | Nuestra Tele Noticias 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NTN24_logo.svg/245px-NTN24_logo.svg.png" group-title="NOTICIAS E INFORMACION", 177 | NTN 24
-https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAly0In8C6Exmay535R30vHGuSYR2BJEu17LCX747nezdz)/dm/3/x7w4okl/s/live-1.m3u8
+https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlyRWkya39Cs3jWnHh_FNkOugvuOmg7gEX3hVsuNzrhc6)/dm/3/x7w4okl/s/live-1.m3u8
 #EXTINF:-1 tvg-id="CO | Cablenoticias" tvg-name="CO | Cablenoticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/175px-Cable_Noticias_logo.svg.png" group-title="NOTICIAS E INFORMACION", En prueba | Cablenoticias
 https://5ea86ddd14ce7.streamlock.net:443/live/cable09061970/chunklist_w491572862.m3u8
 #EXTINF:-1 tvg-id="ESP | 24 Horas tve" tvg-name="ESP | 24 horas tve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/125px-Logo_TVE-24h.svg.png" group-title="NOTICIAS E INFORMACION", 178 | 24 horas tve
@@ -1909,20 +1909,22 @@ https://sp.dattavolt.com/8062/stream
 https://radio.livestreamingmundial.com/8034/stream/;type=mp3
 #EXTINF:-1 tvg-id="PE | Radio La Voz de Moyobamba" tvg-name="PE | Radio La Voz de Moyobamba" tvg-logo="https://play-lh.googleusercontent.com/n1rtB2umm4Aiu1hkiKnRhGDlnnBLJYO2ZEWAClKuaJShBrMmKg7xvnWAZX4jbMMwn0I=w240-h480-rw" group-title="EMISORAS LOCALES", 900 | Radio La Voz de Moyobamba || Moyobamba; Perú
 https://radio.livestreamingmundial.com:7193/stream?icy=http
-#EXTINF:-1 tvg-id="PE | Radio Moyobamba" tvg-name="PE | Radio Moyobamba" tvg-logo="https://www.planetaradios.com/content/radios_fm/radio-moyobamba-online.png" group-title="EMISORAS LOCALES", 901 | Radio Moyobamba || Moyobamba; Perú
-https://conectperu.com/8236/stream
-#EXTINF:-1 tvg-id="PE | Radio Tropicana" tvg-name="PE | Radio Tropicana" tvg-logo="https://play-lh.googleusercontent.com/SbNWROdHc1mgEQpZQBDPHcdjlNsKX2K1-q3_6V5LXOGtg36sttuxX_7qgNTX3C79JA" group-title="EMISORAS LOCALES", 902 | Radio Tropicana 99.7 FM || Soritor; Perú
+#EXTINF:-1 tvg-id="PE | Radio Tropicana" tvg-name="PE | Radio Tropicana" tvg-logo="https://play-lh.googleusercontent.com/SbNWROdHc1mgEQpZQBDPHcdjlNsKX2K1-q3_6V5LXOGtg36sttuxX_7qgNTX3C79JA" group-title="EMISORAS LOCALES", 901 | Radio Tropicana 99.7 FM || Soritor; Perú
 https://radio.livestreamingmundial.com:7086/live
-#EXTINF:-1 tvg-id="PE | Radio Nor Selva" tvg-name="PE | Radio Nor Selva" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/norselva-98-7.png" group-title="EMISORAS PROVINCIALES", 903 | Radio Nor Selva 98.7 FM || Rioja; Perú
+#EXTINF:-1 tvg-id="PE | Radio Nor Selva" tvg-name="PE | Radio Nor Selva" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/norselva-98-7.png" group-title="EMISORAS PROVINCIALES", 902 | Radio Nor Selva 98.7 FM || Rioja; Perú
 https://sp.onliveperu.com/8150/stream/;type=mp3
-#EXTINF:-1 tvg-id="PE | Radio Rioja" tvg-name="PE | Radio Rioja" tvg-logo="https://www.radioriojaperu.com/panel/archivos-panel/logotipo/Logo-ie4jb-1.png" group-title="EMISORAS PROVINCIALES", 904 | Radio Rioja 101.1 FM || Rioja; Perú
+#EXTINF:-1 tvg-id="PE | Radio Rioja" tvg-name="PE | Radio Rioja" tvg-logo="https://www.radioriojaperu.com/panel/archivos-panel/logotipo/Logo-ie4jb-1.png" group-title="EMISORAS PROVINCIALES", 903 | Radio Rioja 101.1 FM || Rioja; Perú
 http://185.183.34.102:8164/;
-#EXTINF:-1 tvg-id="PE | Radio Via Alto Mayo" tvg-name="PE | Radio Via Alto Mayo" tvg-logo="https://www.viaaltomayotv.com/img/logotipo_radioref.png" group-title="EMISORAS PROVINCIALES", 905 | Radio Vía Alto Mayo || Rioja; Perú
+#EXTINF:-1 tvg-id="PE | Radio Via Alto Mayo" tvg-name="PE | Radio Via Alto Mayo" tvg-logo="https://www.viaaltomayotv.com/img/logotipo_radioref.png" group-title="EMISORAS PROVINCIALES", 904 | Radio Vía Alto Mayo || Rioja; Perú
 https://whmsonic.playerfullhd.com:7099/;/live
-#EXTINF:-1 tvg-id="PE | Radio California" tvg-name="PE | Radio California" tvg-logo="https://www.planetaradios.com/content/radios_fm/lradio-california-nueva-cajamarca.png" group-title="EMISORAS PROVINCIALES", 906 | Radio California 102.9 FM || Nueva Cajamarca; Perú
+#EXTINF:-1 tvg-id="PE | Radio California" tvg-name="PE | Radio California" tvg-logo="https://www.planetaradios.com/content/radios_fm/lradio-california-nueva-cajamarca.png" group-title="EMISORAS PROVINCIALES", 905 | Radio California 102.9 FM || Nueva Cajamarca; Perú
 https://sp01.servidor.stream/8026/stream
-#EXTINF:-1 tvg-id="PE | Radio Ondas del Río Mayo" tvg-name="PE | Radio Ondas del Río Mayo" tvg-logo="https://play-lh.googleusercontent.com/dW1vUmmvg33AvAYIX9wlpQhe015pXfQG2ynFAUtpPtZVh_YXJOg29_GqdcozsFhMmeI" group-title="EMISORAS PROVINCIALES", 907 | Radio Ondas del Río Mayo 105.7 FM || Nueva Cajamarca; Perú
+#EXTINF:-1 tvg-id="PE | Radio Ondas del Río Mayo" tvg-name="PE | Radio Ondas del Río Mayo" tvg-logo="https://play-lh.googleusercontent.com/dW1vUmmvg33AvAYIX9wlpQhe015pXfQG2ynFAUtpPtZVh_YXJOg29_GqdcozsFhMmeI" group-title="EMISORAS PROVINCIALES", 906 | Radio Ondas del Río Mayo 105.7 FM || Nueva Cajamarca; Perú
 https://sp.onliveperu.com/8090/stream
+#EXTINF:-1 tvg-id="PE | Radio Estación Lamas" tvg-name="PE | Radio Estación Lamas" tvg-logo="https://radioestacionlamas.com/images/logo.png" group-title="EMISORAS PROVINCIALES", 907 | Radio Estación Lamas || Lamas; Perú
+https://stream-59.zeno.fm/nquc4xxz6bhvv?zs=au0SXsPKTPWSi2RldHNzgA
+#EXTINF:-1 tvg-id="PE | Radio Millenium" tvg-name="PE | Radio Millenium" tvg-logo="https://milleniumrtv.com/wp-content/uploads/2022/07/logo.png" group-title="EMISORAS PROVINCIALES", En prueba | Radio Millenium || Lamas; Perú
+https://shoutcast.tmcreativos.com/proxy/milleniumla/stream
 #EXTINF:-1 tvg-id="PE | Radio Amistad" tvg-name="PE | Radio Amistad" tvg-logo="https://www.planetaradios.com/content/radios_fm/pr215.png" group-title="EMISORAS PROVINCIALES", 908 | Radio Amistad 94.3 FM || Tarapoto; Perú
 https://node-05.zeno.fm/00x5zgc5xg0uv.aac?zs=gaosDMhVRUudgtuUqhx1RA&rj-tok=AAABgW3OIMAAfufZoQ7F6_2Tpg&rj-ttl=5
 #EXTINF:-1 tvg-id="PE | Radio Interactiva" tvg-name="PE | Radio Interactiva" tvg-logo="https://interactivaradio.com/wp-content/uploads/2020/06/logo-blanco-2.png" group-title="EMISORAS PROVINCIALES", 909 | Interactiva Radio 98.3 FM || Tarapoto; Perú
@@ -1933,10 +1935,22 @@ http://eu1.serviaudio.com:8066/stream/;
 http://eu1.serviaudio.com:8038/
 #EXTINF:-1 tvg-id="PE | Radio La Mega de Picota" tvg-name="PE | Radio La Mega de Picota" tvg-logo="https://static-media.streema.com/media/cache/93/9e/939e2e96ae1bd97da85be744a85fda6e.jpg" group-title="EMISORAS PROVINCIALES", 912 | Radio La Mega 98.7 FM || Picota; Perú
 http://ip.blstreamperu.com:9854/;
-#EXTINF:-1 tvg-id="PE | Radio La Voz de la Selva" tvg-name="PE | Radio La Voz de la Selva" tvg-logo="https://radiolavozdelaselva.org/wp-content/uploads/2023/01/LOGO-LVS-WEB.png" group-title="EMISORAS REGIONALES", 913 | Radio La Voz de la Selva || Iquitos; Perú
-https://serverssl.innovatestream.pe:8080/167.114.118.120:7664/stream
+#EXTINF:-1 tvg-id="PE | Radio Nueva Z" tvg-name="PE | Radio Nueva Z" tvg-logo="https://www.planetaradios.com/content/radios_fm/Radio-Nueva-Z-FM_Shamboyacu_San_Martin_pe.png" group-title="EMISORAS PROVINCIALES", En prueba | Radio Nueva Z || Shamboyacu; Perú
+https://radio.livestreamingmundial.com:7209/stream
+#EXTINF:-1 tvg-id="PE | Radio Fantasía" tvg-name="PE | Radio Fantasía" tvg-logo="https://play-lh.googleusercontent.com/S8JRGHusHv3FbcInfuqPQqkF7AeCdjXMjZJBu5-AqeCX_LKJI-zTXC10WNVoNsdu9Q=w240-h480-rw" group-title="EMISORAS REGIONALES", 913 | Radio Fantasía || Iquitos; Perú
+https://sp.oyotunstream.com:10943/;
+#EXTINF:-1 tvg-id="PE | Radio Astoria" tvg-name="PE | Radio Astoria" tvg-logo="http://www.radioastoria.com.pe/img/LOGO19.png" group-title="EMISORAS REGIONALES", En prueba | Radio Astoria || Iquitos; Perú
+https://gnstreammedia.com:7000/stream
+#EXTINF:-1 tvg-id="PE | Radio Tigre" tvg-name="PE | Radio Tigre" tvg-logo="https://www.planetaradios.com/content/radios_fm/Radio__TigreFM_iquitos_Loreto.png" group-title="EMISORAS REGIONALES", En prueba | Radio Tigre || Iquitos; Perú
+http://oyotunstream.com:9352/;
+#EXTINF:-1 tvg-id="PE | Radio Amazonía" tvg-name="PE | Radio Amazonía" tvg-logo="https://play-lh.googleusercontent.com/I3BwqEHqUYFXxoUCNN8k6NcVtRI1gMprBDdclaxdtFZOGhy2nxjUYxeiOv3ATWIJtw=w240-h480-rw" group-title="EMISORAS REGIONALES", En prueba | Radio Amazonía || Iquitos; Perú
+https://cloudstream2032.conectarhosting.com:10747/live
+#EXTINF:-1 tvg-id="PE | Radio Loreto" tvg-name="PE | Radio Loreto" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ql2v9ammzfz4.png" group-title="EMISORAS REGIONALES", En prueba | Radio Loreto || Iquitos; Perú
+https://sp.oyotunstream.com/8006/stream
+#EXTINF:-1 tvg-id="PE | Radio Inspiración" tvg-name="PE | Radio Inspiración" tvg-logo="https://play-lh.googleusercontent.com/bdDI8p_TJxMf65K3-gYY9CpSJkX3xXyLeCv0vddgYaxWt8TuSiY75aHJ9iZKWWF6tQg=w240-h480-rw" group-title="EMISORAS REGIONALES", En prueba | Radio Inspiración || Nauta; Perú
+https://sp.dattavolt.com/8098/stream
 #EXTINF:-1 tvg-id="PE | Radio Rutas" tvg-name="PE | Radio Rutas" tvg-logo="https://play-lh.googleusercontent.com/7hUpRIhYXUf2VRDm9oBEZLvqzSc6eCtMYzRLelnfqYwRFXc75nhJlZZrvZ9ujzgmCw=w240-h480-rw" group-title="EMISORAS REGIONALES", 914 | Radio Rutas || Quillabamba; Perú
-http://65.60.45.74:8014/stream/1/
+https://tupanel.info:9920/stream?icy=http
 #EXTINF:-1 tvg-id="PE | Expresión Radio TV" tvg-name="PE | Expresión Radio TV" tvg-logo="https://www.telesur.com.pe/recursos/page/expresion/images/logo.png" group-title="EMISORAS DE RADIO CON VIDEO", 915 | Expresión Radio TV || Ilo
 https://1667517699.rsc.cdn77.org/hls/radioilo.m3u8
 #EXTINF:-1 tvg-id="PE | Radio Altamar" tvg-name="PE | Radio Altamar" tvg-logo="https://cableclub.com.pe/wp-content/uploads/2021/04/radio-altamar-150x150-1.jpg" group-title="EMISORAS REGIONALES", 916 | Radio Altamar || Ilo
