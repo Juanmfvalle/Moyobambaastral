@@ -351,23 +351,9 @@ http://160.20.165.246:8000/play/a005/index.m3u8
 http://45.228.234.77:3340/play/bitme/index.m3u8
 #EXTINF:-1 tvg-id="PE | E Kids" tvg-name="PE | E Kids" tvg-logo="https://pbs.twimg.com/media/FWNa8oVWAAAWvTx?format=png&name=small" group-title="INFANTILES", 161 | E Kids
 https://stream.plixitv.live/ekids/ekids/playlist.m3u8
-#EXTINF:-1 tvg-id="JP | Dragon Ball TV" tvg-name="JP | Dragon Ball TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Dragon_Ball_anime_logo.png" group-title="Canales 24/7", En prueba | Dragon Ball TV
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/125896
-#EXTINF:-1 tvg-id="BE | Los Pitufos TV" tvg-name="BE | Los Pitufos TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Logo_Los_Pitufos_%282021%29.png" group-title="Canales 24/7", En prueba | Los Pitufos TV
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/126097
 #EXTINF:-1 tvg-id="USA | Tom y Jerry TV" tvg-name="USA | Tom y Jerry TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB_T3QPiTLA_Cr6xXHsJmZl9YvIYQIElADnBLb7PTa47g-GR81C_zQcqJ6tVIrBmw7lg&usqp=CAU" group-title="Canales 24/7", En prueba | Tom y Jerry TV
 https://6362ca6f1fc28.streamlock.net:443/tomyjerry/tomyjerry/playlist.m3u8
-#EXTINF:-1 tvg-id="CL | Paola y Miguelito La serie TV" tvg-name="CL | Paola y Miguelito La serie TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Paola_y_Miguelito_la_serie_2022.png/revision/latest?cb=20220112220353&path-prefix=es" group-title="Canales 24/7", En prueba | Paola y Miguelito La serie TV
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/127626
-#EXTINF:-1 tvg-id="CL | Solo pasa en Chile TV" tvg-name="CL | Solo pasa en Chile TV" tvg-logo="https://static.wikia.nocookie.net/youtubepedia/images/1/14/Elchileno20.jpg/revision/latest?cb=20220408101045&path-prefix=es" group-title="Canales 24/7", En prueba | Solo pasa en Chile TV
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/126101
-#EXTINF:-1 tvg-id="USA | Caso Cerrado TV" tvg-name="USA | Caso Cerrado TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Caso_Cerrado.png" group-title="Canales 24/7", En prueba | Caso Cerrado TV
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/126093
-#EXTINF:-1 tvg-id="USA | El Precio de la Historia TV" tvg-name="USA | El Precio de la Historia TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/El_Precio_de_la_Historia_logo.png" group-title="Canales 24/7", En prueba | El Precio de la Historia TV
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/126028
-#EXTINF:-1 tvg-id="MX | El Chavo del 8 TV" tvg-name="MX | El Chavo del 8 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/1200px-El_Chavo_%28simple_logo%29.svg.png" group-title="Canales 24/7", En prueba | El Chavo del 8 TV
-http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/126023
-#EXTINF:-1 tvg-id="MX | El Chavo del 8 TV Señal 2" tvg-name="MX | El Chavo del 8 TV Señal 2" tvg-logo="https://pbs.twimg.com/media/Fp3p0zZXoAY_loW?format=png&name=small" group-title="Canales 24/7", En prueba | El Chavo del 8 TV Señal 2
+#EXTINF:-1 tvg-id="MX | El Chavo del 8 TV" tvg-name="MX | El Chavo del 8 TV" tvg-logo="https://pbs.twimg.com/media/Fp3p0zZXoAY_loW?format=png&name=small" group-title="Canales 24/7", En prueba | El Chavo del 8 TV
 https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | Distrito Comedia" tvg-name="MX | Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/175px-DistritoComediaLOGO2018.png" group-title="ENTRETENIMIENTO", En prueba | Distrito Comedia
 http://45.5.118.226:8000/play/a04v/index.m3u8
@@ -402,7 +388,7 @@ https://cdnlive.presstv.ir/cdnlive/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CH | CGTN Español" tvg-name="CH | CGTN Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/180px-CGTN_Espanol.png" group-title="NOTICIAS E INFORMACION", 176 | CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="CO | Nuestra Tele Noticias 24" tvg-name="CO | Nuestra Tele Noticias 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NTN24_logo.svg/245px-NTN24_logo.svg.png" group-title="NOTICIAS E INFORMACION", 177 | NTN 24
-https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl4F9YB37DMMDi1eNrMaqf8y1O0cTFMDoAZVGM1He8vtL)/dm/3/x7w4okl/s/live-1.m3u8
+https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl4F9YB37DMMDi1eNrMaqf8y1O0cTFMDoAZVGM1He8vtL)/dm/3/x7w4okl/s/live-1.m3u8
 #EXTINF:-1 tvg-id="CO | Cablenoticias" tvg-name="CO | Cablenoticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/175px-Cable_Noticias_logo.svg.png" group-title="NOTICIAS E INFORMACION", En prueba | Cablenoticias
 https://5ea86ddd14ce7.streamlock.net:443/live/cable09061970/chunklist_w491572862.m3u8
 #EXTINF:-1 tvg-id="ESP | 24 Horas tve" tvg-name="ESP | 24 horas tve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/125px-Logo_TVE-24h.svg.png" group-title="NOTICIAS E INFORMACION", 178 | 24 horas tve
