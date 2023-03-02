@@ -896,15 +896,15 @@ http://200.24.141.2:4000/play/a1ny/index.m3u8
 #EXTINF:-1 tvg-id="EC | Ecuador TV" tvg-name="EC | Ecuador TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/150px-EcuadorTV_logo.png" group-title="ECUADOR", 403 | Ecuador TV || ECUADOR
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ECUADORTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DECUADORTV_stream_wj&_cdn_session=622837083&_cdn_timestamp=1678113189&_cdn_token=ef7c1c6149ab7e5d7f219064b12a1cbbe230fc6b
 #EXTINF:-1 tvg-id="EC | Ecuavisa" tvg-name="EC | Ecuavisa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/200px-Ecuavisa_Logo_2019.png" group-title="ECUADOR", 404 | Ecuavisa || ECUADOR
-http://200.24.134.18:9000/play/a0np/index.m3u8
+https://youvideostreaming.club/hls/ecutv1.m3u8
 #EXTINF:-1 tvg-id="EC | Red Telesistema" tvg-name="EC | Red Telesistema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/150px-Rts_logo.png" group-title="ECUADOR", 405 | RTS || ECUADOR
-http://200.24.134.18:9000/play/a0kl/index.m3u8
+https://youvideostreaming.club/hls/ecutv2.m3u8
 #EXTINF:-1 tvg-id="EC | Televisora Central Ecuatoriana" tvg-name="EC | Telecentro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png" group-title="ECUADOR", 406 | TC Televisión || ECUADOR
-http://200.24.134.18:9000/play/a0nc/index.m3u8
+https://youvideostreaming.club/hls/ecutv3.m3u8
 #EXTINF:-1 tvg-id="EC | Oromar TV" tvg-name="EC | Oromar TV" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="ECUADOR", 407 | Oromar Televisión || ECUADOR
 http://160.20.165.246:8000/play/a00t/index.m3u8
 #EXTINF:-1 tvg-id="EC | Telerama" tvg-name="EC | Telerama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_Telerama.png/250px-Logo_Telerama.png" group-title="ECUADOR", 408 | Telerama || ECUADOR
-http://200.24.141.2:4000/play/a1n4/index.m3u8
+https://envivo.telerama.ec/stream.m3u8
 #EXTINF:-1 tvg-id="EC | Hechos Ecuador TV" tvg-name="EC | Hechos Ecuador TV" tvg-logo="https://www.hechosecuador.com/rw_common/images/HECHOS%20LOGO%20REAL%202018.png" group-title="ECUADOR", 409 | Hechos Ecuador TV || ECUADOR
 https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
 #EXTINF:-1 tvg-id="EC | Ecotel TV" tvg-name="EC | Ecotel TV" tvg-logo="https://www.ecotel.tv/images/logoecotel.svg" group-title="ECUADOR", 410 | Ecotel TV || ECUADOR
@@ -1841,6 +1841,8 @@ https://v-px.mybtv.net/live/58.m3u8
 http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/chunklist_w1521447717_b1248000.m3u8
 #EXTINF:-1 tvg-id="USA | El Venezolano TV" tvg-name="USA | El Venezolano TV" tvg-logo="https://yt3.googleusercontent.com/RK7y5CEazbPi7q0kWzFo9yxCUZOAkF8qvHm-CBVMuRXlFj6ExZv_YH-Kde4Nxf8no3PxGqMDrQ=s88-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS E INFORMACION", En prueba | El Venezolano TV || ESTADOS UNIDOS DE AMÉRICA
 https://streannliveevtv.cachefly.net/Protected/sp=1;dirmatch=true/3be25dc13406bf70ff0208230e6fa803b88b95013fad257c025e481e2be3e214/evtv1/evtv1/playlist.m3u8
+#EXTINF:-1 tvg-id="USA | Visión Global TV" tvg-name="USA | Visión Global TV" tvg-logo="https://pbs.twimg.com/profile_images/1271993632573267969/iebucZUM_400x400.jpg" group-title="NOTICIAS E INFORMACION", En prueba | Visión Global TV || ESTADOS UNIDOS DE AMÉRICA
+https://stream.visionglobaltv.net:1936/visionglobal/visionglobal/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Laff" tvg-name="USA | Laff" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/LAFF_logo.png/200px-LAFF_logo.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 852 | Laff || ESTADOS UNIDOS DE AMÉRICA
 https://v-px.mybtv.net/live/2.m3u8
 #EXTINF:-1 tvg-id="USA | Grit" tvg-name="USA | Grit" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Grit_TV_Network_Logo.gif/225px-Grit_TV_Network_Logo.gif" group-title="ESTADOS UNIDOS DE AMÉRICA", 853 | Grit || ESTADOS UNIDOS DE AMÉRICA
