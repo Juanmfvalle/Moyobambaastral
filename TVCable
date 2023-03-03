@@ -795,6 +795,8 @@ https://servilive.com:3531/stream/play.m3u8
 https://ott1.hdlatam.tv/live/PiuraTV/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Piura Plus TV" tvg-name="PE | Piura Plus TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/LogoOficialPiuraPlusTv.png" group-title="REGIONALES", En prueba | Piura Plus TV || Piura
 https://ott1.hdlatam.tv/live/piura/PiuraPlusTV/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | TVO Canal 31" tvg-name="PE | TVO Canal 31" tvg-logo="http://core1.hdlatam.tv/media/images/channel/tvo.jpg" group-title="REGIONALES", En prueba | TVO Canal 31 || Piura
+https://ott1.hdlatam.tv/live/piura/TVO/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Radio TV Catacaos" tvg-name="PE | Radio TV Catacaos" tvg-logo="https://play-lh.googleusercontent.com/VLpL-p1oz2SxYaweCoRufLeV6DjCt4zqE5PHZeDGpGGcwgkYg0imxolbEFLd75ZqDFs=w240-h480-rw" group-title="REGIONALES", 359 | Radio TV Catacaos || Catacaos; Piura
 https://hls.servidor.stream/storage/radiocatacaos.m3u8
 #EXTINF:-1 tvg-id="PE | Canal 8 Catacaos" tvg-name="PE | Canal 8 Catacaos" tvg-logo="https://www.canal8catacaos.com/wp-content/uploads/2021/01/canal8logo.png" group-title="REGIONALES", 360 | Canal 8 Catacaos || Catacaos; Piura
