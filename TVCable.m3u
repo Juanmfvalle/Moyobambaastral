@@ -1939,22 +1939,18 @@ https://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 https://cloudvideo.servers10.com:8081/8020/index.m3u8
 #EXTINF:-1 tvg-id="ES | Radio Televisión Mogan" tvg-name="ES | Radio Televisión Mogan" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR9a3Cn4uJLbEkRS4XPaymSOXxbfkwIpfbvSF_P=s900-c-k-c0x00ffffff-no-rj" group-title="ESPAÑA", 885 | Radio Televisión Mogan || ESPAÑA
 https://cloudvideo.servers10.com:8081/8028/index.m3u8
-#EXTINF:-1 tvg-id="ES | Costa Noroeste TV" tvg-name="ES | Costa Noroeste TV" tvg-logo="https://costanoroestetv.net/wp-content/uploads/2022/03/cropped-logo_costa_noroeste_4web-1.png" group-title="ESPAÑA", 886 | Costa Noroeste TV || ESPAÑA
-https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
-#EXTINF:-1 tvg-id="ES | Noroeste TV" tvg-name="ES | Noroeste TV" tvg-logo="http://noroestetv.es/wp-content/uploads/2022/05/logoNT-horizontalV-2.png" group-title="ESPAÑA", 887 | Noroeste TV || ESPAÑA
-https://livestreams.flote.app:5443/flote/streams/f7c103f4-4247-4537-be81-f9b3896d74cb.m3u8
+#EXTINF:-1 tvg-id="ES | Costa del Sol TV" tvg-name="ES | Costa del Sol TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJX_hsF83yqZtuAfSJ6Idywzr0aOFiKKg1Ui13-y-A=s900-c-k-c0x00ffffff-no-rj" group-title="ESPAÑA", 886 | Costa del Sol TV || ESPAÑA
+https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8
+#EXTINF:-1 tvg-id="ES | Nortevision" tvg-name="ES | Nortevision" tvg-logo="https://diretele.com/wp-content/uploads/2020/09/NORTEvision-100x70.png" group-title="ESPAÑA", 887 | Nortevision || ESPAÑA
+http://amaru.dyndns.org:8870/0.m3u8
 #EXTINF:-1 tvg-id="ES | Onda Valencia TV" tvg-name="ES | Onda Valencia TV" tvg-logo="https://www.ondavalencia.es/templates/jsn_boot_pro/images/logo5.png" group-title="ESPAÑA", 888 | Onda Valencia TV || ESPAÑA
 https://cloudvideo.servers10.com:8081/8116/index.m3u8
 #EXTINF:-1 tvg-id="ES | Radio Televisión Estepona" tvg-name="ES | Radio Televisión Estepona" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/tv-estepona.png" group-title="ESPAÑA", 889 | Radio Televisión Estepona || ESPAÑA
 https://cloudvideo.servers10.com:8081/8022/index.m3u8
-#EXTINF:-1 tvg-id="ES | Energy" tvg-name="ES | Energy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/125px-Energy.svg.png" group-title="ESPAÑA", En prueba | Energy || ESPAÑA
-http://51.158.36.81:18000/Energy/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="ES | Divinity" tvg-name="ES | Divinity" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/125px-Divinity.svg.png" group-title="ESPAÑA", En prueba | Divinity || ESPAÑA
 http://51.158.36.81:18000/Divinity/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="ES | Nova" tvg-name="ES | Nova" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/175px-Nova.svg.png" group-title="ESPAÑA", En prueba | Nova || ESPAÑA
 http://51.158.36.81:18000/Nova/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="ES | Neox" tvg-name="ES | Neox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/175px-Neox.svg.png" group-title="ESPAÑA", En prueba | Neox || ESPAÑA
-http://51.158.36.81:18000/Neox/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="ES | Canal Sur" tvg-name="ES | Canal Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_Sur_Televisi%C3%B3n_2011-2017_logo.svg/120px-Canal_Sur_Televisi%C3%B3n_2011-2017_logo.svg.png" group-title="ESPAÑA", En prueba | Canal Sur || ESPAÑA
 http://51.158.36.81:18000/Canal_Sur/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="ES | TV3 Catalunya" tvg-name="ES | TV3 Catalunya" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TV3CAT" group-title="ESPAÑA", En prueba | TV3 Catalunya || ESPAÑA
@@ -1971,16 +1967,12 @@ http://51.158.36.81:18000/BOM_Cine/hls/playlist.m3u8
 http://51.158.36.81:18000/Fox/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="ES | AXN" tvg-name="ES | AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png" group-title="ESPAÑA", En prueba | AXN || ESPAÑA
 http://51.158.36.81:18000/AXN/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="ES | AXN White" tvg-name="ES | AXN White" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/150px-AXN_White_logo_%282015%29.svg.png" group-title="ESPAÑA", En prueba | AXN White || ESPAÑA
-http://51.158.36.81:18000/AXN_White/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="ES | TNT" tvg-name="ES | TNT" tvg-logo="https://d14smv89t73oqm.cloudfront.net/dynamic/channel/00000000/12/9dd46e4c0ef4576ba518435391cfa37d95bc7cc6_1599068160.png" group-title="ESPAÑA", En prueba | TNT || ESPAÑA
 http://51.158.36.81:18000/TNT/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="ES | TCM" tvg-name="ES | TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/200px-TCM_logo.svg.png" group-title="ESPAÑA", En prueba | TCM || ESPAÑA
 http://51.158.36.81:18000/TCM/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="ES | AMC" tvg-name="ES | AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/150px-AMC_logo_2019.svg.png" group-title="ESPAÑA", En prueba | AMC || ESPAÑA
 http://51.158.36.81:18000/AMC/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="ES | AMC Crime" tvg-name="ES | AMC Crime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/AMC_Crime.svg/320px-AMC_Crime.svg.png" group-title="ESPAÑA", En prueba | AMC Crime || ESPAÑA
-http://51.158.36.81:18000/Crimen_+_Investigación/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="ES | Canal Hollywood" tvg-name="ES | Canal Hollywood" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/200px-HWD_logo.svg.png" group-title="ESPAÑA", En prueba | Canal Hollywood || ESPAÑA
 http://51.158.36.81:18000/Hollywood/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="ES | Sundance TV" tvg-name="ES | Sundance TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/SundanceTVlogo.png/200px-SundanceTVlogo.png" group-title="ESPAÑA", En prueba | Sundance TV || ESPAÑA
@@ -1997,8 +1989,6 @@ http://51.158.36.81:18000/Comedy_Central/hls/playlist.m3u8
 http://51.158.36.81:18000/Calle_13/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="ES | Cosmo TV" tvg-name="ES | Cosmo TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/LOGO_COSMO.png/130px-LOGO_COSMO.png" group-title="ESPAÑA", En prueba | Cosmo TV || ESPAÑA
 http://51.158.36.81:18000/COSMO/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="ES | XTRM" tvg-name="ES | XTRM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/XTRM_Espa%C3%B1a.png/320px-XTRM_Espa%C3%B1a.png" group-title="ESPAÑA", En prueba | XTRM || ESPAÑA
-http://51.158.36.81:18000/XTRM/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="ES | Discovery" tvg-name="ES | Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png" group-title="ESPAÑA", En prueba | Discovery || ESPAÑA
 http://51.158.36.81:18000/Discovery/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="ES | National Geographic" tvg-name="ES | National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png" group-title="ESPAÑA", En prueba | National Geographic || ESPAÑA
