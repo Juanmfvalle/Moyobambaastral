@@ -1947,6 +1947,46 @@ https://livestreams.flote.app:5443/flote/streams/f7c103f4-4247-4537-be81-f9b3896
 https://cloudvideo.servers10.com:8081/8116/index.m3u8
 #EXTINF:-1 tvg-id="ES | Radio Televisión Estepona" tvg-name="ES | Radio Televisión Estepona" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/tv-estepona.png" group-title="ESPAÑA", 889 | Radio Televisión Estepona || ESPAÑA
 https://cloudvideo.servers10.com:8081/8022/index.m3u8
+#EXTINF:-1 tvg-id="ES | Energy" tvg-name="ES | Energy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/125px-Energy.svg.png" group-title="ESPAÑA", En prueba | Energy || ESPAÑA
+http://51.158.36.81:18000/Energy/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="ES | Canal Sur" tvg-name="ES | Canal Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_Sur_Televisi%C3%B3n_2011-2017_logo.svg/120px-Canal_Sur_Televisi%C3%B3n_2011-2017_logo.svg.png" group-title="ESPAÑA", En prueba | Canal Sur || ESPAÑA
+http://51.158.36.81:18000/Canal_Sur/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="ES | TV3 Catalunya" tvg-name="ES | TV3 Catalunya" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TV3CAT" group-title="ESPAÑA", En prueba | TV3 Catalunya || ESPAÑA
+http://51.158.36.81:18000/TV3/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="ES | La Resistencia" tvg-name="ES | La Resistencia" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/RESIST" group-title="ESPAÑA", En prueba | La Resistencia || ESPAÑA
+http://51.158.36.81:18000/La_Resistencia/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="ES | Series por M+" tvg-name="ES | Series por M+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Series_por_Movistar_Plus%2B_2022_logo.svg/250px-Series_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ESPAÑA", En prueba | Series por M+ || ESPAÑA
+http://51.158.36.81:18000/M_Series/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="ES | Series 2 por M+" tvg-name="ES | Series 2 por M+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Series_2_por_Movistar_Plus%2B_2022_logo.svg/205px-Series_2_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ESPAÑA", En prueba | Series 2 por M+ || ESPAÑA
+http://51.158.36.81:18000/M_Series_2/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="ES | Fox" tvg-name="ES | Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/150px-FOX_wordmark-red_2.svg.png" group-title="ESPAÑA", En prueba | Fox || ESPAÑA
+http://51.158.36.81:18000/Fox/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="ES | AXN" tvg-name="ES | AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png" group-title="ESPAÑA", En prueba | AXN || ESPAÑA
+http://51.158.36.81:18000/AXN/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="ES | AXN White" tvg-name="ES | AXN White" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/150px-AXN_White_logo_%282015%29.svg.png" group-title="ESPAÑA", En prueba | AXN White || ESPAÑA
+http://51.158.36.81:18000/AXN_White/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="ES | TNT" tvg-name="ES | TNT" tvg-logo="https://d14smv89t73oqm.cloudfront.net/dynamic/channel/00000000/12/9dd46e4c0ef4576ba518435391cfa37d95bc7cc6_1599068160.png" group-title="ESPAÑA", En prueba | TNT || ESPAÑA
+http://51.158.36.81:18000/TNT/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="ES | TCM" tvg-name="ES | TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/200px-TCM_logo.svg.png" group-title="ESPAÑA", En prueba | TCM || ESPAÑA
+http://51.158.36.81:18000/TCM/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="ES | AMC" tvg-name="ES | AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/150px-AMC_logo_2019.svg.png" group-title="ESPAÑA", En prueba | AMC || ESPAÑA
+http://51.158.36.81:18000/AMC/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="ES | Canal Hollywood" tvg-name="ES | Canal Hollywood" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/200px-HWD_logo.svg.png" group-title="ESPAÑA", En prueba | Canal Hollywood || ESPAÑA
+http://51.158.36.81:18000/Hollywood/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="ES | Sundance TV" tvg-name="ES | Sundance TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/SundanceTVlogo.png/200px-SundanceTVlogo.png" group-title="ESPAÑA", En prueba | Sundance TV || ESPAÑA
+http://51.158.36.81:18000/Sundance/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="ES | Syfy" tvg-name="ES | Syfy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/200px-SYFY.svg.png" group-title="ESPAÑA", En prueba | Syfy || ESPAÑA
+http://51.158.36.81:18000/SYFY/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="ES | Dark" tvg-name="ES | Dark" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Dark_Teuve_2.png/320px-Dark_Teuve_2.png" group-title="ESPAÑA", En prueba | Dark || ESPAÑA
+http://51.158.36.81:18000/DARK/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="ES | Comedy Central" tvg-name="ES | Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/200px-Comedy_Central_2018.svg.png" group-title="ESPAÑA", En prueba | Comedy Central || ESPAÑA
+http://51.158.36.81:18000/Comedy_Central/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="ES | Calle 13" tvg-name="ES | Calle 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Calle13_logo.svg/100px-Calle13_logo.svg.png" group-title="ESPAÑA", En prueba | Calle 13 || ESPAÑA
+http://51.158.36.81:18000/Calle_13/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="ES | Cosmo TV" tvg-name="ES | Cosmo TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/LOGO_COSMO.png/130px-LOGO_COSMO.png" group-title="ESPAÑA", En prueba | Cosmo TV || ESPAÑA
+http://51.158.36.81:18000/COSMO/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="ES | XTRM" tvg-name="ES | XTRM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/XTRM_Espa%C3%B1a.png/320px-XTRM_Espa%C3%B1a.png" group-title="ESPAÑA", En prueba | XTRM || ESPAÑA
+http://51.158.36.81:18000/XTRM/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="ES | National Geographic Wild" tvg-name="ES | National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/175px-National_Geographic_Wild_logo.svg.png" group-title="ESPAÑA", En prueba | National Geographic Wild || ESPAÑA
 http://51.158.36.81:18000/Nat_Geo_Wild/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="ES | Historia" tvg-name="ES | Historia" tvg-logo="https://amcnetworks.es/wp-content/uploads/2022/10/Nuevo-logo-Canal-HISTORIA.png" group-title="ESPAÑA", En prueba | Historia || ESPAÑA
