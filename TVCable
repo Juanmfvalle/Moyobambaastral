@@ -400,7 +400,7 @@ https://cdnlive.presstv.ir/cdnlive/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CH | CGTN Español" tvg-name="CH | CGTN Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/180px-CGTN_Espanol.png" group-title="NOTICIAS E INFORMACION", 176 | CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="CO | Nuestra Tele Noticias 24" tvg-name="CO | Nuestra Tele Noticias 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NTN24_logo.svg/245px-NTN24_logo.svg.png" group-title="NOTICIAS E INFORMACION", 177 | NTN 24
-https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAly8gvNlWurvaCgbgM6Le-yi4Is3OWrV6Y4-gdCYQwW7e)/dm/3/x7w4okl/s/live-1.m3u8
+https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlxY9xk0tCh9gFSlR3t91lJPG_UVwH7KouT2Ojbs2ORIr)/dm/3/x7w4okl/s/live-1.m3u8
 #EXTINF:-1 tvg-id="CO | Cablenoticias" tvg-name="CO | Cablenoticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/175px-Cable_Noticias_logo.svg.png" group-title="NOTICIAS E INFORMACION", En prueba | Cablenoticias
 https://5ea86ddd14ce7.streamlock.net:443/live/cable09061970/chunklist_w491572862.m3u8
 #EXTINF:-1 tvg-id="ESP | 24 Horas tve" tvg-name="ESP | 24 horas tve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/125px-Logo_TVE-24h.svg.png" group-title="NOTICIAS E INFORMACION", 178 | 24 horas tve
@@ -1018,9 +1018,9 @@ http://152.200.181.236:15000/play/a03j
 #EXTINF:-1 tvg-id="CO | Telecafé" tvg-name="CO | Telecafé" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Telecaf%C3%A9_logo.svg/200px-Telecaf%C3%A9_logo.svg.png" group-title="COLOMBIA", 437 | Telecafé || COLOMBIA
 http://152.200.181.236:15000/play/a03i
 #EXTINF:-1 tvg-id="CO | Teleantioquia" tvg-name="CO | Teleantioquia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Teleantioquia_logo.svg/250px-Teleantioquia_logo.svg.png" group-title="COLOMBIA", 438 | Teleantioquia || COLOMBIA
-http://190.2.209.155:4000/play/teleantioquia/index.m3u8
+http://190.2.209.158:4000/play/teleantioquia/index.m3u8
 #EXTINF:-1 tvg-id="CO | Telemedellín" tvg-name="CO | Telemedellín" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Logotipo_de_Telemedell%C3%ADn.png/150px-Logotipo_de_Telemedell%C3%ADn.png" group-title="COLOMBIA", 439 | Telemedellín || COLOMBIA
-http://190.2.209.159:4000/play/telemedellin/index.m3u8
+http://190.2.209.158:4000/play/telemedellin/index.m3u8
 #EXTINF:-1 tvg-id="CO | Zoom TV"  tvg-name="CO | Zoom TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/CanalZoom2018.png/revision/latest/scale-to-width-down/78?cb=20210501194343&path-prefix=es" group-title="COLOMBIA", 440 | Zoom TV || COLOMBIA
 https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
 #EXTINF:-1 tvg-id="CO | Canal C de Cali" tvg-name="CO | Canal C de Cali" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRhl94w4Xil6sWKn-TpwbBo4oDXDJ6IZdILATFNKw=s900-c-k-c0x00ffffff-no-rj" group-title="COLOMBIA", 441 | Canal C de Cali || COLOMBIA
@@ -1062,7 +1062,7 @@ https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live
 #EXTINF:-1 tvg-id="CO | Huila TV" tvg-name="CO | Huila TV" tvg-logo="https://www.huilatv.com/wp-content/uploads/2020/01/LOGO-HUILA-TV-ICONO.png" group-title="COLOMBIA", En prueba | Huila TV || COLOMBIA
 https://plataformavideo.com/live/8020.m3u8
 #EXTINF:-1 tvg-id="CO | STV Nariño" tvg-name="CO | STV Nariño" tvg-logo="https://narino.stvcanal.com.co/wp-content/uploads/2020/04/nari%C3%B1o-azul-logo-1.png" group-title="COLOMBIA", En prueba | STV Nariño
-http://177.93.33.113:8000/play/a00z
+https://jc.stvcanal.com:9000/webnarino/webnarino/1.m3u8
 #EXTINF:-1 tvg-id="VE | TVES" tvg-name="VE | TVES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Large.TVES-logo-2021.png.f9c95c6999d5d4b82b3cd30122501e75.png/290px-Large.TVES-logo-2021.png.f9c95c6999d5d4b82b3cd30122501e75.png" group-title="VENEZUELA", 456 | TVES || VENEZUELA
 http://45.179.164.9:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="VE | Venevisión" tvg-name="VE | Venevisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/90px-Logotipo_de_Venevisi%C3%B3n.svg.png" group-title="VENEZUELA", 457 | Venevisión || VENEZUELA
