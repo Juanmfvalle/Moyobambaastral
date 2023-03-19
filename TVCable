@@ -674,7 +674,9 @@ https://servilive.com:3149/live/jn19tvlive.m3u8
 #EXTINF:-1 tvg-id="CR | Telefides" tvg-name="CR | Telefides" tvg-logo="https://costaricatelevision.com/sites/default/files/styles/tv_list/public/2020-07/telefides-costa-rica.png.webp?itok=XzDap4zR" group-title="RELIGIOSOS", 332 | Telefides
 https://s2.cwebtv.net:4433/telefides/telefides/chunklist.m3u8
 #EXTINF:-1 tvg-id="DO | La Voz de María" tvg-name="DO | La Voz de María" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTRyXwicJcx52VUr5lYKMVMnrvlwvhS4HFMFr-W=s900-c-k-c0x00ffffff-no-rj" group-title="RELIGIOSOS", 333 | La Voz de María TV
-http://51.81.93.239:8084/hls/lavozdemaria.m3u8
+http://181.78.105.146:9000/play/a042
+#EXTINF:-1 tvg-id="DO | Tele Vida" tvg-name="DO | Tele Vida" tvg-logo="https://televida.org.do/wp-content/uploads/2018/02/LOGOS_TELEVIDA_Movil-01.png" group-title="RELIGIOSOS", En prueba | Tele Vida
+http://181.189.243.254:8000/play/a0of/index.m3u8
 #EXTINF:-1 tvg-id="NI | JBN Canal 39" tvg-name="NI | JBN Canal 39" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSFAwOxRl_Q_NdWj-oIOGI7e7VC7UoNrdt3Kqm3=s88-c-k-c0x00ffffff-no-rj" group-title="RELIGIOSOS", 334 | JBN Canal 39
 https://inliveserver.com:1936/17510/17510/playlist.m3u8
 #EXTINF:-1 tvg-id="CR | San José TV" tvg-name="CR | San José TV" tvg-logo="https://crtn.org/wp-content/uploads/ultimatemember/532/profile_photo-190x190.jpg?1662519451" group-title="RELIGIOSOS", 335 | San José TV
@@ -1708,7 +1710,7 @@ https://cdn.streamhispanatv.net:3586/live/tuismillive.m3u8
 #EXTINF:-1 tvg-id="GT | Canal 25 Regional" tvg-name="GT | Canal 25 Regional" tvg-logo="https://play-lh.googleusercontent.com/7ztHD_HAgYKfpaX4S-b3LKlREhXqyVYvO9oXFVK5e9mMVlkVaKcPTxltaCiD7EybyNk=w240-h480-rw" group-title="GUATEMALA", 836 | Canal 25 Regional || GUATEMALA
 https://srv4.zcast.com.br/canalsantarosa/canalsantarosa/playlist.m3u8
 #EXTINF:-1 tvg-id="DO | Teleantillas" tvg-name="DO | Teleantillas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/TeleAntillas.jpg/125px-TeleAntillas.jpg" group-title="REPUBLICA DOMINICANA", 837 | Teleantillas || REPUBLICA DOMINICANA
-http://51.81.106.147:8084/hls/tantillas.m3u8
+http://181.189.243.254:8000/play/a0p1/index.m3u8
 #EXTINF:-1 tvg-id="DO | Si TV" tvg-name="DO | Si TV" tvg-logo="https://sitv.com.do/wp-content/uploads/2021/10/sitvlogo-1.svg" group-title="REPUBLICA DOMINICANA", 838 | Si TV || REPUBLICA DOMINICANA
 http://190.122.104.221/Player/sitv.m3u8
 #EXTINF:-1 tvg-id="DO | Canal RTVD 4" tvg-name="DO | Canal RTVD 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/RTVD_logo_2022.webp/200px-RTVD_logo_2022.webp.png" group-title="REPUBLICA DOMINICANA", 839 | Canal RTVD 4 || REPUBLICA DOMINICANA
@@ -1716,15 +1718,15 @@ https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:-1 tvg-id="DO | Cananga Televisión" tvg-name="DO | Cananga Televisión" tvg-logo="https://canalesdominicanos.live/template/images/radios/cananga-tv.jpeg" group-title="REPUBLICA DOMINICANA", 840 | Cananga Televisión || REPUBLICA DOMINICANA
 https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8
 #EXTINF:-1 tvg-id="DO | Telemicro" tvg-name="DO | Telemicro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png/revision/latest/scale-to-width-down/170?cb=20191125192220&path-prefix=es" group-title="REPUBLICA DOMINICANA", 841 | Telemicro || REPUBLICA DOMINICANA
-http://51.81.93.239:8084/hls/tmicro.m3u8
+http://181.189.243.254:8000/play/a0rz/index.m3u8
 #EXTINF:-1 tvg-id="DO | Antena 7" tvg-name="DO | Antena 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Antena_Latina_2016.webp/270px-Antena_Latina_2016.webp.png" group-title="REPUBLICA DOMINICANA", 842 | Antena 7 || REPUBLICA DOMINICANA
-http://51.81.106.157:8084/hls/alatina.m3u8
+http://181.189.243.254:8000/play/a0p2/index.m3u8
 #EXTINF:-1 tvg-id="DO | Color Visión" tvg-name="DO | Color Visión" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ec05bd74826e90977bf051086434a04d.webp" group-title="REPUBLICA DOMINICANA", 843 | Color Visión || REPUBLICA DOMINICANA
-http://51.81.93.29:8084/hls/colorv.m3u8
+http://181.189.243.254:8000/play/a0s0/index.m3u8
 #EXTINF:-1 tvg-id="DO | Telesistema" tvg-name="DO | Telesistema" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/telesistemac-100x70.png" group-title="REPUBLICA DOMINICANA", 844 | Telesistema || REPUBLICA DOMINICANA
-http://51.81.93.239:8084/hls/tsistemas.m3u8
+http://181.189.243.254:8000/play/a0p3/index.m3u8
 #EXTINF:-1 tvg-id="DO | Telecentro" tvg-name="DO | Telecentro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Telecentro_ICON.jpg/125px-Telecentro_ICON.jpg" group-title="REPUBLICA DOMINICANA", 845 | Telecentro || REPUBLICA DOMINICANA
-http://51.81.93.239:8084/hls/telecentro.m3u8
+http://181.189.243.254:8000/play/a0qu/index.m3u8
 #EXTINF:-1 tvg-id="DO | Catorce TV" tvg-name="DO | Catorce TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1zw2p9aavhzut6-I2XfjwRn5Hz8pDPd7hfurIwpP4qTqTzPp_qRridkUeGiGqae6c86c&usqp=CAU" group-title="REPUBLICA DOMINICANA", 846 | Catorce TV || REPUBLICA DOMINICANA
 https://video.misistemareseller.com/catorcetv/catorcetv/playlist.m3u8
 #EXTINF:-1 tvg-id="DO | Digital 15" tvg-name="DO | Digital 15" tvg-logo="http://festivaldecineglobal.org/2014/wp-content/uploads/Digital15-228x176.png" group-title="REPUBLICA DOMINICANA", 847 | Digital 15 || REPUBLICA DOMINICANA
@@ -1768,7 +1770,7 @@ https://cdn5.streamgato.us:3371/live/canal56live.m3u8
 #EXTINF:-1 tvg-id="DO | Digital Visión 63" tvg-name="DO | Digital Visión 63" tvg-logo="https://pbs.twimg.com/profile_images/878989434196295680/p1LEA6U4_400x400.jpg" group-title="REPUBLICA DOMINICANA", 866 | Digital Visión 63 || REPUBLICA DOMINICANA
 https://ss3.domint.net:3120/dv6_str/digitalvision/chunklist_w1482544367.m3u8
 #EXTINF:-1 tvg-id="DO | CDN Deportes" tvg-name="DO | CDN Deportes" tvg-logo="https://cdndeportes.com.do/wp-content/uploads/2022/02/Logo_CDNDeportes.svg" group-title="REPUBLICA DOMINICANA", 867 | CDN Deportes || REPUBLICA DOMINICANA
-http://cacatuaiptv.com/cdnsportsmax.m3u8
+http://181.189.243.254:8000/play/a0qq/index.m3u8
 #EXTINF:-1 tvg-id="DO | Tele Radio Norte" tvg-name="DO | Tele Radio Norte" tvg-logo="https://lh3.googleusercontent.com/p/AF1QipOwY1A-sA1J8U8Mkjs5sgVh28tkI2ibPDp0aLPO=w1080-h608-p-no-v0" group-title="REPUBLICA DOMINICANA", 868 | Tele Radio Norte || REPUBLICA DOMINICANA
 https://cdn4.hostlagarto.com:8081/static/teleradionortetv/playlist.m3u8
 #EXTINF:-1 tvg-id="DO | Su Mundo TV" tvg-name="DO | Su Mundo TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/su-mundo-tv.jpg" group-title="REPUBLICA DOMINICANA", 869 | Su Mundo TV || REPUBLICA DOMINICANA
@@ -2297,41 +2299,43 @@ https://s2.mexside.net/8020/stream
 https://audio-edge-es6pf.mia.g.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f
 #EXTINF:-1 tvg-id="DO | Amor FM" tvg-name="D0 | Amor FM" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-do/amor.png" group-title="EMISORAS INTERNACIONALES", 1131 | Amor 91.9 FM || REPUBLICA DOMINICANA
 http://radio.domiplay.net:9190/stream/1/
-#EXTINF:-1 tvg-id="ES | NSE (Nuestra Señora del Encuentro con Dios) Radio" tvg-name="ES | NSE (Nuestra Señora del Encuentro con Dios) Radio" tvg-logo="https://public-rf-upload.minhawebradio.net/166842/cover/73f0ce5e8eab2e197fc683cb50d7b20b.jpg" group-title="EMISORAS INTERNACIONALES", 1132 | NSE Radio || ESPAÑA
+#EXTINF:-1 tvg-id="DO | La Voz de María Radio" tvg-name="D0 | La Voz de María Radio" tvg-logo="http://lavozdemariaradio.com/wp-content/uploads/2022/10/cropped-logo-lvm-radio-200.png" group-title="EMISORAS INTERNACIONALES", 1132 | La Voz de María Radio || REPUBLICA DOMINICANA
+https://cast3.asurahosting.com/proxy/luis12/stream?mp=/1;&1679264623993
+#EXTINF:-1 tvg-id="ES | NSE (Nuestra Señora del Encuentro con Dios) Radio" tvg-name="ES | NSE (Nuestra Señora del Encuentro con Dios) Radio" tvg-logo="https://public-rf-upload.minhawebradio.net/166842/cover/73f0ce5e8eab2e197fc683cb50d7b20b.jpg" group-title="EMISORAS INTERNACIONALES", 1133 | NSE Radio || ESPAÑA
 https://evcast.mediacp.eu:2060/stream
-#EXTINF:-1 tvg-id="ES | Melodía 60 Radio" tvg-name="ES | Melodía 60 Radio" tvg-logo="https://play-lh.googleusercontent.com/WrMg6XsDM5oL4FHNVmnYPCX_QOKgPci93vVTQN0f1q1oeFrgpUu0EjyB3pj0GIu_A7U" group-title="EMISORAS INTERNACIONALES", 1133 | Melodía 60 Radio || ESPAÑA
+#EXTINF:-1 tvg-id="ES | Melodía 60 Radio" tvg-name="ES | Melodía 60 Radio" tvg-logo="https://play-lh.googleusercontent.com/WrMg6XsDM5oL4FHNVmnYPCX_QOKgPci93vVTQN0f1q1oeFrgpUu0EjyB3pj0GIu_A7U" group-title="EMISORAS INTERNACIONALES", 1134 | Melodía 60 Radio || ESPAÑA
 https://server1.streamingradio.online/proxy/radio1/stream
-#EXTINF:-1 tvg-id="CL | Infinita 100.1 FM" tvg-name="CL | Infinita 100.1 FM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Infinita2016.png/revision/latest?cb=20210415153756&path-prefix=es" group-title="EMISORAS DE RADIO CON VIDEO", 1134 | Infinita 100.1 FM || CHILE
+#EXTINF:-1 tvg-id="CL | Infinita 100.1 FM" tvg-name="CL | Infinita 100.1 FM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Infinita2016.png/revision/latest?cb=20210415153756&path-prefix=es" group-title="EMISORAS DE RADIO CON VIDEO", 1135 | Infinita 100.1 FM || CHILE
 https://marine2.miplay.cl/infinitatv/playlist.m3u8
-#EXTINF:-1 tvg-id="CA | Stingray Music Classic Rock" tvg-name="CA | Stingray Music Classic Rock" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", 1135 | Stingray Music Classic Rock
+#EXTINF:-1 tvg-id="CA | Stingray Music Classic Rock" tvg-name="CA | Stingray Music Classic Rock" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", 1136 | Stingray Music Classic Rock
 https://stirr.ott-channels.stingray.com/101/master.m3u8
-#EXTINF:-1 tvg-id="CA | Stingray Music Greatest Hits" tvg-name="CA | Stingray Music Greatest Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", 1135.2 | Stingray Music Greatest Hits
+#EXTINF:-1 tvg-id="CA | Stingray Music Greatest Hits" tvg-name="CA | Stingray Music Greatest Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", 1136.2 | Stingray Music Greatest Hits
 https://stirr.ott-channels.stingray.com/155/master.m3u8
-#EXTINF:-1 tvg-id="CA | Stingray Music Hit List" tvg-name="CA | Stingray Music Hit List" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", 1135.3 | Stingray Music Hit List
+#EXTINF:-1 tvg-id="CA | Stingray Music Hit List" tvg-name="CA | Stingray Music Hit List" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", 1136.3 | Stingray Music Hit List
 https://stirr.ott-channels.stingray.com/107/master.m3u8
-#EXTINF:-1 tvg-id="CA | Stingray Music Hot Country" tvg-name="CA | Stingray Music Hot Country" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", 1135.4 | Stingray Music Hot Country
+#EXTINF:-1 tvg-id="CA | Stingray Music Hot Country" tvg-name="CA | Stingray Music Hot Country" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", 1136.4 | Stingray Music Hot Country
 https://stirr.ott-channels.stingray.com/108/master.m3u8
-#EXTINF:-1 tvg-id="CA | Stingray Music Éxitos del momento" tvg-name="CA | Stingray Music Éxitos del momento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", 1135.5 | Stingray Music Éxitos del momento
+#EXTINF:-1 tvg-id="CA | Stingray Music Éxitos del momento" tvg-name="CA | Stingray Music Éxitos del momento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", 1136.5 | Stingray Music Éxitos del momento
 https://stirr.ott-channels.stingray.com/190/master.m3u8
-#EXTINF:-1 tvg-id="CA | Stingray Music Hip-Hop/R&B" tvg-name="CA | Stingray Music Hip-Hop/R&B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", 1135.6 | Stingray Music Hip-Hop/R&B
+#EXTINF:-1 tvg-id="CA | Stingray Music Hip-Hop/R&B" tvg-name="CA | Stingray Music Hip-Hop/R&B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", 1136.6 | Stingray Music Hip-Hop/R&B
 https://stirr.ott-channels.stingray.com/133/master.m3u8
-#EXTINF:-1 tvg-id="CA | Stingray Music Soul Storm" tvg-name="CA | Stingray Music Soul Storm" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", 1135.7 | Stingray Music Soul Storm
+#EXTINF:-1 tvg-id="CA | Stingray Music Soul Storm" tvg-name="CA | Stingray Music Soul Storm" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", 1136.7 | Stingray Music Soul Storm
 https://stirr.ott-channels.stingray.com/134/master.m3u8
-#EXTINF:-1 tvg-id="CA | Stingray Music Flashback 70's" tvg-name="CA | Stingray Music Flashback 70's" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", 1135.8 | Stingray Music Flashback 70's
+#EXTINF:-1 tvg-id="CA | Stingray Music Flashback 70's" tvg-name="CA | Stingray Music Flashback 70's" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", 1136.8 | Stingray Music Flashback 70's
 https://ott-linear-channels.stingray.com/hls/stirr/115.m3u8
-#EXTINF:-1 tvg-id="CA | Stingray Music Remember The 80's" tvg-name="CA | Stingray Music Remember The 80's" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", 1135.9 | Stingray Music Remember The 80's
+#EXTINF:-1 tvg-id="CA | Stingray Music Remember The 80's" tvg-name="CA | Stingray Music Remember The 80's" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", 1136.9 | Stingray Music Remember The 80's
 https://stirr.ott-channels.stingray.com/128/master.m3u8
-#EXTINF:-1 tvg-id="CA | Stingray Music Pop Adult" tvg-name="CA | Stingray Music Pop Adult" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", 1135.10 | Stingray Music Pop Adult
+#EXTINF:-1 tvg-id="CA | Stingray Music Pop Adult" tvg-name="CA | Stingray Music Pop Adult" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", 1136.10 | Stingray Music Pop Adult
 https://ott-linear-channels.stingray.com/hls/stirr/104.m3u8
-#EXTINF:-1 tvg-id="CA | Stingray Music Rock Alternative" tvg-name="CA | Stingray Music Rock Alternative" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", 1135.11 | Stingray Music Rock Alternative
+#EXTINF:-1 tvg-id="CA | Stingray Music Rock Alternative" tvg-name="CA | Stingray Music Rock Alternative" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", 1136.11 | Stingray Music Rock Alternative
 https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8
-#EXTINF:-1 tvg-id="CA | Stingray Music Today's Latin Pop" tvg-name="CA | Stingray Music Today's Latin Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", 1135.12 | Stingray Music Today's Latin Pop
+#EXTINF:-1 tvg-id="CA | Stingray Music Today's Latin Pop" tvg-name="CA | Stingray Music Today's Latin Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", 1136.12 | Stingray Music Today's Latin Pop
 https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
-#EXTINF:-1 tvg-id="CA | Stingray Music Urban Beats" tvg-name="CA | Stingray Music Urban Beats" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", 1135.13 | Stingray Music Urban Beats
+#EXTINF:-1 tvg-id="CA | Stingray Music Urban Beats" tvg-name="CA | Stingray Music Urban Beats" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", 1136.13 | Stingray Music Urban Beats
 https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
-#EXTINF:-1 tvg-id="CA | Stingray Music Djazz" tvg-name="CA | Stingray Music Djazz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE VIDEO", 1135.14 | Stingray Music Djazz
+#EXTINF:-1 tvg-id="CA | Stingray Music Djazz" tvg-name="CA | Stingray Music Djazz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE VIDEO", 1136.14 | Stingray Music Djazz
 https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
-#EXTINF:-1 tvg-id="CA | Stingray Music Classica" tvg-name="CA | Stingray Music Classica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE VIDEO", 1135.15 | Stingray Music Classica
+#EXTINF:-1 tvg-id="CA | Stingray Music Classica" tvg-name="CA | Stingray Music Classica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE VIDEO", 1136.15 | Stingray Music Classica
 https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
-#EXTINF:-1 tvg-id="PE | Música electro" tvg-name="PE | Música electro" tvg-logo="http://1.bp.blogspot.com/-qeaYW6pE6xk/T1bNl2j_-_I/AAAAAAAAAso/6HdB40IhS4c/s1600/electro_music.jpg" group-title="CANALES DE AUDIO", 1136 | Música electro
+#EXTINF:-1 tvg-id="PE | Música electro" tvg-name="PE | Música electro" tvg-logo="http://1.bp.blogspot.com/-qeaYW6pE6xk/T1bNl2j_-_I/AAAAAAAAAso/6HdB40IhS4c/s1600/electro_music.jpg" group-title="CANALES DE AUDIO", 1137 | Música electro
 https://cloudvideo.servers10.com:8081/8124/index.m3u8
