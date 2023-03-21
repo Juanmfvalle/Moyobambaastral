@@ -674,7 +674,7 @@ https://v-la.mybtv.net/live/1102.m3u8
 #EXTINF:-1 tvg-id="PE | JN19" tvg-name="PE | JN19" tvg-logo="http://www.jn19television.com/templates/televid_23/images/object979167786.png" group-title="RELIGIOSOS", 331 | JN19 Televisión
 https://servilive.com:3149/live/jn19tvlive.m3u8
 #EXTINF:-1 tvg-id="CR | Telefides" tvg-name="CR | Telefides" tvg-logo="https://costaricatelevision.com/sites/default/files/styles/tv_list/public/2020-07/telefides-costa-rica.png.webp?itok=XzDap4zR" group-title="RELIGIOSOS", 332 | Telefides
-https://s2.cwebtv.net:4433/telefides/telefides/chunklist.m3u8
+https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8
 #EXTINF:-1 tvg-id="DO | La Voz de María" tvg-name="DO | La Voz de María" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTRyXwicJcx52VUr5lYKMVMnrvlwvhS4HFMFr-W=s900-c-k-c0x00ffffff-no-rj" group-title="RELIGIOSOS", 333 | La Voz de María TV
 http://181.78.105.146:8000/play/a06q
 #EXTINF:-1 tvg-id="DO | Tele Vida" tvg-name="DO | Tele Vida" tvg-logo="https://televida.org.do/wp-content/uploads/2018/02/LOGOS_TELEVIDA_Movil-01.png" group-title="RELIGIOSOS", En prueba | Tele Vida
@@ -688,9 +688,9 @@ https://cdn.streamhispanatv.net:3189/live/jesustvlive.m3u8
 #EXTINF:-1 tvg-id="CL | Red de Fe TV" tvg-name="CL | Red de Fe TV" tvg-logo="https://pbs.twimg.com/media/FfMcn_kWAAEAW3L?format=png&name=small" group-title="RELIGIOSOS", 337 | Red de Fe TV
 http://45.160.12.253:8000/play/043
 #EXTINF:-1 tvg-id="SV | Televisión Católica Arquidiocesana" tvg-name="SV | Televisión Católica Arquidiocesana" tvg-logo="https://e37379c613.cbaul-cdnwnd.com/8191f8fb2663827d6832f15f6cac7288/200000008-c59cec6961/450/Logo%20TVCa%202017.png?ph=e37379c613" group-title="RELIGIOSOS", 338 | Televisión Católica Arquidiocesana
-https://tv.infosal.com:5443/LiveApp/streams/908264309507938591071465.m3u8
-#EXTINF:-1 tvg-id="AR | Canal Luz" tvg-name="AR | Canal Luz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Canal_Luz_actual.png/125px-Canal_Luz_actual.png" group-title="RELIGIOSOS", 339 | Canal Luz
-https://g5.vxral-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_1080p.m3u8
+https://tv.infosal.com:5443/LiveApp/streams/Kwx2mYhliJWX1678203593438.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+#EXTINF:-1 tvg-id="DO | El Viviente TV" tvg-name="DO | El Viviente TV" tvg-logo="https://image.roku.com/developer_channels/prod/f74787def518f73a0059e57f99e108d137bdaa0483fefacfca1b700b22a8833b.png" group-title="RELIGIOSOS", 339 | El Viviente TV
+https://elvivientetv.streamgato.us:3302/live/elvivientetvlive.m3u8
 #EXTINF:-1 tvg-id="AR | Solidaria TV" tvg-name="AR | Solidaria TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRvGzClf1TW0zlf861XH256v1NGLQ0FdkvMJ8Sc7g=s88-c-k-c0x00ffffff-no-rj" group-title="RELIGIOSOS", 340 | Solidaria Televisión
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 #EXTINF:-1 tvg-id="CL | VC Online HD" tvg-name="CL | VC Online HD" tvg-logo="https://i.imgur.com/L1AkNUo.jpg" group-title="RELIGIOSOS", 341 | VC Online HD
@@ -1837,6 +1837,26 @@ https://streaming.ath.cx:1936/lunatv/lunatv/playlist.m3u8
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1 tvg-id="DO | Telemilenio" tvg-name="DO | Telemilenio" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1647-640x360-FFFFFF.jpg" group-title="REPUBLICA DOMINICANA", En prueba | Telemilenio || REPUBLICA DOMINICANA
 https://cm.hostlagarto.com:4445/Telemilenio/Telemilenio.myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="DO | Vegavision Canal 18" tvg-name="DO | Vegavision Canal 18" tvg-logo="https://canalesdominicanos.live/template/images/radios/vegavision-canal-18.jpg" group-title="REPUBLICA DOMINICANA", En prueba | Vegavision Canal 18 || REPUBLICA DOMINICANA
+https://cdn4.hostlagarto.com:8081/static/canal18hd/playlist.m3u8
+#EXTINF:-1 tvg-id="DO | Bajo Techo TV" tvg-name="DO | Bajo Techo TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUsTZhKSXMm95tdLQTmspPc-r6sPuH6Rn72sixXAw=s900-c-k-c0x00ffffff-no-rj" group-title="REPUBLICA DOMINICANA", En prueba | Bajo Techo TV || REPUBLICA DOMINICANA
+https://cdn4.hostlagarto.com:8081/static/bajotechotv/playlist.m3u8
+#EXTINF:-1 tvg-id="DO | Delta TV" tvg-name="DO | Delta TV" tvg-logo="https://www.deltatv50.com/wp-content/uploads/2022/11/cropped-DELTA-TV-1536x1437.png" group-title="REPUBLICA DOMINICANA", En prueba | Delta TV || REPUBLICA DOMINICANA
+https://cm.hostlagarto.com:4445/deltatv/deltatv50.myStream/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="DO | Ready TV" tvg-name="DO | Ready TV" tvg-logo="https://readytelevision.com/wp-content/uploads/2020/09/Readytelevision-small.png" group-title="REPUBLICA DOMINICANA", En prueba | Ready TV || REPUBLICA DOMINICANA
+https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="DO | Ecovisión" tvg-name="DO | Ecovisión" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/af/14/cb/af14cb9a-a6ac-2da9-8a73-2b17a450b0eb/AppIcon-1x_U007emarketing-0-7-85-220.jpeg/1200x630wa.png" group-title="REPUBLICA DOMINICANA", En prueba | Ecovisión || REPUBLICA DOMINICANA
+https://vdo1.streamgato.us:3014/live/ecovisionlive.m3u8
+#EXTINF:-1 tvg-id="DO | Maimon TV" tvg-name="DO | Maimon TV" tvg-logo="https://maimontv.com/images/maimon_logo_clear_lg.png" group-title="REPUBLICA DOMINICANA", En prueba | Maimon TV || REPUBLICA DOMINICANA
+https://ss3.domint.net:3138/mtv_str/maimon/playlist.m3u8
+#EXTINF:-1 tvg-id="DO | TV Higüey" tvg-name="DO | TV Higüey" tvg-logo="https://tvhigueydigital.com/wp-content/uploads/2021/08/preloader.png" group-title="REPUBLICA DOMINICANA", En prueba | TV Higüey || REPUBLICA DOMINICANA
+https://vdo1.streamgato.us:3046/live/tvhigueycanal12live.m3u8
+#EXTINF:-1 tvg-id="DO | Enntivision TV" tvg-name="DO | Enntivision TV" tvg-logo="https://yt3.googleusercontent.com/32f_5fUtqYWtAmgR-WYVRfUs_M1SHTxE33Rzypa01Y4dggQ2Is4l3PJSQ_i2N3r9BvUEidejZg=s900-c-k-c0x00ffffff-no-rj" group-title="REPUBLICA DOMINICANA", En prueba | Enntivision TV || REPUBLICA DOMINICANA
+https://cdn4.hostlagarto.com:8081/static/enntivisiontv/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="DO | Bonches TV" tvg-name="DO | Bonches TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRql_yYrihFb2ifxgAKGPJEpT-ioQi3-Sx0zzIs4kFi_kq8hijrtauTQDe4cJA0OHunfJI&usqp=CAU" group-title="REPUBLICA DOMINICANA", En prueba | Bonches TV || REPUBLICA DOMINICANA
+https://ss5.domint.net:3172/btv_str/bonchestv/playlist.m3u8
+#EXTINF:-1 tvg-id="DO | Constanza TV" tvg-name="DO | Constanza TV" tvg-logo="https://www.constanzatv.com/images/contanzatv_web.png" group-title="REPUBLICA DOMINICANA", En prueba | Constanza TV || REPUBLICA DOMINICANA
+https://ss9.domint.net:3026/ctv8_str/contanzatv/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | Azteca Uno" tvg-name="MX | Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Azteca_Uno_logo.webp/245px-Azteca_Uno_logo.webp.png" group-title="MEXICO", 895 | Azteca Uno || MÉXICO
 https://v-sd.mybtv.net/live/760.m3u8
 #EXTINF:-1 tvg-id="MX | Canal 5" tvg-name="MX | Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/120px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO", 896 | Canal 5 || MÉXICO
@@ -1877,8 +1897,8 @@ https://vsrv2.az-streamingserver.com:3201/live/streamunotvlive.m3u8
 https://cm.hostlagarto.com/TRIBUNA-TV/tribuna.myStream/chunks.m3u8
 #EXTINF:-1 tvg-id="USA | Nat Geo Mundo" tvg-name="USA | Nat Geo Mundo" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Nat_Geo_Mundo.svg/revision/latest/scale-to-width-down/300?cb=20140626190709" group-title="ESTADOS UNIDOS DE AMÉRICA", 914 | Nat Geo Mundo || ESTADOS UNIDOS DE AMÉRICA
 http://168.228.194.32:58001/play/z70/index.m3u8
-#EXTINF:-1 tvg-id="USA | Sol Televisión" tvg-name="USA | Sol Televisión" tvg-logo="https://image.roku.com/developer_channels/prod/e2b47319671e03eb8f0b479b2b8395470cedd4b03d6549d958ffc7f6eb8faeb5.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 915 | Sol Televisión || ESTADOS UNIDOS DE AMÉRICA
-https://soltvusa.com/soltvsp/ngrp:soltelevisionsp_all/playlist.m3u8
+#EXTINF:-1 tvg-id="USA | Mun2 TV" tvg-name="USA | Mun2 TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2122-294x165-FFFFFF.jpg" group-title="ESTADOS UNIDOS DE AMÉRICA", 915 | Mun2 TV || ESTADOS UNIDOS DE AMÉRICA
+https://play.amelbasoluciones.co:3309/live/mun2tvlive.m3u8
 #EXTINF:-1 tvg-id="USA | Estrella TV" tvg-name="USA | Estrella TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 916 | Estrella TV || ESTADOS UNIDOS DE AMÉRICA
 https://v-px.mybtv.net/live/45.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo" tvg-name="USA | Telemundo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 917 | Telemundo || ESTADOS UNIDOS DE AMÉRICA
