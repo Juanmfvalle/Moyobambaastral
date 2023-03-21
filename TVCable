@@ -1716,7 +1716,7 @@ https://cdn.streamhispanatv.net:3586/live/tuismillive.m3u8
 #EXTINF:-1 tvg-id="GT | Canal 25 Regional" tvg-name="GT | Canal 25 Regional" tvg-logo="https://play-lh.googleusercontent.com/7ztHD_HAgYKfpaX4S-b3LKlREhXqyVYvO9oXFVK5e9mMVlkVaKcPTxltaCiD7EybyNk=w240-h480-rw" group-title="GUATEMALA", 836 | Canal 25 Regional || GUATEMALA
 https://srv4.zcast.com.br/canalsantarosa/canalsantarosa/playlist.m3u8
 #EXTINF:-1 tvg-id="DO | Teleantillas" tvg-name="DO | Teleantillas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/TeleAntillas.jpg/125px-TeleAntillas.jpg" group-title="REPUBLICA DOMINICANA", 837 | Teleantillas || REPUBLICA DOMINICANA
-http://181.189.243.254:8000/play/a0p1/index.m3u8
+http://51.81.93.29:8084/hls/tantillas.m3u8
 #EXTINF:-1 tvg-id="DO | Si TV" tvg-name="DO | Si TV" tvg-logo="https://sitv.com.do/wp-content/uploads/2021/10/sitvlogo-1.svg" group-title="REPUBLICA DOMINICANA", 838 | Si TV || REPUBLICA DOMINICANA
 http://190.122.104.221/Player/sitv.m3u8
 #EXTINF:-1 tvg-id="DO | Canal RTVD 4" tvg-name="DO | Canal RTVD 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/RTVD_logo_2022.webp/200px-RTVD_logo_2022.webp.png" group-title="REPUBLICA DOMINICANA", 839 | Canal RTVD 4 || REPUBLICA DOMINICANA
@@ -1857,6 +1857,16 @@ https://cdn4.hostlagarto.com:8081/static/enntivisiontv/playlist.m3u8?DVR
 https://ss5.domint.net:3172/btv_str/bonchestv/playlist.m3u8
 #EXTINF:-1 tvg-id="DO | Constanza TV" tvg-name="DO | Constanza TV" tvg-logo="https://www.constanzatv.com/images/contanzatv_web.png" group-title="REPUBLICA DOMINICANA", En prueba | Constanza TV || REPUBLICA DOMINICANA
 https://ss9.domint.net:3026/ctv8_str/contanzatv/playlist.m3u8
+#EXTINF:-1 tvg-id="DO | Roca Visión" tvg-name="DO | Roca Visión" tvg-logo="https://play-lh.googleusercontent.com/dsvf-PoHk6sbLCEGxTQ8eF97c1z246rUIAgIYFhFORX2NBmyBDI1Yh0yxYo_oBY-oN2X=w240-h480-rw" group-title="REPUBLICA DOMINICANA", En prueba | Roca Visión || REPUBLICA DOMINICANA
+https://cm.hostlagarto.com/rocavisiondominicana/Dominicanahd.myStream/chunks.m3u8
+#EXTINF:-1 tvg-id="DO | Nítida TV" tvg-name="DO | Nítida TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/nitida-tv.jpg" group-title="REPUBLICA DOMINICANA", En prueba | Nítida TV || REPUBLICA DOMINICANA
+https://live.teledomdr.com:3131/live/nitidatvlive.m3u8
+#EXTINF:-1 tvg-id="DO | Tu Kosita TV" tvg-name="DO | Tu Kosita TV" tvg-logo="https://tukosita.com/wp-content/uploads/2023/01/cover.png" group-title="REPUBLICA DOMINICANA", En prueba | Tu Kosita TV || REPUBLICA DOMINICANA
+https://ss5.domint.net:3004/tktv_str/tukositatv/playlist.m3u8
+#EXTINF:-1 tvg-id="DO | Canal DTV" tvg-name="DO | Canal DTV" tvg-logo="https://4.bp.blogspot.com/-nhpRS1doQRI/XbhaHAcFiuI/AAAAAAAADpE/Iy1prbxqYJ0EMdGGIbnWZZmR2BhjSNxWACK4BGAYYCw/s1600/CANAL%2BDTV%2BLOGO%2BNUEVO.png" group-title="REPUBLICA DOMINICANA", En prueba | Canal DTV || REPUBLICA DOMINICANA
+https://emisoras.hn:8081/dtv/index.m3u8
+#EXTINF:-1 tvg-id="DO | TV Quisqueya" tvg-name="DO | TV Quisqueya" tvg-logo="http://www.tvquisqueya.com/wp-content/uploads/2021/05/LOGO-248X100.png" group-title="REPUBLICA DOMINICANA", En prueba | TV Quisqueya || REPUBLICA DOMINICANA
+https://rctvhd.net:8081/tvquisqueyahd/index.m3u8
 #EXTINF:-1 tvg-id="MX | Azteca Uno" tvg-name="MX | Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Azteca_Uno_logo.webp/245px-Azteca_Uno_logo.webp.png" group-title="MEXICO", 895 | Azteca Uno || MÉXICO
 https://v-sd.mybtv.net/live/760.m3u8
 #EXTINF:-1 tvg-id="MX | Canal 5" tvg-name="MX | Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/120px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO", 896 | Canal 5 || MÉXICO
