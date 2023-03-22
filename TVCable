@@ -1867,6 +1867,8 @@ https://ss5.domint.net:3004/tktv_str/tukositatv/playlist.m3u8
 https://emisoras.hn:8081/dtv/index.m3u8
 #EXTINF:-1 tvg-id="DO | TV Quisqueya" tvg-name="DO | TV Quisqueya" tvg-logo="http://www.tvquisqueya.com/wp-content/uploads/2021/05/LOGO-248X100.png" group-title="REPUBLICA DOMINICANA", En prueba | TV Quisqueya || REPUBLICA DOMINICANA
 https://rctvhd.net:8081/tvquisqueyahd/index.m3u8
+#EXTINF:-1 tvg-id="DO | Latina TV Internacional" tvg-name="DO | Latina TV Internacional" tvg-logo="https://latinatvinternacional.com/images/latina_tv_int_web.png" group-title="REPUBLICA DOMINICANA", En prueba | Latina TV Internacional || REPUBLICA DOMINICANA
+https://ss2.domint.net:3210/ltv_str/latinatv/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | Azteca Uno" tvg-name="MX | Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Azteca_Uno_logo.webp/245px-Azteca_Uno_logo.webp.png" group-title="MEXICO", 895 | Azteca Uno || MÉXICO
 https://v-sd.mybtv.net/live/760.m3u8
 #EXTINF:-1 tvg-id="MX | Canal 5" tvg-name="MX | Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/120px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO", 896 | Canal 5 || MÉXICO
