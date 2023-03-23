@@ -1394,8 +1394,8 @@ http://45.228.232.204:16000/play/a051/index.m3u8
 http://181.189.243.254:8000/play/a0qw/index.m3u8
 #EXTINF:-1 tvg-id="PA | Asamblea Nacional TV" tvg-name="PA | Asamblea Nacional TV" tvg-logo="https://pbs.twimg.com/media/Flcb7irXkAAkf_p?format=png&name=900x900" group-title="PANAMÁ", 675 | Asamblea Nacional TV || PANAMÁ
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/28aad57d1f7e4f13be8d0c8390f679b2/chunklist_b2028000.m3u8
-#EXTINF:-1 tvg-id="PA | Bocas TV" tvg-name="PA | Bocas TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY-rZTZ1giQXdPgONIYlCLSTiQveiuwrRInO6oErSOIgXp__tM-sM-TiNQeTsI_2ZijEg&usqp=CAU" group-title="PANAMÁ", 675 | Bocas TV || PANAMÁ
-https://stream.oursnetworktv.com/latin/btvpanama/playlist.m3u8
+#EXTINF:-1 tvg-id="PA | Bocas TV" tvg-name="PA | Bocas TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY-rZTZ1giQXdPgONIYlCLSTiQveiuwrRInO6oErSOIgXp__tM-sM-TiNQeTsI_2ZijEg&usqp=CAU" group-title="PANAMÁ", En prueba | Bocas TV || PANAMÁ
+http://185.246.86.135:25461/live/app10/app100/20.m3u8
 #EXTINF:-1 tvg-id="CR | Canal 2 Central de Radios" tvg-name="CR | Canal 2 Central de Radios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Repretel_2_CDR.png/120px-Repretel_2_CDR.png" group-title="COSTA RICA", 676 | Canal 2 CDR || COSTA RICA
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal2.m3u8
 #EXTINF:-1 tvg-id="CR | Canal 4" tvg-name="CR | Canal 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/150px-Repretel_4_logo.png" group-title="COSTA RICA", 677 | Canal 4 || COSTA RICA
@@ -1555,7 +1555,7 @@ http://amixtv.com:8080/mntvh/index.m3u8
 #EXTINF:-1 tvg-id="HN | Roatan Hable Claro TV" tvg-name="HN | Roatan Hable Claro TV" tvg-logo="https://roatanhableclaro.com/wp-content/uploads/2021/07/logo-599x98v1.png" group-title="HONDURAS", 754 | Roatan Hable Claro TV || HONDURAS
 https://srv4.zcast.com.br/roatanhableclaro/roatanhableclaro/playlist.m3u8
 #EXTINF:-1 tvg-id="HN | Aza TV" tvg-name="HN | Aza TV" tvg-logo="https://1.bp.blogspot.com/-_OP090SKY-w/XRz39swn9QI/AAAAAAAAH7Q/77kq1tCsZ-UciGyDZlDzwH5PuVvGh_45gCLcBGAs/s1600/Canal%2BAZA%2BTV.png" group-title="HONDURAS", 755 | Aza TV || HONDURAS
-https://vdopanel.us:3756/live/azatvhdlive.m3u8
+https://stmv1.zcasthn.com.br/azatvhd/azatvhd/playlist.m3u8
 #EXTINF:-1 tvg-id="HN | Q'Hubo TV" tvg-name="HN | Q'Hubo TV" tvg-logo="https://qhubotv.com/content/images/2022/08/Logo-Q-HUBO-1.png" group-title="HONDURAS", 756 | Q'Hubo TV || HONDURAS
 http://45.190.13.50:8002/play/a00k/index.m3u8
 #EXTINF:-1 tvg-id="HN | Metro TV" tvg-name="HN | Metro TV" tvg-logo="https://1.bp.blogspot.com/-6gQWDOzqUHU/XQo-_-umYGI/AAAAAAAAH00/gM_d6FInXxAQhKeRggaiKR_i-putnpGXACLcBGAs/s1600/Canal%2BLa%2BMetro%2BTV%2Bhonduras.png" group-title="HONDURAS", 757 | Metro TV || HONDURAS
@@ -1600,6 +1600,8 @@ https://media.streambrothers.com:1936/8054/8054/playlist.m3u8
 https://s2.tvdatta.com:3840/live/paradisetvlive.m3u8
 #EXTINF:-1 tvg-id="HN | Guayape TV" tvg-name="HN | Guayape TV" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-j0bhkrSmX05mfXeFbxraPoEBG91pLATbw0r8N8g=s88-c-k-c0x00ffffff-no-rj" group-title="HONDURAS", 777 | Guayape TV || HONDURAS
 https://srv1.zcast.com.br/guayapetv/guayapetv/playlist.m3u8
+#EXTINF:-1 tvg-id="HN | Teleceiba" tvg-name="HN | Teleceiba" tvg-logo="http://teleceiba.com/wp-content/uploads/2016/02/logo-teleceiba2016-hme.png" group-title="HONDURAS", En prueba | Teleceiba || HONDURAS
+http://185.246.86.135:25461/live/app10/app100/24.m3u8
 #EXTINF:-1 tvg-id="HN | Une TV" tvg-name="HN | Une TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVTLb4P-M3bk02XzZw6njPNKtrF5GEeE5CWGfu1=s900-c-k-c0x00ffffff-no-rj" group-title="HONDURAS", 778 | Une TV || HONDURAS
 http://45.190.13.50:8002/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="HN | W TV" tvg-name="HN | W TV" tvg-logo="https://pbs.twimg.com/media/FrdICLxWIAEB25O?format=png&name=small" group-title="HONDURAS", 779 | W TV || HONDURAS
