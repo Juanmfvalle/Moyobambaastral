@@ -1385,7 +1385,7 @@ http://45.228.232.204:16000/play/a06t/index.m3u8
 #EXTINF:-1 tvg-id="PA | TVMax" tvg-name="PA | TVMax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png" group-title="PANAMÁ", 670 | TVMax || PANAMÁ
 http://45.5.117.182:8000/play/a0ip/index.m3u8
 #EXTINF:-1 tvg-id="PA | SERTV" tvg-name="PA | SERTV" tvg-logo="https://sertv.gob.pa/wp-content/uploads/2018/10/log_sertv-80-retina.png" group-title="PANAMÁ", 671 | SERTV || PANAMÁ
-http://45.228.232.204:16000/play/a06p/index.m3u8
+http://185.246.86.135:25461/live/app10/app100/14.m3u8
 #EXTINF:-1 tvg-id="PA | Telemetro" tvg-name="PA | Telemetro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/150px-Logo-telemetro.svg.png" group-title="PANAMÁ", 672 | Telemetro || PANAMÁ
 http://45.228.232.204:16000/play/a027/index.m3u8
 #EXTINF:-1 tvg-id="PA | Mas 23" tvg-name="PA | Mas 23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/M%C3%A1s_23.png/132px-M%C3%A1s_23.png" group-title="PANAMÁ", 673 | Mas 23 || PANAMÁ
@@ -1394,6 +1394,8 @@ http://45.228.232.204:16000/play/a051/index.m3u8
 http://181.189.243.254:8000/play/a0qw/index.m3u8
 #EXTINF:-1 tvg-id="PA | Asamblea Nacional TV" tvg-name="PA | Asamblea Nacional TV" tvg-logo="https://pbs.twimg.com/media/Flcb7irXkAAkf_p?format=png&name=900x900" group-title="PANAMÁ", 675 | Asamblea Nacional TV || PANAMÁ
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/28aad57d1f7e4f13be8d0c8390f679b2/chunklist_b2028000.m3u8
+#EXTINF:-1 tvg-id="PA | Bocas TV" tvg-name="PA | Bocas TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY-rZTZ1giQXdPgONIYlCLSTiQveiuwrRInO6oErSOIgXp__tM-sM-TiNQeTsI_2ZijEg&usqp=CAU" group-title="PANAMÁ", En prueba | Bocas TV || PANAMÁ
+http://185.246.86.135:25461/live/app10/app100/20.m3u8
 #EXTINF:-1 tvg-id="CR | Canal 2 Central de Radios" tvg-name="CR | Canal 2 Central de Radios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Repretel_2_CDR.png/120px-Repretel_2_CDR.png" group-title="COSTA RICA", 676 | Canal 2 CDR || COSTA RICA
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal2.m3u8
 #EXTINF:-1 tvg-id="CR | Canal 4" tvg-name="CR | Canal 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/150px-Repretel_4_logo.png" group-title="COSTA RICA", 677 | Canal 4 || COSTA RICA
@@ -1481,7 +1483,7 @@ http://45.5.118.213:16000/play/a0mm/index.m3u8
 #EXTINF:-1 tvg-id="SV | TV Seis" tvg-name="SV | TV Seis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Canal_6_TCS.png/200px-Canal_6_TCS.png" group-title="EL SALVADOR", 718 | TV Seis || EL SALVADOR
 https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/live-video=2000000-audio_0=64000.m3u8
 #EXTINF:-1 tvg-id="SV | Agape TV Canal 8" tvg-name="SV | Agape TV Canal 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Agape_8_2001.png/200px-Agape_8_2001.png" group-title="EL SALVADOR", 719 | Agape TV Canal 8 || EL SALVADOR
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CpkFXr10kJjhJygUOeOZOqg6XiEjl1JNXrMC0zYrFgQl55EG9kA3qcEAhBJUV0uSu9iuwrKvG7cfGKmD8oP6YA6VmgPwfjpWMxJ8WhpTPe_9n5hjasw7MrvgQFmwA0bpBiACHgSaxgZJJ8XIfo3znoOdGmHNfi4ReNIBiTldbdyfGtYj1B1r9uMhRzKjTGJNTITGUFUDdLNFdyIGmpAoDpEmKU9C4zKSCIAQqAZij0Asv4AQLrWqfs0856zlcla9Snbnph9-9S9-GVBkk6e4ynYRriXJsU51IiOmNaENJ1QHqsOdGFjfUnJSoz1rqW8bbXkQG5SOLNulZO8_qrz5he0RV9ZTgVaNLGNRtAB1x3_lW6T5qlFDqzDngzWW7zseWZ7yE_GARyMttXN5tsOAsSnUzaRt4ZMo1mDSsIDRNaBPVIwMkKVBf8cmEuFNJAYQtieDXHB7v1stXcYWbb8VBbzGF2tOUNiwhF0BL3h0j8k36d_pbnqE4sZ7qUKUSo0zxEtbVy0wwLAVdwLecfuZMzlRgyd0UjLTGk5Ye9QghwN8FqsjWUuGzZIgeEvMo8N4X0tVJcg5SifptEFZaoO6Gvxdw4HaVIDoNf9d2i70C64bUqZLa-ANbFasPLk8J3gOqq5KGZJfT2HhQrRPSjXOgE0LFfQ3RsoOAuHT2VGllGxFozb0Z0yKJ4Mf2jrwI5Cznml3pwPnpehfIJifzrR8HM6hNOwSX7ZR5TIfGYzYO1h5oWLOnSedIEkV3vJvH8mV2hOKhnG5Uthjg_23c5R54shgUdgVEKYazmfKh18b5uXreP9AN7_DhxPd7QWHFiVIp6jJIGeeGZQWxW0GuLU1t-JlxTKJ_sRxuI8j_Wx_6mlSmI3w0J-84Zhk-1gaDJe-4uPqzdfpWu7acCABKgl1cy1lYXN0LTEwyQQ.m3u8
+http://185.246.86.135:25461/live/app10/app100/1.m3u8
 #EXTINF:-1 tvg-id="SV | Asamblea Legislativa TV" tvg-name="SV | Asamblea Legislativa TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/9TV_El_Salvador_%282018%29.png/revision/latest/scale-to-width-down/300?cb=20191116000236" group-title="EL SALVADOR", 720 | TV Legislativa || EL SALVADOR
 http://abc123.digital:8080/live/Jones112b@msn.com/NmI7NaNqW8/495512.m3u8
 #EXTINF:-1 tvg-id="SV | Canal 10" tvg-name="SV | Canal 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Canal_10_%28El_Salvador%29_2019.svg/200px-Canal_10_%28El_Salvador%29_2019.svg.png" group-title="EL SALVADOR", 721 | Canal 10 || EL SALVADOR
@@ -1550,10 +1552,10 @@ http://45.190.13.50:8002/play/a010/index.m3u8
 http://audiotvserver.net:1935/livemedia/cholusat/chunklist_w374441771.m3u8
 #EXTINF:-1 tvg-id="HN | Mas Noticias Televisión" tvg-name="HN | Mas Noticias Televisión" tvg-logo="https://cdn.mntv.hn/2022/02/mntv-logo.webp" group-title="HONDURAS", 753 | Mas Noticias Televisión || HONDURAS
 http://amixtv.com:8080/mntvh/index.m3u8
-#EXTINF:-1 tvg-id="HN | Canal TV 4 San Lorenzo Valle" tvg-name="HN | Canal TV 4 San Lorenzo Valle" tvg-logo="https://pbs.twimg.com/media/FWNacPjWQAAq_xy?format=png&name=240x240" group-title="HONDURAS", 754 | Canal TV 4 San Lorenzo Valle || HONDURAS
-http://amixtv.com:8080/canaltv4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="HN | Roatan Hable Claro TV" tvg-name="HN | Roatan Hable Claro TV" tvg-logo="https://roatanhableclaro.com/wp-content/uploads/2021/07/logo-599x98v1.png" group-title="HONDURAS", 754 | Roatan Hable Claro TV || HONDURAS
+https://srv4.zcast.com.br/roatanhableclaro/roatanhableclaro/playlist.m3u8
 #EXTINF:-1 tvg-id="HN | Aza TV" tvg-name="HN | Aza TV" tvg-logo="https://1.bp.blogspot.com/-_OP090SKY-w/XRz39swn9QI/AAAAAAAAH7Q/77kq1tCsZ-UciGyDZlDzwH5PuVvGh_45gCLcBGAs/s1600/Canal%2BAZA%2BTV.png" group-title="HONDURAS", 755 | Aza TV || HONDURAS
-https://vdopanel.us:3756/live/azatvhdlive.m3u8
+https://stmv1.zcasthn.com.br/azatvhd/azatvhd/playlist.m3u8
 #EXTINF:-1 tvg-id="HN | Q'Hubo TV" tvg-name="HN | Q'Hubo TV" tvg-logo="https://qhubotv.com/content/images/2022/08/Logo-Q-HUBO-1.png" group-title="HONDURAS", 756 | Q'Hubo TV || HONDURAS
 http://45.190.13.50:8002/play/a00k/index.m3u8
 #EXTINF:-1 tvg-id="HN | Metro TV" tvg-name="HN | Metro TV" tvg-logo="https://1.bp.blogspot.com/-6gQWDOzqUHU/XQo-_-umYGI/AAAAAAAAH00/gM_d6FInXxAQhKeRggaiKR_i-putnpGXACLcBGAs/s1600/Canal%2BLa%2BMetro%2BTV%2Bhonduras.png" group-title="HONDURAS", 757 | Metro TV || HONDURAS
@@ -1598,6 +1600,8 @@ https://media.streambrothers.com:1936/8054/8054/playlist.m3u8
 https://s2.tvdatta.com:3840/live/paradisetvlive.m3u8
 #EXTINF:-1 tvg-id="HN | Guayape TV" tvg-name="HN | Guayape TV" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-j0bhkrSmX05mfXeFbxraPoEBG91pLATbw0r8N8g=s88-c-k-c0x00ffffff-no-rj" group-title="HONDURAS", 777 | Guayape TV || HONDURAS
 https://srv1.zcast.com.br/guayapetv/guayapetv/playlist.m3u8
+#EXTINF:-1 tvg-id="HN | Teleceiba" tvg-name="HN | Teleceiba" tvg-logo="http://teleceiba.com/wp-content/uploads/2016/02/logo-teleceiba2016-hme.png" group-title="HONDURAS", En prueba | Teleceiba || HONDURAS
+http://185.246.86.135:25461/live/app10/app100/24.m3u8
 #EXTINF:-1 tvg-id="HN | Une TV" tvg-name="HN | Une TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVTLb4P-M3bk02XzZw6njPNKtrF5GEeE5CWGfu1=s900-c-k-c0x00ffffff-no-rj" group-title="HONDURAS", 778 | Une TV || HONDURAS
 http://45.190.13.50:8002/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="HN | W TV" tvg-name="HN | W TV" tvg-logo="https://pbs.twimg.com/media/FrdICLxWIAEB25O?format=png&name=small" group-title="HONDURAS", 779 | W TV || HONDURAS
@@ -1623,7 +1627,7 @@ http://181.189.243.254:8000/play/a0rq/index.m3u8
 #EXTINF:-1 tvg-id="GT | Canal Antigua" tvg-name="GT | Canal Antigua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Canal_antigua_logo.png/115px-Canal_antigua_logo.png" group-title="GUATEMALA", 789 | Canal Antigua || GUATEMALA
 http://181.189.243.254:8000/play/a0rp/index.m3u8
 #EXTINF:-1 tvg-id="GT | VEA Canal" tvg-name="GT | VEA Canal" tvg-logo="http://veacanal.tv/wp-content/uploads/2017/05/logoveacanal.png" group-title="GUATEMALA", 790 | VEA Canal || GUATEMALA
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CqAFmJGuWqD6VeBlq1SaaE3UhmTAvYSTAI9TVdIkRDnpw_xAEN5UuHGzp4vrKbBjJkB4oiL4QzuBTa86wQ6qbgrjsEmL6aS572IWx9wHaUVWhJmqudgnzFGuPhrFdqTqvbQ_Umws_86ZEDksHPqfgvI58JKLSs_0P4_DYjgdreKbGuKrNgBsFLYc45_5tKua0D9z3tHm1WNWmxeSrGsUaSm8AmGrPMWGutSN9CWbZ4sspdl9ZbSBOLY-p-ExqYV_affYr-3WOC0SZLH4xEiujsC5-NNVlysXYoAATiQVZMjEomsKIWhNMdpsB4vet7-Ts9ggry_yECNMDb9azu6rxZ9tcZSCUlDHUNGm9lnDyMRkYToA_-K5LG3N9tt6RWv-DbmwZ8onRzt64GNHk3gg9-lSYhqpIKfgGXgc_A-bQIvZKpaTskrieuAEHqrYewQ-MqxtGBqaZWdGejNG9v0DSvQzxJJA3kwgdfHvYl6pqQ9xQlUMN9sdPR4S2zJpE0z6K3af-CiWKAc1BvRnYQniV3T1c5VevtxpbqSIXeMs4Uk63anp6tECTL9mDXoQoUY7sjmUbl1BJMo9RQJA4ZHb_q22S0yzSgcnrilXVeCx-_WJcarWWaOg5rY3KYSyoMyJu7L5Dp6SgXFM6tpmWi08L_C4xbiPoMSdztwNcF3bFWnYGWOfAcp9jMz1Dxat5M5TQqi9ogwkKVFyYjm4dOsxQ8_Q5ZSWQfPlo1SLzpUMcIEhDZDbrOibfZXtG45PuAg2fTfgbSQAiU-pk-azHMn8uWrM6Cbc4i1dZRd-C9rkCiz8fmrsG9KNrtDnVGni7co6LbRp7ZlGW3ev59k53ZgOhGOGwdDFXz0OEZKGaq8G7Fhv-pkcUQuxhe-lynERDSKQhs2BGgwL-mKIvkcMSrRKZRQgASoJdXMtZWFzdC0xMMkE.m3u8
+http://185.246.86.135:25461/live/app10/app100/10.m3u8
 #EXTINF:-1 tvg-id="GT | Canal de Gobierno" tvg-name="GT | Canal de Gobierno" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR_Hm3vKJu8-yXqyi7Q66F8ME2CsBddRLq4JnyVcQ=s88-c-k-c0x00ffffff-no-rj" group-title="GUATEMALA", 791 | Canal de Gobierno || GUATEMALA
 http://abc123.digital:8080/live/Jones112b@msn.com/NmI7NaNqW8/495487.m3u8
 #EXTINF:-1 tvg-id="GT | CNI Digital TV" tvg-name="GT | CNI Digital TV" tvg-logo="https://yt3.googleusercontent.com/tZOXEbCcPJaDBYP9fkISsjAInn7mVmbfOUJ9ECd_IzK6RYX3wfzb80JEDnLnmpSnF_eU9qge-Q=s900-c-k-c0x00ffffff-no-rj" group-title="GUATEMALA", 792 | CNI Digital TV || GUATEMALA
