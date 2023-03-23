@@ -1869,6 +1869,42 @@ https://emisoras.hn:8081/dtv/index.m3u8
 https://rctvhd.net:8081/tvquisqueyahd/index.m3u8
 #EXTINF:-1 tvg-id="DO | Latina TV Internacional" tvg-name="DO | Latina TV Internacional" tvg-logo="https://latinatvinternacional.com/images/latina_tv_int_web.png" group-title="REPUBLICA DOMINICANA", En prueba | Latina TV Internacional || REPUBLICA DOMINICANA
 https://ss2.domint.net:3210/ltv_str/latinatv/playlist.m3u8
+#EXTINF:-1 tvg-id="DO | Teleoriental TV" tvg-name="DO | Teleoriental TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2244-800x450-FFFFFF.jpg" group-title="REPUBLICA DOMINICANA", En prueba | Teleoriental TV || REPUBLICA DOMINICANA
+https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8?DVR
+#EXTINF:-1 tvg-id="DO | Señales TV" tvg-name="DO | Señales TV" tvg-logo="https://senalestv.com/wp-content/themes/senalestv/wp/inc/images/logos/logo-senalestv.png" group-title="REPUBLICA DOMINICANA", En prueba | Señales TV || REPUBLICA DOMINICANA
+https://live.teledom.info:4000/live/senalestvlive.m3u8
+#EXTINF:-1 tvg-id="DO | Opción TV" tvg-name="DO | Opción TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/opcion-tv.jpg" group-title="REPUBLICA DOMINICANA", En prueba | Opción TV || REPUBLICA DOMINICANA
+https://5790d294af2dc.streamlock.net/8066/8066/playlist.m3u8
+#EXTINF:-1 tvg-id="DO | TV Exitos" tvg-name="DO | TV Exitos" tvg-logo="https://image.roku.com/developer_channels/prod/071ae958bc1c7efb9e1c771865d5d4e3c1ed4ef170c77b81c8bde250ba37a4aa.png" group-title="REPUBLICA DOMINICANA", En prueba | TV Exitos || REPUBLICA DOMINICANA
+https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
+#EXTINF:-1 tvg-id="DO | TDN Caribbean" tvg-name="DO | TDN Caribbean" tvg-logo="https://pbs.twimg.com/media/Fr3W3voXgAAIVhw?format=png&name=small" group-title="REPUBLICA DOMINICANA", En prueba | TDN Caribbean || REPUBLICA DOMINICANA
+https://castv10.plugstreaming.com:19360/tdncaribbean/tdncaribbean.m3u8
+#EXTINF:-1 tvg-id="DO | TV Visión" tvg-name="DO | TV Visión" tvg-logo="https://pbs.twimg.com/media/Fr3bCYVWAAgBuvz?format=png&name=240x240" group-title="REPUBLICA DOMINICANA", En prueba | TV Visión || REPUBLICA DOMINICANA
+https://cloudflare.streamgato.us:3691/live/tvvisionlive.m3u8
+#EXTINF:-1 tvg-id="DO | Villa Altagracia TV" tvg-name="DO | Villa Altagracia TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/villa-altagracia-tv.jpeg" group-title="REPUBLICA DOMINICANA", En prueba | Villa Altagracia TV || REPUBLICA DOMINICANA
+https://inliveserver.com:1936/10016/10016/playlist.m3u8
+#EXTINF:-1 tvg-id="DO | Crom TV" tvg-name="DO | Crom TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/crom-tv-el-canal-del-siglo.png" group-title="REPUBLICA DOMINICANA", En prueba | Crom TV || REPUBLICA DOMINICANA
+https://cdn4.hostlagarto.com:8081/static/cromtv/playlist.m3u8
+#EXTINF:-1 tvg-id="DO | Policía TV" tvg-name="DO | Policía TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/policia-tv.jpg" group-title="REPUBLICA DOMINICANA", En prueba | Policía TV || REPUBLICA DOMINICANA
+https://cdn2.streamgato.us/policiard/policiard/playlist.m3u8
+#EXTINF:-1 tvg-id="DO | TV Daja" tvg-name="DO | TV Daja" tvg-logo="https://dajatv.streamgato.us/img/load.jpg" group-title="REPUBLICA DOMINICANA", En prueba | TV Daja || REPUBLICA DOMINICANA
+https://cm.hostlagarto.com:4445/Dajatv/Dajatv.myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="DO | Jazmin TV" tvg-name="DO | Jazmin TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/jazmin-tv.png" group-title="REPUBLICA DOMINICANA", En prueba | Jazmin TV || REPUBLICA DOMINICANA
+https://tvdatta.com:3957/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="DO | Telever" tvg-name="DO | Telever" tvg-logo="https://telever.com.do/wp-content/uploads/2021/04/cropped-logotelever.png" group-title="REPUBLICA DOMINICANA", En prueba | Telever || REPUBLICA DOMINICANA
+https://servilive.com:3758/live/televerlive.m3u8
+#EXTINF:-1 tvg-id="DO | Urbancrist TV" tvg-name="DO | Urbancrist TV" tvg-logo="https://dominicanchannels.com/wp-content/uploads/2017/10/WhatsApp-Image-2020-05-28-at-10.35.45-PM-1-300x276.jpeg" group-title="REPUBLICA DOMINICANA", En prueba | Urbancrist TV || REPUBLICA DOMINICANA
+https://5790d294af2dc.streamlock.net/8160/8160/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="DO | ZTV" tvg-name="DO | ZTV" tvg-logo="https://yt3.googleusercontent.com/YfQwDkuuBd6cgwLfKJMb-o_InQJvq00wl-ifoOey3uU57saL6qGAE_t_vvyJtIa64qmb6GoCAr8=s900-c-k-c0x00ffffff-no-rj" group-title="REPUBLICA DOMINICANA", En prueba | ZTV || REPUBLICA DOMINICANA
+https://zdigital.streamprolive.com/hls/live.m3u8
+#EXTINF:-1 tvg-id="DO | Imagen Universal TV" tvg-name="DO | Imagen Universal TV" tvg-logo="https://imagenuniversaltv.com/wp-content/uploads/2022/03/Logo-imagen-Universal-TV-Horizontal-512-x-99.png" group-title="REPUBLICA DOMINICANA", En prueba | Imagen Universal TV || REPUBLICA DOMINICANA
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+#EXTINF:-1 tvg-id="DO | Hilando Fino TV" tvg-name="DO | Hilando Fino TV" tvg-logo="http://www.hilandofinotv.com/wp-content/uploads/2020/07/cropped-Imagen1..png" group-title="REPUBLICA DOMINICANA", En prueba | Hilando Fino TV || REPUBLICA DOMINICANA
+https://pop-ts.iptv-global.net/HilandoFino/index.m3u8
+#EXTINF:-1 tvg-id="DO | Bonao TV" tvg-name="DO | Bonao TV" tvg-logo="https://www.bonaotv.com/images/bonao_logo_pb_500sm.png" group-title="REPUBLICA DOMINICANA", En prueba | Bonao TV || REPUBLICA DOMINICANA
+https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8
+#EXTINF:-1 tvg-id="DO | Vallevisión" tvg-name="DO | Vallevisión" tvg-logo="https://vallevision.com.do/wp-content/uploads/2020/09/Vallevision-logo200.png" group-title="REPUBLICA DOMINICANA", En prueba | Vallevisión || REPUBLICA DOMINICANA
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | Azteca Uno" tvg-name="MX | Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Azteca_Uno_logo.webp/245px-Azteca_Uno_logo.webp.png" group-title="MEXICO", 895 | Azteca Uno || MÉXICO
 https://v-sd.mybtv.net/live/760.m3u8
 #EXTINF:-1 tvg-id="MX | Canal 5" tvg-name="MX | Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/120px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO", 896 | Canal 5 || MÉXICO
@@ -1933,6 +1969,8 @@ http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/chunklist_w15214477
 https://streannliveevtv.cachefly.net/Protected/sp=1;dirmatch=true/3be25dc13406bf70ff0208230e6fa803b88b95013fad257c025e481e2be3e214/evtv1/evtv1/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Visión Global TV" tvg-name="USA | Visión Global TV" tvg-logo="https://pbs.twimg.com/profile_images/1271993632573267969/iebucZUM_400x400.jpg" group-title="NOTICIAS E INFORMACION", 926 | Visión Global TV || ESTADOS UNIDOS DE AMÉRICA
 https://stream.visionglobaltv.net:1936/visionglobal/visionglobal/playlist.m3u8
+#EXTINF:-1 tvg-id="USA | TV Hispanic" tvg-name="USA | TV Hispanic" tvg-logo="https://yt3.googleusercontent.com/bHSIL9B_UGJoqzQV5aRgQBXTIqOaxhFc1CjjfLVundh5Jt8BC_VZU1yjukEemoZonaNz-tbDBQ=s900-c-k-c0x00ffffff-no-rj" group-title="REPUBLICA DOMINICANA", En prueba | TV Hispanic || ESTADOS UNIDOS DE AMÉRICA
+https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
 #EXTINF:-1 tvg-id="USA | Laff" tvg-name="USA | Laff" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/LAFF_logo.png/200px-LAFF_logo.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 927 | Laff || ESTADOS UNIDOS DE AMÉRICA
 https://v-px.mybtv.net/live/2.m3u8
 #EXTINF:-1 tvg-id="USA | Grit" tvg-name="USA | Grit" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Grit_TV_Network_Logo.gif/225px-Grit_TV_Network_Logo.gif" group-title="ESTADOS UNIDOS DE AMÉRICA", 928 | Grit || ESTADOS UNIDOS DE AMÉRICA
