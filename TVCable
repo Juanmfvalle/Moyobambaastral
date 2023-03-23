@@ -1903,6 +1903,26 @@ https://pop-ts.iptv-global.net/HilandoFino/index.m3u8
 https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8
 #EXTINF:-1 tvg-id="DO | Vallevisión" tvg-name="DO | Vallevisión" tvg-logo="https://vallevision.com.do/wp-content/uploads/2020/09/Vallevision-logo200.png" group-title="REPUBLICA DOMINICANA", En prueba | Vallevisión || REPUBLICA DOMINICANA
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
+#EXTINF:-1 tvg-id="DO | Telecanal 12" tvg-name="DO | Telecanal 12" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1662-800x450-FFFFFF.jpg" group-title="REPUBLICA DOMINICANA", En prueba | Telecanal 12 || REPUBLICA DOMINICANA
+https://cdn4.hostlagarto.com:8081/static/telecanal12/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="DO | Cotunanama TV 36" tvg-name="DO | Cotunanama TV 36" tvg-logo="https://cotubanamadigital.net/wp-content/uploads/2023/01/cotubanamatv.png" group-title="REPUBLICA DOMINICANA", En prueba | Cotunanama TV 36 || REPUBLICA DOMINICANA
+https://cdn4.hostlagarto.com:8081/static/cotubanamatv/playlist.m3u8
+#EXTINF:-1 tvg-id="DO | TRA Noticias" tvg-name="DO | TRA Noticias" tvg-logo="https://teleradioamerica.com/wp-content/themes/tra2017/imagenes/logo2023.png" group-title="REPUBLICA DOMINICANA", En prueba | TRA Noticias || REPUBLICA DOMINICANA
+https://live.teledom.info:3625/live/tra45live.m3u8
+#EXTINF:-1 tvg-id="DO | Metrovisión" tvg-name="DO | Metrovisión" tvg-logo="http://metrovision.com.do/images/MAzul.jpg" group-title="REPUBLICA DOMINICANA", En prueba | Metrovisión || REPUBLICA DOMINICANA
+https://metrovision01.streamprolive.com/hls/live.m3u8
+#EXTINF:-1 tvg-id="DO | Buena TV" tvg-name="DO | Buena TV" tvg-logo="https://pbs.twimg.com/media/Fr4MryZWIAMLXPf?format=png&name=small" group-title="REPUBLICA DOMINICANA", En prueba | Buena TV || REPUBLICA DOMINICANA
+https://cdn4.hostlagarto.com:8081/static/buenatv/playlist.m3u8
+#EXTINF:-1 tvg-id="DO | Digital 809 TV" tvg-name="DO | Digital 809 TV" tvg-logo="https://digital809tv.com/wp-content/uploads/2019/02/cropped-DIGITAL809TV-teless-245-1.png" group-title="REPUBLICA DOMINICANA", En prueba | Digital 809 TV || REPUBLICA DOMINICANA
+https://inliveserver.com:1936/digital809tv/digital809tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DO | HMTV Canal 33" tvg-name="DO | HMTV Canal 33" tvg-logo="https://1.bp.blogspot.com/-Qy2L6hvtw0A/XxOKynZNkfI/AAAAAAAAKRw/JLV3iuecs5sbafhXGsPxrxYg8PXnynbmwCLcBGAsYHQ/s1600/hmtv.png" group-title="REPUBLICA DOMINICANA", En prueba | HMTV Canal 33 || REPUBLICA DOMINICANA
+https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="DO | Megacine TV" tvg-name="DO | Megacine TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/mega-cine-tv.png" group-title="REPUBLICA DOMINICANA", En prueba | Megacine TV || REPUBLICA DOMINICANA
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+#EXTINF:-1 tvg-id="DO | Dajabon TV Canal 6" tvg-name="DO | Dajabon TV Canal 6" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/canal6rd.png" group-title="REPUBLICA DOMINICANA", En prueba | Dajabon TV Canal 6 || REPUBLICA DOMINICANA
+https://soportedvb.click:3504/live/dajabontvlive.m3u8
+#EXTINF:-1 tvg-id="DO | Unción TV" tvg-name="DO | Unción TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/uncion-tv.png" group-title="REPUBLICA DOMINICANA", En prueba | Unción TV || REPUBLICA DOMINICANA
+https://livemediacp.com:1936/8064/8064/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | Azteca Uno" tvg-name="MX | Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Azteca_Uno_logo.webp/245px-Azteca_Uno_logo.webp.png" group-title="MEXICO", 895 | Azteca Uno || MÉXICO
 https://v-sd.mybtv.net/live/760.m3u8
 #EXTINF:-1 tvg-id="MX | Canal 5" tvg-name="MX | Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/120px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO", 896 | Canal 5 || MÉXICO
