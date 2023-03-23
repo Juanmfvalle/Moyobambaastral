@@ -1716,7 +1716,7 @@ https://cdn.streamhispanatv.net:3586/live/tuismillive.m3u8
 #EXTINF:-1 tvg-id="GT | Canal 25 Regional" tvg-name="GT | Canal 25 Regional" tvg-logo="https://play-lh.googleusercontent.com/7ztHD_HAgYKfpaX4S-b3LKlREhXqyVYvO9oXFVK5e9mMVlkVaKcPTxltaCiD7EybyNk=w240-h480-rw" group-title="GUATEMALA", 836 | Canal 25 Regional || GUATEMALA
 https://srv4.zcast.com.br/canalsantarosa/canalsantarosa/playlist.m3u8
 #EXTINF:-1 tvg-id="DO | Teleantillas" tvg-name="DO | Teleantillas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/TeleAntillas.jpg/125px-TeleAntillas.jpg" group-title="REPUBLICA DOMINICANA", 837 | Teleantillas || REPUBLICA DOMINICANA
-http://51.81.93.29:8084/hls/tantillas.m3u8
+http://181.189.243.254:8000/play/a0p1/index.m3u8
 #EXTINF:-1 tvg-id="DO | Si TV" tvg-name="DO | Si TV" tvg-logo="https://sitv.com.do/wp-content/uploads/2021/10/sitvlogo-1.svg" group-title="REPUBLICA DOMINICANA", 838 | Si TV || REPUBLICA DOMINICANA
 http://190.122.104.221/Player/sitv.m3u8
 #EXTINF:-1 tvg-id="DO | Canal RTVD 4" tvg-name="DO | Canal RTVD 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/RTVD_logo_2022.webp/200px-RTVD_logo_2022.webp.png" group-title="REPUBLICA DOMINICANA", 839 | Canal RTVD 4 || REPUBLICA DOMINICANA
@@ -1895,8 +1895,6 @@ https://tvdatta.com:3957/hybrid/play.m3u8
 https://servilive.com:3758/live/televerlive.m3u8
 #EXTINF:-1 tvg-id="DO | Urbancrist TV" tvg-name="DO | Urbancrist TV" tvg-logo="https://dominicanchannels.com/wp-content/uploads/2017/10/WhatsApp-Image-2020-05-28-at-10.35.45-PM-1-300x276.jpeg" group-title="REPUBLICA DOMINICANA", En prueba | Urbancrist TV || REPUBLICA DOMINICANA
 https://5790d294af2dc.streamlock.net/8160/8160/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="DO | ZTV" tvg-name="DO | ZTV" tvg-logo="https://yt3.googleusercontent.com/YfQwDkuuBd6cgwLfKJMb-o_InQJvq00wl-ifoOey3uU57saL6qGAE_t_vvyJtIa64qmb6GoCAr8=s900-c-k-c0x00ffffff-no-rj" group-title="REPUBLICA DOMINICANA", En prueba | ZTV || REPUBLICA DOMINICANA
-https://zdigital.streamprolive.com/hls/live.m3u8
 #EXTINF:-1 tvg-id="DO | Imagen Universal TV" tvg-name="DO | Imagen Universal TV" tvg-logo="https://imagenuniversaltv.com/wp-content/uploads/2022/03/Logo-imagen-Universal-TV-Horizontal-512-x-99.png" group-title="REPUBLICA DOMINICANA", En prueba | Imagen Universal TV || REPUBLICA DOMINICANA
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 #EXTINF:-1 tvg-id="DO | Hilando Fino TV" tvg-name="DO | Hilando Fino TV" tvg-logo="http://www.hilandofinotv.com/wp-content/uploads/2020/07/cropped-Imagen1..png" group-title="REPUBLICA DOMINICANA", En prueba | Hilando Fino TV || REPUBLICA DOMINICANA
