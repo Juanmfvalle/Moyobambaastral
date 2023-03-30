@@ -408,7 +408,7 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="USA | CNN en Español" tvg-name="USA | CNN en Español" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png" group-title="NOTICIAS E INFORMACION", 200 | CNN en Español
 http://181.189.243.254:8000/play/a0ps/index.m3u8
 #EXTINF:-1 tvg-id="CL | CNN Chile" tvg-name="CL | CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/150px-CNN_Chile_logo_2017.svg.png" group-title="NOTICIAS E INFORMACION", 201 | CNN Chile
-http://200.68.22.221:5000/play/a02l/index.m3u8
+http://181.226.236.146:8000/play/a03y/index.m3u8
 #EXTINF:-1 tvg-id="USA | CNN Internacional" tvg-name="USA | CNN Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/162px-CNN_International_logo.svg.png" group-title="NOTICIAS E INFORMACION", 202 | CNN Internacional
 http://181.189.243.254:8000/play/a0o7/index.m3u8
 #EXTINF:-1 tvg-id="UK | BBC World News" tvg-name="UK | BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/170px-BBC_World_News_2022_%28Boxed%29.svg.png" group-title="NOTICIAS E INFORMACION", 203 | BBC World News
@@ -1589,6 +1589,8 @@ https://5e85d90130e77.streamlock.net/6022/6022/chunklist_w911572265.m3u8
 https://emisoras.hn:8081/dtp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HN | Hable Como Habla TV" tvg-name="HN | Hable Como Habla TV" tvg-logo="https://hch.tv/wp-content/uploads/2021/09/logos-hch-bueno-1.png" group-title="HONDURAS", 751 | HCH || HONDURAS
 http://45.190.13.50:8002/play/a010/index.m3u8
+#EXTINF:-1 tvg-id="HN | Picosa TV" tvg-name="HN | Picosa TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/PicosaTV.png/revision/latest/scale-to-width-down/200?cb=20211016184350&path-prefix=es" group-title="HONDURAS", En prueba | Picosa TV || HONDURAS
+http://190.119.178.46:8000/play/a04g/index.m3u8
 #EXTINF:-1 tvg-id="HN | Cholusat Sur Canal 36" tvg-name="HN | Cholusat Sur Canal 36" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Cholusat-Sur-Canal-36-en-vivo-Online-100x70.png" group-title="HONDURAS", 752 | Cholusat Sur || HONDURAS
 http://audiotvserver.net:1935/livemedia/cholusat/chunklist_w374441771.m3u8
 #EXTINF:-1 tvg-id="HN | Mas Noticias Televisión" tvg-name="HN | Mas Noticias Televisión" tvg-logo="https://cdn.mntv.hn/2022/02/mntv-logo.webp" group-title="HONDURAS", 753 | Mas Noticias Televisión || HONDURAS
