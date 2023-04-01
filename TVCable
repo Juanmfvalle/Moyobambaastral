@@ -399,7 +399,7 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/NOTICIASCARACOL/40-hls/live-m
 https://cdnlive.presstv.ir/cdnlive/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CH | CGTN Español" tvg-name="CH | CGTN Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/180px-CGTN_Espanol.png" group-title="NOTICIAS E INFORMACION", 196 | CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 tvg-id="CO | Nuestra Tele Noticias 24" tvg-name="CO | Nuestra Tele Noticias 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NTN24_logo.svg/245px-NTN24_logo.svg.png" group-title="NOTICIAS E INFORMACION", 197 | NTN 24
+#EXTINF:-1 tvg-id="AR | C5N" tvg-name="AR | C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/C5N_2017_Alternate.svg/180px-C5N_2017_Alternate.svg.png" group-title="NOTICIAS E INFORMACION", 197 | C5N
 http://45.5.151.160:8000/play/a03c/index.m3u8
 #EXTINF:-1 tvg-id="CO | Cablenoticias" tvg-name="CO | Cablenoticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/175px-Cable_Noticias_logo.svg.png" group-title="NOTICIAS E INFORMACION", 198 | Cablenoticias
 https://5ea86ddd14ce7.streamlock.net:443/live/cable09061970/chunklist_w491572862.m3u8
@@ -676,7 +676,7 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 #EXTINF:-1 tvg-id="AR | Orbe 21" tvg-name="AR | Orbe 21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Canal_Orbe_21_logo.svg/245px-Canal_Orbe_21_logo.svg.png" group-title="RELIGIOSOS", 329 | Orbe 21
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | El Sembrador TV" tvg-name="USA | El Sembrador TV" tvg-logo="https://elsembradorministries.com/esne_deployment/images/logo_azul.png" group-title="RELIGIOSOS", 330 | ESNE TV
-http://168.121.46.90:8000/play/a03b/index.m3u8
+https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/playlist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=64278866ce415f000151d67e&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1680398822%7Eacl%3D%2F*2041519%2F*%7Ehmac%3D144edb61061f84bad43a2d94fe6b572ea71204798ecee163d8fe4bea41e2dc7c
 #EXTINF:-1 tvg-id="PE | JN19" tvg-name="PE | JN19" tvg-logo="http://www.jn19television.com/templates/televid_23/images/object979167786.png" group-title="RELIGIOSOS", 331 | JN19 Televisión
 https://servilive.com:3149/live/jn19tvlive.m3u8
 #EXTINF:-1 tvg-id="DO | La Voz de María" tvg-name="DO | La Voz de María" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTRyXwicJcx52VUr5lYKMVMnrvlwvhS4HFMFr-W=s900-c-k-c0x00ffffff-no-rj" group-title="RELIGIOSOS", 332 | La Voz de María TV
