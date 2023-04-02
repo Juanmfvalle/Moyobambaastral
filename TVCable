@@ -175,6 +175,8 @@ https://marine2.miplay.cl/mxclassic/playlist.m3u8
 http://45.160.12.253:8000/play/122
 #EXTINF:-1 tvg-id="CL | Old" tvg-name="CL | Old" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/OLD-FONDO-2-300x169.jpg" group-title="PELICULAS Y SERIES", 85 | Old
 https://marine2.miplay.cl/old/playlist.m3u8
+#EXTINF:-1 tvg-id="CO | Old City" tvg-name="CO | Old City" tvg-logo="https://pbs.twimg.com/media/FsvT3jLWYAQOqQz?format=png&name=240x240" group-title="PELICULAS Y SERIES", En prueba | Old City
+http://181.176.148.142:8000/play/a02u
 #EXTINF:-1 tvg-id="MX | De Película" tvg-name="MX | De Película" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/250px-DPel%C3%ADcula_2021.svg.png" group-title="PELICULAS Y SERIES", 86 | De Película
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DEPELICULA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDEPELICULA_stream_7v&_cdn_session=685587227&_cdn_timestamp=1680824218&_cdn_token=8efadeaa989bfbd70a78571add518f2b12fe782f
 #EXTINF:-1 tvg-id="CL | Retro Plus 3 TV" tvg-name="CL | Retro Plus 3 TV" tvg-logo="https://pbs.twimg.com/media/FXfp5PNWAAI0YGt?format=png&name=small" group-title="PELICULAS Y SERIES", 87 | Retro Plus 3 TV
@@ -185,6 +187,8 @@ http://181.189.243.254:8000/play/a0ri/index.m3u8
 http://45.5.118.213:16000/play/a0na/index.m3u8
 #EXTINF:-1 tvg-id="PE | Retro" tvg-name="PE | Retro" tvg-logo="https://pbs.twimg.com/media/FSNWMPoWUAAj7gr?format=jpg&name=360x360" group-title="PELICULAS Y SERIES", 90 | Retro
 http://200.48.184.156:1935/eretro/eretro/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | Retro TV" tvg-name="PE | Retro TV" tvg-logo="https://pbs.twimg.com/media/FsvUmDEXwAQ0VS2?format=png&name=240x240" group-title="PELICULAS Y SERIES", En prueba | Retro TV
+http://181.176.148.142:8000/play/a02x
 #EXTINF:-1 tvg-id="USA | TBS" tvg-name="USA | TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/135px-TBS_logo_2016.svg.png" group-title="PELICULAS Y SERIES", 91 | TBS
 http://45.179.164.9:8000/play/a02v/index.m3u8
 #EXTINF:-1 tvg-id="USA | Studio Universal" tvg-name="USA | Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/175px-StudioUniversal2016.png" group-title="PELICULAS Y SERIES", 92 | Studio Universal
@@ -273,6 +277,10 @@ http://179.189.222.226:8000/play/ch51
 http://179.189.222.226:8000/play/ch52
 #EXTINF:-1 tvg-id="USA | FMH Family" tvg-name="USA | FMH Family" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-family.jpg" group-title="PELICULAS Y SERIES", 134 | FMH Family
 http://160.20.165.246:8000/play/a01j/index.m3u8
+#EXTINF:-1 tvg-id="CO | Movie Club" tvg-name="CO | Movie Club" tvg-logo="https://pbs.twimg.com/media/FsvU6ohX0AIMpjr?format=png&name=120x120" group-title="PELICULAS Y SERIES", En prueba | Movie Club
+http://181.176.148.142:8000/play/a02s
+#EXTINF:-1 tvg-id="CO | Series Club" tvg-name="CO | Series Club" tvg-logo="https://pbs.twimg.com/media/FsvVnKYXwAIZpWQ?format=png&name=240x240" group-title="PELICULAS Y SERIES", En prueba | Series Club
+http://181.176.148.142:8000/play/a02y
 #EXTINF:-1 tvg-id="PE | E Cine" tvg-name="PE | E Cine" tvg-logo="https://pbs.twimg.com/media/FSNUAf4X0AI0f0s?format=jpg&name=120x120" group-title="PELICULAS Y SERIES", 135 | E Cine
 http://200.48.184.156:1935/ecine/ecine/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | E Play" tvg-name="PE | E Play" tvg-logo="https://pbs.twimg.com/media/FSNVY30XMAEZsak?format=jpg&name=120x120" group-title="PELICULAS Y SERIES", 136 | E Play
