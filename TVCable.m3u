@@ -531,6 +531,8 @@ http://190.119.178.46:8000/play/a033/index.m3u8
 http://190.119.178.46:8000/play/a034/index.m3u8
 #EXTINF:-1 tvg-id="USA | DSports Fight" tvg-name="USA | DSports Fight" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/620.png" group-title="DEPORTES", En prueba | DSports Fight
 http://190.119.178.46:8000/play/a036/index.m3u8
+#EXTINF:-1 tvg-id="PE | EdX TV" tvg-name="PE | EdX TV" tvg-logo="https://pbs.twimg.com/media/FVzsfVnWUAc1ffp?format=png&name=240x240" group-title="DEPORTES", En prueba | EdX TV
+https://stream.plixitv.live/edx/edx/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Best Cable Music" tvg-name="PE | Best Cable Music" tvg-logo="https://bestcableperu.com.pe/img/canales/97.jpg" group-title="MUSICA Y REALITIES", 255 | Best Cable Music
 https://ca2.inka.net.pe/best-Music-0011200000/index.m3u8
 #EXTINF:-1 tvg-id="CL | Eplus Play TV" tvg-name="CL | Eplus Play TV" tvg-logo="https://i.paste.pics/de96cfec4ae44fd7553282123ec898cb.png" group-title="MUSICA Y REALITIES", 256 | Eplus Play TV
@@ -1189,6 +1191,16 @@ https://tv02.zas.media:1936/centraltv/centraltv/playlist.m3u8
 https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
 #EXTINF:-1 tvg-id="BR | Urban TV" tvg-name="BR | Urban TV" tvg-logo="https://urbantv.com.br/img/logo.png" group-title="BRASIL", En prueba | Urban TV || BRASIL
 https://stream.urbantv.com.br/urbantv/video.m3u8
+#EXTINF:-1 tvg-id="BR | Andreia Grezzana TV" tvg-name="BR | Andreia Grezzana TV" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/LOGO_AG_2_6ckae00.png" group-title="BRASIL", En prueba | Andreia Grezzana TV || BRASIL
+https://video01.soultv.com.br/andreiagrezzana/andreiagrezzana/playlist.m3u8
+#EXTINF:-1 tvg-id="BR | 011 News" tvg-name="BR | 011 News" tvg-logo="http://011.news/wp-content/uploads/2022/09/logo011news.png" group-title="BRASIL", En prueba | 011 News || BRASIL
+https://011news.akamaized.net/011news/011news/playlist.m3u8
+#EXTINF:-1 tvg-id="BR | Elemental Channel" tvg-name="BR | Elemental Channel" tvg-logo="https://play-lh.googleusercontent.com/g48AByBUDE1bVPFjHTpPaIozeRx9qNEXrY7180C6EQY4TLw4kCC0hFcZkBj459ru9pw=w240-h480-rw" group-title="BRASIL", En prueba | Elemental Channel || BRASIL
+https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
+#EXTINF:-1 tvg-id="BR | TV Grande Natal" tvg-name="BR | TV Grande Natal" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/14c5a66a88c83606956bfad56ce0e085.webp" group-title="BRASIL", En prueba | TV Grande Natal || BRASIL
+https://canalteste.duckdns.org:4433/hls/tvgrandenatalhdtv/index.m3u8
+#EXTINF:-1 tvg-id="BR | TV Ace" tvg-name="BR | TV Ace" tvg-logo="https://assets-iptv2022.cdnvideo.ru/uploads/channel/11901/thumb_TV_ACE.jpeg" group-title="BRASIL", En prueba | TV Ace || BRASIL
+https://stmv7.samcast.com.br/associacaocomercialeempresarialdecaraguatatuba7320/associacaocomercialeempresarialdecaraguatatuba7320/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Unitel" tvg-name="BO | Unitel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/New_Unitel_logo_HD.jpg/200px-New_Unitel_logo_HD.jpg" group-title="BOLIVIA", 551 | Unitel || BOLIVIA
 https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZSKKWADP5fiDk7oiMdnJnECLdj330SITfKTQr8G9sqpm)/dm/3/x7vsfua/d/live-3.m3u8
 #EXTINF:-1 tvg-id="BO | Radio Televisión Popular" tvg-name="BO | Radio Televisión Popular" tvg-logo="http://www.rtpbolivia.com.bo/wp-content/uploads/sites/18/2021/05/logo-300x155.png" group-title="BOLIVIA", 552 | RTP || BOLIVIA
