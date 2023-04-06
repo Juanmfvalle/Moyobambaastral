@@ -1162,7 +1162,7 @@ https://virtues.es:1936/tvmar/tvmar/playlist.m3u8
 #EXTINF:-1 tvg-id="BR | ISTV" tvg-name="BR | ISTV" tvg-logo="https://istv.com.br/static/media/Logo_ISTV_01.f4e9bd182d5e3afaa8ff.png" group-title="BRASIL", En prueba | ISTV || BRASIL
 https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist.m3u8
 #EXTINF:-1 tvg-id="BR | TV Meio Norte" tvg-name="BR | TV Meio Norte" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Rede_Meio_Norte.jpg" group-title="BRASIL", En prueba | TV Meio Norte || BRASIL
-http://streaming.jornalmn.com.br/live/tvmn.m3u8
+https://acesso.ecast.site:3456/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="BR | TV Londres" tvg-name="BR | TV Londres" tvg-logo="https://pbs.twimg.com/media/Fr_I7vcX0AAFNvY?format=png&name=120x120" group-title="BRASIL", En prueba | TV Londres || BRASIL
 https://cdn2.connectbr.com.br/oxtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BR | CTV PB" tvg-name="BR | CTV PB" tvg-logo="https://play-lh.googleusercontent.com/aW7c7aWY5HKui7S5gHkJDcMaD-OCP5CmlRGEYlWTu4-O52THZ611ONPAd-l3sXPkvG4=w240-h480-rw" group-title="BRASIL", En prueba | CTV PB || BRASIL
@@ -1203,6 +1203,18 @@ https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
 https://canalteste.duckdns.org:4433/hls/tvgrandenatalhdtv/index.m3u8
 #EXTINF:-1 tvg-id="BR | TV Ace" tvg-name="BR | TV Ace" tvg-logo="https://assets-iptv2022.cdnvideo.ru/uploads/channel/11901/thumb_TV_ACE.jpeg" group-title="BRASIL", En prueba | TV Ace || BRASIL
 https://stmv7.samcast.com.br/associacaocomercialeempresarialdecaraguatatuba7320/associacaocomercialeempresarialdecaraguatatuba7320/playlist.m3u8
+#EXTINF:-1 tvg-id="BR | Rede Nova TV" tvg-name="BR | Rede Nova TV" tvg-logo="http://nbpsda.com/wp-content/uploads/2021/08/nls-1.png" group-title="BRASIL", En prueba | Rede Nova TV || BRASIL
+https://5d82644094cc0.streamlock.net/redenovatv/redenovatv/playlist.m3u8
+#EXTINF:-1 tvg-id="BR | TV Metropolitana Rio" tvg-name="BR | TV Metropolitana Rio" tvg-logo="https://images.builderservices.io/s/cdn/v1.0/i/m?url=https%3A%2F%2Fstorage.googleapis.com%2Fproduction-hostgator-brasil-v1-0-7%2F367%2F1415367%2FDBjyCxzq%2Fd16118ecf68b4c8aa41c573eb1e28a4c&methods=resize%2C500%2C5000" group-title="BRASIL", En prueba | TV Metropolitana Rio || BRASIL
+https://stmv1.srvstm.com/luis5346/luis5346/playlist.m3u8
+#EXTINF:-1 tvg-id="BR | Life Channel" tvg-name="BR | Life Channel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/99c3b9e26fccf483d6432e70777816ca.webp" group-title="BRASIL", En prueba | Life Channel || BRASIL
+https://cdn2.connectbr.com.br/life/index.m3u8
+#EXTINF:-1 tvg-id="BR | TV Estilo" tvg-name="BR | TV Estilo" tvg-logo="https://assets-iptv2022.cdnvideo.ru/uploads/channel/12034/thumb_Estilo_TV.jpeg" group-title="BRASIL", En prueba | TV Estilo || BRASIL
+https://cdn.jmvstream.com/w/AVJ-12950/playlist/playlist.m3u8
+#EXTINF:-1 tvg-id="BR | Sol Brasil TV" tvg-name="BR | Sol Brasil TV" tvg-logo="https://pbs.twimg.com/media/FtDrSx8WwAEKCtC?format=png&name=small" group-title="BRASIL", En prueba | Sol Brasil TV || BRASIL
+https://video01.soultv.com.br/solbrasil/solbrasil/playlist.m3u8
+#EXTINF:-1 tvg-id="BR | TVS Surubim" tvg-name="BR | TVS Surubim" tvg-logo="https://pbs.twimg.com/media/FtDvs_TWAAIWKdP?format=png&name=small" group-title="BRASIL", En prueba | TVS Surubim || BRASIL
+https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Unitel" tvg-name="BO | Unitel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/New_Unitel_logo_HD.jpg/200px-New_Unitel_logo_HD.jpg" group-title="BOLIVIA", 551 | Unitel || BOLIVIA
 https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZWTGa8pVaN1q9aK3Gsqwnv9kXivKCDUq_b9aRb2iHh2q)/dm/3/x7vsfua/d/live-3.m3u8
 #EXTINF:-1 tvg-id="BO | Radio Televisión Popular" tvg-name="BO | Radio Televisión Popular" tvg-logo="http://www.rtpbolivia.com.bo/wp-content/uploads/sites/18/2021/05/logo-300x155.png" group-title="BOLIVIA", 552 | RTP || BOLIVIA
