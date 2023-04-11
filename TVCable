@@ -1279,6 +1279,18 @@ https://5ffab78b24f94.streamlock.net/smart/smart/playlist.m3u8
 http://maistv.duckdns.org:8080/hls/maistv.m3u8
 #EXTINF:-1 tvg-id="BR | Abba RTV" tvg-name="BR | Abba RTV" tvg-logo="https://spaceks.net/sites/abbartv.com.br/images/logo/logo_1213314842.png" group-title="BRASIL", En prueba | Abba RTV || BRASIL
 https://video01.kshost.com.br:4443/adilson8953/adilson8953/playlist.m3u8
+#EXTINF:-1 tvg-id="BR | Rede SPTV" tvg-name="BR | Rede SPTV" tvg-logo="https://pa-str.srvsite.com/arquivos/6806/cabecalho-6806-20210603100909.png" group-title="BRASIL", En prueba | Rede SPTV || BRASIL
+https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
+#EXTINF:-1 tvg-id="BR | Nova TV Matopiba" tvg-name="BR | Nova TV Matopiba" tvg-logo="https://pbs.twimg.com/media/FtZW7fzWAAEGqba?format=png&name=360x360" group-title="BRASIL", En prueba | Nova TV Matopiba || BRASIL
+http://187.95.95.241:7983/matopiba/index.m3u8
+#EXTINF:-1 tvg-id="BR | Soul Cine Clube" tvg-name="BR | Soul Cine Clube" tvg-logo="https://pbs.twimg.com/media/FtZ0JNTWIAELxmM?format=png&name=120x120" group-title="BRASIL", En prueba | Soul Cine Clube || BRASIL
+https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
+#EXTINF:-1 tvg-id="BR | Primer TV" tvg-name="BR | Primer TV" tvg-logo="http://primertv.com.br/img/logo.png" group-title="BRASIL", En prueba | Primer TV || BRASIL
+http://177.74.174.57:8080/hls/primertv.m3u8
+#EXTINF:-1 tvg-id="BR | TV Teen Net" tvg-name="BR | TV Teen Net" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/084299119e2cf7e1b863489165dd5af3.webp" group-title="BRASIL", En prueba | TV Teen Net || BRASIL
+https://stmv1.painelvideo.top/tvteennet/tvteennet/playlist.m3u8
+#EXTINF:-1 tvg-id="BR | Hackathon TV" tvg-name="BR | Hackathon TV" tvg-logo="https://hackathonbrasil.com.br/wp-content/uploads/2020/05/web_retangular-para_fundo_claro.png" group-title="BRASIL", En prueba | Hackathon TV || BRASIL
+https://video04.logicahost.com.br/hackathonbrasil/hackathonbrasil/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Unitel" tvg-name="BO | Unitel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/New_Unitel_logo_HD.jpg/200px-New_Unitel_logo_HD.jpg" group-title="BOLIVIA", 551 | Unitel || BOLIVIA
 https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zay7TDhe60LlQP8_PeROy0USLBaAGPNCCtSIcp-NrRCG)/dm/3/x7vsfua/d/live-3.m3u8
 #EXTINF:-1 tvg-id="BO | Radio Televisión Popular" tvg-name="BO | Radio Televisión Popular" tvg-logo="http://www.rtpbolivia.com.bo/wp-content/uploads/sites/18/2021/05/logo-300x155.png" group-title="BOLIVIA", 552 | RTP || BOLIVIA
