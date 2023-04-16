@@ -1016,7 +1016,7 @@ https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | RCN Xtra" tvg-name="CO | RCN Xtra" tvg-logo="https://pbs.twimg.com/media/Fj6XrAoXwAAOLKg?format=png&name=120x120" group-title="COLOMBIA", 481.3 | RCN Xtra || COLOMBIA
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | Canal Caracol" tvg-name="CO | Canal Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="COLOMBIA", 482 | Canal Caracol || COLOMBIA
-http://190.217.20.100:10800/play/a083/index.m3u8
+http://190.242.104.58:9092/play/e0122
 #EXTINF:-1 tvg-id="CO | Canal 1" tvg-name="CO | Canal 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/125px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="COLOMBIA", 483 | Canal 1 || COLOMBIA
 http://190.242.104.58:9092/play/e0131
 #EXTINF:-1 tvg-id="CO | Canal Institucional" tvg-name="CO | Canal Institucional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Se%C3%B1al_Institucional_logo.svg/140px-Se%C3%B1al_Institucional_logo.svg.png" group-title="COLOMBIA", 484 | Canal Institucional || COLOMBIA
@@ -1024,23 +1024,25 @@ https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist
 #EXTINF:-1 tvg-id="CO | Señal Colombia" tvg-name="CO | Señal Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/200px-Se%C3%B1al_Colombia_logo.svg.png" group-title="COLOMBIA", 485 | Señal Colombia || COLOMBIA
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | Canal Trece" tvg-name="CO | Canal Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Canal_Trece_logo.svg/245px-Canal_Trece_logo.svg.png" group-title="COLOMBIA", 486 | Canal Trece || COLOMBIA
-http://190.217.20.100:10800/play/a048/index.m3u8
+http://190.242.104.58:9092/play/e0127
+#EXTINF:-1 tvg-id="CO | Canal Trece +" tvg-name="CO | Canal Trece +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/TRECE%2B.png/150px-TRECE%2B.png" group-title="COLOMBIA", 486.2 | Canal Trece + || COLOMBIA
+http://190.242.104.58:9092/play/e0128
 #EXTINF:-1 tvg-id="CO | City TV" tvg-name="CO | City TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/City_tv_Bogot%C3%A1_logo.svg/170px-City_tv_Bogot%C3%A1_logo.svg.png" group-title="COLOMBIA", 487 | City TV || COLOMBIA
-http://190.217.20.100:10800/play/a086/index.m3u8
-#EXTINF:-1 tvg-id="CO | Canal Congreso" tvg-name="CO | Canal Congreso" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Canal_Congreso_de_Colombia_logo.png" group-title="COLOMBIA", 488 | Canal Congreso || COLOMBIA
-http://190.217.20.100:10800/play/a02r/index.m3u8
-#EXTINF:-1 tvg-id="CO | Canal TRO" tvg-name="CO | Canal TRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Canal_tro_logo.PNG/150px-Canal_tro_logo.PNG" group-title="COLOMBIA", 489 | Canal TRO || COLOMBIA
+http://190.242.104.58:9092/play/e0120
+#EXTINF:-1 tvg-id="CO | El Tiempo Televisión" tvg-name="CO | El Tiempo Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/ET_canal_El_Tiempo_logo.png/200px-ET_canal_El_Tiempo_logo.png" group-title="COLOMBIA", En prueba | 488 || COLOMBIA
+http://190.242.104.58:9092/play/e0121
+#EXTINF:-1 tvg-id="CO | Canal Congreso" tvg-name="CO | Canal Congreso" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Canal_Congreso_de_Colombia_logo.png" group-title="COLOMBIA", 489 | Canal Congreso || COLOMBIA
+http://190.242.104.58:9092/play/e070
+#EXTINF:-1 tvg-id="CO | Canal TRO" tvg-name="CO | Canal TRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Canal_tro_logo.PNG/150px-Canal_tro_logo.PNG" group-title="COLOMBIA", 490 | Canal TRO || COLOMBIA
 http://190.242.104.58:9092/play/e077
-#EXTINF:-1 tvg-id="CO | Telecafé" tvg-name="CO | Telecafé" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Telecaf%C3%A9_logo.svg/200px-Telecaf%C3%A9_logo.svg.png" group-title="COLOMBIA", 490 | Telecafé || COLOMBIA
-http://190.217.20.100:10800/play/a047/index.m3u8
-#EXTINF:-1 tvg-id="CO | Teleantioquia" tvg-name="CO | Teleantioquia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Teleantioquia_logo.svg/250px-Teleantioquia_logo.svg.png" group-title="COLOMBIA", 491 | Teleantioquia || COLOMBIA
+#EXTINF:-1 tvg-id="CO | Telecafé" tvg-name="CO | Telecafé" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Telecaf%C3%A9_logo.svg/200px-Telecaf%C3%A9_logo.svg.png" group-title="COLOMBIA", 491 | Telecafé || COLOMBIA
+http://190.242.104.58:9092/play/e076
+#EXTINF:-1 tvg-id="CO | Teleantioquia" tvg-name="CO | Teleantioquia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Teleantioquia_logo.svg/250px-Teleantioquia_logo.svg.png" group-title="COLOMBIA", 492 | Teleantioquia || COLOMBIA
 http://190.242.104.58:9092/play/e073
-#EXTINF:-1 tvg-id="CO | Telemedellín" tvg-name="CO | Telemedellín" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Logotipo_de_Telemedell%C3%ADn.png/150px-Logotipo_de_Telemedell%C3%ADn.png" group-title="COLOMBIA", 492 | Telemedellín || COLOMBIA
-http://190.2.209.158:4000/play/telemedellin/index.m3u8
 #EXTINF:-1 tvg-id="CO | Zoom TV"  tvg-name="CO | Zoom TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/CanalZoom2018.png/revision/latest/scale-to-width-down/78?cb=20210501194343&path-prefix=es" group-title="COLOMBIA", 493 | Zoom TV || COLOMBIA
 https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
 #EXTINF:-1 tvg-id="CO | Canal C de Cali" tvg-name="CO | Canal C de Cali" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRhl94w4Xil6sWKn-TpwbBo4oDXDJ6IZdILATFNKw=s900-c-k-c0x00ffffff-no-rj" group-title="COLOMBIA", 494 | Canal C de Cali || COLOMBIA
-https://edge.teveo.com.co/live/AeAAAgAhAANnA1IAyADIUDAAAAGAAAAAAmQ78r61sIjEAAAA/playlist.m3u8
+https://edge.teveo.com.co/live/AeAAAgAhAANnA1IAyADIUDAAAAGAAAAAAmQ7-i61sIjEAAAA/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | Telecaribe" tvg-name="CO | Telecaribe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Telecaribe2017.png/150px-Telecaribe2017.png" group-title="COLOMBIA", 495 | Telecaribe || COLOMBIA
 https://tkx.mp.lura.live/rest/v2/mcp/video/adstB64MXYxqLZwy?anvack=4gXmVVoVIp3YeECJWm6af3j0mlHwl6vO&eud=SKjoH1L/9Enwo5zQBiBTRfTSNGfENMNO6udm4CQNVvix/L9XX8kucBOvzWalIghNrL5GllGH8ou17ICYGv29Rg==
 #EXTINF:-1 tvg-id="CO | Mundo +" tvg-name="CO | Mundo +" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTDVbXdzqg5wRA2IZDnWEJyezQIhnUGxI8fEuLOgA=s88-c-k-c0x00ffffff-no-rj" group-title="COLOMBIA", 496 | Mundo + || COLOMBIA
@@ -1056,7 +1058,7 @@ https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/chunklis
 #EXTINF:-1 tvg-id="CO | Canal CNC" tvg-name="CO | Canal CNC" tvg-logo="http://canalcncmedellin.com/recursos/images/logo_cnc.png" group-title="COLOMBIA", 501 | Canal CNC || COLOMBIA
 http://38.75.136.76:1935/cncmedellin720/canalcncmedellin.stream_720p/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CO | Telepacífico" tvg-name="CO | Telepacífico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Telepac%C3%ADfico.png/125px-Telepac%C3%ADfico.png" group-title="COLOMBIA", 502 | Telepacífico || COLOMBIA
-http://190.217.20.100:10800/play/a03w/index.m3u8
+http://190.242.104.58:9092/play/e075
 #EXTINF:-1 tvg-id="CO | TDI" tvg-name="CO | TDI" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQEQlXDbG5mfpBPebg95GpgaHErjMj4kr9ajTHv=s88-c-k-c0x00ffffff-no-rj" group-title="COLOMBIA", 503 | TDI || COLOMBIA
 https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
 #EXTINF:-1 tvg-id="CO | TV Peñol" tvg-name="CO | TV Peñol" tvg-logo="https://lh3.googleusercontent.com/apvCTeyvSvG_dSKi0-ujGoz-3cnm80K4jm0TRj6oI86GJqqfMwIuVUlVCiMBzhW-iDM" group-title="COLOMBIA", 504 | TV Peñol || COLOMBIA
@@ -1070,9 +1072,9 @@ https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | TV San Jorge" tvg-name="CO | TV San Jorge" tvg-logo="https://tvsanjorge.tv/wp-content/uploads/2022/02/login-logo.png" group-title="COLOMBIA", 508 | TV San Jorge || COLOMBIA
 https://asucap.com/livestream/asucap_envivo.m3u8
 #EXTINF:-1 tvg-id="CO | TV5 Montería" tvg-name="CO | TV5 Montería" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/tv5-montera-1456.png" group-title="COLOMBIA", 509 | TV5 Montería || COLOMBIA
-https://edge.teveo.com.co/live/AeAAAgAgAANmA1IAyADIUCAAAAAAAAAAAmQ786q1sIjEAAAA/playlist.m3u8
+https://edge.teveo.com.co/live/AeAAAgAgAANmA1IAyADIUCAAAAAAAAAAAmQ7-si1sIjEAAAA/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | Telepetróleo" tvg-name="CO | Telepetróleo" tvg-logo="https://telepetroleo.com/wp-content/uploads/2015/10/logo1.png" group-title="COLOMBIA", 510 | Telepetróleo || COLOMBIA
-https://edge.teveo.com.co/live/AeAAAgAIAAE7A1IAyADIUCAAAAAAAAAAAmQ78-S1sIjEAAAA/playlist.m3u8
+https://edge.teveo.com.co/live/AeAAAgAIAAE7A1IAyADIUCAAAAAAAAAAAmQ7-uK1sIjEAAAA/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | 90 Minutos TV" tvg-name="CO | 90 Minutos TV" tvg-logo="https://90minutos.co/wp-content/themes/90min-theme/img/logo-90-minutos.png" group-title="COLOMBIA", 511 | 90 Minutos TV || COLOMBIA
 https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-2500/index.m3u8
 #EXTINF:-1 tvg-id="CO | Huila TV" tvg-name="CO | Huila TV" tvg-logo="https://www.huilatv.com/wp-content/uploads/2020/01/LOGO-HUILA-TV-ICONO.png" group-title="COLOMBIA", 512 | Huila TV || COLOMBIA
@@ -1546,7 +1548,7 @@ http://stmv6.srvstm.com/valletv/valletv/playlist.m3u8
 #EXTINF:-1 tvg-id="UY | Canal 4" tvg-name="UY | Canal 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Canal4_uy.png/150px-Canal4_uy.png" group-title="URUGUAY", 645 | Canal 4 || URUGUAY
 http://hplay.xyz:80/live/LVH60Ml8Hc/O4XSkHm6Yj/304353.m3u8
 #EXTINF:-1 tvg-id="UY | TV Ciudad" tvg-name="UY | TV Ciudad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TVCiudad_logo_2020.png/140px-TVCiudad_logo_2020.png" group-title="URUGUAY", 646 | TV Ciudad || URUGUAY
-https://vxlive.cdn.antel.net.uy/auth_V__TV_Ciudad,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfX1RWX0NpdWRhZCUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNjgxNjY0MDIyJnJhbmRvbT1TeFluMldxUzA3JmMtaXA9MTgxLjE3Ni4xMzYuMTk2JmlkX3JlZmVyZW5jaWE9JmlkX2Rpc3Bvc2l0aXZvPTAmaWRfZnJvbnRlbmQ9MTI4MCZwdWJsaWNfaWQ9MnNnc20sOTc3OWNjZmMzMzMyMDg3MTYxYjk4MmExZThjM2Y0YTM4YTgyZTI2NTNjMjQ3YmM3NjQ1OTI3YmZkYmEzMTBlMw==/vxfmt=hls/playlist.m3u8
+https://vxlive.cdn.antel.net.uy/auth_V__TV_Ciudad,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfX1RWX0NpdWRhZCUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNjgxNjY2OTQ2JnJhbmRvbT1CSEcySUo5RFY3JmMtaXA9MTgxLjE3Ni4xMzYuMTk2JmlkX3JlZmVyZW5jaWE9JmlkX2Rpc3Bvc2l0aXZvPTAmaWRfZnJvbnRlbmQ9MTI4MCZwdWJsaWNfaWQ9MnNnc20sNWRmMmZiYjAwODhjM2UzYWM2NzIxMDgyMGMwNmNhMmVlODc4ZTI3NGQwY2ZlZTRkNzJhYTgwNTNhZDM4ZGEyYw==/vxfmt=hls/playlist.m3u8
 #EXTINF:-1 tvg-id="UY | Canal 10" tvg-name="UY | Canal 10" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/2014LogoCanal10.png/revision/latest/scale-to-width-down/200?cb=20220202050124&path-prefix=es" group-title="URUGUAY", 647 | Saeta TV Canal 10 || URUGUAY
 http://hplay.xyz:80/live/LVH60Ml8Hc/O4XSkHm6Yj/304342.m3u8
 #EXTINF:-1 tvg-id="UY | Teledoce" tvg-name="UY | Teledoce" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/LogoTeledoce2019Azul.png" group-title="URUGUAY", 648 | Teledoce || URUGUAY
