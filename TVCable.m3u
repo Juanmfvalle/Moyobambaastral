@@ -1155,6 +1155,12 @@ https://video01.kshost.com.br/acessweb7837/acessweb7837/playlist.m3u8
 https://h5dqr5efme.zoeweb.tv/familia/smil:familia.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BR | TV Mar" tvg-name="BR | TV Mar" tvg-logo="https://pbs.twimg.com/media/FpvSefQWIAYRK1j?format=png&name=360x360" group-title="BRASIL", 550 | TV Mar || BRASIL
 https://virtues.es:1936/tvmar/tvmar/playlist.m3u8
+#EXTINF:-1 tvg-id="BR | Soul Lab TV" tvg-name="BR | Soul Lab TV" tvg-logo="https://pbs.twimg.com/media/FuDX0-PXgAEbGQq?format=png&name=240x240" group-title="BRASIL", En prueba | Soul Lab TV || BRASIL
+https://video01.soultv.com.br/canalteste/canalteste/playlist.m3u8
+#EXTINF:-1 tvg-id="BR | Soul TV" tvg-name="BR | Soul TV" tvg-logo="https://pbs.twimg.com/media/FuDX0-PXgAEbGQq?format=png&name=240x240" group-title="BRASIL", En prueba | Soul TV || BRASIL
+https://video01.soultv.com.br/soultv/soultv/playlist.m3u8
+#EXTINF:-1 tvg-id="BR | U Miss TV" tvg-name="BR | U Miss TV" tvg-logo="https://pbs.twimg.com/profile_images/1427350688875618315/x5wP4_ix_400x400.jpg" group-title="BRASIL", En prueba | U Miss TV || BRASIL
+https://test-soultvex.akamaized.net/umiss/umiss/playlist.m3u8
 #EXTINF:-1 tvg-id="BR | ISTV" tvg-name="BR | ISTV" tvg-logo="https://istv.com.br/static/media/Logo_ISTV_01.f4e9bd182d5e3afaa8ff.png" group-title="BRASIL", En prueba | ISTV || BRASIL
 https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist.m3u8
 #EXTINF:-1 tvg-id="BR | TV Meio Norte" tvg-name="BR | TV Meio Norte" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Rede_Meio_Norte.jpg" group-title="BRASIL", En prueba | TV Meio Norte || BRASIL
@@ -1399,6 +1405,24 @@ https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/577816251906375103810199.m3u8
 #EXTINF:-1 tvg-id="BR | TV Pampa" tvg-name="BR | TV Pampa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Logotipo_da_TV_Pampa_%282021%29.png" group-title="BRASIL", En prueba | TV Pampa || BRASIL
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+#EXTINF:-1 tvg-id="BR | Inova 360 TV" tvg-name="BR | Inova 360 TV" tvg-logo="https://play-lh.googleusercontent.com/c2kn95u_-EsvsEKsN826LcUOwXdDrEYLOMOZGDzPaLfh2G77XdFwr9l6vk2wR2Tdc8g=w240-h480-rw" group-title="BRASIL", En prueba | Inova 360 TV || BRASIL
+https://video01.soultv.com.br/inova360/inova360/playlist.m3u8
+#EXTINF:-1 tvg-id="BR | Pop Bola TV" tvg-name="BR | Pop Bola TV" tvg-logo="https://yt3.googleusercontent.com/VoZRcONeAgmPukuCdcN72EE_XICNmpghY4luJ0XhqndQN81c9DMh21P7cACKb8D_LY1FTXP8=s900-c-k-c0x00ffffff-no-rj" group-title="BRASIL", En prueba | Pop Bola TV || BRASIL
+https://video01.soultv.com.br/popbola/popbola/playlist.m3u8
+#EXTINF:-1 tvg-id="BR | B Channel" tvg-name="BR | B Channel" tvg-logo="https://play-lh.googleusercontent.com/JeidTHkzKS6wWtrvYR5xqeOcRQK926oncf5InQNfyX2t4WfiTZpXPPrW2PN8kD6gLcPC=w240-h480-rw" group-title="BRASIL", En prueba | B Channel || BRASIL
+https://video01.soultv.com.br/bwe/bwe/playlist.m3u8
+#EXTINF:-1 tvg-id="BR | Universidade da Pessoa" tvg-name="BR | Universidade da Pessoa" tvg-logo="https://www.universidadedapessoa.com.br/wp-content/uploads/2023/03/Header-logo-UdP-2-2.png" group-title="BRASIL", En prueba | Universidade da Pessoa || BRASIL
+https://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
+#EXTINF:-1 tvg-id="BR | Doda Equestrian TV" tvg-name="BR | Doda Equestrian TV" tvg-logo="https://dodatrainingcenter.com.br/wp-content/uploads/2020/08/logo-branco-doda-center-260.png" group-title="BRASIL", En prueba | Doda Equestrian TV || BRASIL
+https://video01.soultv.com.br/doda/doda/playlist.m3u8
+#EXTINF:-1 tvg-id="BR | Avanca Brasil TV" tvg-name="BR | Avanca Brasil TV" tvg-logo="https://live.staticflickr.com/2053/2308291877_4e9d0bd251_c.jpg" group-title="BRASIL", En prueba | Avanca Brasil TV || BRASIL
+https://avancabrasilcod.akamaized.net/avancabrasil/avancabrasil/playlist.m3u8
+#EXTINF:-1 tvg-id="BR | Feliz 7 Play TV" tvg-name="BR | Feliz 7 Play TV" tvg-logo="https://play-lh.googleusercontent.com/T1Nhc3FOhxx-bp82uXJiufjjhT2ohPbYnMKXZBHaRJb-A__XNRac2twmOj8u8Akgzw" group-title="BRASIL", En prueba | Feliz 7 Play TV || BRASIL
+https://video01.soultv.com.br/feliz7play/feliz7play/playlist.m3u8
+#EXTINF:-1 tvg-id="BR | Noticias Agricolas TV" tvg-name="BR | Noticias Agricolas TV" tvg-logo="https://pbs.twimg.com/media/FuDRZCtWAAcinhA?format=png&name=240x240" group-title="BRASIL", En prueba | Noticias Agricolas TV || BRASIL
+https://video01.soultv.com.br/noticiasagricolas/noticiasagricolas/playlist.m3u8
+#EXTINF:-1 tvg-id="BR | The Market Guide TV" tvg-name="BR | The Market Guide TV" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0002/2413/brand.gif?itok=kY7S_V8T" group-title="BRASIL", En prueba | The Market Guide TV || BRASIL
+https://video01.soultv.com.br/tvmarketguide/tvmarketguide/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Unitel" tvg-name="BO | Unitel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/New_Unitel_logo_HD.jpg/200px-New_Unitel_logo_HD.jpg" group-title="BOLIVIA", 551 | Unitel || BOLIVIA
 https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zf5gy2mkFcZfPP2ANpeeGsxvMyLdB8o3_0z2aQ9h2UV4)/dm/3/x7vsfua/d/live-3.m3u8
 #EXTINF:-1 tvg-id="BO | Radio Televisión Popular" tvg-name="BO | Radio Televisión Popular" tvg-logo="http://www.rtpbolivia.com.bo/wp-content/uploads/sites/18/2021/05/logo-300x155.png" group-title="BOLIVIA", 552 | RTP || BOLIVIA
