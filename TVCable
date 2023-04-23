@@ -140,7 +140,7 @@ http://45.228.234.77:3340/play/tlnovelas/index.m3u8
 #EXTINF:-1 tvg-id="USA | Novelísima" tvg-name="USA | Novelísima" tvg-logo="https://www.novelisima.com/assets/images/logo.png" group-title="NOVELAS", 67 | Novelísima
 http://177.93.48.30:8550/play/a09d/index.m3u8
 #EXTINF:-1 tvg-id="MX | Las Estrellas Latinoamérica" tvg-name="MX | Las Estrellas Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/180px-Las_Estrellas.svg.png" group-title="INTERNACIONALES", 68 | Las Estrellas Latinoamérica
-http://45.160.12.253:8000/play/151
+http://45.228.234.77:3340/play/lasestrellas/index.m3u8
 #EXTINF:-1 tvg-id="USA | Univisión Latinoamérica" tvg-name="USA | Univisión Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="INTERNACIONALES", 69 | Univisión Latinoamérica
 http://181.189.243.254:8000/play/a0v0/index.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", 70 | Telemundo Internacional
@@ -152,7 +152,7 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AANDEMUNDO/40-hls/live-media.
 #EXTINF:-1 tvg-id="USA | AMC" tvg-name="USA | AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/150px-AMC_logo_2019.svg.png" group-title="PELICULAS Y SERIES", 73 | AMC
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AMC/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMC_stream_sj&_cdn_session=741619787&_cdn_timestamp=1682653812&_cdn_token=f3e70dee570aacd1dfa0863ff1d2f694b171dc20
 #EXTINF:-1 tvg-id="USA | Space" tvg-name="USA | Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="PELICULAS Y SERIES", 74 | Space
-http://45.160.15.130:2909/play/119
+http://45.5.118.226:8000/play/a0iz/index.m3u8
 #EXTINF:-1 tvg-id="USA | AXN" tvg-name="USA | AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png" group-title="PELICULAS Y SERIES", 75 | AXN
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AXN/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAXN_stream_wo&_cdn_session=741620835&_cdn_timestamp=1682653839&_cdn_token=621c1da771173e285259d5b21d0e1fe52b0f7661
 #EXTINF:-1 tvg-id="MX | Azteca Cinema" tvg-name="MX | Azteca Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TV_Azteca_Cinema_logo.svg/200px-TV_Azteca_Cinema_logo.svg.png" group-title="PELICULAS Y SERIES", 76 | Azteca Cinema
@@ -170,11 +170,11 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/SONY/10-hls/live-media.m3u8?_
 #EXTINF:-1 tvg-id="USA | Sony Movies" tvg-name="USA | Sony Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/120px-Sony_Movies_Logo.svg.png" group-title="PELICULAS Y SERIES", 82 | Sony Movies
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/SONYMOVIES/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONYMOVIES_stream_tj&_cdn_session=741629923&_cdn_timestamp=1682654091&_cdn_token=f0c4130ee3602942ccd229e318d77a3cc6d9b978
 #EXTINF:-1 tvg-id="CL | MX Family" tvg-name="CL | MX Family" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FAMILY-FONDO-2-300x169.jpg" group-title="PELICULAS Y SERIES", 83 | MX Family
-http://45.160.12.253:8000/play/120
+https://marine2.miplay.cl/mxfamily/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | MX Classic" tvg-name="CL | MX Classic" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-CLASIC-FONDO-2-300x169.jpg" group-title="PELICULAS Y SERIES", 84 | MX Classic
 https://marine2.miplay.cl/mxclassic/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | MX Prime" tvg-name="CL | MX Prime" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FONDO-2-300x169.jpg" group-title="PELICULAS Y SERIES", 85 | MX Prime
-http://45.160.12.253:8000/play/122
+https://marine2.miplay.cl/mxprime/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Old" tvg-name="CL | Old" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/OLD-FONDO-2-300x169.jpg" group-title="PELICULAS Y SERIES", 86 | Old
 https://marine2.miplay.cl/old/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | De Película" tvg-name="MX | De Película" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/250px-DPel%C3%ADcula_2021.svg.png" group-title="PELICULAS Y SERIES", 87 | De Película
@@ -261,7 +261,7 @@ http://181.189.243.254:8000/play/a0od/index.m3u8
 http://45.5.118.226:8000/play/a0ij/index.m3u8
 #EXTINF:-1 tvg-id="MX | Canal MC" tvg-name="MX | Canal MC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/150px-MC_logo_2022.png" group-title="PELICULAS Y SERIES", 128 | Canal MC
 http://160.20.165.246:8000/play/a00a/index.m3u8
-#EXTINF:-1 tvg-id="MX | Cine Mexicana" tvg-name="MX | Cine Mexicana" tvg-logo="http://cinemexicana.com/wp-content/uploads/2020/12/cropped-CINE-MEXICANA-200X200-PX-1.png" group-title="PELICULAS Y SERIES", 129 | Cine Mexicana
+#EXTINF:-1 tvg-id="MX | Cine Mexicana" tvg-name="MX | Cine Mexicana" tvg-logo="https://pbs.twimg.com/media/FuZ3-_VWYAU2ddp?format=png&name=240x240" group-title="PELICULAS Y SERIES", 129 | Cine Mexicana
 https://vpngratis.win:8443/live/CineMexicano/gsL71cr7Fk/17.m3u8
 #EXTINF:-1 tvg-id="MX | Filmex TV" tvg-name="MX | Filmex TV" tvg-logo="https://1.bp.blogspot.com/-DveaPhvYgGM/YSUgaTgHODI/AAAAAAAAENk/lW8SyPJbqd0dB8qYI422v-Da4hJNP8x-ACLcBGAsYHQ/s540/filmex-logoroku.png" group-title="PELICULAS Y SERIES", 130 | Filmex TV
 https://vpngratis.win:8443/live/CineMexicano/gsL71cr7Fk/20.m3u8
@@ -287,8 +287,8 @@ http://201.222.44.217:4000/play/a004
 http://200.48.184.156:1935/ecine/ecine/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | E Play" tvg-name="PE | E Play" tvg-logo="https://pbs.twimg.com/media/FSNVY30XMAEZsak?format=jpg&name=120x120" group-title="PELICULAS Y SERIES", 141 | E Play
 http://200.48.184.156:1935/eplay/eplay/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Cartoons" tvg-name="PE | Cartoons" tvg-logo="https://planetdigitalpe.com/wp-content/uploads/2021/10/CART-e1634787009320.png" group-title="INFANTILES", 142 | Cartoons
-http://181.176.148.142:8000/play/a021
+#EXTINF:-1 tvg-id="CL | Varied TV" tvg-name="CL | Varied TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrQBY8FAi-uiwIRZmNA7yOr1cMK1MRSi8h0Etx0EKfkIR3WEUPxPdNHkNAuNKKLTQ5f0w&usqp=CAU" group-title="INFANTILES", 142 | Varied TV
+https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Dos Kids" tvg-name="CL | Dos Kids" tvg-logo="https://pbs.twimg.com/media/FnqhNDZWQAg6Q-H?format=png&name=240x240" group-title="INFANTILES", 143 | Dos Kids TV
 http://45.160.12.253:8000/play/002
 #EXTINF:-1 tvg-id="AR | Magic Kids" tvg-name="AR | Magic Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logomagic96.png/145px-Logomagic96.png" group-title="INFANTILES", 144 | Magic Kids
@@ -412,7 +412,7 @@ http://181.189.243.254:8000/play/a0o7/index.m3u8
 #EXTINF:-1 tvg-id="UK | BBC World News" tvg-name="UK | BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/170px-BBC_World_News_2022_%28Boxed%29.svg.png" group-title="NOTICIAS E INFORMACION", 203 | BBC World News
 http://181.189.243.254:8000/play/a0pt/index.m3u8
 #EXTINF:-1 tvg-id="CL | Canal 24 Horas" tvg-name="CL | Canal 24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png" group-title="NOTICIAS E INFORMACION", 204 | Canal 24 Horas
-http://45.160.12.253:8000/play/052
+http://45.71.252.67:8000/play/a0ek/index.m3u8
 #EXTINF:-1 tvg-id="USA | Lifetime" tvg-name="USA | Lifetime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/150px-Logo_Lifetime_2020.svg.png" group-title="MISCELANEO", 205 | Lifetime
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/LIFETIME/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLIFETIME_stream_sl&_cdn_session=741646987&_cdn_timestamp=1682654536&_cdn_token=f54bfef5e6fe57387790de2546f644ff41dc8864
 #EXTINF:-1 tvg-id="VE | Ve Plus" tvg-name="VE | Ve Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ve_Plus_Logo_2019.png/130px-Ve_Plus_Logo_2019.png" group-title="MISCELANEO", 206 | Ve Plus
@@ -545,8 +545,10 @@ http://181.189.243.254:8000/play/a0pn/index.m3u8
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq&sid=H35JGFJtTorKu8yyo7nztAy4KIUVgJkx&pid=uf6dMZlhGP30u0KO5TmWpO8utXYJqOKN&an=screen&at=web-app&av=v5.2.278&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=774x387&without_cookies=false&listenerid=&dnt=true
 #EXTINF:-1 tvg-id="MX | Concert Channel" tvg-name="MX | Concert Channel" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/b/bc/Gallery_1157_7_147957.png/revision/latest/scale-to-width-down/250?cb=20150406181433&path-prefix=es" group-title="MUSICA Y REALITIES", 268 | Concert Channel
 http://45.5.118.226:8000/play/a02r/index.m3u8
-#EXTINF:-1 tvg-id="MX | Exa TV" tvg-name="MX | Exa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Exa_TV_logo.svg/320px-Exa_TV_logo.svg.png" group-title="MUSICA Y REALITIES", 269 | Exa TV
+#EXTINF:-1 tvg-id="MX | Exa TV" tvg-name="MX | Exa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Exa_TV_logo.svg/320px-Exa_TV_logo.svg.png" group-title="MUSICA Y REALITIES", En prueba | Exa TV
 http://45.5.118.226:8000/play/a0hk/index.m3u8
+#EXTINF:-1 tvg-id="USA | Hispanic Televisión" tvg-name="USA | Hispanic Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/120px-Htv_logo.svg.png" group-title="MUSICA Y REALITIES", 269 | HTV
+http://177.93.48.30:8550/play/a0ad/index.m3u8
 #EXTINF:-1 tvg-id="CL | Old Music TV" tvg-name="CL | Old Music TV" tvg-logo="https://pbs.twimg.com/media/FSimCx8X0AI_8QI?format=png&name=small" group-title="MUSICA Y REALITIES", 270 | Old Music Televisión
 https://marine2.miplay.cl/oldmusic/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Memorias TV" tvg-name="USA | Memorias TV" tvg-logo="https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1-224x96.png" group-title="MUSICA Y REALITIES", 271 | Memorias TV
@@ -694,7 +696,7 @@ https://rtmp.info/sanjosetv/envivo/playlist.m3u8
 #EXTINF:-1 tvg-id="GT | Jesús TV" tvg-name="GT | Jesús TV" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=451x10000:format=png/path/s198f7be6c90b5aac/image/i8fae4ee760f1a4c4/version/1512317356/image.png" group-title="RELIGIOSOS", 342 | Jesús TV
 https://cdn.streamhispanatv.net:3189/live/jesustvlive.m3u8
 #EXTINF:-1 tvg-id="CL | Red de Fe TV" tvg-name="CL | Red de Fe TV" tvg-logo="https://pbs.twimg.com/media/FfMcn_kWAAEAW3L?format=png&name=small" group-title="RELIGIOSOS", 343 | Red de Fe TV
-http://45.160.12.253:8000/play/043
+http://201.222.44.217:4000/play/a00g
 #EXTINF:-1 tvg-id="SV | Televisión Católica Arquidiocesana" tvg-name="SV | Televisión Católica Arquidiocesana" tvg-logo="https://e37379c613.cbaul-cdnwnd.com/8191f8fb2663827d6832f15f6cac7288/200000008-c59cec6961/450/Logo%20TVCa%202017.png?ph=e37379c613" group-title="RELIGIOSOS", 344 | Televisión Católica Arquidiocesana
 https://tv.infosal.com:5443/LiveApp/streams/Kwx2mYhliJWX1678203593438.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
 #EXTINF:-1 tvg-id="DO | El Viviente TV" tvg-name="DO | El Viviente TV" tvg-logo="https://image.roku.com/developer_channels/prod/f74787def518f73a0059e57f99e108d137bdaa0483fefacfca1b700b22a8833b.png" group-title="RELIGIOSOS", 345 | El Viviente TV
@@ -1435,6 +1437,12 @@ http://200.119.222.198:25470/play/a021/index.m3u8
 https://master.tucableip.com//pat/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BO | Cadena A" tvg-name="BO | Cadena A" tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2022/03/logoaweb.png" group-title="BOLIVIA", 558 | Cadena A || BOLIVIA
 http://200.119.222.198:25470/play/a02i/index.m3u8
+#EXTINF:-1 tvg-id="BO | Tele Estrella" tvg-name="BO | Tele Estrella" tvg-logo="https://teleestrella.tv.bo/wp-content/uploads/2023/02/Imagen1-4-1024x336.png" group-title="BOLIVIA", En prueba | Tele Estrella || BOLIVIA
+http://190.186.147.95:8000/play/a015/index.m3u8
+#EXTINF:-1 tvg-id="BO | Agro TV" tvg-name="BO | Agro TV" tvg-logo="https://teleestrella.tv.bo/wp-content/uploads/2023/01/logo-agro-trasnparente-1024x394.png" group-title="BOLIVIA", En prueba | Agro TV || BOLIVIA
+https://solo.disfrutaenlared.com:1936/agrotv/agrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="BO | Tele Fe" tvg-name="BO | Tele Fe" tvg-logo="https://teleestrella.tv.bo/wp-content/uploads/2023/01/LOGO-ROJO-TRANS-1.png" group-title="BOLIVIA", En prueba | Tele Fe || BOLIVIA
+https://solo.disfrutaenlared.com:1936/telefe/telefe/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Palenque TV" tvg-name="BO | Palenque TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVSX8VOp-k6dgb90qS-RRdpzUbpylHrXX5wu84G=s900-c-k-c0x00ffffff-no-rj" group-title="BOLIVIA", 559 | Palenque TV || BOLIVIA
 https://tv.bitstreaming.net:3234/multi_live/play.m3u8
 #EXTINF:-1 tvg-id="BO | Abya Yala TV" tvg-name="BO | Abya Yala TV" tvg-logo="https://www.prensa-latina.cu/wp-content/uploads/2022/08/abya-yala-tv.jpg" group-title="BOLIVIA", 560 | Abya Yala TV || BOLIVIA
@@ -1470,7 +1478,7 @@ https://livefocamundo.com:8081/megavisiontv/index.m3u8
 #EXTINF:-1 tvg-id="BO | TVU UAGRM" tvg-name="BO | TVU UAGRM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYpDoNGTJgjUkLWDgenXS7O9CJIsgYse4fln3CBEDk2jhT4HYy7kim_w9BlMwxNl5vyRI&usqp=CAU" group-title="BOLIVIA", 573 | TVU UAGRM || BOLIVIA
 http://200.119.222.198:25470/play/a022/index.m3u8
 #EXTINF:-1 tvg-id="BO | Gigavisión" tvg-name="BO | Gigavisión" tvg-logo="https://pbs.twimg.com/profile_images/889663440620531712/JlKtXQYa_400x400.jpg" group-title="BOLIVIA", 574 | Gigavisión || BOLIVIA
-http://200.119.222.198:25470/play/a02g/index.m3u8
+http://190.186.147.95:8000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-id="BO | TV Latina" tvg-name="BO | TV Latina" tvg-logo="https://www.audiokiss.com/tvlatina/wp-content/uploads/sites/7/2021/03/logo-tvlatina.png" group-title="BOLIVIA", 575 | TV Latina || BOLIVIA
 https://master.tucableip.com/live/tvlatinamontero/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Imperial TV" tvg-name="BO | Imperial TV" tvg-logo="https://imperialradiotv.com/wp-content/uploads/2022/09/logo-imperial-tv-oficial-alfa-fondo-blanco-1024x614.jpg" group-title="BOLIVIA", 576 | Imperial Televisión || BOLIVIA
@@ -2274,9 +2282,9 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXNEWS/20-hls/live-media.m3u
 #EXTINF:-1 tvg-id="USA | PIX11 News" tvg-name="USA | PIX11 News" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJX9UNIXSTitdn0NXKNIqp7iyOgYCym5h6OTMmD5hT0=s88-c-k-c0x00ffffff-no-rj" group-title="ESTADOS UNIDOS DE AMÉRICA", 922 | PIX11 News || ESTADOS UNIDOS DE AMÉRICA
 http://190.122.96.187:8888/http/005
 #EXTINF:-1 tvg-id="ES | La 1" tvg-name="ES | La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/125px-Logo_TVE-1.svg.png" group-title="ESPAÑA", 923 | La 1 || ESPAÑA
-https://ztnr.rtve.es/ztnr/1688877.m3u8
+http://51.91.8.161:18000/LA_1/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="ES | La 2" tvg-name="ES | La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/800px-Logo_TVE-2.svg.png" group-title="ESPAÑA", 924 | La 2 || ESPAÑA
-https://ztnr.rtve.es/ztnr/1688885.m3u8
+http://51.91.8.161:18000/LA_2/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="ES | Antena 3" tvg-name="ES | Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/125px-Antena_3_%282017%29.svg.png" group-title="ESPAÑA", 925 | Antena 3 || ESPAÑA
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ANTENA3/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DANTENA3_stream_9o&_cdn_session=741683819&_cdn_timestamp=1682655694&_cdn_token=d12aa114078c61b9fc8f0b49bebcfdd2c5de0a96
 #EXTINF:-1 tvg-id="ES | La Siete" tvg-name="ES | La Siete" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Siete.svg/150px-Siete.svg.png" group-title="ESPAÑA", 926 | La Siete || ESPAÑA
@@ -2305,6 +2313,8 @@ http://37.187.7.106/teleribera/live.m3u8
 https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?DVR&test
 #EXTINF:-1 tvg-id="ES | Canal Málaga" tvg-name="ES | Canal Málaga" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/uksr3vhttzzx.png" group-title="ESPAÑA", 938 | Canal Málaga || ESPAÑA
 https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="ES | National Geographic Wild" tvg-name="ES | National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/175px-National_Geographic_Wild_logo.svg.png" group-title="ESPAÑA", En prueba | National Geographic Wild || ESPAÑA
+http://51.91.8.161:18000/Nat_Geo_Wild/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="JP | NHK World" tvg-name="JP | NHK World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/245px-NHK_World.svg.png" group-title="JAPON", 939 | NHK World || JAPON
 https://cdn.nhkworld.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 tvg-id="KR | Asian TV" tvg-name="KR | Asian TV" tvg-logo="https://tv-iteractiva-prod.s3.amazonaws.com/media/brand/ASIANTV_LOGO_PRETO-01_menor_DURXi6G.png" group-title="KOREA DEL SUR", 940 | Asian TV || KOREA DEL SUR
