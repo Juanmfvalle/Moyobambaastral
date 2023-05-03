@@ -441,6 +441,8 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/HOMEANDHEALTH/40-hls/live-med
 https://marine2.miplay.cl/ontour/playlist.m3u8
 #EXTINF:-1 tvg-id="VE | Sun Channel" tvg-name="VE | Sun Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sun_Channel_Logo_2022.webp/150px-Sun_Channel_Logo_2022.webp.png" group-title="ESTILOS DE VIDA", Sun Channel
 http://181.189.243.254:8000/play/a0r9/index.m3u8
+#EXTINF:-1 tvg-id="CO | Hogar TV" tvg-name="CO | Hogar TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqNl2jABAaUSC58vqjDlAol9fx802jiaoGGBKggA=s900-c-k-c0x00ffffff-no-rj" group-title="ESTILOS DE VIDA", Hogar TV
+http://190.0.246.174:30000/play/tr055
 #EXTINF:-1 tvg-id="AR | El Gourmet TV" tvg-name="AR | El Gourmet TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/160px-Elgourmetlogo2015.png" group-title="GASTRONOMÍA", El Gourmet Televisión
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/GOURMET/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGOURMET_stream_g4&_cdn_session=767032211&_cdn_timestamp=1683209983&_cdn_token=8c320d66614ddacb32fe2ce2f55e8cea5b59e75d
 #EXTINF:-1 tvg-id="USA | Food Network" tvg-name="USA | Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/150px-Food_Network_New_Logo.png" group-title="GASTRONOMÍA", Food Network
@@ -563,6 +565,8 @@ https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | Telenostalgia" tvg-name="CO | Telenostalgia" tvg-logo="https://canaltelenostalgia.com/wp-content/uploads/2022/03/logo_telenostalgia.png" group-title="MUSICA Y REALITIES", Telenostalgia
 http://190.0.246.174:30000/play/tr049
+#EXTINF:-1 tvg-id="MX | Video Rola" tvg-name="MX | Video Rola" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lg_videorola-300x199.png/200px-Lg_videorola-300x199.png" group-title="MUSICA Y REALITIES", Video Rola
+http://190.0.246.174:30000/play/tr050
 #EXTINF:-1 tvg-id="PE | Top Latino" tvg-name="PE | Top Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png/150px-LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="MUSICA Y REALITIES", Top Latino TV
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="DO | Fuego 40 El canal del pueblo" tvg-name="DO | Fuego 40 El canal del pueblo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUsURmYDu5MKZt_f59t-k2RIegQiWUbRp4X4PTLhm9BXR2qWUfuuYrCMWbaxVb3lhRhLk&usqp=CAU" group-title="MUSICA Y REALITIES", Fuego 40 TV
