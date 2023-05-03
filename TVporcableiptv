@@ -2279,6 +2279,8 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/CNBC/40-hls/live-media.m3u8?_
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXNEWS/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXNEWS_stream_kw&_cdn_session=767054891&_cdn_timestamp=1683210596&_cdn_token=c4ceb2857b4f5ba85a60f70435cea9021743d757
 #EXTINF:-1 tvg-id="USA | PIX11 News" tvg-name="USA | PIX11 News" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJX9UNIXSTitdn0NXKNIqp7iyOgYCym5h6OTMmD5hT0=s88-c-k-c0x00ffffff-no-rj" group-title="ESTADOS UNIDOS DE AMÉRICA", PIX11 News || ESTADOS UNIDOS DE AMÉRICA
 http://190.122.96.187:8888/http/005
+#EXTINF:-1 tvg-id="ES | TVE" tvg-name="ES | TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/150px-Logo_TVE-Internacional.svg.png" group-title="INTERNACIONALES", TVE || ESPAÑA
+http://45.5.119.202:54321/play/a05u/index.m3u8
 #EXTINF:-1 tvg-id="ES | La 1" tvg-name="ES | La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/125px-Logo_TVE-1.svg.png" group-title="ESPAÑA", La 1 || ESPAÑA
 http://51.91.8.161:18000/LA_1/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="ES | La 2" tvg-name="ES | La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/800px-Logo_TVE-2.svg.png" group-title="ESPAÑA", La 2 || ESPAÑA
