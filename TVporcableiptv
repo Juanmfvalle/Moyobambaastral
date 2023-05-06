@@ -139,6 +139,8 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/KANALD/40-hls/live-media.m3u8
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AZCORAZON/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZCORAZON_stream_p3&_cdn_session=782749243&_cdn_timestamp=1683604155&_cdn_token=f63c9b1bb8b77f8d76b1224379643df64cf39cdf
 #EXTINF:-1 tvg-id="MX | Tlnovelas" tvg-name="MX | Tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="NOVELAS", Tlnovelas
 http://45.228.234.77:3340/play/tlnovelas/index.m3u8
+#EXTINF:-1 tvg-id="USA | Univision TLNovelas" tvg-name="USA | Univision TLNovelas" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/univision_tlnovelas-mediano.png" group-title="NOVELAS", Univision TLNovelas
+http://181.209.159.246:9292/play/unitlnovelas/index.m3u8
 #EXTINF:-1 tvg-id="MX | Las Estrellas Latinoamérica" tvg-name="MX | Las Estrellas Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/180px-Las_Estrellas.svg.png" group-title="INTERNACIONALES", Las Estrellas Latinoamérica
 http://201.222.44.220:4227/play/a02v/index.m3u8
 #EXTINF:-1 tvg-id="USA | Univisión Latinoamérica" tvg-name="USA | Univisión Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="INTERNACIONALES", Univisión Latinoamérica
@@ -684,7 +686,7 @@ https://ott2.hdlatam.tv/live_abr/Stream42/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | JN19" tvg-name="PE | JN19" tvg-logo="http://www.jn19television.com/templates/televid_23/images/object979167786.png" group-title="RELIGIOSOS", JN19 Televisión
 https://servilive.com:3149/live/jn19tvlive.m3u8
 #EXTINF:-1 tvg-id="DO | La Voz de María" tvg-name="DO | La Voz de María" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTRyXwicJcx52VUr5lYKMVMnrvlwvhS4HFMFr-W=s900-c-k-c0x00ffffff-no-rj" group-title="RELIGIOSOS", La Voz de María TV
-http://45.5.118.226:8000/play/a0id/index.m3u8
+http://51.81.93.239:8084/hls/lavozdemaria.m3u8
 #EXTINF:-1 tvg-id="DO | Tele Vida" tvg-name="DO | Tele Vida" tvg-logo="https://televida.org.do/wp-content/uploads/2018/02/LOGOS_TELEVIDA_Movil-01.png" group-title="RELIGIOSOS", Tele Vida
 http://181.189.243.254:8000/play/a0of/index.m3u8
 #EXTINF:-1 tvg-id="NI | JBN Canal 39" tvg-name="NI | JBN Canal 39" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSFAwOxRl_Q_NdWj-oIOGI7e7VC7UoNrdt3Kqm3=s88-c-k-c0x00ffffff-no-rj" group-title="RELIGIOSOS", JBN Canal 39
@@ -1774,7 +1776,7 @@ http://185.246.86.135:25461/live/app10/app100/1.m3u8
 #EXTINF:-1 tvg-id="SV | Asamblea Legislativa TV" tvg-name="SV | Asamblea Legislativa TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/9TV_El_Salvador_%282018%29.png/revision/latest/scale-to-width-down/300?cb=20191116000236" group-title="EL SALVADOR", TV Legislativa || EL SALVADOR
 https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
 #EXTINF:-1 tvg-id="SV | Canal 10" tvg-name="SV | Canal 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Canal_10_%28El_Salvador%29_2019.svg/200px-Canal_10_%28El_Salvador%29_2019.svg.png" group-title="EL SALVADOR", Canal 10 || EL SALVADOR
-http://abc123.digital:8080/live/Jones112b@msn.com/NmI7NaNqW8/495496.m3u8
+http://181.189.243.198:8000/play/a06e/index.m3u8
 #EXTINF:-1 tvg-id="SV | Canal 11 TUTV" tvg-name="SV | Canal 11 TUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/TUTV_11_2014.png/150px-TUTV_11_2014.png" group-title="EL SALVADOR", Canal 11 TUTV || EL SALVADOR
 https://streaming.grupocsanetwork.net:1936/canal11/canal11/playlist.m3u8
 #EXTINF:-1 tvg-id="SV | Canal 12" tvg-name="SV | Canal 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Canal_12_El_Salvador_2018.png/150px-Canal_12_El_Salvador_2018.png" group-title="EL SALVADOR", Canal 12 || EL SALVADOR
@@ -2220,11 +2222,11 @@ https://bgtv.site/play/bud-400.php?token=blackghososost&c=2066-901704
 #EXTINF:-1 tvg-id="MX | Las Estrellas" tvg-name="MX | Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/180px-Las_Estrellas.svg.png" group-title="MEXICO", Las Estrellas
 http://45.228.234.77:3340/play/lasestrellas/index.m3u8
 #EXTINF:-1 tvg-id="MX | Canal 5" tvg-name="MX | Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/120px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO", Canal 5 || MÉXICO
-http://hplay.xyz:80/live/LVH60Ml8Hc/O4XSkHm6Yj/302619.m3u8
+http://181.209.159.246:9292/play/canal5/index.m3u8
 #EXTINF:-1 tvg-id="MX | Multimedios Televisión Canal 6" tvg-name="MX | Multimedios Televisión Canal 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/150px-Multimedios_Canal_Seis_Logo.svg.png" group-title="MEXICO", Multimedios Televisión Canal 6 || MÉXICO
 https://bgtv.site/play/bud-400.php?token=blackghososost&c=5234-901704
 #EXTINF:-1 tvg-id="MX | Azteca 7" tvg-name="MX | Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/150px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO", Azteca 7 || MÉXICO
-http://hplay.xyz:80/live/LVH60Ml8Hc/O4XSkHm6Yj/302683.m3u8
+http://181.209.159.246:9292/play/azteca7/index.m3u8
 #EXTINF:-1 tvg-id="MX | Imagen Televisión" tvg-name="MX | Imagen Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/140px-Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="MEXICO", Imagen Televisión || MÉXICO
 http://hplay.xyz:80/live/LVH60Ml8Hc/O4XSkHm6Yj/302675.m3u8
 #EXTINF:-1 tvg-id="MX | Nu9ve" tvg-name="MX | Nu9ve" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_mexico-mediano.png" group-title="MEXICO", Nu9ve || MÉXICO
