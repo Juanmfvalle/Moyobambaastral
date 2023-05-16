@@ -760,11 +760,11 @@ https://cdn.streamhispanatv.net:3155/live/penielkidslive.m3u8
 #EXTINF:-1 tvg-id="GT | Peniel Musical TV" tvg-name="GT | Peniel Musical TV" tvg-logo="https://static.wixstatic.com/media/7acae1_4de9f35196f946b396cb18a58fb9c041~mv2.png" group-title="RELIGIOSOS", 374.3 | Peniel Musical TV
 https://cdn.streamhispanatv.net:3533/live/penielmusicagtlive.m3u8
 #EXTINF:-1 tvg-id="PE | Bethel TV" tvg-name="PE | Bethel TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Bethel-Televisi%C3%B3n-en-vivo-Online-100x70.png" group-title="RELIGIOSOS", 375 | Bethel TV
-http://45.190.13.50:8003/play/a02j/index.m3u8
+http://190.90.251.194:8921/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="USA | TV Peruanísima" tvg-name="USA | TV Peruanísima" tvg-logo="http://tvperuanisima.com/wp-content/uploads/2021/07/cropped-Logo-150x113-1.png" group-title="INTERNACIONALES", 376 | TV Peruanísima
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
 #EXTINF:-1 tvg-id="BR | Perú Channel" tvg-name="BR | Perú Channel" tvg-logo="https://pbs.twimg.com/profile_images/1385792142329647107/iBTUTc12_400x400.jpg" group-title="INTERNACIONALES", 377 | Perú Channel
-https://stmv3.duvoxtv.com.br/novelapl/novelapl/playlist.m3u8
+https://stmv1.duvoxtv.com.br/peruchannel/peruchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Onda Digital" tvg-name="PE | Onda Digital" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQRrS2R_HFcGI0RVqhw9IN02y3s05eq4oq10yZ5UQ=s88-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", 378 | Onda Digital Noticias
 https://v4.tustreaming.cl/ondadigitaltv/index.m3u8
 #EXTINF:-1 tvg-id="PE | Onda Digital 2" tvg-name="PE | Onda Digital 2" tvg-logo="https://i0.wp.com/ondadigitaltv.com/wp-content/uploads/2020/07/LOGO-ODTV-2.png?resize=300%2C269&ssl=1" group-title="REGIONALES", 378.2 | Onda Digital 2
@@ -793,8 +793,8 @@ https://inliveserver.com:1936/9502/9502/playlist.m3u8
 https://ott1.hdlatam.tv/live/Canal_B/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Monterrico TV" tvg-name="PE | Monterrico TV" tvg-logo="https://hipodromodemonterrico.com.pe/generales_logos_hipodromos/logo_mont.gif" group-title="REGIONALES", 390 | Monterrico TV || Lima
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Sumac TV" tvg-name="PE | Sumac TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRkCtud5pzoChHufH1ByO4QaQ1R1nmavjaNH3YY=s88-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", 391 | Sumac TV || Lima
-https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8
+#EXTINF:-1 tvg-id="PE | Tele Lima" tvg-name="PE | Tele Lima" tvg-logo="https://pbs.twimg.com/media/FwOtdL0XoAAV01H?format=png&name=small" group-title="REGIONALES", 391 | Tele Lima
+http://191.97.60.193:10000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="PE | Red de Comunicación Regional" tvg-name="PE | Red de Comunicación Regional" tvg-logo="https://www.rcrperu.com/wp-content/uploads/2019/10/logo-rcr.png" group-title="REGIONALES", 392 | RCR TV || Lima
 https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Señal Perú TV" tvg-name="PE | Señal Perú TV" tvg-logo="https://señalperutv.pe/wp-content/uploads/2022/08/mg_2.gif" group-title="REGIONALES", 393 | Señal Perú TV || Surquillo; Lima
@@ -811,10 +811,10 @@ https://inliveserver.com:1936/19004/19004/playlist.m3u8
 https://ott1.hdlatam.tv/live/ondaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Pro TV Kachorro" tvg-name="PE | Pro TV Kachorro" tvg-logo="https://www.kachorroprotv.com/wp-content/uploads/2021/04/logo-kachorro.jpg" group-title="REGIONALES", 399 | Pro TV Kachorro || Lima
 https://tvdatta.com:3517/live/kachorrotvlive.m3u8
-#EXTINF:-1 tvg-id="PE | Región TV" tvg-name="PE | Región TV" tvg-logo="https://regionteve.com/wp-content/uploads/2020/12/REGIONTV7.png" group-title="REGIONALES", 400 | Región TV || Callao
+#EXTINF:-1 tvg-id="PE | Latin Cable TV" tvg-name="PE | Latin Cable TV" tvg-logo="https://www.latincable.pe/images/logo.png" group-title="REGIONALES", 400 | Latin Cable TV || Lima
+https://mserver.latincable.net/LatinHuari/index.m3u8
+#EXTINF:-1 tvg-id="PE | Región TV" tvg-name="PE | Región TV" tvg-logo="https://regionteve.com/wp-content/uploads/2020/12/REGIONTV7.png" group-title="REGIONALES", 401 | Región TV || Callao
 https://servilive.com:3757/live/regiontvlive.m3u8
-#EXTINF:-1 tvg-id="PE | Hechicera TV" tvg-name="PE | Hechicera TV" tvg-logo="https://diariohechicera.com/wp-content/uploads/2021/08/NEWlogo_hechicera@2x.png" group-title="REGIONALES", 401 | Hechicera TV || Tumbes
-https://panel.streamingtv-mediacp.online:1936/8108/8108/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Tumpis TV" tvg-name="PE | Tumpis TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTZD3NA2RjS1ingWVBdTcATdEzv-tn3NgdLTjZr=s88-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", 402 | Tumpis TV || Tumbes
 https://servilive.com:3531/stream/play.m3u8
 #EXTINF:-1 tvg-id="PE | Piura TV" tvg-name="PE | Piura TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/PiuraTVCanal.png" group-title="REGIONALES", 403 | Piura TV || Piura
