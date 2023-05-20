@@ -150,7 +150,7 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AANDEMUNDO/40-hls/live-media.
 #EXTINF:-1 tvg-id="USA | AMC" tvg-name="USA | AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/150px-AMC_logo_2019.svg.png" group-title="PELICULAS Y SERIES", 72 | AMC
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AMC/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMC_stream_sj&_cdn_session=824732003&_cdn_timestamp=1684805485&_cdn_token=a44377dcb1c334be08b3405037203923a254e258
 #EXTINF:-1 tvg-id="USA | Space" tvg-name="USA | Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="PELICULAS Y SERIES", 73 | Space
-http://45.5.119.155:8000/play/a0iz/index.m3u8
+http://190.43.232.140:8000/play/a089/index.m3u8
 #EXTINF:-1 tvg-id="USA | AXN" tvg-name="USA | AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png" group-title="PELICULAS Y SERIES", 74 | AXN
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AXN/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAXN_stream_wo&_cdn_session=824738955&_cdn_timestamp=1684805609&_cdn_token=13dd14175971506d5f7455eff598ff9f86c9c43c
 #EXTINF:-1 tvg-id="MX | Azteca Cinema" tvg-name="MX | Azteca Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TV_Azteca_Cinema_logo.svg/200px-TV_Azteca_Cinema_logo.svg.png" group-title="PELICULAS Y SERIES", 75 | Azteca Cinema
@@ -254,7 +254,7 @@ http://181.189.243.254:8000/play/a0ta/index.m3u8
 #EXTINF:-1 tvg-id="MX | Cine Latino" tvg-name="MX | Cine Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cine_Latino_logo.svg/150px-Cine_Latino_logo.svg.png" group-title="PELICULAS Y SERIES", 124 | Cine Latino
 http://45.5.119.155:8000/play/a0ik/index.m3u8
 #EXTINF:-1 tvg-id="MX | Golden" tvg-name="MX | Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/245px-Canal_Golden_logo.svg.png" group-title="PELICULAS Y SERIES", 125 | Golden
-http://45.5.119.155:8000/play/a0jv/index.m3u8
+http://45.228.234.77:3340/play/goldenedge/index.m3u8
 #EXTINF:-1 tvg-id="MX | Golden Premier" tvg-name="MX | Golden Premier" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="PELICULAS Y SERIES", 126 | Golden Premier
 http://181.189.243.198:8000/play/a02u/index.m3u8
 #EXTINF:-1 tvg-id="MX | Golden Premier 2" tvg-name="MX | Golden Premier 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es" group-title="PELICULAS Y SERIES", 127 | Golden Premier 2
@@ -496,11 +496,11 @@ http://181.189.243.254:8000/play/a0t3/index.m3u8
 #EXTINF:-1 tvg-id="HN | Todo Deportes TV" tvg-name="HN | Todo Deportes TV" tvg-logo="https://dd7tel2830j4w.cloudfront.net/f1560359694028x167785582725733730/Group%2012.svg" group-title="DEPORTES", 244 | Todo Deportes TV
 https://5fe2654d6127d.streamlock.net/tododeportesplus/smil:tododeportesplus.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNy8yMDIzIDM6NTI6MTggQU0maGFzaF92YWx1ZT0xdzF1bnpmZDJEMzNycG9zSFdmcnVBPT0mdmFsaWRtaW51dGVzPTM2MDAmaWQ9
 #EXTINF:-1 tvg-id="PE | GolTV" tvg-name="PE | GolTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/320px-GolTV_logo.svg.png" group-title="DEPORTES", 245 | GolTV
-http://190.119.178.46:8000/play/a00r/index.m3u8
+http://190.43.232.140:8000/play/a069/index.m3u8
 #EXTINF:-1 tvg-id="PE | Gol Perú" tvg-name="PE | Gol Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/245px-Gol_Per%C3%BA_2019.svg.png" group-title="DEPORTES", 246 | Gol Perú
-http://190.119.178.46:8000/play/a00x/index.m3u8
+http://190.43.232.140:8000/play/a06d/index.m3u8
 #EXTINF:-1 tvg-id="PE | Movistar Deportes" tvg-name="PE | Movistar Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/200px-Movistar_Deportes.svg.png" group-title="DEPORTES", 247 | Movistar Deportes
-http://190.119.178.46:8000/play/a00k/index.m3u8
+http://190.43.232.140:8000/play/a065/index.m3u8
 #EXTINF:-1 tvg-id="MX | TVC Deportes" tvg-name="MX | TVC Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/TVCDeportes.png" group-title="DEPORTES", 248 | TVC Deportes
 http://live.budtvlight.com:25461/Luna001/18dabf00/53407
 #EXTINF:-1 tvg-id="USA | TUDN" tvg-name="USA | TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/200px-TUDN_Logo.svg.png" group-title="DEPORTES", 249 | TUDN
