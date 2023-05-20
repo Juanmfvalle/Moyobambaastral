@@ -2283,16 +2283,16 @@ http://45.141.194.9:9000/play/a00y/index.m3u8
 http://45.141.194.9:9000/play/a00z/index.m3u8
 #EXTINF:-1 tvg-id="ES | Antena 3" tvg-name="ES | Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/125px-Antena_3_%282017%29.svg.png" group-title="ESPAÑA", 1126 | Antena 3 || ESPAÑA
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ANTENA3/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DANTENA3_stream_9o&_cdn_session=824876371&_cdn_timestamp=1684807693&_cdn_token=3a679a03ad32a38a995079ef165d5c08c3bc49e1
-#EXTINF:-1 tvg-id="ES | Telecinco" tvg-name="ES | Telecinco" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/125px-Telecinco.svg.png" group-title="ESPAÑA", 1127 | Telecinco || ESPAÑA
+#EXTINF:-1 tvg-id="ES | Cuatro" tvg-name="ES | Cuatro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/250px-Cuatro.svg.png" group-title="ESPAÑA", 1127 | Cuatro || ESPAÑA
+http://45.141.194.9:9000/play/a01j/index.m3u8
+#EXTINF:-1 tvg-id="ES | Telecinco" tvg-name="ES | Telecinco" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/125px-Telecinco.svg.png" group-title="ESPAÑA", 1128 | Telecinco || ESPAÑA
 http://45.141.194.9:9000/play/a02s/index.m3u8
-#EXTINF:-1 tvg-id="ES | Star TVE HD" tvg-name="ES | Star TVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star-TVE-logo.png/200px-Star-TVE-logo.png" group-title="ESPAÑA", 1128 | Star TVE HD || ESPAÑA
+#EXTINF:-1 tvg-id="ES | Star TVE HD" tvg-name="ES | Star TVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star-TVE-logo.png/200px-Star-TVE-logo.png" group-title="ESPAÑA", 1129 | Star TVE HD || ESPAÑA
 http://181.189.243.254:8000/play/a0qf/index.m3u8
-#EXTINF:-1 tvg-id="ES | Telemadrid" tvg-name="ES | Telemadrid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/245px-TeleMadrid.svg.png" group-title="ESPAÑA", 1129 | Telemadrid || ESPAÑA
+#EXTINF:-1 tvg-id="ES | Telemadrid" tvg-name="ES | Telemadrid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/245px-TeleMadrid.svg.png" group-title="ESPAÑA", 1130 | Telemadrid || ESPAÑA
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
-#EXTINF:-1 tvg-id="ES | TV Galicia América" tvg-name="ES | TV Galicia América" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/75px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="ESPAÑA", 1130 | TV Galicia América || ESPAÑA
+#EXTINF:-1 tvg-id="ES | TV Galicia América" tvg-name="ES | TV Galicia América" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/75px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="ESPAÑA", 1131 | TV Galicia América || ESPAÑA
 https://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
-#EXTINF:-1 tvg-id="ES | Córdoba TV" tvg-name="ES | Córdoba TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSgVgo2JIuWIRczlo8FaYXvLw9PdUl9-wMezPIEyg=s900-c-k-c0x00ffffff-no-rj" group-title="ESPAÑA", 1131 | Córdoba TV || ESPAÑA
-https://customer-5g1vs7rwra6vdqdo.cloudflarestream.com/5f236e9b75b79c0347dd122930c1e261/manifest/video.m3u8
 #EXTINF:-1 tvg-id="ES | Radio Televisión Mogan" tvg-name="ES | Radio Televisión Mogan" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR9a3Cn4uJLbEkRS4XPaymSOXxbfkwIpfbvSF_P=s900-c-k-c0x00ffffff-no-rj" group-title="ESPAÑA", 1132 | Radio Televisión Mogan || ESPAÑA
 https://cloudvideo.servers10.com:8081/8028/index.m3u8
 #EXTINF:-1 tvg-id="ES | Costa del Sol TV" tvg-name="ES | Costa del Sol TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJX_hsF83yqZtuAfSJ6Idywzr0aOFiKKg1Ui13-y-A=s900-c-k-c0x00ffffff-no-rj" group-title="ESPAÑA", 1133 | Costa del Sol TV || ESPAÑA
@@ -2314,7 +2314,7 @@ https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3
 #EXTINF:-1 tvg-id="ES | National Geographic" tvg-name="ES | National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png" group-title="ESPAÑA", 1141 | National Geographic || ESPAÑA
 http://45.141.194.9:9000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-id="ES | National Geographic Wild" tvg-name="ES | National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/175px-National_Geographic_Wild_logo.svg.png" group-title="ESPAÑA", 1142 | National Geographic Wild || ESPAÑA
-http://45.141.194.9:9000/play/a012/index.m3u8
+http://51.91.8.161:18000/Nat_Geo_Wild/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="ES | Historia" tvg-name="ES | Historia" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/HIST" group-title="ESPAÑA", 1143 | Historia || ESPAÑA
 http://45.141.194.9:9000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="ES | Discovery" tvg-name="ES | Discovery" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DCR" group-title="ESPAÑA", 1144 | Discovery || ESPAÑA
