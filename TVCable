@@ -216,7 +216,7 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/EUROPAEUROPA/40-hls/live-medi
 #EXTINF:-1 tvg-id="USA | Eurochannel" tvg-name="USA | Eurochannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Eurochannel.png/150px-Logo_Eurochannel.png" group-title="PELICULAS Y SERIES", 105 | Eurochannel
 http://45.5.119.155:8000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="USA | I.Sat" tvg-name="USA | I.Sat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/150px-I.Sat_logo.svg.png" group-title="PELICULAS Y SERIES", 106 | I.Sat
-http://187.102.208.33:8000/play/a05z/index.m3u8
+http://45.236.104.228:7010/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="PELICULAS Y SERIES", 107 | Star Channel
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/STARCHANNEL/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXCHANNEL_stream_1f&_cdn_session=824756883&_cdn_timestamp=1684805926&_cdn_token=056465fa90eb2c382e22e53f57edb39867dfee02
 #EXTINF:-1 tvg-id="USA | FX" tvg-name="USA | FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/125px-FX_International_logo.svg.png" group-title="PELICULAS Y SERIES", 108 | FX
@@ -2278,13 +2278,13 @@ http://190.122.96.187:8888/http/005
 #EXTINF:-1 tvg-id="ES | TVE" tvg-name="ES | TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/150px-Logo_TVE-Internacional.svg.png" group-title="INTERNACIONALES", 1123 | TVE || ESPAÑA
 http://45.5.119.202:54321/play/a05u/index.m3u8
 #EXTINF:-1 tvg-id="ES | La 1" tvg-name="ES | La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/125px-Logo_TVE-1.svg.png" group-title="ESPAÑA", 1124 | La 1 || ESPAÑA
-http://51.91.8.161:18000/LA_1/hls/playlist.m3u8
+http://45.141.194.9:9000/play/a00y/index.m3u8
 #EXTINF:-1 tvg-id="ES | La 2" tvg-name="ES | La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/800px-Logo_TVE-2.svg.png" group-title="ESPAÑA", 1125 | La 2 || ESPAÑA
-http://51.91.8.161:18000/LA_2/hls/playlist.m3u8
+http://45.141.194.9:9000/play/a00z/index.m3u8
 #EXTINF:-1 tvg-id="ES | Antena 3" tvg-name="ES | Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/125px-Antena_3_%282017%29.svg.png" group-title="ESPAÑA", 1126 | Antena 3 || ESPAÑA
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ANTENA3/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DANTENA3_stream_9o&_cdn_session=824876371&_cdn_timestamp=1684807693&_cdn_token=3a679a03ad32a38a995079ef165d5c08c3bc49e1
 #EXTINF:-1 tvg-id="ES | Telecinco" tvg-name="ES | Telecinco" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/125px-Telecinco.svg.png" group-title="ESPAÑA", 1127 | Telecinco || ESPAÑA
-http://51.91.8.161:18000/Telecinco/hls/playlist.m3u8
+http://45.141.194.9:9000/play/a02s/index.m3u8
 #EXTINF:-1 tvg-id="ES | Star TVE HD" tvg-name="ES | Star TVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star-TVE-logo.png/200px-Star-TVE-logo.png" group-title="ESPAÑA", 1128 | Star TVE HD || ESPAÑA
 http://181.189.243.254:8000/play/a0qf/index.m3u8
 #EXTINF:-1 tvg-id="ES | Telemadrid" tvg-name="ES | Telemadrid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/245px-TeleMadrid.svg.png" group-title="ESPAÑA", 1129 | Telemadrid || ESPAÑA
@@ -2312,25 +2312,25 @@ https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="ES | La 7 Región de Murcia" tvg-name="ES | La 7 Región de Murcia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/La_7_logo.svg/150px-La_7_logo.svg.png" group-title="ESPAÑA", 1140 | La 7 Región de Murcia || ESPAÑA
 https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ES | National Geographic" tvg-name="ES | National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png" group-title="ESPAÑA", 1141 | National Geographic || ESPAÑA
-http://51.91.8.161:18000/National_Geographic/hls/playlist.m3u8
+http://45.141.194.9:9000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-id="ES | National Geographic Wild" tvg-name="ES | National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/175px-National_Geographic_Wild_logo.svg.png" group-title="ESPAÑA", 1142 | National Geographic Wild || ESPAÑA
-http://51.91.8.161:18000/Nat_Geo_Wild/hls/playlist.m3u8
+http://45.141.194.9:9000/play/a012/index.m3u8
 #EXTINF:-1 tvg-id="ES | Historia" tvg-name="ES | Historia" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/HIST" group-title="ESPAÑA", 1143 | Historia || ESPAÑA
-http://51.91.8.161:18000/Historia/hls/playlist.m3u8
+http://45.141.194.9:9000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="ES | Discovery" tvg-name="ES | Discovery" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DCR" group-title="ESPAÑA", 1144 | Discovery || ESPAÑA
-http://51.91.8.161:18000/Discovery/hls/playlist.m3u8
+http://45.141.194.9:9000/play/a021/index.m3u8
 #EXTINF:-1 tvg-id="ES | Odisea" tvg-name="ES | Odisea" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ODISEA" group-title="ESPAÑA", 1145 | Odisea || ESPAÑA
-http://51.91.8.161:18000/Odisea/hls/playlist.m3u8
+http://45.141.194.9:9000/play/a01m/index.m3u8
 #EXTINF:-1 tvg-id="ES | AXN White" tvg-name="ES | AXN White" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SET" group-title="ESPAÑA", 1146 | AXN White || ESPAÑA
-http://51.91.8.161:18000/AXN_White/hls/playlist.m3u8
+http://45.141.194.9:9000/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="ES | Canal Hollywood" tvg-name="ES | Canal Hollywood" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HOLLYW.png" group-title="ESPAÑA", 1147 | Canal Hollywood || ESPAÑA
-http://51.91.8.161:18000/Hollywood/hls/playlist.m3u8
+http://45.141.194.9:9000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="ES | AMC Crime" tvg-name="ES | AMC Crime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/AMC_Crime.svg/320px-AMC_Crime.svg.png" group-title="ESPAÑA", 1148 | AMC Crime || ESPAÑA
-http://51.91.8.161:18000/Crimen_Investigacion/hls/playlist.m3u8
+http://45.141.194.9:9000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="ES | BOM Cine" tvg-name="ES | BOM Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/130px-Logo-bom.svg.png" group-title="ESPAÑA", 1149 | BOM Cine || ESPAÑA
-http://51.91.8.161:18000/BOM_Cine/hls/playlist.m3u8
+http://45.141.194.9:9000/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="ES | Cosmo TV" tvg-name="ES | Cosmo TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/LOGO_COSMO.png/130px-LOGO_COSMO.png" group-title="ESPAÑA", 1150 | Cosmo TV || ESPAÑA
-http://51.91.8.161:18000/COSMO/hls/playlist.m3u8
+http://45.141.194.9:9000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="JP | NHK World" tvg-name="JP | NHK World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/245px-NHK_World.svg.png" group-title="JAPON", 1151 | NHK World || JAPON
 https://cdn.nhkworld.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 tvg-id="KR | Asian TV" tvg-name="KR | Asian TV" tvg-logo="https://tv-iteractiva-prod.s3.amazonaws.com/media/brand/ASIANTV_LOGO_PRETO-01_menor_DURXi6G.png" group-title="KOREA DEL SUR", 1152 | Asian TV || KOREA DEL SUR
