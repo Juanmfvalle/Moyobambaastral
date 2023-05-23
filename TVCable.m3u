@@ -681,6 +681,8 @@ https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/playlist.m3u8?6pLK
 https://ott2.hdlatam.tv/live_abr/Stream42/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | JN19" tvg-name="PE | JN19" tvg-logo="http://www.jn19television.com/templates/televid_23/images/object979167786.png" group-title="RELIGIOSOS", 337 | JN19 Televisión
 https://servilive.com:3149/live/jn19tvlive.m3u8
+#EXTINF:-1 tvg-id="PE | JN19.2" tvg-name="PE | JN19.2" tvg-logo="https://play-lh.googleusercontent.com/D_ECmZFH6u6l4Tday-ZLPFizqNgPpVQKe3eCn057VwzXQMBVmv4jb9GYmC8vMTo-yYA=w240-h480-rw" group-title="RELIGIOSOS", 337.2 | JN19.2 Televisión
+https://ott1.hdlatam.tv/live_abr/Stream9/playlist.m3u8
 #EXTINF:-1 tvg-id="DO | La Voz de María" tvg-name="DO | La Voz de María" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTRyXwicJcx52VUr5lYKMVMnrvlwvhS4HFMFr-W=s900-c-k-c0x00ffffff-no-rj" group-title="RELIGIOSOS", 338 | La Voz de María TV
 http://51.81.93.239:8084/hls/lavozdemaria.m3u8
 #EXTINF:-1 tvg-id="DO | Tele Vida" tvg-name="DO | Tele Vida" tvg-logo="https://televida.org.do/wp-content/uploads/2018/02/LOGOS_TELEVIDA_Movil-01.png" group-title="RELIGIOSOS", 339 | Tele Vida
@@ -800,7 +802,7 @@ https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u
 #EXTINF:-1 tvg-id="PE | Señal Perú TV" tvg-name="PE | Señal Perú TV" tvg-logo="https://señalperutv.pe/wp-content/uploads/2022/08/mg_2.gif" group-title="REGIONALES", 393 | Señal Perú TV || Surquillo; Lima
 https://livestream.perucast.com/hls/stream_low/index.m3u8
 #EXTINF:-1 tvg-id="PE | Trivu TV" tvg-name="PE | Trivu TV" tvg-logo="https://trivutv.com/assets/images/header/LOGO_01.svg" group-title="REGIONALES", 394 | Trivu TV || San Isidro; Lima
-https://servilive.com:3244/live/trivutvlive.m3u8
+https://ott1.hdlatam.tv/live/trivutv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Central TV" tvg-name="PE | Central TV" tvg-logo="https://graph.facebook.com/CentralTVperuLima/picture?width=320&height=320" group-title="REGIONALES", 395 | Central TV || Lima
 https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Identidad TV" tvg-name="PE | Identidad TV" tvg-logo="https://www.identidad.tv/media-identidadtv/2021/07/nuevo-logo-identidad.png" group-title="REGIONALES", 396 | Identidad TV || Lima
