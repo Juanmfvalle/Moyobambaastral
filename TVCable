@@ -355,6 +355,10 @@ https://stream.plixitv.live/ekids/ekids/playlist.m3u8
 https://6362ca6f1fc28.streamlock.net:443/picapiedraplus/picapiedraplus/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Tom y Jerry TV" tvg-name="USA | Tom y Jerry TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB_T3QPiTLA_Cr6xXHsJmZl9YvIYQIElADnBLb7PTa47g-GR81C_zQcqJ6tVIrBmw7lg&usqp=CAU" group-title="Canales 24/7", 175 | Tom y Jerry TV
 https://6362ca6f1fc28.streamlock.net:443/tomyjerry/tomyjerry/playlist.m3u8
+#EXTINF:-1 tvg-id="USA | Ben 10 TV" tvg-name="USA | Ben 10 TV" tvg-logo="https://w7.pngwing.com/pngs/972/930/png-transparent-ben-10-alien-force-logo-cartoon-network-miscellaneous-game-cdr.png" group-title="Canales 24/7", En prueba | Ben 10 TV
+http://51.159.104.29:8080/ben10/index.m3u8
+#EXTINF:-1 tvg-id="USA | Bob Esponja TV" tvg-name="USA | Bob Esponja TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bob_esponja_logotipo.svg/2560px-Bob_esponja_logotipo.svg.png" group-title="Canales 24/7", En prueba | Bob Esponja TV
+http://51.159.104.29:8080/bobesponja/index.m3u8
 #EXTINF:-1 tvg-id="MX | El Chavo del 8 TV" tvg-name="MX | El Chavo del 8 TV" tvg-logo="https://pbs.twimg.com/media/Fp3p0zZXoAY_loW?format=png&name=small" group-title="Canales 24/7", 176 | El Chavo del 8 TV
 https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | El Chavo del 8 TV Señal 2" tvg-name="MX | El Chavo del 8 TV Señal 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/1200px-El_Chavo_%28simple_logo%29.svg.png" group-title="Canales 24/7", 176.2 | El Chavo del 8 TV Señal 2
@@ -724,7 +728,7 @@ https://stmv2.voxtvhd.com.br/cristianatv/cristianatv/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | CBN" tvg-name="USA | CBN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/CBN_Network_logo.svg/245px-CBN_Network_logo.svg.png" group-title="RELIGIOSOS", 357 | CBN
 https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Aliento Visión" tvg-name="USA | Aliento Visión" tvg-logo="https://images.squarespace-cdn.com/content/v1/5553563ae4b08689b8eeaf65/1431525670594-U13DGVS6OE3CYZJ5F1Y4/logo+AV.png?format=1500w" group-title="RELIGIOSOS", 358 | Aliento Visión
-https://627bb251f23c7.streamlock.net:444/Alientoenvivo/smil:Alientoenvivo.smil/playlist.m3u8
+https://627bb251f23c7.streamlock.net:444/AlientoSD/AlientoSD/playlist.m3u8
 #EXTINF:-1 tvg-id="DO | Cielo TV" tvg-name="DO | Cielo TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/do-cielo-tv-cristiana-3072.jpg" group-title="RELIGIOSOS", 359 | Cielo TV
 https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
 #EXTINF:-1 tvg-id="ES | Radio Televisión Vida" tvg-name="ES | Radio Televisión Vida" tvg-logo="https://vidartv.com/images/logo.png" group-title="RELIGIOSOS", 360 | Radio Televisión Vida
@@ -742,9 +746,9 @@ https://vsrv2.az-streamingserver.com:3408/live/aleluyatvlive.m3u8
 #EXTINF:-1 tvg-id="HN | TV Estrella" tvg-name="HN | TV Estrella" tvg-logo="https://www.tvestrella.com/wp-content/uploads/2022/05/cropped-logo-22-transparente-4-150x150.png" group-title="RELIGIOSOS", 366 | TV Estrella
 https://emisoras.hn:8081/tvestrella/index.m3u8
 #EXTINF:-1 tvg-id="USA | Unción TV" tvg-name="USA | Unción TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/80e5bef97f4728cbb7b06b4edaded014.webp" group-title="RELIGIOSOS", 367 | Unción TV
-https://livemediacp.com:1936/8042/8042/playlist.m3u8
-#EXTINF:-1 tvg-id="PA | Hosanna Visión" tvg-name="PA | Hosanna Visión" tvg-logo="https://hosannavision.com/site/templates/theme/img/logo/logo.png" group-title="RELIGIOSOS", 368 | Hosanna Visión
-https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/index.m3u8
+https://livemediacp.com:1936/8064/8064/playlist.m3u8
+#EXTINF:-1 tvg-id="SV | Elim TV" tvg-name="SV | Elim TV" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_08/large.elim_tv_sv.png.cdebbddb99e3bed7c810e9f65ec542dd.png" group-title="RELIGIOSOS", 368 | Elim TV
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/7e84ed301b194b7b81e86f85bb2c3a33/playlist.m3u8
 #EXTINF:-1 tvg-id="GT | El Olam TV" tvg-name="GT | El Olam TV" tvg-logo="https://tvguatemala.net/wp-content/uploads/2022/11/En-Vivo-El-Olam-TV-Guatemala-e1669830021817.webp" group-title="RELIGIOSOS", 369 | El Olam TV
 https://live.appclicksgt.com:3823/live/elolamtvlive.m3u8
 #EXTINF:-1 tvg-id="GT | Maranatha TV" tvg-name="GT | Maranatha TV" tvg-logo="https://play-lh.googleusercontent.com/FRMVMmZBzo2RepsI6T2Iz7vlo74jzcK58YSiW-pF9mnfeBB_8UojIQ0ZiTro27C_x28=w240-h480-rw" group-title="RELIGIOSOS", 370 | Maranatha TV
@@ -752,7 +756,7 @@ https://panel.streamingtv-mediacp.online:1936/8010/8010/playlist.m3u8
 #EXTINF:-1 tvg-id="VE | Reforma TV" tvg-name="VE | Reforma TV" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/05/reforma-tv-1.png?resize=696%2C435&ssl=1" group-title="RELIGIOSOS", 371 | Reforma TV
 https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="GT | MCN Televisión" tvg-name="GT | MCN Televisión" tvg-logo="https://mcntelevision.org/wp-content/uploads/2020/10/MCN-Blanco-Degradado-con-television.png" group-title="RELIGIOSOS", 372 | MCN Televisión
-https://stmv.panel.grupolimalive.com/mcntv/mcntv/playlist.m3u8
+https://vdo.grupolimalive.com:3263/live/mcnlive.m3u8
 #EXTINF:-1 tvg-id="GT | Rhema TV" tvg-name="GT | Rhema TV" tvg-logo="https://yt3.ggpht.com/WyU6mJUfDaUH4nHhFsyZLqk-Flw_TwC4z-10k2_YXRW5HjEx9TjCXdyqk-JqLFLAHoVrfAgU=s900-c-k-c0x00ffffff-no-rj" group-title="RELIGIOSOS", 373 | Rhema TV
 https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
 #EXTINF:-1 tvg-id="GT | Peniel TV" tvg-name="GT | Peniel TV" tvg-logo="https://static.wixstatic.com/media/7acae1_42bd234fc16342f4bf4451ab07d12946~mv2.png" group-title="RELIGIOSOS", 374 | Peniel TV
@@ -764,7 +768,7 @@ https://cdn.streamhispanatv.net:3533/live/penielmusicagtlive.m3u8
 #EXTINF:-1 tvg-id="PE | Bethel TV" tvg-name="PE | Bethel TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Bethel-Televisi%C3%B3n-en-vivo-Online-100x70.png" group-title="RELIGIOSOS", 375 | Bethel TV
 http://190.90.251.194:8921/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="USA | TV Peruanísima" tvg-name="USA | TV Peruanísima" tvg-logo="http://tvperuanisima.com/wp-content/uploads/2021/07/cropped-Logo-150x113-1.png" group-title="INTERNACIONALES", 376 | TV Peruanísima
-http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
+https://59ef525c24caa.streamlock.net/TVperuanisima/TVperuanisima/playlist.m3u8
 #EXTINF:-1 tvg-id="BR | Perú Channel" tvg-name="BR | Perú Channel" tvg-logo="https://pbs.twimg.com/profile_images/1385792142329647107/iBTUTc12_400x400.jpg" group-title="INTERNACIONALES", 377 | Perú Channel
 https://stmv1.duvoxtv.com.br/peruchannel/peruchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Onda Digital" tvg-name="PE | Onda Digital" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQRrS2R_HFcGI0RVqhw9IN02y3s05eq4oq10yZ5UQ=s88-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", 378 | Onda Digital Noticias
@@ -1772,7 +1776,7 @@ http://45.5.118.213:16000/play/a0mm/index.m3u8
 #EXTINF:-1 tvg-id="SV | TV Seis" tvg-name="SV | TV Seis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Canal_6_TCS.png/200px-Canal_6_TCS.png" group-title="EL SALVADOR", 868 | TV Seis || EL SALVADOR
 https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/live-video=2000000-audio_0=64000.m3u8
 #EXTINF:-1 tvg-id="SV | Agape TV Canal 8" tvg-name="SV | Agape TV Canal 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Agape_8_2001.png/200px-Agape_8_2001.png" group-title="EL SALVADOR", 869 | Agape TV Canal 8 || EL SALVADOR
-http://185.246.86.135:25461/live/app10/app100/1.m3u8
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CqcFmQxCd-VSwf_817jUq8Y3lO4L1JPI9Jw5eIZR_7KUTpvta_Ty-Ir5uvNNfyzssbk-azlsXqS9bVBvgGo6T0VUOuY-W-EPNlxYvQE9DxdWHiebsRvXBaj3wGXmOW2JozkpdyHgMKwNqrXEAvhXhNp5G4YNONcze_TuMvuI70Zuexozfeiol0ZAYzF5-YfGRSKJJg5L2JLR6WvhwvsCxXh5B3bDMy8UpL4urnIruYZrpcq6-Mm4JZ35II08m0d1b5LX7xHuiM_FXBHQS2gU3Bh3lYQNLdyb6j9fsGKdCwxX5B2valhBr9iraXujykCVl-9b8PFL1uluFvaOfaj4jpU4bUtnZYQIoqPZXr5y_i__0X5U45gt1_GRZ2bqIvKObyHlF-TA274zFq8Lw1uiABjrFmiG-J6HDpa7kpWxNVLZDDp-cHm9bgMhVrrrwcCN0UwT7eks_FuGBhpVGHYrRkQ1Rra7ehkrsc6HwSkeWTHA9GfWRfQhbum8XOELEWl_MXuEsLutnDp3OBvvQVAQKz90liFVyA33B9-mBFJzQiBYph7Hxr_CwNgvN51XjtBvgggBUhsAkW9QQn7cWROw-a-pqMHQUH705uve82LGIoYKBsZedT4xmTyqIFpzciZWT9A77WWz7_lNUOA2SRFEO91Pv2_4p7ZZVc3uB-XFvFYabcEJbOO7iFz1b7VLfsfl7_KCOYvTfiUmFZOBdZefAVL8wkQys-N5fM5xCvX3S36k-Mleu4m7NWwQIzs17po8Czz63CR-Iu0DtH3ZbfKnLd1PJeXE5wrJTS4rT9SPYabCienvu4nNqd6c2mLpSRB8xM--_RCD6mguTkBto4rYQiVoeAXeiboo-Zzu8AyYKyYdwGpOIu4LheqZHbFs_hTTwVX7UUGZbjnKwhoMfRCh1PKm7x-N6fn2IAEqCXVzLWVhc3QtMjDTBg.m3u8
 #EXTINF:-1 tvg-id="SV | Asamblea Legislativa TV" tvg-name="SV | Asamblea Legislativa TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/9TV_El_Salvador_%282018%29.png/revision/latest/scale-to-width-down/300?cb=20191116000236" group-title="EL SALVADOR", 870 | TV Legislativa || EL SALVADOR
 https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
 #EXTINF:-1 tvg-id="SV | Canal 10" tvg-name="SV | Canal 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Canal_10_%28El_Salvador%29_2019.svg/200px-Canal_10_%28El_Salvador%29_2019.svg.png" group-title="EL SALVADOR", 871 | Canal 10 || EL SALVADOR
