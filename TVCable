@@ -216,7 +216,7 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/EUROPAEUROPA/40-hls/live-medi
 #EXTINF:-1 tvg-id="USA | Eurochannel" tvg-name="USA | Eurochannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Eurochannel.png/150px-Logo_Eurochannel.png" group-title="PELICULAS Y SERIES", 105 | Eurochannel
 http://45.5.119.155:8000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="USA | I.Sat" tvg-name="USA | I.Sat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/150px-I.Sat_logo.svg.png" group-title="PELICULAS Y SERIES", 106 | I.Sat
-http://45.189.117.32:7075/play/a008/index.m3u8
+http://45.228.232.204:16000/play/a079/index.m3u8
 #EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="PELICULAS Y SERIES", 107 | Star Channel
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/STARCHANNEL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXCHANNEL_stream_1f&_cdn_session=837969995&_cdn_timestamp=1685252507&_cdn_token=d5be628fedc4106912c9051561b050d930004d5d
 #EXTINF:-1 tvg-id="USA | FX" tvg-name="USA | FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/125px-FX_International_logo.svg.png" group-title="PELICULAS Y SERIES", 108 | FX
@@ -510,7 +510,7 @@ http://190.61.102.67:31589/play/a08m/index.m3u8
 #EXTINF:-1 tvg-id="USA | DSports" tvg-name="USA | DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/175px-DSports.png" group-title="DEPORTES", 251 | DSports
 http://190.119.178.46:8000/play/a032/index.m3u
 #EXTINF:-1 tvg-id="USA | DSports 2" tvg-name="USA | DSports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DSports2.png/175px-DSports2.png" group-title="DEPORTES", 252 | DSports 2
-http://190.119.178.46:8000/play/a033/index.m3u8
+http://190.83.60.34:1414/play/a06c
 #EXTINF:-1 tvg-id="USA | DSports+" tvg-name="USA | DSports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/DSportsM%C3%A1s.png/150px-DSportsM%C3%A1s.png" group-title="DEPORTES", 253 | DSports+
 http://190.119.178.46:8000/play/a034/index.m3u8
 #EXTINF:-1 tvg-id="USA | DSports Fight" tvg-name="USA | DSports Fight" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/s/dsports_fight.png" group-title="DEPORTES", 254 | DSports Fight
