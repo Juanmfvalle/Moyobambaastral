@@ -378,7 +378,7 @@ https://marine2.miplay.cl/france24/playlist.m3u8
 #EXTINF:-1 tvg-id="FR | Euronews" tvg-name="FR | Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/245px-Euronews_2016_logo.svg.png" group-title="NOTICIAS E INFORMACION", 185 | Euronews
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Canal N" tvg-name="PE | Canal N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Canal_N_2022.png/150px-Canal_N_2022.png" group-title="NOTICIAS E INFORMACION", 186 | Canal N
-http://179.63.4.142:8000/play/a045/index.m3u8
+http://131.196.12.237:19000/play/a08s/index.m3u8
 #EXTINF:-1 tvg-id="MX | Foro TV" tvg-name="MX | Foro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo-ForoTV-2020.png/125px-Logo-ForoTV-2020.png" group-title="NOTICIAS E INFORMACION", 187 | Foro TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
 #EXTINF:-1 tvg-id="MX | Canal 10 Noticias" tvg-name="MX | Canal 10 Noticias" tvg-logo="https://s3-us-west-1.amazonaws.com/canal10/Imagenes/Logotipo/Canal10_Oficial2.png" group-title="NOTICIAS E INFORMACION", 188 | Canal 10 Noticias
@@ -450,7 +450,7 @@ https://marine2.miplay.cl/mundoysabor/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Best Cable Sports" tvg-name="PE | Best Cable Sports" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=239x10000:format=jpg/path/s86a1480785a470a0/image/i3cd2b522eae1ddb2/version/1637874672/image.jpg" group-title="DEPORTES", 221 | Best Cable Sports
 https://ca2.inka.net.pe/Best-sport-000000111/index.m3u8
 #EXTINF:-1 tvg-id="PE | Liga 1 Max" tvg-name="PE | Liga 1 Max" tvg-logo="https://services.nunchee.com/api/2.0/assets/images/63dd234f3f6b35001fcf78bd/view/backdrop/75" group-title="DEPORTES", 222 | Liga 1 Max
-http://190.119.178.46:8000/play/a035/index.m3u8
+http://51.81.0.209:8000/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="USA | Golf Channel" tvg-name="USA | Golf Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/200px-Golf_Channel_Logo_2018.png" group-title="DEPORTES", 223 | Golf Channel
 http://181.189.243.254:8000/play/a0qg/index.m3u8
 #EXTINF:-1 tvg-id="USA | Fox Sports Premium" tvg-name="USA | Fox Sports Premium" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/PZ4AX3STGVCLLJ6NQ4BVVKJHRM.jpg" group-title="DEPORTES", 224 | Fox Sports Premium
@@ -1428,9 +1428,9 @@ http://181.115.238.188:6100/play/a0j7
 #EXTINF:-1 tvg-id="BO | Red Periodistas Asociados Televisión" tvg-name="BO | Red Periodistas Asociados Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Red_pat_new.jpg/220px-Red_pat_new.jpg" group-title="BOLIVIA", 699 | PAT || BOLIVIA
 https://master.tucableip.com//pat/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BO | Cadena A" tvg-name="BO | Cadena A" tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2022/03/logoaweb.png" group-title="BOLIVIA", 700 | Cadena A || BOLIVIA
-http://200.119.222.198:25470/play/a02i/index.m3u8
+https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Tele Estrella" tvg-name="BO | Tele Estrella" tvg-logo="https://teleestrella.tv.bo/wp-content/uploads/2023/02/Imagen1-4-1024x336.png" group-title="BOLIVIA", 701 | Tele Estrella || BOLIVIA
-http://190.186.147.95:8000/play/a015/index.m3u8
+https://solo.disfrutaenlared.com:1936/teleestrella/teleestrella/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | CTV" tvg-name="BO | CTV" tvg-logo="https://www.ctvbolivia.com/assets/Logo.png" group-title="BOLIVIA", 702 | CTV || BOLIVIA
 http://200.119.222.198:25470/play/a021/index.m3u8
 #EXTINF:-1 tvg-id="BO | Agro TV" tvg-name="BO | Agro TV" tvg-logo="https://teleestrella.tv.bo/wp-content/uploads/2023/01/logo-agro-trasnparente-1024x394.png" group-title="BOLIVIA", 703 | Agro TV || BOLIVIA
