@@ -361,8 +361,6 @@ http://51.159.104.29:8080/ben10/index.m3u8
 http://51.159.104.29:8080/bobesponja/index.m3u8
 #EXTINF:-1 tvg-id="MX | El Chavo del 8 TV" tvg-name="MX | El Chavo del 8 TV" tvg-logo="https://pbs.twimg.com/media/Fp3p0zZXoAY_loW?format=png&name=small" group-title="Canales 24/7", 176 | El Chavo del 8 TV
 https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
-#EXTINF:-1 tvg-id="MX | El Chavo del 8 TV Señal 2" tvg-name="MX | El Chavo del 8 TV Señal 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/1200px-El_Chavo_%28simple_logo%29.svg.png" group-title="Canales 24/7", 176.2 | El Chavo del 8 TV Señal 2
-http://live.budtvlight.com:25461/Luna001/18dabf00/35022
 #EXTINF:-1 tvg-id="MX | Distrito Comedia" tvg-name="MX | Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/175px-DistritoComediaLOGO2018.png" group-title="ENTRETENIMIENTO", 177 | Distrito Comedia
 http://45.228.234.77:3340/play/distritocomedia/index.m3u8
 #EXTINF:-1 tvg-id="USA | Comedy Central" tvg-name="USA | Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/250px-Comedy_Central_2018.svg.png" group-title="ENTRETENIMIENTO", 178 | Comedy Central 
@@ -487,8 +485,6 @@ http://170.254.234.244:8000/play/a01e/index.m3u8
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-id="USA | Latin América Sport" tvg-name="USA | Latin América Sport" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0rd.png" group-title="DEPORTES", 238 | Latin América Sport
 http://181.189.243.254:8000/play/a0rd/index.m3u8
-#EXTINF:-1 tvg-id="CR | Tigo Sports Honduras" tvg-name="CR | Tigo Sports Honduras" tvg-logo="https://pbs.twimg.com/profile_images/1197301079827976195/sRCIndHu_400x400.jpg" group-title="DEPORTES", 239 | Tigo Sports Honduras
-http://168.228.194.33:48001/play/z008/index.m3u8
 #EXTINF:-1 tvg-id="CR | Tigo Sports Costa Rica" tvg-name="CR | Tigo Sports Costa Rica" tvg-logo="https://play-lh.googleusercontent.com/6hNBaZu9_Ss-aBT6NOib7gTdU6fokNFqhOVCvGkIBjuLKXK6USX5fBfWsDfQjrD0L-A" group-title="DEPORTES", 239.2 | Tigo Sports Costa Rica
 http://181.189.243.254:8000/play/a0sn/index.m3u8
 #EXTINF:-1 tvg-id="CL | Fitmaxx TV" tvg-name="CL | Fitmaxx TV" tvg-logo="https://pbs.twimg.com/media/FSk6Zq7WQAA7Cp8?format=png&name=240x240" group-title="DEPORTES", 240 | Fitmaxx TV
@@ -513,8 +509,8 @@ http://168.228.194.33:48001/play/a004/index.m3u8
 http://168.228.194.33:48001/play/a0b9/index.m3u8
 #EXTINF:-1 tvg-id="MX | Sky Sports" tvg-name="MX | Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/320px-Sky_Sports_logo_2017.svg.png" group-title="DEPORTES", 250 | Sky Sports
 http://190.61.102.67:31589/play/a08m/index.m3u8
-#EXTINF:-1 tvg-id="USA | DSports" tvg-name="USA | DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/175px-DSports.png" group-title="DEPORTES", 251 | DSports
-http://168.228.194.33:48001/play/a0ba/index.m3u8
+#EXTINF:-1 tvg-id="USA | DeporTV" tvg-name="USA | DeporTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Deportv.svg/200px-Deportv.svg.png" group-title="DEPORTES", 251 | DeporTV
+http://168.228.194.33:48001/play/z009/index.m3u8
 #EXTINF:-1 tvg-id="USA | DSports 2" tvg-name="USA | DSports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DSports2.png/175px-DSports2.png" group-title="DEPORTES", 252 | DSports 2
 http://168.228.194.33:48001/play/a0bb/index.m3u8
 #EXTINF:-1 tvg-id="ES | DAZN LaLiga" tvg-name="ES | DAZN LaLiga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/320px-DAZN_LaLiga_logo.svg.png" group-title="DEPORTES", 253 | DAZN LaLiga
