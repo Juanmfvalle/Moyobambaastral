@@ -165,8 +165,6 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AZCINEMA/40-hls/live-media.m3
 https://magnolia-cinelife.amagi.tv/amRdirect/did=&gdpr=&lat=&lon=&us_privacy=&consent=&dnt=/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Cinecanal" tvg-name="USA | Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/150px-CinecanalLA.png" group-title="PELICULAS Y SERIES", Cinecanal
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/CINECANALHD/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCINECANALHD_stream_1m&_cdn_session=860402155&_cdn_timestamp=1686020830&_cdn_token=61f9fa522dbc40660a6616101ce55b176b89b738
-#EXTINF:-1 tvg-id="PE | Cineclub" tvg-name="PE | Cineclub" tvg-logo="https://lh3.googleusercontent.com/-s0IKUMAsHJo/X7qWRlxQFoI/AAAAAAAA7kQ/P07ldtCVVOEh-KVOaz8uhVr20VjdDHs0wCK8BGAsYHg/s0/2020-11-22.png" group-title="PELICULAS Y SERIES", Cine Club
-https://servilive.com:3176/live/cineclublive.m3u8
 #EXTINF:-1 tvg-id="USA | Paramount Network" tvg-name="USA | Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/150px-Paramount_Network.svg.png" group-title="PELICULAS Y SERIES", Paramount Network
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PARAMOUNT/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPARAMOUNTCHANNEL_stream_5p&_cdn_session=860403099&_cdn_timestamp=1686020847&_cdn_token=88e4cd16c4fcb26e6b581daaaefc851049f96320
 #EXTINF:-1 tvg-id="USA | Sony Channel" tvg-name="USA | Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/120px-Sony_Channel_Logo.png" group-title="PELICULAS Y SERIES", Sony Channel
@@ -193,8 +191,6 @@ http://181.189.243.254:8000/play/a0ri/index.m3u8
 http://45.5.118.213:16000/play/a0na/index.m3u8
 #EXTINF:-1 tvg-id="PE | Retro" tvg-name="PE | Retro" tvg-logo="https://pbs.twimg.com/media/FSNWMPoWUAAj7gr?format=jpg&name=360x360" group-title="PELICULAS Y SERIES", Retro
 http://200.48.184.156:1935/eretro/eretro/playlist.m3u8
-#EXTINF:-1 tvg-id="CL | Blanco y Negro TV" tvg-name="CL | Blanco y Negro TV" tvg-logo="https://img.freepik.com/vector-premium/icono-negro-tv-microfono-concepto-radio-mundial-internet-entrevistas-periodicos-conferencias-canales-television-aislado-sobre-fondo-blanco-tendencia-estilo-plano-diseno-logotipo-moderno-ilustracion-vectorial_117142-154.jpg" group-title="PELICULAS Y SERIES", Blanco y Negro TV
-http://201.222.44.217:4000/play/a004
 #EXTINF:-1 tvg-id="MX | Filmex Clásico TV" tvg-name="MX | Filmex Clásico TV" tvg-logo="https://pbs.twimg.com/media/FuZ3-_VWYAU2ddp?format=png&name=240x240" group-title="PELICULAS Y SERIES", Filmex Clásico TV
 https://vpngratis.win:8443/live/CineMexicano/gsL71cr7Fk/17.m3u8
 #EXTINF:-1 tvg-id="MX | Filmex TV" tvg-name="MX | Filmex TV" tvg-logo="https://1.bp.blogspot.com/-DveaPhvYgGM/YSUgaTgHODI/AAAAAAAAENk/lW8SyPJbqd0dB8qYI422v-Da4hJNP8x-ACLcBGAsYHQ/s540/filmex-logoroku.png" group-title="PELICULAS Y SERIES", Filmex TV
@@ -287,6 +283,10 @@ http://160.20.165.246:8000/play/a01j/index.m3u8
 http://200.48.184.156:1935/ecine/ecine/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | E Play" tvg-name="PE | E Play" tvg-logo="https://pbs.twimg.com/media/FSNVY30XMAEZsak?format=jpg&name=120x120" group-title="PELICULAS Y SERIES", E Play
 http://200.48.184.156:1935/eplay/eplay/playlist.m3u8
+#EXTINF:-1 tvg-id="CL | Dos Kids" tvg-name="CL | Dos Kids" tvg-logo="https://pbs.twimg.com/media/FnqhNDZWQAg6Q-H?format=png&name=240x240" group-title="INFANTILES", Dos Kids
+http://45.181.122.169:8000/play/a02t
+#EXTINF:-1 tvg-id="CL | Animotion" tvg-name="CL | Animotion" tvg-logo="https://pbs.twimg.com/media/FSIH0MSXEAEjBgA?format=jpg&name=240x240" group-title="INFANTILES", Animotion
+http://45.181.122.169:8000/play/a02g
 #EXTINF:-1 tvg-id="CL | Varied TV" tvg-name="CL | Varied TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrQBY8FAi-uiwIRZmNA7yOr1cMK1MRSi8h0Etx0EKfkIR3WEUPxPdNHkNAuNKKLTQ5f0w&usqp=CAU" group-title="INFANTILES", Varied TV
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-id="AR | Magic Kids" tvg-name="AR | Magic Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logomagic96.png/145px-Logomagic96.png" group-title="INFANTILES", Magic Kids
@@ -345,8 +345,6 @@ http://infantil-crtvg.flumotion.com/chunks.m3u8
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-id="ES | Anime Zone TV" tvg-name="ES | Anime Zone TV" tvg-logo="https://azxtv.com/aztv.png" group-title="INFANTILES", Anime Zone TV
 http://azxtv.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="VE | 1·2·3 TV" tvg-name="VE | 1·2·3 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/123TV_logo_2022.jpg/245px-123TV_logo_2022.jpg" group-title="INFANTILES", 1·2·3 TV
-http://200.31.4.14:8000/play/001/index.m3u8
 #EXTINF:-1 tvg-id="USA | Canal Infantil" tvg-name="USA | Canal Infantil" tvg-logo="https://www.latingroup.us/images/logoci.png" group-title="INFANTILES", Canal Infantil
 http://179.189.222.226:8000/play/ch06
 #EXTINF:-1 tvg-id="USA | FMH Kids" tvg-name="USA | FMH Kids" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-kids.jpg" group-title="INFANTILES", FMH Kids
@@ -482,7 +480,7 @@ http://45.228.234.162:24000/play/a08l/index.m3u8
 #EXTINF:-1 tvg-id="MX | Claro Sports 2" tvg-name="MX | Claro Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest/scale-to-width-down/250?cb=20210423191014&path-prefix=es" group-title="DEPORTES", Claro Sports 2
 http://181.189.243.254:8000/play/a0on/index.m3u8
 #EXTINF:-1 tvg-id="AR | TNT Sports" tvg-name="AR | TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/320px-TNT_Sports_2021_logo.svg.png" group-title="DEPORTES", TNT Sports
-http://138.185.15.250:8000/play/a06p/index.m3u8
+http://190.83.60.34:1414/play/a01h
 #EXTINF:-1 tvg-id="AR | TyC Sports" tvg-name="AR | TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/245px-TyC_Sports_logo.svg.png" group-title="DEPORTES", TyC Sports
 http://170.254.234.244:8000/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="AR | El Garage TV" tvg-name="AR | El Garage TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS-T1STlbnBP1FvFZIpa4XY9LsYWzX0KuHw72YVeg=s88-c-k-c0x00ffffff-no-rj" group-title="DEPORTES", El Garage TV
@@ -508,7 +506,7 @@ http://190.83.60.34:1414/play/a04f
 #EXTINF:-1 tvg-id="PE | Gol Perú" tvg-name="PE | Gol Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/245px-Gol_Per%C3%BA_2019.svg.png" group-title="DEPORTES", Gol Perú
 http://190.83.60.34:1414/play/a04m
 #EXTINF:-1 tvg-id="PE | Movistar Deportes" tvg-name="PE | Movistar Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/200px-Movistar_Deportes.svg.png" group-title="DEPORTES", Movistar Deportes
-http://45.189.117.32:7075/play/a0t1/index.m3u8
+http://190.83.60.34:1414/play/a05s
 #EXTINF:-1 tvg-id="MX | Sky Sports" tvg-name="MX | Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/320px-Sky_Sports_logo_2017.svg.png" group-title="DEPORTES", Sky Sports
 http://190.61.102.67:31589/play/a08m/index.m3u8
 #EXTINF:-1 tvg-id="USA | TUDN" tvg-name="USA | TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/200px-TUDN_Logo.svg.png" group-title="DEPORTES", TUDN
