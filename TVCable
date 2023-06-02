@@ -363,6 +363,8 @@ http://51.159.104.29:8080/ben10/index.m3u8
 http://51.159.104.29:8080/bobesponja/index.m3u8
 #EXTINF:-1 tvg-id="MX | El Chavo del 8 TV" tvg-name="MX | El Chavo del 8 TV" tvg-logo="https://pbs.twimg.com/media/Fp3p0zZXoAY_loW?format=png&name=small" group-title="Canales 24/7", 178 | El Chavo del 8 TV
 https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
+#EXTINF:-1 tvg-id="MX | El Chavo del 8 TV Señal 2" tvg-name="MX | El Chavo del 8 TV Señal 2" tvg-logo="https://pbs.twimg.com/media/Fp3p0zZXoAY_loW?format=png&name=small" group-title="Canales 24/7", 178.2 | El Chavo del 8 TV Señal 2
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/35022
 #EXTINF:-1 tvg-id="MX | Distrito Comedia" tvg-name="MX | Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/175px-DistritoComediaLOGO2018.png" group-title="ENTRETENIMIENTO", 179 | Distrito Comedia
 http://45.228.234.77:3340/play/distritocomedia/index.m3u8
 #EXTINF:-1 tvg-id="USA | Comedy Central" tvg-name="USA | Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/250px-Comedy_Central_2018.svg.png" group-title="ENTRETENIMIENTO", 180 | Comedy Central 
