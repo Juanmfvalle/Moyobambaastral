@@ -489,9 +489,11 @@ http://170.254.234.244:8000/play/a01e/index.m3u8
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-id="USA | Latin América Sport" tvg-name="USA | Latin América Sport" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0rd.png" group-title="DEPORTES", 239 | Latin América Sport
 http://181.189.243.254:8000/play/a0rd/index.m3u8
-#EXTINF:-1 tvg-id="BO | Tigo Sports Honduras" tvg-name="BO | Tigo Sports Honduras" tvg-logo="https://pbs.twimg.com/profile_images/1197301079827976195/sRCIndHu_400x400.jpg" group-title="DEPORTES", 240 | Tigo Sports Honduras
+#EXTINF:-1 tvg-id="GT | Tigo Sports Guatemala" tvg-name="GT | Tigo Sports Guatemala" tvg-logo="https://tvguatemala.net/wp-content/uploads/2022/11/Tigo-Sports-Guatemala-En-Vivo.webp" group-title="DEPORTES", 240 | Tigo Sports Guatemala
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/37853
-#EXTINF:-1 tvg-id="CR | Tigo Sports Costa Rica" tvg-name="CR | Tigo Sports Costa Rica" tvg-logo="https://play-lh.googleusercontent.com/6hNBaZu9_Ss-aBT6NOib7gTdU6fokNFqhOVCvGkIBjuLKXK6USX5fBfWsDfQjrD0L-A" group-title="DEPORTES", 240.2 | Tigo Sports Costa Rica
+#EXTINF:-1 tvg-id="BO | Tigo Sports Honduras" tvg-name="BO | Tigo Sports Honduras" tvg-logo="https://pbs.twimg.com/profile_images/1197301079827976195/sRCIndHu_400x400.jpg" group-title="DEPORTES", 240.2 | Tigo Sports Honduras
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/37857
+#EXTINF:-1 tvg-id="CR | Tigo Sports Costa Rica" tvg-name="CR | Tigo Sports Costa Rica" tvg-logo="https://play-lh.googleusercontent.com/6hNBaZu9_Ss-aBT6NOib7gTdU6fokNFqhOVCvGkIBjuLKXK6USX5fBfWsDfQjrD0L-A" group-title="DEPORTES", 240.3 | Tigo Sports Costa Rica
 http://181.189.243.254:8000/play/a0sn/index.m3u8
 #EXTINF:-1 tvg-id="CL | Fitmaxx TV" tvg-name="CL | Fitmaxx TV" tvg-logo="https://pbs.twimg.com/media/FSk6Zq7WQAA7Cp8?format=png&name=240x240" group-title="DEPORTES", 241 | Fitmaxx TV
 https://marine2.miplay.cl/fitmaxx/playlist.m3u8
