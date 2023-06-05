@@ -371,14 +371,22 @@ http://51.159.104.29:8080/bobesponja/index.m3u8
 https://v3.playerlatino.live/stream/m3u8/422
 #EXTINF:-1 tvg-id="JP | Dragon Ball TV" tvg-name="JP | Dragon Ball TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Dragon_Ball_anime_logo.png" group-title="Canales 24/7", Dragon Ball TV
 https://v3.playerlatino.live/stream/m3u8/425
+#EXTINF:-1 tvg-id="JP | Dragon Ball TV Señal 2" tvg-name="JP | Dragon Ball TV Señal 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Dragon_Ball_anime_logo.png" group-title="Canales 24/7", Dragon Ball TV Señal 2
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/2336
 #EXTINF:-1 tvg-id="JP | Dragon Ball Z TV" tvg-name="JP | Dragon Ball Z TV" tvg-logo="https://i.pinimg.com/originals/60/a9/61/60a96199afa8469b7c3c46810ed86816.png" group-title="Canales 24/7", Dragon Ball Z TV
 https://v3.playerlatino.live/stream/m3u8/424
 #EXTINF:-1 tvg-id="JP | Sailor Moon TV" tvg-name="JP | Sailor Moon TV" tvg-logo="https://static.wikia.nocookie.net/sailormoon/images/c/ce/LOGO_SAILOR_MOON.jpg/revision/latest/scale-to-width-down/284?cb=20120106175222&path-prefix=es" group-title="Canales 24/7", Sailor Moon TV
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/2395
 #EXTINF:-1 tvg-id="JP | Pokemón TV" tvg-name="JP | Pokemón TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/2560px-International_Pok%C3%A9mon_logo.svg.png" group-title="Canales 24/7", Pokemón TV
 https://v3.playerlatino.live/stream/m3u8/420
+#EXTINF:-1 tvg-id="JP | Pokemón TV Señal 2" tvg-name="JP | Pokemón TV Señal 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/2560px-International_Pok%C3%A9mon_logo.svg.png" group-title="Canales 24/7", Pokemón TV Señal 2
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/38719
+#EXTINF:-1 tvg-id="JP | Pokemón TV Señal 3" tvg-name="JP | Pokemón TV Señal 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/2560px-International_Pok%C3%A9mon_logo.svg.png" group-title="Canales 24/7", Pokemón TV Señal 3
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/12066
 EXTINF:-1 tvg-id="JP | Los Caballeros del Zodiaco TV" tvg-name="JP | Los Caballeros del Zodiaco TV" tvg-logo="https://www.pngfind.com/pngs/m/333-3330235_caballeros-del-zodiaco-png-logo-de-caballeros-del.png" group-title="Canales 24/7", Los Caballeros del Zodiaco TV
 https://v3.playerlatino.live/stream/m3u8/427
+EXTINF:-1 tvg-id="JP | Los Caballeros del Zodiaco TV Señal 2" tvg-name="JP | Los Caballeros del Zodiaco TV Señal 2" tvg-logo="https://www.pngfind.com/pngs/m/333-3330235_caballeros-del-zodiaco-png-logo-de-caballeros-del.png" group-title="Canales 24/7", Los Caballeros del Zodiaco TV Señal 2
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/2330
 #EXTINF:-1 tvg-id="MX | El Chavo del 8 TV" tvg-name="MX | El Chavo del 8 TV" tvg-logo="https://pbs.twimg.com/media/Fp3p0zZXoAY_loW?format=png&name=small" group-title="Canales 24/7", El Chavo del 8 TV
 https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | El Chavo del 8 TV Señal 2" tvg-name="MX | El Chavo del 8 TV Señal 2" tvg-logo="https://pbs.twimg.com/media/Fp3p0zZXoAY_loW?format=png&name=small" group-title="Canales 24/7", El Chavo del 8 TV Señal 2
@@ -2665,6 +2673,10 @@ https://stirr.ott-channels.stingray.com/133/master.m3u8
 https://stirr.ott-channels.stingray.com/134/master.m3u8
 #EXTINF:-1 tvg-id="CA | Stingray Music Flashback 70's" tvg-name="CA | Stingray Music Flashback 70's" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", Stingray Music Flashback 70's
 https://ott-linear-channels.stingray.com/hls/stirr/115.m3u8
+#EXTINF:-1 tvg-id="CA | Stingray Music Años 70's" tvg-name="CA | Stingray Music Años 70's" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", Stingray Music Años 70's
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/11784
+#EXTINF:-1 tvg-id="CA | Stingray Music Años 80's" tvg-name="CA | Stingray Music Años 80's" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", Stingray Music Años 80's
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/11785
 #EXTINF:-1 tvg-id="CA | Stingray Music Remember The 80's" tvg-name="CA | Stingray Music Remember The 80's" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", Stingray Music Remember The 80's
 https://stirr.ott-channels.stingray.com/128/master.m3u8
 #EXTINF:-1 tvg-id="CA | Stingray Music Pop Adult" tvg-name="CA | Stingray Music Pop Adult" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", Stingray Music Pop Adult
