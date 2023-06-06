@@ -491,10 +491,14 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/GOURMET/40-hls/live-media.m3u
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOODNETWORK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOODNETWORK_stream_l5&_cdn_session=870339779&_cdn_timestamp=1686369753&_cdn_token=cba6fbd806d1bc471681d4f274d68cd5a1f9c3ac
 #EXTINF:-1 tvg-id="CL | Mundo & Sabor" tvg-name="CL | Mundo & Sabor" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MUNDO-Y-SABOR-FONDO-2-300x169.jpg" group-title="GASTRONOMÍA", Mundo & Sabor
 https://marine2.miplay.cl/mundoysabor/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | A La Cocina TV" tvg-name="PE | A La Cocina TV" tvg-logo="https://alacocinatv.com/wp-content/uploads/2023/02/cropped-ALACOCINA_LOGO_CAPAS-1-1-1-263x55.png" group-title="GASTRONOMÍA", A La Cocina TV
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/40378
 #EXTINF:-1 tvg-id="PE | Best Cable Sports" tvg-name="PE | Best Cable Sports" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=239x10000:format=jpg/path/s86a1480785a470a0/image/i3cd2b522eae1ddb2/version/1637874672/image.jpg" group-title="DEPORTES", Best Cable Sports
 https://ca2.inka.net.pe/Best-sport-000000111/index.m3u8
+#EXTINF:-1 tvg-id="PE | Liga 1" tvg-name="PE | Liga 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Liga_de_F%C3%BAtbol_Profesional_-_Liga_1_%28Per%C3%BA%29.jpg" group-title="DEPORTES", Liga 1
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/92234
 #EXTINF:-1 tvg-id="PE | Liga 1 Max" tvg-name="PE | Liga 1 Max" tvg-logo="https://services.nunchee.com/api/2.0/assets/images/63dd234f3f6b35001fcf78bd/view/backdrop/75" group-title="DEPORTES", Liga 1 Max
-http://190.83.60.34:1414/play/a06a
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/92233
 #EXTINF:-1 tvg-id="USA | Golf Channel" tvg-name="USA | Golf Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/200px-Golf_Channel_Logo_2018.png" group-title="DEPORTES", Golf Channel
 http://181.189.243.254:8000/play/a0qg/index.m3u8
 #EXTINF:-1 tvg-id="USA | Fox Sports Premium" tvg-name="USA | Fox Sports Premium" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/PZ4AX3STGVCLLJ6NQ4BVVKJHRM.jpg" group-title="DEPORTES", Fox Sports Premium
@@ -527,10 +531,18 @@ http://170.254.234.244:8000/play/a01e/index.m3u8
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-id="USA | Latin América Sport" tvg-name="USA | Latin América Sport" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0rd.png" group-title="DEPORTES", Latin América Sport
 http://181.189.243.254:8000/play/a0rd/index.m3u8
+#EXTINF:-1 tvg-id="GT | Tigo Sports Guatemala" tvg-name="GT | Tigo Sports Guatemala" tvg-logo="https://tvguatemala.net/wp-content/uploads/2022/11/Tigo-Sports-Guatemala-En-Vivo.webp" group-title="DEPORTES", Tigo Sports Guatemala
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/50262
 #EXTINF:-1 tvg-id="HN | Tigo Sports Honduras" tvg-name="HN | Tigo Sports Honduras" tvg-logo="https://pbs.twimg.com/profile_images/1197301079827976195/sRCIndHu_400x400.jpg" group-title="DEPORTES", Tigo Sports Honduras
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/18206
+#EXTINF:-1 tvg-id="SV | Tigo Sports El Salvador" tvg-name="SV | Tigo Sports El Salvador" tvg-logo="https://play-lh.googleusercontent.com/AaH2aYDblSifv-zVr6oBEKDXsQy6fYl1o2KdzRh0S0ahjbtjtelkJc5oLZwAWVd9vmM=w600-h300-pc0xffffff-pd" group-title="DEPORTES", Tigo Sports El Salvador
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/37857
 #EXTINF:-1 tvg-id="CR | Tigo Sports Costa Rica" tvg-name="CR | Tigo Sports Costa Rica" tvg-logo="https://play-lh.googleusercontent.com/6hNBaZu9_Ss-aBT6NOib7gTdU6fokNFqhOVCvGkIBjuLKXK6USX5fBfWsDfQjrD0L-A" group-title="DEPORTES", Tigo Sports Costa Rica
 http://181.189.243.254:8000/play/a0sn/index.m3u8
+#EXTINF:-1 tvg-id="PA | Tigo Sports Panamá" tvg-name="PA | Tigo Sports Panamá" tvg-logo="https://pbs.twimg.com/profile_images/1500834232544997376/E0kDiSK5_400x400.jpg" group-title="DEPORTES", Tigo Sports Panamá
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/37853
+#EXTINF:-1 tvg-id="PA | Tigo Sports Paraguay" tvg-name="PA | Tigo Sports Paraguay" tvg-logo="https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg" group-title="DEPORTES", Tigo Sports Paraguay
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/37852
 #EXTINF:-1 tvg-id="CL | Fitmaxx TV" tvg-name="CL | Fitmaxx TV" tvg-logo="https://pbs.twimg.com/media/FSk6Zq7WQAA7Cp8?format=png&name=240x240" group-title="DEPORTES", Fitmaxx TV
 https://marine2.miplay.cl/fitmaxx/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Sport Ext" tvg-name="CL | Sport Ext" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/SPORT-EXT-FONDO-2-300x169.jpg" group-title="DEPORTES", Sport Ext
@@ -823,6 +835,8 @@ https://cdn.streamhispanatv.net:3155/live/penielkidslive.m3u8
 https://cdn.streamhispanatv.net:3533/live/penielmusicagtlive.m3u8
 #EXTINF:-1 tvg-id="PE | Bethel TV" tvg-name="PE | Bethel TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Bethel-Televisi%C3%B3n-en-vivo-Online-100x70.png" group-title="RELIGIOSOS", Bethel TV
 http://190.90.251.194:8921/play/a02b/index.m3u8
+#EXTINF:-1 tvg-id="PE | Perú Mágico" tvg-name="PE | Perú Mágico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Peru_magico.png/200px-Peru_magico.png" group-title="INTERNACIONALES", Perú Mágico
+http://45.90.105.74:25461/live/JW2WBOndemand/d8rQEH2h4E/14377.m3u8
 #EXTINF:-1 tvg-id="USA | TV Peruanísima" tvg-name="USA | TV Peruanísima" tvg-logo="http://tvperuanisima.com/wp-content/uploads/2021/07/cropped-Logo-150x113-1.png" group-title="INTERNACIONALES", TV Peruanísima
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
 #EXTINF:-1 tvg-id="BR | Perú Channel" tvg-name="BR | Perú Channel" tvg-logo="https://pbs.twimg.com/profile_images/1385792142329647107/iBTUTc12_400x400.jpg" group-title="INTERNACIONALES", Perú Channel
@@ -839,8 +853,6 @@ https://ca2.inka.net.pe/BesTv-0011200001/index.m3u8
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | QUVO Teve Empresa" tvg-name="PE | QUVO Teve Empresa" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQHBJhDs6-ZbNQ/company-logo_200_200/0/1589815974379?e=2147483647&v=beta&t=EHFypU7gpyeZEF2o92AzGgeJ8HDQwbIaURH-yVEY15w" group-title="REGIONALES", QUVO Teve Empresa || Lima
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TVEMPRESA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVEMPRESA_stream_yi&_cdn_session=870407347&_cdn_timestamp=1686371893&_cdn_token=99fe6e036ded0bfd7bd988c5fc360605be5c8a02
-#EXTINF:-1 tvg-id="PE | Gamarra Channel" tvg-name="PE | Gamarra Channel" tvg-logo="https://yt3.ggpht.com/_5nCk-rEsNPQeXAHT_ZA6gx5D15x_QadepvUi--KmY6psR9n85GAYxyCuap4P2kDIDqOmvT5584=s88-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", Gamarra Channel || Lima
-https://video2.lhdserver.es/gamarrachannel/live.m3u8
 #EXTINF:-1 tvg-id="PE | Asiri TV" tvg-name="PE | Asiri TV" tvg-logo="https://graph.facebook.com/904990302901417/picture?type=large" group-title="REGIONALES", Asiri Televisión || Lima
 https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTINF:-1 tvg-id="PE | Intuitiva TV" tvg-name="PE | Intuitiva TV" tvg-logo="https://pbs.twimg.com/media/FVyWpMHXsAUe7UU?format=png&name=small" group-title="REGIONALES", Intuitiva TV || Lima
@@ -1000,7 +1012,7 @@ https://1667517699.rsc.cdn77.org/hls/mollendo.m3u8
 #EXTINF:-1 tvg-id="PE | Telesur de Camaná" tvg-name="PE | Telesur de Camaná" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png" group-title="REGIONALES", Telesur || Camana
 https://1667517699.rsc.cdn77.org/hls/camana.m3u8
 #EXTINF:-1 tvg-id="EC | Gamavisión" tvg-name="EC | Gamavisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ECUADOR", Gamavisión || ECUADOR
-http://160.20.165.246:8000/play/a00r/index.m3u8
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/72784
 #EXTINF:-1 tvg-id="EC | Teleamazonas" tvg-name="EC | Teleamazonas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/150px-Teleamazonas_Logo.png" group-title="ECUADOR", Teleamazonas || ECUADOR
 https://youvideostreaming.club/hls/ecutv4.m3u8
 #EXTINF:-1 tvg-id="EC | TVC" tvg-name="EC | TVC" tvg-logo="https://www.tvc.com.ec/wp-content/themes/albavision-theme/parts-web/9212d2e4/logo.png?ver=1.0.28" group-title="ECUADOR", TVC || ECUADOR
@@ -1684,9 +1696,9 @@ http://hplay.xyz:80/live/LVH60Ml8Hc/O4XSkHm6Yj/304353.m3u8
 #EXTINF:-1 tvg-id="UY | TV Ciudad" tvg-name="UY | TV Ciudad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TVCiudad_logo_2020.png/140px-TVCiudad_logo_2020.png" group-title="URUGUAY", TV Ciudad || URUGUAY
 https://vxlive.cdn.antel.net.uy/auth_V__TV_Ciudad,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfX1RWX0NpdWRhZCUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNjg1NjA5NjE4JnJhbmRvbT1NTnl2Mm50WldiJmMtaXA9MTgxLjE3Ni4xMzYuMTIxJmlkX3JlZmVyZW5jaWE9JmlkX2Rpc3Bvc2l0aXZvPTAmaWRfZnJvbnRlbmQ9MTI4MCZwdWJsaWNfaWQ9MnNnc20sYmIzNzQyNTg4YTk0NjE0YTRmNjE0ZmE1ZWZjZDMwODRhM2M5OGM0OTI3MDhjNmY4MDU3Y2RhMTZlY2VjMTJmMw==/vxfmt=hls/playlist.m3u8
 #EXTINF:-1 tvg-id="UY | Canal 10" tvg-name="UY | Canal 10" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/2014LogoCanal10.png/revision/latest/scale-to-width-down/200?cb=20220202050124&path-prefix=es" group-title="URUGUAY", Saeta TV Canal 10 || URUGUAY
-http://hplay.xyz:80/live/LVH60Ml8Hc/O4XSkHm6Yj/304342.m3u8
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/1825
 #EXTINF:-1 tvg-id="UY | Teledoce" tvg-name="UY | Teledoce" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/LogoTeledoce2019Azul.png" group-title="URUGUAY", Teledoce || URUGUAY
-http://hplay.xyz:80/live/LVH60Ml8Hc/O4XSkHm6Yj/304346.m3u8
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/1837
 #EXTINF:-1 tvg-id="UY | La Red" tvg-name="UY | La Red" tvg-logo="http://www.redtv.com.uy/wp-content/uploads/2019/10/logoheader2.png" group-title="URUGUAY", La Red || URUGUAY
 https://stm1.rootuy.xyz:19360/sdredtv/sdredtv.m3u8
 #EXTINF:-1 tvg-id="UY | UCL TV" tvg-name="UY | UCL TV" tvg-logo="https://www.ucltelevision.com/wp-content/uploads/2021/04/cropped-Logo-UCL-TV-LATAM-horizontal-132x65.png" group-title="URUGUAY", Un Canal Latinoamericano TV || URUGUAY
@@ -1729,10 +1741,10 @@ https://rds3.desdeparaguay.net/mitv/mitv/chunklist_w735296660.m3u8?k=1ce349cc39a
 http://45.228.232.204:16000/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="PA | Radio Programas Continentales TV" tvg-name="PA | Radio Programas Continentales TV" tvg-logo="https://www.rpctv.com/css-custom/314/images/logo-314.svg" group-title="PANAMÁ", RPC TV || PANAMÁ
 http://45.228.232.204:16000/play/a06t/index.m3u8
+#EXTINF:-1 tvg-id="PA | Oye TV" tvg-name="PA | Oye TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/OYE_TV.jpg/150px-OYE_TV.jpg" group-title="PANAMÁ", Oye TV || PANAMÁ
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/34918
 #EXTINF:-1 tvg-id="PA | TVMax" tvg-name="PA | TVMax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png" group-title="PANAMÁ", TVMax || PANAMÁ
 http://45.5.117.182:8000/play/a0ip/index.m3u8
-#EXTINF:-1 tvg-id="PA | SERTV" tvg-name="PA | SERTV" tvg-logo="https://sertv.gob.pa/wp-content/uploads/2018/10/log_sertv-80-retina.png" group-title="PANAMÁ", SERTV || PANAMÁ
-http://185.246.86.135:25461/live/app10/app100/14.m3u8
 #EXTINF:-1 tvg-id="PA | Telemetro" tvg-name="PA | Telemetro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/150px-Logo-telemetro.svg.png" group-title="PANAMÁ", Telemetro || PANAMÁ
 http://45.228.232.204:16000/play/a027/index.m3u8
 #EXTINF:-1 tvg-id="PA | Mas 23" tvg-name="PA | Mas 23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/M%C3%A1s_23.png/132px-M%C3%A1s_23.png" group-title="PANAMÁ", Mas 23 || PANAMÁ
@@ -1742,7 +1754,7 @@ http://181.189.243.254:8000/play/a0qw/index.m3u8
 #EXTINF:-1 tvg-id="PA | Asamblea Nacional TV" tvg-name="PA | Asamblea Nacional TV" tvg-logo="https://pbs.twimg.com/media/Flcb7irXkAAkf_p?format=png&name=900x900" group-title="PANAMÁ", Asamblea Nacional TV || PANAMÁ
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/28aad57d1f7e4f13be8d0c8390f679b2/chunklist_b2028000.m3u8
 #EXTINF:-1 tvg-id="PA | Bocas TV" tvg-name="PA | Bocas TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY-rZTZ1giQXdPgONIYlCLSTiQveiuwrRInO6oErSOIgXp__tM-sM-TiNQeTsI_2ZijEg&usqp=CAU" group-title="PANAMÁ", Bocas TV || PANAMÁ
-http://185.246.86.135:25461/live/app10/app100/20.m3u8
+https://stream.oursnetworktv.com/latin/btvpanama/playlist.m3u8
 #EXTINF:-1 tvg-id="CR | Canal 2 Central de Radios" tvg-name="CR | Canal 2 Central de Radios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Repretel_2_CDR.png/120px-Repretel_2_CDR.png" group-title="COSTA RICA", Canal 2 CDR || COSTA RICA
 https://d25v5vivhcrrh5.cloudfront.net/hls/canal2.m3u8
 #EXTINF:-1 tvg-id="CR | Canal 4" tvg-name="CR | Canal 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/150px-Repretel_4_logo.png" group-title="COSTA RICA", Canal 4 || COSTA RICA
@@ -2340,23 +2352,27 @@ http://190.122.96.187:8888/http/005
 #EXTINF:-1 tvg-id="ES | TVE" tvg-name="ES | TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/150px-Logo_TVE-Internacional.svg.png" group-title="INTERNACIONALES", TVE || ESPAÑA
 http://45.5.119.202:54321/play/a05u/index.m3u8
 #EXTINF:-1 tvg-id="ES | La 1" tvg-name="ES | La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/125px-Logo_TVE-1.svg.png" group-title="ESPAÑA", La 1 || ESPAÑA
-http://45.141.194.9:9000/play/a00y/index.m3u8
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/67623
 #EXTINF:-1 tvg-id="ES | La 2" tvg-name="ES | La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/800px-Logo_TVE-2.svg.png" group-title="ESPAÑA", La 2 || ESPAÑA
-http://45.141.194.9:9000/play/a00z/index.m3u8
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/2209
 #EXTINF:-1 tvg-id="ES | Antena 3" tvg-name="ES | Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/125px-Antena_3_%282017%29.svg.png" group-title="ESPAÑA", Antena 3 || ESPAÑA
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ANTENA3/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DANTENA3_stream_9o&_cdn_session=870418347&_cdn_timestamp=1686372288&_cdn_token=e8ad8f688fdaa0051e2bb6991022f023d08dae40
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ANTENA3/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DANTENA3_stream_9o&_cdn_session=865033043&_cdn_timestamp=1686191825&_cdn_token=7579bb34f7073f281ef26b9336f354adbcbd651a
 #EXTINF:-1 tvg-id="ES | Cuatro" tvg-name="ES | Cuatro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/250px-Cuatro.svg.png" group-title="ESPAÑA", Cuatro || ESPAÑA
-http://45.141.194.9:9000/play/a01j/index.m3u8
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/2211
 #EXTINF:-1 tvg-id="ES | Telecinco" tvg-name="ES | Telecinco" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/125px-Telecinco.svg.png" group-title="ESPAÑA", Telecinco || ESPAÑA
-http://51.91.8.161:18000/Telecinco/hls/playlist.m3u8
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/14911
+#EXTINF:-1 tvg-id="ES | Nova" tvg-name="ES | Nova" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/200px-Nova.svg.png" group-title="ESPAÑA", Nova || ESPAÑA
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/80644
+#EXTINF:-1 tvg-id="ES | Factoría de Ficción" tvg-name="ES | Factoría de Ficción" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/125px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="ESPAÑA", FDF || ESPAÑA
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/80670
+#EXTINF:-1 tvg-id="ES | Be Mad" tvg-name="ES | Be Mad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/125px-Be_Mad_TV.svg.png" group-title="ESPAÑA", Be Mad || ESPAÑA
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/80612
 #EXTINF:-1 tvg-id="ES | Star TVE HD" tvg-name="ES | Star TVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star-TVE-logo.png/200px-Star-TVE-logo.png" group-title="ESPAÑA", Star TVE HD || ESPAÑA
 http://181.189.243.254:8000/play/a0qf/index.m3u8
 #EXTINF:-1 tvg-id="ES | Telemadrid" tvg-name="ES | Telemadrid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/245px-TeleMadrid.svg.png" group-title="ESPAÑA", Telemadrid || ESPAÑA
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
 #EXTINF:-1 tvg-id="ES | TV Galicia América" tvg-name="ES | TV Galicia América" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/75px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="ESPAÑA", TV Galicia América || ESPAÑA
 https://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
-#EXTINF:-1 tvg-id="ES | Córdoba TV" tvg-name="ES | Córdoba TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSgVgo2JIuWIRczlo8FaYXvLw9PdUl9-wMezPIEyg=s900-c-k-c0x00ffffff-no-rj" group-title="ESPAÑA", Córdoba TV || ESPAÑA
-https://cloudvideo.servers10.com:8081/8020/index.m3u8
 #EXTINF:-1 tvg-id="ES | Radio Televisión Mogan" tvg-name="ES | Radio Televisión Mogan" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR9a3Cn4uJLbEkRS4XPaymSOXxbfkwIpfbvSF_P=s900-c-k-c0x00ffffff-no-rj" group-title="ESPAÑA", Radio Televisión Mogan || ESPAÑA
 https://cloudvideo.servers10.com:8081/8028/index.m3u8
 #EXTINF:-1 tvg-id="ES | Costa del Sol TV" tvg-name="ES | Costa del Sol TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJX_hsF83yqZtuAfSJ6Idywzr0aOFiKKg1Ui13-y-A=s900-c-k-c0x00ffffff-no-rj" group-title="ESPAÑA", Costa del Sol TV || ESPAÑA
@@ -2375,26 +2391,20 @@ https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m
 https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="ES | La 7 Región de Murcia" tvg-name="ES | La 7 Región de Murcia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/La_7_logo.svg/150px-La_7_logo.svg.png" group-title="ESPAÑA", La 7 Región de Murcia || ESPAÑA
 https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ES | National Geographic" tvg-name="ES | National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png" group-title="ESPAÑA", National Geographic || ESPAÑA
-http://45.141.194.9:9000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-id="ES | National Geographic Wild" tvg-name="ES | National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/175px-National_Geographic_Wild_logo.svg.png" group-title="ESPAÑA", National Geographic Wild || ESPAÑA
-http://45.141.194.9:9000/play/a012/index.m3u8
-#EXTINF:-1 tvg-id="ES | Historia" tvg-name="ES | Historia" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/HIST" group-title="ESPAÑA", Historia || ESPAÑA
-http://45.141.194.9:9000/play/a00v/index.m3u8
-#EXTINF:-1 tvg-id="ES | Discovery" tvg-name="ES | Discovery" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DCR" group-title="ESPAÑA", Discovery || ESPAÑA
-http://45.141.194.9:9000/play/a021/index.m3u8
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/92940
+#EXTINF:-1 tvg-id="ES | Caza y Pesca" tvg-name="ES | Caza y Pesca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Caza-pesca_m%2B.png/250px-Caza-pesca_m%2B.png" group-title="ESPAÑA", Caza y Pesca || ESPAÑA
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/80694
+#EXTINF:-1 tvg-id="ES | DMAX" tvg-name="ES | DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/250px-DMAX_BLACK.svg.png" group-title="ESPAÑA", DMAX || ESPAÑA
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/44341
 #EXTINF:-1 tvg-id="ES | Odisea" tvg-name="ES | Odisea" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ODISEA" group-title="ESPAÑA", Odisea || ESPAÑA
-http://45.141.194.9:9000/play/a01m/index.m3u8
-#EXTINF:-1 tvg-id="ES | AXN White" tvg-name="ES | AXN White" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SET" group-title="ESPAÑA", AXN White || ESPAÑA
-http://45.141.194.9:9000/play/a01k/index.m3u8
-#EXTINF:-1 tvg-id="ES | Canal Hollywood" tvg-name="ES | Canal Hollywood" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HOLLYW.png" group-title="ESPAÑA", Canal Hollywood || ESPAÑA
-http://45.141.194.9:9000/play/a00w/index.m3u8
-#EXTINF:-1 tvg-id="ES | AMC Crime" tvg-name="ES | AMC Crime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/AMC_Crime.svg/320px-AMC_Crime.svg.png" group-title="ESPAÑA", AMC Crime || ESPAÑA
-http://45.141.194.9:9000/play/a00e/index.m3u8
-#EXTINF:-1 tvg-id="ES | BOM Cine" tvg-name="ES | BOM Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/130px-Logo-bom.svg.png" group-title="ESPAÑA", BOM Cine || ESPAÑA
-http://45.141.194.9:9000/play/a00d/index.m3u8
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/15142
+#EXTINF:-1 tvg-id="ES | Calle 13" tvg-name="ES | Calle 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Calle13_logo.svg/100px-Calle13_logo.svg.png" group-title="ESPAÑA", Calle 13 || ESPAÑA
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/80621
+#EXTINF:-1 tvg-id="ES | #0 por M+" tvg-name="ES | #0 por M+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/0_por_Movistar_Plus%2B_2022_logo.svg/155px-0_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ESPAÑA", #0 por M+ || ESPAÑA
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/80617
 #EXTINF:-1 tvg-id="ES | Cosmo TV" tvg-name="ES | Cosmo TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/LOGO_COSMO.png/130px-LOGO_COSMO.png" group-title="ESPAÑA", Cosmo TV || ESPAÑA
-http://45.141.194.9:9000/play/a00j/index.m3u8
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/80614
 #EXTINF:-1 tvg-id="JP | NHK World" tvg-name="JP | NHK World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/245px-NHK_World.svg.png" group-title="JAPON", NHK World || JAPON
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/NHK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNHK_stream_ya&_cdn_session=801724067&_cdn_timestamp=1684127966&_cdn_token=db207470b6333fb4502fa1692e70ec6e2f326d8d
 #EXTINF:-1 tvg-id="KR | Asian TV" tvg-name="KR | Asian TV" tvg-logo="https://tv-iteractiva-prod.s3.amazonaws.com/media/brand/ASIANTV_LOGO_PRETO-01_menor_DURXi6G.png" group-title="KOREA DEL SUR", Asian TV || KOREA DEL SUR
@@ -2679,6 +2689,8 @@ http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/11784
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/11785
 #EXTINF:-1 tvg-id="CA | Stingray Music Remember The 80's" tvg-name="CA | Stingray Music Remember The 80's" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", Stingray Music Remember The 80's
 https://stirr.ott-channels.stingray.com/128/master.m3u8
+#EXTINF:-1 tvg-id="CA | Stingray Music Años 90's" tvg-name="CA | Stingray Music Años 90's" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", Stingray Music Años 90's
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/11786
 #EXTINF:-1 tvg-id="CA | Stingray Music Pop Adult" tvg-name="CA | Stingray Music Pop Adult" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", Stingray Music Pop Adult
 https://ott-linear-channels.stingray.com/hls/stirr/104.m3u8
 #EXTINF:-1 tvg-id="CA | Stingray Music Rock Alternative" tvg-name="CA | Stingray Music Rock Alternative" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", Stingray Music Rock Alternative
