@@ -19,16 +19,16 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/CONECTADA2/40-hls/live-media.
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATV_stream_of&_cdn_session=895394499&_cdn_timestamp=1687261551&_cdn_token=0004b7220397d631f4f8461b5217d52a0197b57e
 #EXTINF:-1 tvg-id="PE | RPP TV" tvg-name="PE | RPP TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="NOTICIAS E INFORMACION", RPP TV
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/2298
-#EXTINF:-1 tvg-id="PE | PBO TV" tvg-name="PE | PBO TV" tvg-logo="https://pboradio.minegocio21.com/wp-content/uploads/2020/10/logo278.jpg" group-title="PERU", PBO TV
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PBO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=895395123&_cdn_timestamp=1687261581&_cdn_token=bf085f26ae63f38342f4d4c8896913877a627f9c
+#EXTINF:-1 tvg-id="PE | Viva TV" tvg-name="PE | Viva TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/PyW6vij-.jpg/175px-PyW6vij-.jpg" group-title="PERU", Viva TV
+http://191.97.60.193:10000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="PE | USMP TV" tvg-name="PE | USMP TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/USMP_TV_2017.svg/revision/latest/scale-to-width-down/56?cb=20210504214359&path-prefix=es" group-title="PERU", USMP TV
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/USMPTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUSMPTV_stream_61&_cdn_session=895395659&_cdn_timestamp=1687261602&_cdn_token=3f3c502098f8590d766ae518b331870198e38116
 #EXTINF:-1 tvg-id="PE | Global Televisión" tvg-name="PE | Global Televisión" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMObN_3dPu0x6ipIMnQiPhMsWdYVDq5ZXCPA68_3m2KC_k9CT4VpttLSvI7f-mzLYi7w8&usqp=CAU" group-title="PERU", Global Televisión
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=895395795&_cdn_timestamp=1687261609&_cdn_token=e259f22465dfc9e56ccc9a15b5df38bea03ac857
 #EXTINF:-1 tvg-id="PE | Fuego TV" tvg-name="PE | Fuego TV" tvg-logo="https://pbs.twimg.com/media/FanGV4zXwAEhBWO?format=png&name=small" group-title="PERU", Fuego TV
 https://ott1.hdlatam.tv/live/fuegotv/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | La Tele" tvg-name="PE | La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/400px-LaTele_Per%C3%BA_2018_Logo.png" group-title="PERU", La Tele
-http://190.92.25.125:8000/play/a033/index.m3u8
+#EXTINF:-1 tvg-id="PE | PBO TV" tvg-name="PE | PBO TV" tvg-logo="https://pboradio.minegocio21.com/wp-content/uploads/2020/10/logo278.jpg" group-title="PERU", PBO TV
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PBO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=895395123&_cdn_timestamp=1687261581&_cdn_token=bf085f26ae63f38342f4d4c8896913877a627f9c
 #EXTINF:-1 tvg-id="PE | Andina Televisión Plus" tvg-name="PE | Andina Televisión Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/175px-ATV%2B_logo_2020.png" group-title="PERU", ATV +
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ATVMAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATVMAS_stream_nu&_cdn_session=895411747&_cdn_timestamp=1687262204&_cdn_token=dac060dae6200da1a950639941919c4667820bcc
 #EXTINF:-1 tvg-id="PE | Andina Televisión Sur" tvg-name="PE | Andina Televisión Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/185px-ATV_Sur_-_2018_logo_%28final%29.png" group-title="PERU", ATV Sur
@@ -498,7 +498,7 @@ https://ca2.inka.net.pe/Best-sport-000000111/index.m3u8
 #EXTINF:-1 tvg-id="PE | Liga 1" tvg-name="PE | Liga 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Liga_de_F%C3%BAtbol_Profesional_-_Liga_1_%28Per%C3%BA%29.jpg" group-title="DEPORTES", Liga 1
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/92234
 #EXTINF:-1 tvg-id="PE | Liga 1 Max" tvg-name="PE | Liga 1 Max" tvg-logo="https://services.nunchee.com/api/2.0/assets/images/63dd234f3f6b35001fcf78bd/view/backdrop/75" group-title="DEPORTES", Liga 1 Max
-http://190.83.60.34:1414/play/a06a
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/92233
 #EXTINF:-1 tvg-id="USA | Golf Channel" tvg-name="USA | Golf Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/200px-Golf_Channel_Logo_2018.png" group-title="DEPORTES", Golf Channel
 http://181.189.243.254:8000/play/a0qg/index.m3u8
 #EXTINF:-1 tvg-id="USA | Fox Sports Premium" tvg-name="USA | Fox Sports Premium" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/PZ4AX3STGVCLLJ6NQ4BVVKJHRM.jpg" group-title="DEPORTES", Fox Sports Premium
@@ -843,6 +843,8 @@ https://v4.tustreaming.cl/odtv2/index.m3u8
 https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Best Cable TV" tvg-name="PE | Best Cable TV" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=268x10000:format=png/path/s86a1480785a470a0/image/ie269f4983a26afca/version/1641318191/best-cable-tv.png" group-title="REGIONALES", Best Cable Televisión || Lima
 https://ca2.inka.net.pe/BesTv-0011200001/index.m3u8
+#EXTINF:-1 tvg-id="PE | Tele Lima" tvg-name="PE | Tele Lima" tvg-logo="https://pbs.twimg.com/media/FwOtdL0XoAAV01H?format=png&name=small" group-title="PERU", Tele Lima
+http://191.97.60.193:10000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="PE | Visión Noticias Perú" tvg-name="PE | Visión Noticias Perú" tvg-logo="https://www.vnp.pe/wp-content/uploads/2020/11/logo-vnp-color.png" group-title="REGIONALES", VNP || Lima
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | QUVO Teve Empresa" tvg-name="PE | QUVO Teve Empresa" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQHBJhDs6-ZbNQ/company-logo_200_200/0/1589815974379?e=2147483647&v=beta&t=EHFypU7gpyeZEF2o92AzGgeJ8HDQwbIaURH-yVEY15w" group-title="REGIONALES", QUVO Teve Empresa || Lima
@@ -1704,7 +1706,7 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 tvg-id="UY | TVF Canal 4 Florida" tvg-name="UY | TVF Canal 4 Florida" tvg-logo="https://1.bp.blogspot.com/-n-ToclaJnhU/YTo17oV6nPI/AAAAAAAAQgk/YKWlAtGijwkfrlfVixbJ4sK3uYB9cKXDwCLcBGAsYHQ/w700-h400-p-k-no-nu/canal-tvflorida-en-vivo_optimized.jpg" group-title="URUGUAY", TVF Canal 4 Florida || URUGUAY
 https://60ed5b6d0df78.streamlock.net:1936/tvflorida/tvflorida/playlist.m3u8
 #EXTINF:-1 tvg-id="UY | Canal 23 Florida" tvg-name="UY | Canal 23 Florida" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/08/Canal-23-Florida-Uruguay-en-vivo-Online.png?resize=696%2C392&ssl=1" group-title="URUGUAY", Canal 23 Florida || URUGUAY
-https://vxlive.cdn.antel.net.uy/auth_V_Canal_23_Florida,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQ2FuYWxfMjNfRmxvcmlkYSUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNjg2ODk3NTQ2JnJhbmRvbT1tU05nRjhKQWkyJmMtaXA9MTgxLjE3Ni4xMzYuMjEzJmlkX3JlZmVyZW5jaWE9JmlkX2Rpc3Bvc2l0aXZvPTAmaWRfZnJvbnRlbmQ9MTE5NiZwdWJsaWNfaWQ9MnM2bjYsYmMwY2UzZjMwNWJmZjA3NzRiOThhMTZmZjY0MjJhMzFmOTUwZGM2NzI0YjgwOTA3YzY4NjM5ZmY1YTlkZjEzNQ==/vxfmt=hls/h_2ae65c334463d87910c1aec05c87a0ee/var3950000/playlist.m3u8
+https://60ed5b6d0df78.streamlock.net:1936/tvflorida/tvflorida/playlist.m3u8
 #EXTINF:-1 tvg-id="UY | Canal Más" tvg-name="UY | Canal Más" tvg-logo="https://play-lh.googleusercontent.com/nBuRrXQscntpKQBxejjl2KrF3FonM9XeULo47wyhx5S6ooVbymt-knaKx5Pl1-J6lUis=w240-h480-rw" group-title="URUGUAY", Canal Más || URUGUAY
 https://tvdatta.com:3451/stream/play.m3u8
 #EXTINF:-1 tvg-id="UY | Charrua TV" tvg-name="UY | Charrua TV" tvg-logo="https://1.bp.blogspot.com/-5oMEGv6pLAo/YToskYNBjdI/AAAAAAAAQes/FLUAZ0CmW8E3ZqGT0XFAlD8GdMiD5TzewCLcBGAsYHQ/w700-h400-p-k-no-nu/charr%25C3%25BAa-televisi%25C3%25B3n-en-vivo_optimized.png" group-title="URUGUAY", Charrua TV || URUGUAY
