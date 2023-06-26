@@ -111,8 +111,8 @@ https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
 https://inliveserver.com:1936/19026/19026/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | CNC Digital" tvg-name="PE | CNC Digital" tvg-logo="https://play-lh.googleusercontent.com/a5x8VaDVvMskcJ-FQvcc_JYISud83WBb42g7opg5XuNCVPiIUBFuDuLSBFg2aN7AaQ=w240-h480-rw" group-title="REGIONALES", 53 | CNC Digital || Iquitos
 https://ott1.hdlatam.tv/live/CNCdigitallive/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Ribereña TV" tvg-name="PE | Ribereña TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEIe9woyw9o10m4PFmtVnyaHMgMtRARA5HCoCr7_JO2UhgRZ6GgGBhVj_nBbIJ63gSS-U&usqp=CAU" group-title="REGIONALES", 54 | Ribereña TV || Pucallpa
-https://cloudvideo.servers10.com:8081/8070/index.m3u8
+#EXTINF:-1 tvg-id="PE | Telecanal 49" tvg-name="PE | Telecanal 49" tvg-logo="https://telecanalperu.com/wp-content/uploads/2023/04/tele-chiki.png" group-title="REGIONALES", 54 | Telecanal 49 || Pucallpa
+https://vdo.grupolimalive.com:3927/live/milleniumlive.m3u8
 #EXTINF:-1 tvg-id="PE | Oriental TV" tvg-name="PE | Oriental TV" tvg-logo="http://tv.10dailythings.com/images/channels/PE/oriental-tv-21-pucallpa-720p-not-247/normal.png" group-title="REGIONALES", 55 | Oriental TV || Pucallpa
 https://vdo.grupolimalive.com:3467/live/orientaltvlive.m3u8
 #EXTINF:-1 tvg-id="PE | Pucallpa Televisión" tvg-name="PE | Pucallpa Televisión" tvg-logo="https://play-lh.googleusercontent.com/XKSBWGFeJZmoKEmTVbPjhDUS5GGmehWoBXv6xZYlFwCDCLMgMz8jLvOc_S6Kh82cWg=w240-h480-rw" group-title="REGIONALES", 56 | Pucallpa Televisión || Pucallpa
@@ -486,7 +486,7 @@ http://45.228.234.162:24000/play/a08l/index.m3u8
 #EXTINF:-1 tvg-id="MX | Claro Sports 2" tvg-name="MX | Claro Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest/scale-to-width-down/250?cb=20210423191014&path-prefix=es" group-title="DEPORTES", 237.2 | Claro Sports 2
 http://181.189.243.254:8000/play/a0on/index.m3u8
 #EXTINF:-1 tvg-id="CL | TNT Sports" tvg-name="CL | TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/320px-TNT_Sports_2021_logo.svg.png" group-title="DEPORTES", 238 | TNT Sports
-http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/1653
+http://190.83.60.34:1414/play/a01h
 #EXTINF:-1 tvg-id="CL | TNT Sports 2" tvg-name="CL | TNT Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/TNT_Sports_2_2021.png/revision/latest?cb=20210117170635&path-prefix=es" group-title="DEPORTES", 238.2 | TNT Sports 2
 http://190.61.44.122:8000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-id="CL | Canal del Deporte Olímpico" tvg-name="CL | Canal del Deporte Olímpico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CDO_Premium.png/320px-CDO_Premium.png" group-title="DEPORTES", 239 | Canal del Deporte Olímpico
@@ -503,7 +503,9 @@ http://181.189.243.254:8000/play/a0sn/index.m3u8
 https://marine2.miplay.cl/fitmaxx/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Sport Ext" tvg-name="CL | Sport Ext" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/SPORT-EXT-FONDO-2-300x169.jpg" group-title="DEPORTES", 245 | Sport Ext
 https://marine2.miplay.cl/sportext/playlist.m3u8
-#EXTINF:-1 tvg-id="CO | Win Sports+" tvg-name="CO | Win Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/WinSportsM%C3%A1s2022.png/200px-WinSportsM%C3%A1s2022.png" group-title="DEPORTES", 246 | Win Sports+
+#EXTINF:-1 tvg-id="CO | Win Sports" tvg-name="CO | Win Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/WinSports2022.png/150px-WinSports2022.png" group-title="DEPORTES", 246 | Win Sports
+http://190.83.60.34:1414/play/a01k
+#EXTINF:-1 tvg-id="CO | Win Sports+" tvg-name="CO | Win Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/WinSportsM%C3%A1s2022.png/200px-WinSportsM%C3%A1s2022.png" group-title="DEPORTES", 246.2 | Win Sports+
 http://190.27.253.211:8000/play/a07g/index.m3u8
 #EXTINF:-1 tvg-id="CR | FUTV" tvg-name="CR | FUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_de_FUTV.svg/200px-Logo_de_FUTV.svg.png" group-title="DEPORTES", 247 | FUTV
 http://181.189.243.254:8000/play/a0t3/index.m3u8
@@ -796,7 +798,7 @@ https://ca2.inka.net.pe/BesTv-0011200001/index.m3u8
 #EXTINF:-1 tvg-id="PE | Visión Noticias Perú" tvg-name="PE | Visión Noticias Perú" tvg-logo="https://www.vnp.pe/wp-content/uploads/2020/11/logo-vnp-color.png" group-title="REGIONALES", 382 | VNP || Lima
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | QUVO Teve Empresa" tvg-name="PE | QUVO Teve Empresa" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQHBJhDs6-ZbNQ/company-logo_200_200/0/1589815974379?e=2147483647&v=beta&t=EHFypU7gpyeZEF2o92AzGgeJ8HDQwbIaURH-yVEY15w" group-title="REGIONALES", 383 | QUVO Teve Empresa || Lima
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TVEMPRESA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVEMPRESA_stream_yi&_cdn_session=918069075&_cdn_timestamp=1687993867&_cdn_token=59d5c2f7be91ce63fec5098da6dbe194f00c15e2
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TVEMPRESA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVEMPRESA_stream_yi&_cdn_session=924223995&_cdn_timestamp=1688180586&_cdn_token=e8cba15a17337e60303e0f62d2f69931e7e696e4
 #EXTINF:-1 tvg-id="PE | Asiri TV" tvg-name="PE | Asiri TV" tvg-logo="https://graph.facebook.com/904990302901417/picture?type=large" group-title="REGIONALES", 384 | Asiri Televisión || Lima
 https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTINF:-1 tvg-id="PE | Intuitiva TV" tvg-name="PE | Intuitiva TV" tvg-logo="https://pbs.twimg.com/media/FVyWpMHXsAUe7UU?format=png&name=small" group-title="REGIONALES", 385 | Intuitiva TV || Lima
@@ -1046,7 +1048,7 @@ http://190.242.104.58:9092/play/e073
 #EXTINF:-1 tvg-id="CO | Zoom TV"  tvg-name="CO | Zoom TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/CanalZoom2018.png/revision/latest/scale-to-width-down/78?cb=20210501194343&path-prefix=es" group-title="COLOMBIA", 500 | Zoom TV || COLOMBIA
 https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
 #EXTINF:-1 tvg-id="CO | Canal C de Cali" tvg-name="CO | Canal C de Cali" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRhl94w4Xil6sWKn-TpwbBo4oDXDJ6IZdILATFNKw=s900-c-k-c0x00ffffff-no-rj" group-title="COLOMBIA", 501 | Canal C de Cali || COLOMBIA
-https://edge.teveo.com.co/live/AeAAAgAhAANnA1IAyADIUDAAAAGAAAAAAmSYRQO1sIn0AAAA/playlist.m3u8
+https://edge.teveo.com.co/live/AeAAAgAhAANnA1IAyADIUDAAAAGAAAAAAmSY_3W1sIn0AAAA/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | Telecaribe" tvg-name="CO | Telecaribe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Telecaribe2017.png/150px-Telecaribe2017.png" group-title="COLOMBIA", 502 | Telecaribe || COLOMBIA
 https://tkx.mp.lura.live/rest/v2/mcp/video/adstB64MXYxqLZwy?anvack=4gXmVVoVIp3YeECJWm6af3j0mlHwl6vO&eud=SKjoH1L/9Enwo5zQBiBTRfTSNGfENMNO6udm4CQNVvix/L9XX8kucBOvzWalIghNrL5GllGH8ou17ICYGv29Rg==
 #EXTINF:-1 tvg-id="CO | Mundo +" tvg-name="CO | Mundo +" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTDVbXdzqg5wRA2IZDnWEJyezQIhnUGxI8fEuLOgA=s88-c-k-c0x00ffffff-no-rj" group-title="COLOMBIA", 503 | Mundo + || COLOMBIA
@@ -1092,7 +1094,7 @@ http://181.119.66.30:8000/play/42/index.m3u8
 #EXTINF:-1 tvg-id="VE | Vale TV" tvg-name="VE | Vale TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Logo_de_VALE_TV.png/200px-Logo_de_VALE_TV.png" group-title="VENEZUELA", 523 | Vale TV || VENEZUELA
 https://cloud.fastchannel.es/manifiest/hls/valetv/valetv_480p.m3u8
 #EXTINF:-1 tvg-id="VE | Venezolana de Televisión" tvg-name="VE | Venezolana de Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/1024px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" group-title="VENEZUELA", 524 | VTV || VENEZUELA
-https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLnk4B34Qp10rT0lsLqRd8euEA46T5dG6a6wRcHRwu-aD)/dm/3/x828i6j/s/live-3.m3u8
+http://191.102.90.97:8000/play/a0h4/index.m3u8
 #EXTINF:-1 tvg-id="VE | Televen" tvg-name="VE | Televen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Televen_logo.PNG/150px-Televen_logo.PNG" group-title="VENEZUELA", 525 | Televen || VENEZUELA
 http://181.119.66.30:8000/play/44/index.m3u8
 #EXTINF:-1 tvg-id="VE | Vepaco TV" tvg-name="VE | Vepaco TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Logo-Vepaco-TV.png/245px-Logo-Vepaco-TV.png" group-title="VENEZUELA", 526 | Vepaco TV || VENEZUELA
