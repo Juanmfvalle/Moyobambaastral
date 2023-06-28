@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="PE | Willax Televisión" tvg-name="PE | Willax Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU", 1 | Willax Televisión
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/WILLAX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=918007691&_cdn_timestamp=1687992078&_cdn_token=f3d91b7801bd25e21212b708f31299e85ffb4ce3
+
 #EXTINF:-1 tvg-id="PE | Latina Televisión" tvg-name="PE | Latina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="PERU", 2 | Latina Televisión
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/LATINA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINA_stream_hj&_cdn_session=918008091&_cdn_timestamp=1687992088&_cdn_token=0a6efdd606a5d12fda147760586e525e8628911a
 #EXTINF:-1 tvg-id="PE | La Tele" tvg-name="PE | La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/400px-LaTele_Per%C3%BA_2018_Logo.png" group-title="PERU", 3 | La Tele
@@ -466,7 +466,7 @@ http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/92233
 #EXTINF:-1 tvg-id="USA | Golf Channel" tvg-name="USA | Golf Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/200px-Golf_Channel_Logo_2018.png" group-title="DEPORTES", 228 | Golf Channel
 http://181.189.243.254:8000/play/a0qg/index.m3u8
 #EXTINF:-1 tvg-id="USA | Fox Sports Premium" tvg-name="USA | Fox Sports Premium" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/PZ4AX3STGVCLLJ6NQ4BVVKJHRM.jpg" group-title="DEPORTES", 229 | Fox Sports Premium
-http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/56034
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/53549.m3u8
 #EXTINF:-1 tvg-id="USA | Fox Sports 2" tvg-name="USA | Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/175px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES", 230 | Fox Sports 2
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=918055787&_cdn_timestamp=1687993441&_cdn_token=e3ba1b38a639124f147d8baaad53cb753128ab48
 #EXTINF:-1 tvg-id="USA | Fox Sports 3" tvg-name="USA | Fox Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/180px-Fox_sports_3_logo.svg.png" group-title="DEPORTES", 231 | Fox Sports 3
@@ -497,7 +497,9 @@ http://170.254.234.244:8000/play/a01e/index.m3u8
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-id="USA | Latin América Sport" tvg-name="USA | Latin América Sport" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0rd.png" group-title="DEPORTES", 242 | Latin América Sport
 http://181.189.243.254:8000/play/a0rd/index.m3u8
-#EXTINF:-1 tvg-id="CR | Tigo Sports Costa Rica" tvg-name="CR | Tigo Sports Costa Rica" tvg-logo="https://play-lh.googleusercontent.com/6hNBaZu9_Ss-aBT6NOib7gTdU6fokNFqhOVCvGkIBjuLKXK6USX5fBfWsDfQjrD0L-A" group-title="DEPORTES", 243 | Tigo Sports Costa Rica
+#EXTINF:-1 tvg-id="GT | Tigo Sports Guatemala" tvg-name="GT | Tigo Sports Guatemala" tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="DEPORTES", 243 | Tigo Sports Guatemala
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/50262.m3u8
+#EXTINF:-1 tvg-id="CR | Tigo Sports Costa Rica" tvg-name="CR | Tigo Sports Costa Rica" tvg-logo="https://play-lh.googleusercontent.com/6hNBaZu9_Ss-aBT6NOib7gTdU6fokNFqhOVCvGkIBjuLKXK6USX5fBfWsDfQjrD0L-A" group-title="DEPORTES", 243.2 | Tigo Sports Costa Rica
 http://181.189.243.254:8000/play/a0sn/index.m3u8
 #EXTINF:-1 tvg-id="CL | Fitmaxx TV" tvg-name="CL | Fitmaxx TV" tvg-logo="https://pbs.twimg.com/media/FSk6Zq7WQAA7Cp8?format=png&name=240x240" group-title="DEPORTES", 244 | Fitmaxx TV
 https://marine2.miplay.cl/fitmaxx/playlist.m3u8
@@ -512,11 +514,11 @@ http://181.189.243.254:8000/play/a0t3/index.m3u8
 #EXTINF:-1 tvg-id="HN | Todo Deportes TV" tvg-name="HN | Todo Deportes TV" tvg-logo="https://dd7tel2830j4w.cloudfront.net/f1560359694028x167785582725733730/Group%2012.svg" group-title="DEPORTES", 248 | Todo Deportes TV
 https://5ca39be538307.streamlock.net/tododeportesplus/smil:tododeportesplus.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDIzIDE6MzA6MTcgUE0maGFzaF92YWx1ZT1LbmJYTFJORUNEeEdaZXMxalNOKzJBPT0mdmFsaWRtaW51dGVzPTM2MDAmaWQ9
 #EXTINF:-1 tvg-id="AR | DSports" tvg-name="AR | DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/175px-DSports.png" group-title="DEPORTES", 249 | DSports
-http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/37843
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/1644.m3u8
 #EXTINF:-1 tvg-id="AR | DSports 2" tvg-name="AR | DSports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DSports2.png/175px-DSports2.png" group-title="DEPORTES", 249.2 | DSports 2
-http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/1789
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/37838.m3u8
 #EXTINF:-1 tvg-id="AR | DSports+" tvg-name="AR | DSports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/DSportsM%C3%A1s.png/150px-DSportsM%C3%A1s.png" group-title="DEPORTES", 249.3 | DSports+
-http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/21794
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/50275.m3u8
 #EXTINF:-1 tvg-id="AR | DSports Fight" tvg-name="AR | DSports Fight" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/s/dsports_fight.png" group-title="DEPORTES", 249.4 | DSports Fight
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/92073
 #EXTINF:-1 tvg-id="AR | DSports Motor" tvg-name="AR | DSports Motor" tvg-logo="https://www.totalmedios.com/img/noticias/2023/06/6481c3f81fdc4__838x390.jpg" group-title="DEPORTES", 249.5 | DSports Motor
@@ -534,9 +536,9 @@ http://190.61.102.67:31589/play/a08m/index.m3u8
 #EXTINF:-1 tvg-id="USA | TUDN" tvg-name="USA | TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/200px-TUDN_Logo.svg.png" group-title="DEPORTES", 255 | TUDN
 http://190.61.102.67:31589/play/a08j/index.m3u8
 #EXTINF:-1 tvg-id="MX | Afizzionados" tvg-name="MX | Afizzionados" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/320px-Afizzionados_Logo.svg.png" group-title="DEPORTES", 256 | Afizzionados
-http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/53495
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/53495.m3u8
 #EXTINF:-1 tvg-id="MX | TVC Deportes" tvg-name="MX | TVC Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/TVCDeportes.png" group-title="DEPORTES", 257 | TVC Deportes
-http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/16602
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16602.m3u8
 #EXTINF:-1 tvg-id="ES | Liga de Campeones por M+" tvg-name="ES | Liga de Campeones por M+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/250px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="DEPORTES", 258 | Liga de Campeones por M+
 https://v3.playerlatino.live/stream/m3u8/890
 #EXTINF:-1 tvg-id="FR | Eurosport 1" tvg-name="FR | Eurosport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/230px-Eurosport_1_Logo_2015.svg.png" group-title="DEPORTES", 259 | Eurosport 1
