@@ -135,7 +135,9 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PASIONES/40-hls/live-media.m3
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/KANALD/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DKANALD_stream_b7&_cdn_session=924324875&_cdn_timestamp=1688182296&_cdn_token=ca89af32955954e3a00a81261f592b74a608cf80
 #EXTINF:-1 tvg-id="MX | Azteca Corazón" tvg-name="MX | Azteca Corazón" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/200px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="NOVELAS", Azteca Corazón
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AZCORAZON/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZCORAZON_stream_p3&_cdn_session=924325779&_cdn_timestamp=1688182311&_cdn_token=52518a9c38d6eac07ce97391aa5e7252d5e4c54b
-#EXTINF:-1 tvg-id="MX | Tlnovelas" tvg-name="MX | Tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="NOVELAS", Tlnovelas
+#EXTINF:-1 tvg-id="MX | Tlnovelas Latinoamérica" tvg-name="MX | Tlnovelas Latinoamérica" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas-mediano.png" group-title="NOVELAS", Tlnovelas Latinoamérica
+http://45.189.117.202:48000/play/a00f/index.m3u8
+#EXTINF:-1 tvg-id="MX | Tlnovelas México" tvg-name="MX | Tlnovelas México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="NOVELAS", Tlnovelas México
 http://45.228.234.77:3340/play/tlnovelas/index.m3u8
 #EXTINF:-1 tvg-id="USA | Univisión Tlnovelas" tvg-name="USA | Univisión Tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/180px-Univision_tlnovelas_%282019%29.svg.png" group-title="NOVELAS", Univisión Tlnovelas
 https://v3.playerlatino.live/stream/m3u8/413
@@ -2460,11 +2462,11 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_LI_SC?dist=
 #EXTINF:-1 tvg-id="PE | Radio Corazon" tvg-name="PE | Radio Corazon" tvg-logo="https://eaudioplayer.radio-grpp.io/static/dist/img/logo_corazon.png" group-title="EMISORAS NACIONALES", Radio Corazón 94.3 FM || Lima; Perú
 https://us-b5-p-e-kj2-audio.cdn.mdstrm.com/live-audio-aw/5fada514fc16c006bd63370f?aid=5faaeb72f92d7b07dfe10181&pid=MTBdKnXgdL0rMWyKuoxNsuO6hGEixgsV&sid=aImakKiyNM09Mn7NzmJV69oLUQvKe0dH&uid=DhyLihsgnb8wgjVIvB8gbMe95dwzRrfr&es=us-b5-p-e-kj2-audio.cdn.mdstrm.com&ote=1644900382175&ot=Ste_WjED56Nhthwc0M0laA&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada514fc16c006bd63370f&referer=https%3A%2F%2Fradios.com.pe%2F
 #EXTINF:-1 tvg-id="PE | Radio La Karibeña" tvg-name="PE | Radio La Karibeña" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/LOGO_RADIO_KARIBE%C3%91A.png/225px-LOGO_RADIO_KARIBE%C3%91A.png" group-title="EMISORAS NACIONALES", Radio La Karibeña 94.9 FM || Lima; Perú
-https://serverssl.innovatestream.pe:8080/http://167.114.118.120:7442/;
+https://cpliv3.onliv3.com/stream/radiokaribena/stream
 #EXTINF:-1 tvg-id="PE | Radio Exitosa" tvg-name="PE | Radio Exitosa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logoexitosa.png/225px-Logoexitosa.png" group-title="EMISORAS NACIONALES", Radio Exitosa 95.5 FM || Lima; Perú
 https://cpliv3.onliv3.com/stream/radioexitosa
 #EXTINF:-1 tvg-id="PE | Radio La Kalle" tvg-name="PE | Radio La Kalle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/LOGO-CON-SLOGAN1-e1513719885620.png/225px-LOGO-CON-SLOGAN1-e1513719885620.png" group-title="EMISORAS NACIONALES", Radio La Kalle 96.1 FM || Lima; Perú
-https://lakalle.onliv3.com/stream/lakalle/stream
+https://cpliv3.onliv3.com/stream/lakalle/stream
 #EXTINF:-1 tvg-id="PE | Radio La Mega" tvg-name="PE | Radio La Mega" tvg-logo="https://eaudioplayer.radio-grpp.io/static/dist/img/logo_lamega.png" group-title="EMISORAS NACIONALES", Radio La Mega 96.7 FM y 1470 AM || Lima; Perú
 https://us-b5-p-e-kj2-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951/playlist.m3u8?listeningSessionID=61e56819e0a91de6_2525916_o0RHblwF__0000008LfEZ&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=Qi96VNv4XEwozwo5rChmzveTPyuimQu8&sid=kNuMOtOgmwhd4cL8DRIc6DTUWuqlraxV&pid=iBx0AQXYwvOC9Pa2Rg6cDhWbAKkEY1pM&ref=audioplayer.pe&es=us-b5-p-e-kj2-audio.cdn.mdstrm.com&ote=1645036471875&ot=qLXlFIoFT3fp9aF1o_L9Ow&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada56fe4e09508207a7951&referer=https%3A%2F%2Faudioplayer.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=v0.0.183
 #EXTINF:-1 tvg-id="PE | Radio Moda" tvg-name="PE | Radio Moda" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Moda_2018.png/225px-Moda_2018.png" group-title="EMISORAS NACIONALES", Radio Moda 97.3 FM || Lima; Perú
@@ -2554,7 +2556,7 @@ https://cpliv3.onliv3.com/stream/radiobesame/stream
 #EXTINF:-1 tvg-id="PE | Radio Z" tvg-name="PE | Radio Z" tvg-logo="http://i0.wp.com/www.radioz.pe/wp-content/uploads/2017/12/LOGO-EFECTO.png" group-title="EMISORAS NACIONALES", Radio Z Rock & Pop || Lima; Perú
 https://cpliv3.onliv3.com/stream/radiozeta/stream
 #EXTINF:-1 tvg-id="PE | Radio Nueva Ola" tvg-name="PE | Radio Nueva Ola" tvg-logo="https://3.bp.blogspot.com/-teMEWPI32SI/Wdn7PKip4FI/AAAAAAAAKzk/GDcGMICWYvoVJZU9zJEn9S75w4pf__IoACLcBGAs/s1600/nueva-ola.jpg" group-title="EMISORAS NACIONALES", Radio Nueva Ola || Lima; Perú
-http://server06.srvsh.com.br:7358/stream/1/
+http://stm11.xcast.com.br:12584/stream
 #EXTINF:-1 tvg-id="PE | Radio Onda Digital" tvg-name="PE | Radio Onda Digital" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/pj5fuwe7gjeu.png" group-title="EMISORAS DE RADIO CON VIDEO", Radio Onda Digital || Lima; Perú
 https://v4.tustreaming.cl/radioondadigitaltv/index.m3u8
 #EXTINF:-1 tvg-id="EC | Radio Fabu" tvg-name="EC | Radio Fabu" tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/9/29849.v4.png" group-title="EMISORAS INTERNACIONALES", Radio Fabu 105.7 FM || ECUADOR
