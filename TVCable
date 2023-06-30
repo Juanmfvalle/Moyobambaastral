@@ -240,7 +240,7 @@ http://181.189.243.254:8000/play/a0ou/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO Xtreme" tvg-name="USA | HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" group-title="PELICULAS Y SERIES", 115 | HBO Xtreme
 http://181.189.243.254:8000/play/a0ov/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO Pop" tvg-name="USA | HBO Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/130px-HBO_Pop.svg.png" group-title="PELICULAS Y SERIES", 116 | HBO Pop
-http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/3159
+http://190.83.60.34:1414/play/a01j
 #EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 117 | TNT
 http://181.189.243.254:8000/play/a0sq/index.m3u8
 #EXTINF:-1 tvg-id="USA | TNT Series" tvg-name="USA | TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/94px-TNT_Series_Logo_2016.png" group-title="PELICULAS Y SERIES", 118 | TNT Series
@@ -355,8 +355,8 @@ http://51.159.104.29:8080/ben10/index.m3u8
 http://51.159.104.29:8080/bobesponja/index.m3u8
 #EXTINF:-1 tvg-id="USA | El Hombre Araña TV" tvg-name="USA | El Hombre Araña TV" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/Spiderman-Logo-1.jpg" group-title="Canales 24/7", 173 | El Hombre Araña TV
 https://v3.playerlatino.live/stream/m3u8/889
-#EXTINF:-1 tvg-id="USA | Los Simpsons TV" tvg-name="USA | Los Simpsons TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg" group-title="Canales 24/7", 174 | Los Simpsons TV
-https://v3.playerlatino.live/stream/m3u8/416
+#EXTINF:-1 tvg-id="USA | Scooby-Doo TV" tvg-name="USA | Scooby-Doo TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Scooby_doo_logo.png/200px-Scooby_doo_logo.png" group-title="Canales 24/7", 174 | Scooby-Doo TV
+https://v3.playerlatino.live/stream/m3u8/422
 #EXTINF:-1 tvg-id="JP | Ranma ½ TV" tvg-name="JP | Ranma ½ TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Ranma_%C2%BD_rebuilt_logo_in_vector_graphics.png/285px-Ranma_%C2%BD_rebuilt_logo_in_vector_graphics.png" group-title="Canales 24/7", 175 | Ranma ½ TV
 https://v3.playerlatino.live/stream/m3u8/419
 #EXTINF:-1 tvg-id="JP | Pokemón TV" tvg-name="JP | Pokemón TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/1200px-International_Pok%C3%A9mon_logo.svg.png" group-title="Canales 24/7", 176 | Pokemón TV
@@ -367,7 +367,7 @@ https://v3.playerlatino.live/stream/m3u8/427
 https://v3.playerlatino.live/stream/m3u8/432
 #EXTINF:-1 tvg-id="MX | El Chavo del 8 TV" tvg-name="MX | El Chavo del 8 TV" tvg-logo="https://pbs.twimg.com/media/Fp3p0zZXoAY_loW?format=png&name=small" group-title="Canales 24/7", 179 | El Chavo del 8 TV
 https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
-#EXTINF:-1 tvg-id="MX | El Chavo del 8 TV Señal 4" tvg-name="MX | El Chavo del 8 TV Señal 4" tvg-logo="https://pbs.twimg.com/media/Fp3p0zZXoAY_loW?format=png&name=small" group-title="Canales 24/7", 179.2 | El Chavo del 8 TV Señal 2
+#EXTINF:-1 tvg-id="MX | El Chavo del 8 TV Señal 2" tvg-name="MX | El Chavo del 8 TV Señal 2" tvg-logo="https://pbs.twimg.com/media/Fp3p0zZXoAY_loW?format=png&name=small" group-title="Canales 24/7", 179.2 | El Chavo del 8 TV Señal 2
 https://v3.playerlatino.live/stream/m3u8/400
 #EXTINF:-1 tvg-id="MX | El Chapulin Colorado TV Señal 2" tvg-name="MX | El Chapulin Colorado TV Señal 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/1024px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="Canales 24/7", 180 | El Chapulin Colorado TV
 https://v3.playerlatino.live/stream/m3u8/418
@@ -384,7 +384,7 @@ https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 #EXTINF:-1 tvg-id="VE | Telesur" tvg-name="VE | Telesur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/150px-TeleSUR-Logo.svg.png" group-title="NOTICIAS E INFORMACION", 186 | Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="VE | Globovisión" tvg-name="VE | Globovisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo-Globovisi%C3%B3n.png/140px-Logo-Globovisi%C3%B3n.png" group-title="NOTICIAS E INFORMACION", 187 | Globovisión
-http://181.119.66.30:8000/play/41/index.m3u8
+http://191.102.90.97:8000/play/a091/index.m3u8
 #EXTINF:-1 tvg-id="AL | DW" tvg-name="AL | DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/125px-Deutsche_Welle_symbol_2012.svg.png" group-title="NOTICIAS E INFORMACION", 188 | DW Televisión
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="FR | France 24" tvg-name="FR | France 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/125px-France24.png" group-title="NOTICIAS E INFORMACION", 189 | France 24
