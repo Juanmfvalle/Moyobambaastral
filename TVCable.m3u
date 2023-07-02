@@ -148,7 +148,7 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AANDEMUNDO/40-hls/live-media.
 #EXTINF:-1 tvg-id="USA | AMC" tvg-name="USA | AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/150px-AMC_logo_2019.svg.png" group-title="PELICULAS Y SERIES", 69 | AMC
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AMC/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMC_stream_sj&_cdn_session=932116131&_cdn_timestamp=1688433511&_cdn_token=1c8a92820a32389638a2121239131171eb9830fe
 #EXTINF:-1 tvg-id="USA | Space" tvg-name="USA | Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="PELICULAS Y SERIES", 70 | Space
-http://45.5.119.155:8000/play/a0iz/index.m3u8
+http://186.189.222.204:8001/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="USA | AXN" tvg-name="USA | AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png" group-title="PELICULAS Y SERIES", 71 | AXN
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AXN/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAXN_stream_wo&_cdn_session=932118323&_cdn_timestamp=1688433534&_cdn_token=f5dbf3e7f3e750d202b86f00edcb665b7127558e
 #EXTINF:-1 tvg-id="MX | Azteca Cinema" tvg-name="MX | Azteca Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TV_Azteca_Cinema_logo.svg/200px-TV_Azteca_Cinema_logo.svg.png" group-title="PELICULAS Y SERIES", 72 | Azteca Cinema
@@ -172,7 +172,7 @@ https://marine2.miplay.cl/mxprime/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Old" tvg-name="CL | Old" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/OLD-FONDO-2-300x169.jpg" group-title="PELICULAS Y SERIES", 81 | Old
 https://marine2.miplay.cl/old/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | De Película" tvg-name="MX | De Película" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/250px-DPel%C3%ADcula_2021.svg.png" group-title="PELICULAS Y SERIES", 82 | De Película
-http://45.189.117.202:48000/play/a02b/index.m3u8
+http://200.106.124.162:8989/play/a0zn/index.m3u8
 #EXTINF:-1 tvg-id="CL | Classic +" tvg-name="CL | Classic +" tvg-logo="https://pbs.twimg.com/media/FvYjfCkWIAIvMGW?format=png&name=240x240" group-title="PELICULAS Y SERIES", 83 | Classic +
 http://160.20.165.246:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="CL | Retro Plus 3 TV" tvg-name="CL | Retro Plus 3 TV" tvg-logo="https://pbs.twimg.com/media/FXfp5PNWAAI0YGt?format=png&name=small" group-title="PELICULAS Y SERIES", 84 | Retro Plus 3 TV
@@ -384,7 +384,7 @@ https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 #EXTINF:-1 tvg-id="VE | Telesur" tvg-name="VE | Telesur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/150px-TeleSUR-Logo.svg.png" group-title="NOTICIAS E INFORMACION", 186 | Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="VE | Globovisión" tvg-name="VE | Globovisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo-Globovisi%C3%B3n.png/140px-Logo-Globovisi%C3%B3n.png" group-title="NOTICIAS E INFORMACION", 187 | Globovisión
-http://191.102.90.97:8000/play/a091/index.m3u8
+http://200.106.124.162:8989/play/a0yz/index.m3u8
 #EXTINF:-1 tvg-id="AL | DW" tvg-name="AL | DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/125px-Deutsche_Welle_symbol_2012.svg.png" group-title="NOTICIAS E INFORMACION", 188 | DW Televisión
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="FR | France 24" tvg-name="FR | France 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/125px-France24.png" group-title="NOTICIAS E INFORMACION", 189 | France 24
@@ -464,7 +464,7 @@ https://marine2.miplay.cl/mundoysabor/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Best Cable Sports" tvg-name="PE | Best Cable Sports" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=239x10000:format=jpg/path/s86a1480785a470a0/image/i3cd2b522eae1ddb2/version/1637874672/image.jpg" group-title="DEPORTES", 226 | Best Cable Sports
 https://ca2.inka.net.pe/Best-sport-000000111/index.m3u8
 #EXTINF:-1 tvg-id="PE | Liga 1 Max" tvg-name="PE | Liga 1 Max" tvg-logo="https://services.nunchee.com/api/2.0/assets/images/63dd234f3f6b35001fcf78bd/view/backdrop/75" group-title="DEPORTES", 227 | Liga 1 Max
-http://200.123.15.181:6011/play/a03c/index.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/92233.m3u8
 #EXTINF:-1 tvg-id="USA | Golf Channel" tvg-name="USA | Golf Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/200px-Golf_Channel_Logo_2018.png" group-title="DEPORTES", 228 | Golf Channel
 http://181.189.243.254:8000/play/a0qg/index.m3u8
 #EXTINF:-1 tvg-id="USA | Fox Sports Premium" tvg-name="USA | Fox Sports Premium" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/PZ4AX3STGVCLLJ6NQ4BVVKJHRM.jpg" group-title="DEPORTES", 229 | Fox Sports Premium
@@ -482,7 +482,7 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN3/40-hls/live-media.m3u8?
 #EXTINF:-1 tvg-id="USA | ESPN 4" tvg-name="USA | ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/180px-ESPN_4_logo.svg.png" group-title="DEPORTES", 235 | ESPN 4
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS_stream_ml&_cdn_session=932269059&_cdn_timestamp=1688435451&_cdn_token=352c3ffbc3a6c7dbdf4587a018f7f45771602d0f
 #EXTINF:-1 tvg-id="USA | ESPN Extra" tvg-name="USA | ESPN Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/190px-ESPN_Extra_Logo_2022.webp.png" group-title="DEPORTES", 236 | ESPN Extra
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPNMAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPNMAS2_stream_l4&_cdn_session=925029907&_cdn_timestamp=1688214449&_cdn_token=049d8266e1062a1d7624e691bd786a708c05899e
+http://190.217.117.194:8000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-id="MX | Claro Sports" tvg-name="MX | Claro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/150px-Claro_Sports_logo.svg.png" group-title="DEPORTES", 237 | Claro Sports
 http://45.228.234.162:24000/play/a08l/index.m3u8
 #EXTINF:-1 tvg-id="MX | Claro Sports 2" tvg-name="MX | Claro Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest/scale-to-width-down/250?cb=20210423191014&path-prefix=es" group-title="DEPORTES", 237.2 | Claro Sports 2
@@ -960,7 +960,7 @@ https://1667517699.rsc.cdn77.org/hls/mollendo.m3u8
 #EXTINF:-1 tvg-id="PE | Telesur de Camaná" tvg-name="PE | Telesur de Camaná" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png" group-title="REGIONALES", 458.4 | Telesur || Camana
 https://1667517699.rsc.cdn77.org/hls/camana.m3u8
 #EXTINF:-1 tvg-id="EC | Gamavisión" tvg-name="EC | Gamavisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ECUADOR", 459 | Gamavisión || ECUADOR
-https://v3.playerlatino.live/stream/m3u8/891
+http://160.20.165.246:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="EC | Teleamazonas" tvg-name="EC | Teleamazonas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/150px-Teleamazonas_Logo.png" group-title="ECUADOR", 460 | Teleamazonas || ECUADOR
 https://youvideostreaming.club/hls/ecutv4.m3u8
 #EXTINF:-1 tvg-id="EC | TVC" tvg-name="EC | TVC" tvg-logo="https://www.tvc.com.ec/wp-content/themes/albavision-theme/parts-web/9212d2e4/logo.png?ver=1.0.28" group-title="ECUADOR", 461 | TVC || ECUADOR
@@ -2641,25 +2641,19 @@ https://stirr.ott-channels.stingray.com/133/master.m3u8
 https://stirr.ott-channels.stingray.com/134/master.m3u8
 #EXTINF:-1 tvg-id="CA | Stingray Music Flashback 70's" tvg-name="CA | Stingray Music Flashback 70's" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", 1289 | Stingray Music Flashback 70's
 https://ott-linear-channels.stingray.com/hls/stirr/115.m3u8
-#EXTINF:-1 tvg-id="CA | Stingray Music Años 70's" tvg-name="CA | Stingray Music Años 70's" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", 1290 | Stingray Music Años 70's
-http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/11784
-#EXTINF:-1 tvg-id="CA | Stingray Music Años 80's" tvg-name="CA | Stingray Music Años 80's" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", 1291 | Stingray Music Años 80's
-http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/11785
-#EXTINF:-1 tvg-id="CA | Stingray Music Remember The 80's" tvg-name="CA | Stingray Music Remember The 80's" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", 1292 | Stingray Music Remember The 80's
+#EXTINF:-1 tvg-id="CA | Stingray Music Remember The 80's" tvg-name="CA | Stingray Music Remember The 80's" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", 1290 | Stingray Music Remember The 80's
 https://stirr.ott-channels.stingray.com/128/master.m3u8
-#EXTINF:-1 tvg-id="CA | Stingray Music Años 90's" tvg-name="CA | Stingray Music Años 90's" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", 1293 | Stingray Music Años 90's
-http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/11786
-#EXTINF:-1 tvg-id="CA | Stingray Music Pop Adult" tvg-name="CA | Stingray Music Pop Adult" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", 1294 | Stingray Music Pop Adult
+#EXTINF:-1 tvg-id="CA | Stingray Music Pop Adult" tvg-name="CA | Stingray Music Pop Adult" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", 1291 | Stingray Music Pop Adult
 https://ott-linear-channels.stingray.com/hls/stirr/104.m3u8
-#EXTINF:-1 tvg-id="CA | Stingray Music Rock Alternative" tvg-name="CA | Stingray Music Rock Alternative" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", 1295 | Stingray Music Rock Alternative
+#EXTINF:-1 tvg-id="CA | Stingray Music Rock Alternative" tvg-name="CA | Stingray Music Rock Alternative" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", 1292 | Stingray Music Rock Alternative
 https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8
-#EXTINF:-1 tvg-id="CA | Stingray Music Today's Latin Pop" tvg-name="CA | Stingray Music Today's Latin Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", 1296 | Stingray Music Today's Latin Pop
+#EXTINF:-1 tvg-id="CA | Stingray Music Today's Latin Pop" tvg-name="CA | Stingray Music Today's Latin Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", 1293 | Stingray Music Today's Latin Pop
 https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
-#EXTINF:-1 tvg-id="CA | Stingray Music Urban Beats" tvg-name="CA | Stingray Music Urban Beats" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", 1297 | Stingray Music Urban Beats
+#EXTINF:-1 tvg-id="CA | Stingray Music Urban Beats" tvg-name="CA | Stingray Music Urban Beats" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE AUDIO", 1294 | Stingray Music Urban Beats
 https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
-#EXTINF:-1 tvg-id="CA | Stingray Music Djazz" tvg-name="CA | Stingray Music Djazz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE VIDEO", 1298 | Stingray Music Djazz
+#EXTINF:-1 tvg-id="CA | Stingray Music Djazz" tvg-name="CA | Stingray Music Djazz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE VIDEO", 1295 | Stingray Music Djazz
 https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
-#EXTINF:-1 tvg-id="CA | Stingray Music Classica" tvg-name="CA | Stingray Music Classica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE VIDEO", 1299 | Stingray Music Classica
+#EXTINF:-1 tvg-id="CA | Stingray Music Classica" tvg-name="CA | Stingray Music Classica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="CANALES DE VIDEO", 1296 | Stingray Music Classica
 https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
-#EXTINF:-1 tvg-id="PE | Música Libre" tvg-name="PE | Música Libre" tvg-logo="https://static.vecteezy.com/system/resources/previews/000/586/196/original/headphone-music-note-logo-vector-illustration.jpg" group-title="CANALES DE AUDIO", 1300 | Música Libre
+#EXTINF:-1 tvg-id="PE | Música Libre" tvg-name="PE | Música Libre" tvg-logo="https://static.vecteezy.com/system/resources/previews/000/586/196/original/headphone-music-note-logo-vector-illustration.jpg" group-title="CANALES DE AUDIO", 1297 | Música Libre
 https://cloudvideo.servers10.com:8081/8010/index.m3u8
