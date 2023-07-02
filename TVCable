@@ -172,7 +172,7 @@ https://marine2.miplay.cl/mxprime/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Old" tvg-name="CL | Old" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/OLD-FONDO-2-300x169.jpg" group-title="PELICULAS Y SERIES", 81 | Old
 https://marine2.miplay.cl/old/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | De Película" tvg-name="MX | De Película" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/250px-DPel%C3%ADcula_2021.svg.png" group-title="PELICULAS Y SERIES", 82 | De Película
-http://45.189.117.202:48000/play/a02b/index.m3u8
+http://200.106.124.162:8989/play/a0zn/index.m3u8
 #EXTINF:-1 tvg-id="CL | Classic +" tvg-name="CL | Classic +" tvg-logo="https://pbs.twimg.com/media/FvYjfCkWIAIvMGW?format=png&name=240x240" group-title="PELICULAS Y SERIES", 83 | Classic +
 http://160.20.165.246:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="CL | Retro Plus 3 TV" tvg-name="CL | Retro Plus 3 TV" tvg-logo="https://pbs.twimg.com/media/FXfp5PNWAAI0YGt?format=png&name=small" group-title="PELICULAS Y SERIES", 84 | Retro Plus 3 TV
@@ -384,7 +384,7 @@ https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 #EXTINF:-1 tvg-id="VE | Telesur" tvg-name="VE | Telesur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/150px-TeleSUR-Logo.svg.png" group-title="NOTICIAS E INFORMACION", 186 | Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="VE | Globovisión" tvg-name="VE | Globovisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo-Globovisi%C3%B3n.png/140px-Logo-Globovisi%C3%B3n.png" group-title="NOTICIAS E INFORMACION", 187 | Globovisión
-http://191.102.90.97:8000/play/a091/index.m3u8
+http://200.106.124.162:8989/play/a0yz/index.m3u8
 #EXTINF:-1 tvg-id="AL | DW" tvg-name="AL | DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/125px-Deutsche_Welle_symbol_2012.svg.png" group-title="NOTICIAS E INFORMACION", 188 | DW Televisión
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="FR | France 24" tvg-name="FR | France 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/125px-France24.png" group-title="NOTICIAS E INFORMACION", 189 | France 24
@@ -482,7 +482,7 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN3/40-hls/live-media.m3u8?
 #EXTINF:-1 tvg-id="USA | ESPN 4" tvg-name="USA | ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/180px-ESPN_4_logo.svg.png" group-title="DEPORTES", 235 | ESPN 4
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS_stream_ml&_cdn_session=932269059&_cdn_timestamp=1688435451&_cdn_token=352c3ffbc3a6c7dbdf4587a018f7f45771602d0f
 #EXTINF:-1 tvg-id="USA | ESPN Extra" tvg-name="USA | ESPN Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/190px-ESPN_Extra_Logo_2022.webp.png" group-title="DEPORTES", 236 | ESPN Extra
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPNMAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPNMAS2_stream_l4&_cdn_session=925029907&_cdn_timestamp=1688214449&_cdn_token=049d8266e1062a1d7624e691bd786a708c05899e
+http://200.106.124.162:8989/play/a0o0/index.m3u8
 #EXTINF:-1 tvg-id="MX | Claro Sports" tvg-name="MX | Claro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/150px-Claro_Sports_logo.svg.png" group-title="DEPORTES", 237 | Claro Sports
 http://45.228.234.162:24000/play/a08l/index.m3u8
 #EXTINF:-1 tvg-id="MX | Claro Sports 2" tvg-name="MX | Claro Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest/scale-to-width-down/250?cb=20210423191014&path-prefix=es" group-title="DEPORTES", 237.2 | Claro Sports 2
