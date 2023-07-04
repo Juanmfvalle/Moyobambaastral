@@ -2291,19 +2291,21 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/CNBC/40-hls/live-media.m3u8?_
 http://190.122.96.187:8888/http/005
 #EXTINF:-1 tvg-id="ES | TVE" tvg-name="ES | TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/150px-Logo_TVE-Internacional.svg.png" group-title="INTERNACIONALES", 1119 | TVE || ESPAÑA
 http://45.5.119.202:54321/play/a05u/index.m3u8
-#EXTINF:-1 tvg-id="ES | La 1" tvg-name="ES | La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/125px-Logo_TVE-1.svg.png" group-title="ESPAÑA", 1120 | La 1 || ESPAÑA
+#EXTINF:-1 tvg-id="ES | Star TVE HD" tvg-name="ES | Star TVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star-TVE-logo.png/200px-Star-TVE-logo.png" group-title="ESPAÑA", 1120 | Star TVE HD || ESPAÑA
+http://181.189.243.254:8000/play/a0qf/index.m3u8
+#EXTINF:-1 tvg-id="ES | La 1" tvg-name="ES | La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/125px-Logo_TVE-1.svg.png" group-title="ESPAÑA", 1121 | La 1 || ESPAÑA
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
-#EXTINF:-1 tvg-id="ES | La 2" tvg-name="ES | La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/800px-Logo_TVE-2.svg.png" group-title="ESPAÑA", 1121 | La 2 || ESPAÑA
+#EXTINF:-1 tvg-id="ES | La 2" tvg-name="ES | La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/800px-Logo_TVE-2.svg.png" group-title="ESPAÑA", 1122 | La 2 || ESPAÑA
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:2_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="ES | Antena 3" tvg-name="ES | Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/125px-Antena_3_%282017%29.svg.png" group-title="ESPAÑA", 1122 | Antena 3 || ESPAÑA
+#EXTINF:-1 tvg-id="ES | Antena 3" tvg-name="ES | Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/125px-Antena_3_%282017%29.svg.png" group-title="ESPAÑA", 1123 | Antena 3 || ESPAÑA
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ANTENA3/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DANTENA3_stream_9o&_cdn_session=947583139&_cdn_timestamp=1688910631&_cdn_token=5b38f972403871645f77694e8974fafbfae89182
 #EXTINF:-1 tvg-id="ES | Cuatro" tvg-name="ES | Cuatro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/250px-Cuatro.svg.png" group-title="ESPAÑA", En prueba | Cuatro || ESPAÑA
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="ES | La Sexta" tvg-name="ES | La Sexta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/75px-La_Sexta_%28A3M%29.svg.png" group-title="ESPAÑA", 1123 | La Sexta || ESPAÑA
+#EXTINF:-1 tvg-id="ES | La Sexta" tvg-name="ES | La Sexta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/75px-La_Sexta_%28A3M%29.svg.png" group-title="ESPAÑA", 1124 | La Sexta || ESPAÑA
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:11_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="ES | Trece" tvg-name="ES | Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/250px-Trece.svg.png" group-title="ESPAÑA", 1124 | Trece || ESPAÑA
+#EXTINF:-1 tvg-id="ES | Trece" tvg-name="ES | Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/250px-Trece.svg.png" group-title="ESPAÑA", 1125 | Trece || ESPAÑA
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:24_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="ES | Ten TV" tvg-name="ES | Ten TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/TenTV.png/170px-TenTV.png" group-title="ESPAÑA", 1125 | Ten TV || ESPAÑA
+#EXTINF:-1 tvg-id="ES | Ten TV" tvg-name="ES | Ten TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/TenTV.png/170px-TenTV.png" group-title="ESPAÑA", 1126 | Ten TV || ESPAÑA
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:26_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="ES | Neox" tvg-name="ES | Neox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/150px-Neox_2023_logo.svg.png" group-title="ESPAÑA", En prueba | Neox || ESPAÑA
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:13_HD.smil/manifest.m3u8
@@ -2311,16 +2313,14 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:13_HD.smil/manif
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:14_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="ES | Factoría de Ficción" tvg-name="ES | Factoría de Ficción" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/125px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="ESPAÑA", En prueba | FDF || ESPAÑA
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:16_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="ES | DKISS" tvg-name="ES | DKISS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DKISS_2019_logo.svg/250px-DKISS_2019_logo.svg.png" group-title="ESPAÑA", 1126 | DKISS || ESPAÑA
+#EXTINF:-1 tvg-id="ES | DKISS" tvg-name="ES | DKISS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DKISS_2019_logo.svg/250px-DKISS_2019_logo.svg.png" group-title="ESPAÑA", 1127 | DKISS || ESPAÑA
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:25_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="ES | Be Mad" tvg-name="ES | Be Mad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/125px-Be_Mad_TV.svg.png" group-title="ESPAÑA", 1127 | Be Mad || ESPAÑA
+#EXTINF:-1 tvg-id="ES | Be Mad" tvg-name="ES | Be Mad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/125px-Be_Mad_TV.svg.png" group-title="ESPAÑA", 1128 | Be Mad || ESPAÑA
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:20_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="ES | Mega" tvg-name="ES | Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/200px-MEGA.svg.png" group-title="ESPAÑA", 1128 | Mega || ESPAÑA
+#EXTINF:-1 tvg-id="ES | Mega" tvg-name="ES | Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/200px-MEGA.svg.png" group-title="ESPAÑA", 1129 | Mega || ESPAÑA
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:15_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="ES | CMM TV" tvg-name="ES | CMM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CMMedia.svg/125px-CMMedia.svg.png" group-title="ESPAÑA", 1129 | CMM TV || ESPAÑA
+#EXTINF:-1 tvg-id="ES | CMM TV" tvg-name="ES | CMM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CMMedia.svg/125px-CMMedia.svg.png" group-title="ESPAÑA", 1130 | CMM TV || ESPAÑA
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:31_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="ES | Star TVE HD" tvg-name="ES | Star TVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star-TVE-logo.png/200px-Star-TVE-logo.png" group-title="ESPAÑA", 1130 | Star TVE HD || ESPAÑA
-http://181.189.243.254:8000/play/a0qf/index.m3u8
 #EXTINF:-1 tvg-id="ES | Telemadrid" tvg-name="ES | Telemadrid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/245px-TeleMadrid.svg.png" group-title="ESPAÑA", 1131 | Telemadrid || ESPAÑA
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:32_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="ES | Telemadrid Internacional" tvg-name="ES | Telemadrid Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/245px-TeleMadrid.svg.png" group-title="ESPAÑA", 1131.2 | Telemadrid Internacional || ESPAÑA
@@ -2349,15 +2349,13 @@ https://cloudvideo.servers10.com:8081/8116/index.m3u8
 https://cloudvideo.servers10.com:8081/8022/index.m3u8
 #EXTINF:-1 tvg-id="ES | Teleribera" tvg-name="ES | Teleribera" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWWHsSb-mBbjuGAgMaaIdMHKGW6FPP8MFynUN1gRQ=s900-c-k-c0x00ffffff-no-rj" group-title="ESPAÑA", 1141 | Teleribera || ESPAÑA
 http://37.187.7.106/teleribera/live.m3u8
-#EXTINF:-1 tvg-id="ES | Canal Extremadura" tvg-name="ES | Canal Extremadura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/125px-CEXMA_new.png" group-title="ESPAÑA", 1142 | Canal Extremadura || ESPAÑA
-https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?DVR&test
-#EXTINF:-1 tvg-id="ES | Canal Málaga" tvg-name="ES | Canal Málaga" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/uksr3vhttzzx.png" group-title="ESPAÑA", 1143 | Canal Málaga || ESPAÑA
+#EXTINF:-1 tvg-id="ES | Canal Málaga" tvg-name="ES | Canal Málaga" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/uksr3vhttzzx.png" group-title="ESPAÑA", 1142 | Canal Málaga || ESPAÑA
 https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="ES | La 7 Región de Murcia" tvg-name="ES | La 7 Región de Murcia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/La_7_logo.svg/150px-La_7_logo.svg.png" group-title="ESPAÑA", 1144 | La 7 Región de Murcia || ESPAÑA
+#EXTINF:-1 tvg-id="ES | La 7 Región de Murcia" tvg-name="ES | La 7 Región de Murcia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/La_7_logo.svg/150px-La_7_logo.svg.png" group-title="ESPAÑA", 1143 | La 7 Región de Murcia || ESPAÑA
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:35_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="ES | Esport3" tvg-name="ES | Esport3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/150px-Esport3.svg.png" group-title="ESPAÑA", 1145 | E3 || ESPAÑA
+#EXTINF:-1 tvg-id="ES | Esport3" tvg-name="ES | Esport3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/150px-Esport3.svg.png" group-title="ESPAÑA", 1144 | E3 || ESPAÑA
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:48_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="ES | Boing" tvg-name="ES | Boing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Boing_2020.svg/160px-Boing_2020.svg.png" group-title="ESPAÑA", En prueba | Boing || ESPAÑA
+#EXTINF:-1 tvg-id="ES | Boing" tvg-name="ES | Boing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Boing_2020.svg/160px-Boing_2020.svg.png" group-title="ESPAÑA", 1145 | Boing || ESPAÑA
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="ES | Clan" tvg-name="ES | Clan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Clan_TVE_logo.svg/151px-Clan_TVE_logo.svg.png" group-title="ESPAÑA", En prueba | Clan || ESPAÑA
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:6_HD.smil/manifest.m3u8
