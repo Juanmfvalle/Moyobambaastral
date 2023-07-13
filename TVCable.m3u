@@ -248,11 +248,11 @@ http://45.5.119.155:8000/play/a0ik/index.m3u8
 #EXTINF:-1 tvg-id="MX | Golden" tvg-name="MX | Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/245px-Canal_Golden_logo.svg.png" group-title="PELICULAS Y SERIES", 119 | Golden
 http://45.228.234.77:3340/play/goldenedge/index.m3u8
 #EXTINF:-1 tvg-id="MX | Golden Premier" tvg-name="MX | Golden Premier" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="PELICULAS Y SERIES", 120 | Golden Premier
-http://181.189.243.198:8000/play/a02u/index.m3u8
+http://181.189.243.254:8000/play/a0oc/index.m3u8
 #EXTINF:-1 tvg-id="MX | Golden Premier 2" tvg-name="MX | Golden Premier 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es" group-title="PELICULAS Y SERIES", 121 | Golden Premier 2
-http://181.189.243.198:8000/play/a02v/index.m3u8
+http://181.189.243.254:8000/play/a0od/index.m3u8
 #EXTINF:-1 tvg-id="MX | Multipremier" tvg-name="MX | Multipremier" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/150px-Multipremier_logo.svg.png" group-title="PELICULAS Y SERIES", 122 | Multipremier
-http://160.20.165.246:8000/play/a00a/index.m3u8
+http://45.228.232.204:16000/play/a07a/index.m3u8
 #EXTINF:-1 tvg-id="MX | Canal MC" tvg-name="MX | Canal MC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/150px-MC_logo_2022.png" group-title="PELICULAS Y SERIES", 123 | Canal MC
 http://160.20.165.246:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="MX | Cine Mexicano" tvg-name="MX | Cine Mexicano" tvg-logo="https://www.americatvc.com/administrador/subgrupo/3.png" group-title="PELICULAS Y SERIES", 124 | Cine Mexicano
@@ -490,7 +490,7 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPN3/40-hls/live-media.m3u8?
 #EXTINF:-1 tvg-id="USA | ESPN 4" tvg-name="USA | ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/180px-ESPN_4_logo.svg.png" group-title="DEPORTES", 235 | ESPN 4
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS_stream_ml&_cdn_session=963765587&_cdn_timestamp=1689397462&_cdn_token=c872b4ff8e5a32a23936b062c47f4c01aa4f37b4
 #EXTINF:-1 tvg-id="USA | ESPN Extra" tvg-name="USA | ESPN Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/190px-ESPN_Extra_Logo_2022.webp.png" group-title="DEPORTES", 236 | ESPN Extra
-http://204.199.113.33:15017/play/a01v/index.m3u8
+http://181.189.243.254:8000/play/a0py/index.m3u8
 #EXTINF:-1 tvg-id="MX | Claro Sports" tvg-name="MX | Claro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/150px-Claro_Sports_logo.svg.png" group-title="DEPORTES", 237 | Claro Sports
 http://45.228.234.162:24000/play/a08l/index.m3u8
 #EXTINF:-1 tvg-id="MX | Claro Sports 2" tvg-name="MX | Claro Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest/scale-to-width-down/250?cb=20210423191014&path-prefix=es" group-title="DEPORTES", 237.2 | Claro Sports 2
@@ -518,7 +518,7 @@ http://190.27.253.211:8000/play/a07g/index.m3u8
 #EXTINF:-1 tvg-id="CR | FUTV" tvg-name="CR | FUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_de_FUTV.svg/200px-Logo_de_FUTV.svg.png" group-title="DEPORTES", 246 | FUTV
 http://181.189.243.254:8000/play/a0t3/index.m3u8
 #EXTINF:-1 tvg-id="HN | Todo Deportes TV" tvg-name="HN | Todo Deportes TV" tvg-logo="https://dd7tel2830j4w.cloudfront.net/f1560359694028x167785582725733730/Group%2012.svg" group-title="DEPORTES", 247 | Todo Deportes TV
-https://5fe2654d6127d.streamlock.net/tododeportesplus/smil:tododeportesplus.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDIzIDY6MzM6NDUgQU0maGFzaF92YWx1ZT1FYndSZG5mUDZrUEZPK3l5MG94SndnPT0mdmFsaWRtaW51dGVzPTM2MDAmaWQ9
+https://5ca39be538307.streamlock.net/tododeportesplus/smil:tododeportesplus.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIzIDEyOjI4OjQzIFBNJmhhc2hfdmFsdWU9UTArRFpsaXUxNlowOUM5aUdZOXh1UT09JnZhbGlkbWludXRlcz0zNjAwJmlkPQ==
 #EXTINF:-1 tvg-id="ES | Teledeporte" tvg-name="ES | Teledeporte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/125px-Teledeporte.svg.png" group-title="DEPORTES", 248 | Teledeporte
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:4_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="EC | El Canal del Fútbol" tvg-name="EC | El Canal del Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Isotipo-ECDF.png/150px-Isotipo-ECDF.png" group-title="DEPORTES", 249 | El Canal del Fútbol
@@ -1678,11 +1678,11 @@ http://200.108.135.245:8000/play/surtv
 #EXTINF:-1 tvg-id="PY | La Tele" tvg-name="PY | La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Latele_Paraguay.jpg" group-title="PARAGUAY", 809 | La Tele || PARAGUAY
 http://177.234.230.226:8010/play/a034/index.m3u8
 #EXTINF:-1 tvg-id="PY | Trece" tvg-name="PY | Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/100px-Logotrececanal.png" group-title="PARAGUAY", 810 | Trece || PARAGUAY
-http://200.108.135.245:8000/play/trecehd
+https://rds3gen.desdeparaguay.net/trecetv/trecetv_baja/playlist.m3u8?k=ae46fc3611ef55e81451065dd4fec5e1841e5742dac7762a4f0ae8c3484a00d8&exp=1689249903
 #EXTINF:-1 tvg-id="PY | Paraguay TV" tvg-name="PY | Paraguay TV" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_VMtrTllkAGA0qgsmMYtMoCV6XAjYORRStO5kzYg=s900-c-k-c0x00ffffff-no-rj" group-title="PARAGUAY", 811 | Paraguay TV || PARAGUAY
 http://45.238.54.253:8000/play/a02d/index.m3u8
 #EXTINF:-1 tvg-id="PY | Unicanal" tvg-name="PY | Unicanal" tvg-logo="https://television.com.py/wp-content/uploads/2015/03/UnicanalLogotvpy.jpg" group-title="PARAGUAY", 812 | Unicanal || PARAGUAY
-http://200.108.135.245:8000/play/unicanalhd
+https://rds3gen.desdeparaguay.net/unicanal/unicanal_baja/playlist.m3u8?k=2aec41151bbdceedfb20e0c495d65d028cb39fc310eca0446d20ea432bb845f4&exp=1689249991
 #EXTINF:-1 tvg-id="PY | ABC TV" tvg-name="PY | ABC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Abc_color.PNG/245px-Abc_color.PNG" group-title="PARAGUAY", 813 | ABC TV || PARAGUAY
 https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 #EXTINF:-1 tvg-id="PY | Cristal TV" tvg-name="PY | Cristal TV" tvg-logo="https://appnew.megainfoapp.com/files/1/CristalTV.jpeg" group-title="PARAGUAY", 814 | Cristal TV || PARAGUAY
