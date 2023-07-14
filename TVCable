@@ -84,7 +84,7 @@ https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Master TV" tvg-name="PE | Master TV" tvg-logo="https://mastertvradio.com/img/logo.png" group-title="PROVINCIALES", 39 | Master Televisión || Tarapoto
 https://tv.ondadigital.pe:1936/master/master/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Via Televisión" tvg-name="PE | Via Televisión" tvg-logo="https://viatelevision.pe/wp-content/uploads/2021/11/logo-retina.png" group-title="PROVINCIALES", 40 | Vía Televisión || Tarapoto
-https://ott1.hdlatam.tv/live_abr/VIATV/playlist.m3u8
+https://multimedia.tmcreativos.com:1936/cablerasvia/cablerasvia/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | TV Tropical" tvg-name="PE | TV Tropical" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILk-jY1zv90_cln_aHQVRYRO2VEvi7tDWxSaym1za11jp-36P7vBbdIQKJbWOEj9Na4Y&usqp=CAU" group-title="PROVINCIALES", 41 | TV Tropical || Tarapoto
 https://multimedia.tmcreativos.com:1936/raditropical/raditropical/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Innova TV" tvg-name="PE | Innova TV" tvg-logo="https://play-lh.googleusercontent.com/ZKYIGUiCEX1iPZmVTTjLyAwHPZCXmL60bkaTw1M5tg2ErI7yb21-J20nCTNJTTHRnwY=w2560-h1440-rw" group-title="PROVINCIALES", 42 | Innova TV || Tarapoto
@@ -812,7 +812,7 @@ http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w366215588_b56
 #EXTINF:-1 tvg-id="PE | Vamisa TV" tvg-name="PE | Vamisa TV" tvg-logo="https://radiovamisa.tv/wp-content/uploads/2020/03/logo-1.png" group-title="REGIONALES", 387 | Vamisa TV || Lima
 https://inliveserver.com:1936/9502/9502/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Canal B" tvg-name="PE | Canal B" tvg-logo="http://core1.hdlatam.tv/media/images/channel/WhatsApp_Image_2022-11-10_at_6.03.46_PM.jpeg" group-title="REGIONALES", 388 | Canal B || Lima
-https://ott1.hdlatam.tv/live/Canal_B/playlist.m3u8
+https://ott1.hdlatam.tv/live/CanalB/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Monterrico TV" tvg-name="PE | Monterrico TV" tvg-logo="https://hipodromodemonterrico.com.pe/generales_logos_hipodromos/logo_mont.gif" group-title="REGIONALES", 389 | Monterrico TV || Lima
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Tele Lima" tvg-name="PE | Tele Lima" tvg-logo="https://pbs.twimg.com/media/FwOtdL0XoAAV01H?format=png&name=small" group-title="REGIONALES", 390 | Tele Lima
@@ -1800,11 +1800,11 @@ http://45.5.118.213:16000/play/a0mm/index.m3u8
 #EXTINF:-1 tvg-id="SV | TV Seis" tvg-name="SV | TV Seis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Canal_6_TCS.png/200px-Canal_6_TCS.png" group-title="EL SALVADOR", 868 | TV Seis || EL SALVADOR
 https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/live-video=2000000-audio_0=64000.m3u8
 #EXTINF:-1 tvg-id="SV | Agape TV Canal 8" tvg-name="SV | Agape TV Canal 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Agape_8_2001.png/200px-Agape_8_2001.png" group-title="EL SALVADOR", 869 | Agape TV Canal 8 || EL SALVADOR
-https://video-weaver.dfw56.hls.ttvnw.net/v1/playlist/CsEFHhKFobTIMUCXQaFCAxhsGaAWm9nCruegSVat1rkO8Trvimjl-e1SsiaXeMrALlQ_CFRSlX82c0ecAD0OJ1EIaGii9m7l9xptLenffiIz6J446BbmdIAAQcfyI319jaFH1T25RaRTqRc4-Gp7mOMjCJNZzoFkH-4fvdt5z6OY2Na9iDPFSVelKH64MTTbDDVH0ZTmFdXKGBEjJaSql046274kdW6CozeJ_a5p91Q-WtQaU7AufAMZt2M-4GM2q5fnhukvEU3viGByqtbLGLgffpfhWtQpFRC3N7WGuqSjMGH0VZx1HdrPp3DvIrPE98txXohDuqCMg8rXVtQ8KcEIcbcBa3e8NCIPKaB0gd5WQDpPY-M2oJWxqqct0yY2cT3ico9nQCDs4-bwbP32C8w4Jw-GIAdA6UgcS0uP0vfIblO_2TzlBNp9Qh1NNGR3AB5-YUrrIMv-D0_sDGH8rc2AEaDoz7DS8ZDs_mwJvt-7KEF2vm9K3XJoAmZmuq8zaUve9DUTlu4aSdJEXy8hSqx2WdMZedn_MVCGnAc9RrryoVweXGl1OLgpV3VFU50v1kI1uU4eTHD5bT49wBFkPfI0RvUDPv-ONS-UxeVpIO22unlq83b22HeLnRth0mIw1kuM92ur5LQtR2GXvaEmSlAHrvXRenKFBXIBbMij2yKOZMm7Pr8us5Ye5Ty6qLK_eYF6gSjPPTF_1evqfFclzJcgVDAHcaATMTJzmEysEEZVIPSO76CKTD_VVbMS5T8TTzuC2zLujNV5DAOiFOzXOBiFCnDeG9TqcztesYSxElmWugVnXJiULfRrOAEvyz_k5IiM7fuMXX5VQUF-0897h3il6mgFWfy8o4277tCKfznPMcz_aBdFSdzcSKAFJnAApIIMmUxxbsHsVRbHgCWoRF2ofdTeV9YJyo2RGl8I0Ck9GXA4GgwSVKLt9oPdvBKWPDYgASoJdXMtZWFzdC0yMIAH.m3u8
+http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.twitch.tv/agapetv8
 #EXTINF:-1 tvg-id="SV | Asamblea Legislativa TV" tvg-name="SV | Asamblea Legislativa TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/9TV_El_Salvador_%282018%29.png/revision/latest/scale-to-width-down/300?cb=20191116000236" group-title="EL SALVADOR", 870 | TV Legislativa || EL SALVADOR
 https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
 #EXTINF:-1 tvg-id="SV | Canal 10" tvg-name="SV | Canal 10" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Tves-Canal-10-El-Salvador-en-vivo-Online-1.png?fit=1920%2C1080&ssl=1" group-title="EL SALVADOR", 871 | Canal 10 || EL SALVADOR
-http://45.179.164.30:8000/play/a0dp/index.m3u8
+http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://conceptoweb-studio.com/radio/video/tves/
 #EXTINF:-1 tvg-id="SV | Canal 11 TUTV" tvg-name="SV | Canal 11 TUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/TUTV_11_2014.png/150px-TUTV_11_2014.png" group-title="EL SALVADOR", 872 | Canal 11 TUTV || EL SALVADOR
 https://streaming.grupocsanetwork.net:1936/canal11/canal11/playlist.m3u8
 #EXTINF:-1 tvg-id="SV | Canal 12" tvg-name="SV | Canal 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Canal_12_El_Salvador_2018.png/150px-Canal_12_El_Salvador_2018.png" group-title="EL SALVADOR", 873 | Canal 12 || EL SALVADOR
