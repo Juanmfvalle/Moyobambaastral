@@ -565,8 +565,8 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=s9Ns1p
 http://45.5.119.155:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="MX | Exa TV" tvg-name="MX | Exa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Exa_TV_logo.svg/320px-Exa_TV_logo.svg.png" group-title="MUSICA Y REALITIES", 272 | Exa TV
 http://45.5.119.155:8000/play/a0hk/index.m3u8
-#EXTINF:-1 tvg-id="USA | Hispanic Televisión" tvg-name="USA | Hispanic Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/120px-Htv_logo.svg.png" group-title="MUSICA Y REALITIES", 273 | HTV
-http://177.93.48.30:8550/play/a0ad/index.m3u8
+#EXTINF:-1 tvg-id="CO | Telemúsica" tvg-name="CO | Telemúsica" tvg-logo="https://image.roku.com/developer_channels/prod/826c2efdf3c093d6fef8e61063aa76e0454b018cc3d34da897e53487082d52c6.png" group-title="MUSICA Y REALITIES", 273 | Telemúsica
+https://canal.mediaserver.com.co:8088/live/telemusica.m3u8
 #EXTINF:-1 tvg-id="CL | Old Music TV" tvg-name="CL | Old Music TV" tvg-logo="https://pbs.twimg.com/media/FSimCx8X0AI_8QI?format=png&name=small" group-title="MUSICA Y REALITIES", 274 | Old Music Televisión
 https://marine2.miplay.cl/oldmusic/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Memorias TV" tvg-name="USA | Memorias TV" tvg-logo="https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1-224x96.png" group-title="MUSICA Y REALITIES", 275 | Memorias TV
@@ -1666,23 +1666,23 @@ https://tvdatta.com:3451/stream/play.m3u8
 #EXTINF:-1 tvg-id="UY | Charrua TV" tvg-name="UY | Charrua TV" tvg-logo="https://1.bp.blogspot.com/-5oMEGv6pLAo/YToskYNBjdI/AAAAAAAAQes/FLUAZ0CmW8E3ZqGT0XFAlD8GdMiD5TzewCLcBGAsYHQ/w700-h400-p-k-no-nu/charr%25C3%25BAa-televisi%25C3%25B3n-en-vivo_optimized.png" group-title="URUGUAY", 802 | Charrua TV || URUGUAY
 https://stmv.video.gmpro.top/tvcharrua/tvcharrua/playlist.m3u8
 #EXTINF:-1 tvg-id="PY | Noticias Paraguay" tvg-name="PY | Noticias Paraguay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/NPY_%28Noticias_Paraguay%29.png/250px-NPY_%28Noticias_Paraguay%29.png" group-title="PARAGUAY", 803 | Noticias Paraguay || PARAGUAY
-https://rds3tf.desdeparaguay.net/npy/npy_int_baja/playlist.m3u8?k=bb9287d69fdcf0f6e1eff3c5f9a653a74550e38d3945ccd95b3c4c2c5be29686&exp=1689829184
+http://45.161.236.138:8000/play/noticiaspy
 #EXTINF:-1 tvg-id="PY | Telefuturo" tvg-name="PY | Telefuturo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Telefuturo2017.png/150px-Telefuturo2017.png" group-title="PARAGUAY", 804 | Telefuturo || PARAGUAY
 http://177.234.230.226:8010/play/a033/index.m3u8
 #EXTINF:-1 tvg-id="PY | Paravisión" tvg-name="PY | Paravisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Paravision_logo.png/150px-Paravision_logo.png" group-title="PARAGUAY", 805 | Paravisión || PARAGUAY
-http://45.238.54.253:8000/play/a02o/index.m3u8
+http://45.161.236.138:8000/play/paravision
 #EXTINF:-1 tvg-id="PY | Canal 9 Noticias" tvg-name="PY | Canal 9 Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Canal_9_Noticias.jpg/125px-Canal_9_Noticias.jpg" group-title="PARAGUAY", 806 | C9N || PARAGUAY
 https://d1263956mchuq3.cloudfront.net/hls/c9n.m3u8
 #EXTINF:-1 tvg-id="PY | Sistema Nacional de Televisión" tvg-name="PY | Sistema Nacional de Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/SNT_LOGO.jpg/220px-SNT_LOGO.jpg" group-title="PARAGUAY", 807 | SNT || PARAGUAY
 https://d1263956mchuq3.cloudfront.net/hls/snt.m3u8
 #EXTINF:-1 tvg-id="PY | Sur Televisión" tvg-name="PY | Sur Televisión" tvg-logo="https://cdn.mitvstatic.com/channels/116c52f1-8f55-4325-af6d-ab11f98e81d5_m.jpg" group-title="PARAGUAY", 808 | Sur Televisión || PARAGUAY
-http://200.108.135.245:8000/play/surtv
+http://45.161.236.138:8000/play/surtv
 #EXTINF:-1 tvg-id="PY | La Tele" tvg-name="PY | La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Latele_Paraguay.jpg" group-title="PARAGUAY", 809 | La Tele || PARAGUAY
 http://177.234.230.226:8010/play/a034/index.m3u8
 #EXTINF:-1 tvg-id="PY | Trece" tvg-name="PY | Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/100px-Logotrececanal.png" group-title="PARAGUAY", 810 | Trece || PARAGUAY
 https://rds3gen.desdeparaguay.net/trecetv/trecetv_baja/playlist.m3u8?k=ae46fc3611ef55e81451065dd4fec5e1841e5742dac7762a4f0ae8c3484a00d8&exp=1689249903
 #EXTINF:-1 tvg-id="PY | Paraguay TV" tvg-name="PY | Paraguay TV" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_VMtrTllkAGA0qgsmMYtMoCV6XAjYORRStO5kzYg=s900-c-k-c0x00ffffff-no-rj" group-title="PARAGUAY", 811 | Paraguay TV || PARAGUAY
-http://45.238.54.253:8000/play/a02d/index.m3u8
+http://45.161.236.138:8000/play/pytv
 #EXTINF:-1 tvg-id="PY | Unicanal" tvg-name="PY | Unicanal" tvg-logo="https://television.com.py/wp-content/uploads/2015/03/UnicanalLogotvpy.jpg" group-title="PARAGUAY", 812 | Unicanal || PARAGUAY
 https://rds3gen.desdeparaguay.net/unicanal/unicanal_baja/playlist.m3u8?k=2aec41151bbdceedfb20e0c495d65d028cb39fc310eca0446d20ea432bb845f4&exp=1689249991
 #EXTINF:-1 tvg-id="PY | ABC TV" tvg-name="PY | ABC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Abc_color.PNG/245px-Abc_color.PNG" group-title="PARAGUAY", 813 | ABC TV || PARAGUAY
@@ -1840,7 +1840,7 @@ http://190.6.203.198:8000/play/a03d/index.m3u8
 #EXTINF:-1 tvg-id="HN | Canal 6" tvg-name="HN | Canal 6" tvg-logo="https://file.canal6.com.hn//2022/03/logo_header.webp" group-title="HONDURAS", 887 | Canal 6 || HONDURAS
 http://190.83.116.230:9010/play/a08t/index.m3u8
 #EXTINF:-1 tvg-id="HN | Telecadena 7 y 4" tvg-name="HN | Telecadena 7 y 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Telecadena7y42018.png/150px-Telecadena7y42018.png" group-title="HONDURAS", 888 | Telecadena 7 y 4 || HONDURAS
-http://190.83.116.230:9010/play/a040/index.m3u8
+http://200.229.147.76:4000/play/a0ca/index.m3u8
 #EXTINF:-1 tvg-id="HN | Canal 8" tvg-name="HN | Canal 8" tvg-logo="https://tnh.gob.hn/wp-content/uploads/2022/11/cropped-285512422_431662858967024_748898711325018620_n-e1667698342409.jpg" group-title="HONDURAS", 889 | Canal 8 || HONDURAS
 http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.twitch.tv/canal8honduras
 #EXTINF:-1 tvg-id="HN | Mega Clásicos" tvg-name="HN | Mega Clásicos" tvg-logo="https://otv-us-web.s3-us-west-2.amazonaws.com/logos/guide/2/Open/92x36_352/Misc/megaclasicostv.png" group-title="HONDURAS", 890 | Mega Clásicos || HONDURAS
