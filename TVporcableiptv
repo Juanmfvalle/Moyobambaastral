@@ -20,7 +20,7 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ATV/40-hls/live-media.m3u8?_c
 #EXTINF:-1 tvg-id="PE | Tele Lima" tvg-name="PE | Tele Lima" tvg-logo="https://pbs.twimg.com/media/FwOtdL0XoAAV01H?format=png&name=small" group-title="PERU", Tele Lima
 http://191.97.60.193:10000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="PE | Viva TV" tvg-name="PE | Viva TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/PyW6vij-.jpg/175px-PyW6vij-.jpg" group-title="PERU", Viva TV
-http://191.97.60.193:10000/play/a00p/index.m3u8
+https://5cefcbf58ba2e.streamlock.net:543/viva/viva/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | USMP TV" tvg-name="PE | USMP TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/USMP_TV_2017.svg/revision/latest/scale-to-width-down/56?cb=20210504214359&path-prefix=es" group-title="PERU", USMP TV
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/USMPTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUSMPTV_stream_61&_cdn_session=1001361499&_cdn_timestamp=1690717493&_cdn_token=65364ee4a1dd545e97f3fac424b8a9a541325df6
 #EXTINF:-1 tvg-id="PE | Global Televisión" tvg-name="PE | Global Televisión" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMObN_3dPu0x6ipIMnQiPhMsWdYVDq5ZXCPA68_3m2KC_k9CT4VpttLSvI7f-mzLYi7w8&usqp=CAU" group-title="PERU", Global Televisión
@@ -75,8 +75,6 @@ https://stream.plixitv.live/oktv/oktv/playlist.m3u8
 https://live.obslivestream.com/tv5/index.m3u8
 #EXTINF:-1 tvg-id="PE | Vía Alto Mayo TV" tvg-name="PE | Vía Alto Mayo TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqOFVbZI_DEQWBcj9Fjt3OpP7xILbtOuEgaw&usqp=CAU" group-title="PROVINCIALES", Vía Alto Mayo Televisión || Rioja
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
-#EXTINF:-1 tvg-id="PE | Selva Televisión" tvg-name="PE | Selva Televisión" tvg-logo="https://pbs.twimg.com/media/Fu6_E5RX0AIYwwT?format=jpg&name=medium" group-title="PROVINCIALES", Selva Televisión || Rioja
-http://200.48.184.156:1935/imagentv/imagentv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Nor Selva TV" tvg-name="PE | Nor Selva TV" tvg-logo="https://play-lh.googleusercontent.com/w6OBzswjSQyeDBwl6z2J5pGiQjuHH3JcmLgXVxGf68WUMocekssnBW_VAZpOdMVee34=s180-rw" group-title="PROVINCIALES", Nor Selva Televisión || Rioja
 https://live.obslivestream.com/norselvatv/index.m3u8
 #EXTINF:-1 tvg-id="PE | Canal E Altomayo TV 8 (Evelyn S.A.C)" tvg-name="PE | Canal E Altomayo TV 8 (Evelyn S.A.C)" tvg-logo="https://evelynsac.com/img/logo_01.png" group-title="PROVINCIALES", Canal E TV 8 Altomayo || Nueva Cajamarca
@@ -121,8 +119,10 @@ https://ott1.hdlatam.tv/live/CNCdigitallive/playlist.m3u8
 https://vdo.grupolimalive.com:3927/live/milleniumlive.m3u8
 #EXTINF:-1 tvg-id="PE | Oriental TV" tvg-name="PE | Oriental TV" tvg-logo="http://tv.10dailythings.com/images/channels/PE/oriental-tv-21-pucallpa-720p-not-247/normal.png" group-title="REGIONALES DE LA SELVA", Oriental TV || Pucallpa
 https://vdo.grupolimalive.com:3467/live/orientaltvlive.m3u8
-#EXTINF:-1 tvg-id="PE | Pucallpa Televisión" tvg-name="PE | Pucallpa Televisión" tvg-logo="https://play-lh.googleusercontent.com/XKSBWGFeJZmoKEmTVbPjhDUS5GGmehWoBXv6xZYlFwCDCLMgMz8jLvOc_S6Kh82cWg=w240-h480-rw" group-title="REGIONALES", Pucallpa Televisión || Pucallpa
-http://45.189.117.202:48000/play/a02f/index.m3u8
+#EXTINF:-1 tvg-id="PE | Pucallpa Televisión" tvg-name="PE | Pucallpa Televisión" tvg-logo="https://play-lh.googleusercontent.com/XKSBWGFeJZmoKEmTVbPjhDUS5GGmehWoBXv6xZYlFwCDCLMgMz8jLvOc_S6Kh82cWg=w240-h480-rw" group-title="REGIONALES DE LA SELVA", Pucallpa Televisión || Pucallpa
+https://vdo.panelstreaming.live:3596/live/ptvlive.m3u8
+#EXTINF:-1 tvg-id="PE | Ucayali TV" tvg-name="PE | Ucayali TV" tvg-logo="https://pbs.twimg.com/media/FbX4GOdXoAAtuar?format=png&name=small" group-title="REGIONALES", Ucayali TV || Pucallpa
+http://stream.fuegoplayer.com/ucayalitv/index.m3u8
 #EXTINF:-1 tvg-id="PE | BNB Digital TV" tvg-name="PE | BNB Digital TV" tvg-logo="https://play-lh.googleusercontent.com/gx5e8vjrYke4MNqP5kJANUoxqjZnYe0Bt6b-GfPrDr8cUcfeJRhiJIlQ7OMEhdrrp01W=w240-h480-rw" group-title="REGIONALES DE LA SELVA", BNB Digital TV || Atalaya
 https://ott1.hdlatam.tv/live/BNB/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Top TV" tvg-name="PE | Top TV" tvg-logo="https://www.toptvaguaytia.com/wp-content/uploads/2020/12/toplogo.jpg" group-title="REGIONALES DE LA SELVA", Top TV || Aguaytía
@@ -154,7 +154,7 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AANDEMUNDO/40-hls/live-media.
 #EXTINF:-1 tvg-id="USA | AMC" tvg-name="USA | AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/150px-AMC_logo_2019.svg.png" group-title="PELICULAS Y SERIES", AMC
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AMC/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMC_stream_sj&_cdn_session=1001368387&_cdn_timestamp=1690717798&_cdn_token=f2c55eeddde22579570f467a9186a5a79c5cc217
 #EXTINF:-1 tvg-id="USA | Space" tvg-name="USA | Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="PELICULAS Y SERIES", Space
-http://45.5.117.182:8000/play/a0jj/index.m3u8
+http://177.53.153.21:8001/play/a01w/index.m3u8
 #EXTINF:-1 tvg-id="USA | AXN" tvg-name="USA | AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png" group-title="PELICULAS Y SERIES", AXN
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AXN/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAXN_stream_wo&_cdn_session=1001369507&_cdn_timestamp=1690717846&_cdn_token=86148bd265e69b1f0aa21b80794c4068b7251a62
 #EXTINF:-1 tvg-id="MX | Azteca Cinema" tvg-name="MX | Azteca Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TV_Azteca_Cinema_logo.svg/200px-TV_Azteca_Cinema_logo.svg.png" group-title="PELICULAS Y SERIES", Azteca Cinema
@@ -202,7 +202,7 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/SYFY/40-hls/live-media.m3u8?_
 #EXTINF:-1 tvg-id="PE | Mittos TV" tvg-name="PE | Mittos TV" tvg-logo="https://pbs.twimg.com/media/FXM5iSyX0AAkzON?format=png&name=240x240" group-title="PELICULAS Y SERIES", Mittos TV || Pucallpa
 https://cloudvideo.servers10.com:8081/8176/index.m3u8
 #EXTINF:-1 tvg-id="ESP | A3series" tvg-name="ESP | A3series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/125px-Atreseries_2020_logo.svg.png" group-title="PELICULAS Y SERIES", Atreseries
-http://45.228.232.204:16000/play/a03e/index.m3u8
+http://177.53.153.21:8001/play/a04t/index.m3u8
 #EXTINF:-1 tvg-id="ESP | A3cine" tvg-name="ESP | A3cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/245px-Atrescine_logo.svg.png" group-title="PELICULAS Y SERIES", Atrescine
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 #EXTINF:-1 tvg-id="USA | Warner Channel" tvg-name="USA | Warner Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/125px-Warner2018LA.png" group-title="PELICULAS Y SERIES", Warner Channel
@@ -253,14 +253,16 @@ http://181.189.243.254:8000/play/a0sq/index.m3u8
 http://181.189.243.254:8000/play/a0ta/index.m3u8
 #EXTINF:-1 tvg-id="MX | Cine Latino" tvg-name="MX | Cine Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cine_Latino_logo.svg/150px-Cine_Latino_logo.svg.png" group-title="PELICULAS Y SERIES", Cine Latino
 http://45.5.119.155:8000/play/a0ik/index.m3u8
-#EXTINF:-1 tvg-id="MX | Golden" tvg-name="MX | Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/245px-Canal_Golden_logo.svg.png" group-title="PELICULAS Y SERIES", Golden
-http://45.228.234.77:3340/play/goldenedge/index.m3u8
+#EXTINF:-1 tvg-id="MX | Golden" tvg-name="MX | Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/320px-Canal_Golden_logo.svg.png" group-title="PELICULAS Y SERIES", Golden
+http://45.5.119.155:8000/play/a0jv/index.m3u8
+#EXTINF:-1 tvg-id="MX | Golden Plus" tvg-name="MX | Golden Plus" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus-mediano.png" group-title="PELICULAS Y SERIES", Golden Plus
+http://177.53.153.21:8001/play/a03o/index.m3u8
 #EXTINF:-1 tvg-id="MX | Golden Premier" tvg-name="MX | Golden Premier" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="PELICULAS Y SERIES", Golden Premier
 http://181.189.243.254:8000/play/a0oc/index.m3u8
 #EXTINF:-1 tvg-id="MX | Golden Premier 2" tvg-name="MX | Golden Premier 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es" group-title="PELICULAS Y SERIES", Golden Premier 2
 http://181.189.243.254:8000/play/a0od/index.m3u8
 #EXTINF:-1 tvg-id="MX | Multipremier" tvg-name="MX | Multipremier" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/150px-Multipremier_logo.svg.png" group-title="PELICULAS Y SERIES", Multipremier
-http://45.228.232.204:16000/play/a07a/index.m3u8
+http://177.53.153.21:8001/play/a0a8/index.m3u8
 #EXTINF:-1 tvg-id="MX | Canal MC" tvg-name="MX | Canal MC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/150px-MC_logo_2022.png" group-title="PELICULAS Y SERIES", Canal MC
 http://160.20.165.246:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="MX | Cine Mexicano" tvg-name="MX | Cine Mexicano" tvg-logo="https://www.americatvc.com/administrador/subgrupo/3.png" group-title="PELICULAS Y SERIES", Cine Mexicano
@@ -2395,8 +2397,6 @@ https://cdn.nhkworld.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 https://video01.soultv.com.br/asiantv/asiantv/playlist.m3u8
 #EXTINF:-1 tvg-id="CI | Ivoire Channel" tvg-name="CI | Ivoire Channel" tvg-logo="https://play-lh.googleusercontent.com/URv6HhGl1NdHOxhCBAZj1vd-GlJBL3Vn9CwDk8z5_SDIufM27Lz76TKmyP8ktEA_bto=s48-rw" group-title="COSTA DE MARFIL", Ivoire Channel || COSTA DE MARFIL
 https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Radio Latina" tvg-name="PE | Radio Latina" tvg-logo="https://www.planetaradios.com/content/radios_fm/Radio_Latina_FM_San_Matin_3545.png" group-title="EMISORAS LOCALES", Radio Latina 90.1 FM || Moyobamba; Perú
-https://whmsonic.playerfullhd.com:7098/;/live
 #EXTINF:-1 tvg-id="PE | Radio Atmosfera" tvg-name="PE | Radio Atmosfera" tvg-logo="https://www.planetaradios.com/content/radios_fm/pr_122.png" group-title="EMISORAS LOCALES", Radio Atmósfera 92.3 FM || Moyobamba; Perú
 https://cast10.plugstreaming.com:2000/stream/atmosfera/;
 #EXTINF:-1 tvg-id="PE | Radio Interactiva" tvg-name="PE | Radio Interactiva" tvg-logo="https://interactivaradio.com/wp-content/uploads/2020/06/logo-blanco-2.png" group-title="EMISORAS LOCALES", Interactiva Radio 92.9 FM || Moyobamba; Perú
@@ -2587,6 +2587,8 @@ https://streamingecuador.net:8076/radiosucre
 https://streamingecuador.net:7078/stream
 #EXTINF:-1 tvg-id="EC | Radio Cristal" tvg-name="EC | Radio Cristal" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-ec/cristal.png" group-title="EMISORAS INTERNACIONALES", Radio Cristal 870 AM || ECUADOR
 http://78.47.60.149/9958/;
+#EXTINF:-1 tvg-id="EC | Radio Sistema 2" tvg-name="EC | Radio Sistema 2" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-ec/sistema-2-1080-am.png" group-title="EMISORAS INTERNACIONALES", Radio Sistema 2 1080 AM || ECUADOR
+https://streamingecuador.net:8052/radiosistema2
 #EXTINF:-1 tvg-id="EC | Radio Popular" tvg-name="EC | Radio Popular" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/k2dyp3rzuap3.png" group-title="EMISORAS INTERNACIONALES", Radio Popular de Cuenca 1290 AM || ECUADOR
 https://stream-50.zeno.fm/py6f6znfntzuv?zs=kYEzAzomTc-ju220HEsXzg
 #EXTINF:-1 tvg-id="EC | Radio Soberana 98.7 FM" tvg-name="EC | Radio Soberana 98.7 FM" tvg-logo="https://play-lh.googleusercontent.com/n-g2gEIh3jnuxzDo7h4exKiEVBal8ztsjFdej0zrbtoIob1uFe2MWsoK5DA91_2Lskc=s200" group-title="EMISORAS DE RADIO CON VIDEO", Radio Soberana 98.7 FM || ECUADOR
