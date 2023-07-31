@@ -122,7 +122,7 @@ https://ott1.hdlatam.tv/live/BNB/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Top TV" tvg-name="PE | Top TV" tvg-logo="https://www.toptvaguaytia.com/wp-content/uploads/2020/12/toplogo.jpg" group-title="REGIONALES", 58 | Top TV || Aguaytía
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 #EXTINF:-1 tvg-id="CO | RCN Novelas" tvg-name="CO | RCN Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/205px-RCN_Novelas_logo_2019.png" group-title="NOVELAS", 59 | RCN Novelas
-http://181.189.243.254:8000/play/a0r5/index.m3u8
+http://177.53.153.21:8001/play/a07a/index.m3u8
 #EXTINF:-1 tvg-id="USA | Pasiones" tvg-name="USA | Pasiones" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQgm8S3Mil5Ktp0FUdBBNl7hfDdzPq3eIrNKWgy=s900-c-k-c0x00ffffff-no-rj" group-title="NOVELAS", 60 | Pasiones
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PASIONES/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPASIONES_stream_42&_cdn_session=1009675131&_cdn_timestamp=1690971320&_cdn_token=4e66d014738bd1d77f237d54e09547fa2cc3aa7f
 #EXTINF:-1 tvg-id="TR | Kanal D Drama" tvg-name="TR | Kanal D Drama" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Kanal_D_Drama_%28Latin_America%29.png/revision/latest/scale-to-width-down/200?cb=20200317052444&path-prefix=es" group-title="NOVELAS", 61 | Kanal D Drama
@@ -232,15 +232,15 @@ http://177.53.153.21:8001/play/a03b/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO 2" tvg-name="USA | HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" group-title="PELICULAS Y SERIES", 110 | HBO 2
 http://177.53.153.21:8001/play/a03i/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO+" tvg-name="USA | HBO +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/125px-Logohboplus2019.svg.png" group-title="PELICULAS Y SERIES", 111 | HBO +
-http://181.189.243.254:8000/play/a0ot/index.m3u8
+http://181.78.22.27:8098/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="PELICULAS Y SERIES", 112 | HBO Family
-http://181.189.243.254:8000/play/a0ou/index.m3u8
+http://177.53.153.21:8001/play/a04g/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO Xtreme" tvg-name="USA | HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" group-title="PELICULAS Y SERIES", 113 | HBO Xtreme
 http://177.53.153.21:8001/play/a04h/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO Pop" tvg-name="USA | HBO Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/130px-HBO_Pop.svg.png" group-title="PELICULAS Y SERIES", 114 | HBO Pop
-http://190.83.60.34:1414/play/a01j
+http://177.53.153.21:8001/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 115 | TNT
-http://45.5.119.202:54321/play/a02v/index.m3u8
+http://177.53.153.21:8001/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="USA | TNT Series" tvg-name="USA | TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/94px-TNT_Series_Logo_2016.png" group-title="PELICULAS Y SERIES", 116 | TNT Series
 http://45.5.119.202:54321/play/a02n/index.m3u8
 #EXTINF:-1 tvg-id="MX | Cine Latino" tvg-name="MX | Cine Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cine_Latino_logo.svg/150px-Cine_Latino_logo.svg.png" group-title="PELICULAS Y SERIES", 117 | Cine Latino
@@ -252,7 +252,7 @@ http://177.53.153.21:8001/play/a03o/index.m3u8
 #EXTINF:-1 tvg-id="MX | Golden Premier" tvg-name="MX | Golden Premier" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="PELICULAS Y SERIES", 120 | Golden Premier
 http://177.53.153.21:8001/play/a053/index.m3u8
 #EXTINF:-1 tvg-id="MX | Golden Premier 2" tvg-name="MX | Golden Premier 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es" group-title="PELICULAS Y SERIES", 121 | Golden Premier 2
-http://181.189.243.254:8000/play/a0od/index.m3u8
+http://177.53.153.21:8001/play/a054/index.m3u8
 #EXTINF:-1 tvg-id="MX | Multipremier" tvg-name="MX | Multipremier" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/150px-Multipremier_logo.svg.png" group-title="PELICULAS Y SERIES", 122 | Multipremier
 http://177.53.153.21:8001/play/a0a8/index.m3u8
 #EXTINF:-1 tvg-id="MX | Canal MC" tvg-name="MX | Canal MC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/150px-MC_logo_2022.png" group-title="PELICULAS Y SERIES", 123 | Canal MC
@@ -446,7 +446,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 #EXTINF:-1 tvg-id="USA | E!" tvg-name="USA | E!" channelId="145" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/35px-E%21_Logo_2012.svg.png" group-title="ESTILOS DE VIDA", 216 | E! Entertainment Televisión
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/EENTRETAIMENT/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DE_CH_stream_7o&_cdn_session=1009693291&_cdn_timestamp=1690972291&_cdn_token=d2620ada5694b5df940f3acd57119d73383b98cb
 #EXTINF:-1 tvg-id="ES | ¡Hola! TV" tvg-name="ES | ¡Hola! TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/220px-%C2%A1HOLA%21TVlogo.jpg" group-title="ESTILOS DE VIDA", 217 | ¡Hola! TV
-http://45.228.232.204:16000/play/a03c/index.m3u8
+https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 #EXTINF:-1 tvg-id="CL | Ladies TV" tvg-name="CL | Ladies TV" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/LADIES-FONDO-2-300x169.jpg" group-title="ESTILOS DE VIDA", 218 | Ladies TV
 https://panel.miplay.cl:8081/ladies/index.m3u8
 #EXTINF:-1 tvg-id="USA | TLC" tvg-name="USA | TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/150px-TLC_Logo.svg.png" group-title="ESTILOS DE VIDA", 219 | Travel & Living Channel
@@ -456,7 +456,7 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/HOMEANDHEALTH/10-hls/live-med
 #EXTINF:-1 tvg-id="CL | On Tour Channel" tvg-name="CL | On Tour Channel" tvg-logo="https://pbs.twimg.com/media/FSiiFtPXIAAjZZ8?format=png&name=120x120" group-title="ESTILOS DE VIDA", 221 | On Tour Channel
 https://marine2.miplay.cl/ontour/playlist.m3u8
 #EXTINF:-1 tvg-id="VE | Sun Channel" tvg-name="VE | Sun Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sun_Channel_Logo_2022.webp/150px-Sun_Channel_Logo_2022.webp.png" group-title="ESTILOS DE VIDA", 222 | Sun Channel
-http://181.189.243.254:8000/play/a0r9/index.m3u8
+http://177.53.153.21:8001/play/a02n/index.m3u8
 #EXTINF:-1 tvg-id="AR | El Gourmet TV" tvg-name="AR | El Gourmet TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/160px-Elgourmetlogo2015.png" group-title="GASTRONOMÍA", 223 | El Gourmet Televisión
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/GOURMET/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGOURMET_stream_g4&_cdn_session=1009694563&_cdn_timestamp=1690972372&_cdn_token=1451485be5cbd067fb8a2cbd77c2a5f958309694
 #EXTINF:-1 tvg-id="USA | Food Network" tvg-name="USA | Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/150px-Food_Network_New_Logo.png" group-title="GASTRONOMÍA", 224 | Food Network
@@ -484,7 +484,7 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN3/40-hls/live-media.m3u8?
 #EXTINF:-1 tvg-id="USA | ESPN 4" tvg-name="USA | ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/180px-ESPN_4_logo.svg.png" group-title="DEPORTES", 235 | ESPN 4
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS_stream_ml&_cdn_session=1009696883&_cdn_timestamp=1690972503&_cdn_token=a10179ec3b0652cc112d1713728ff3c4578521c2
 #EXTINF:-1 tvg-id="USA | ESPN Extra" tvg-name="USA | ESPN Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/190px-ESPN_Extra_Logo_2022.webp.png" group-title="DEPORTES", 236 | ESPN Extra
-http://181.189.243.254:8000/play/a0py/index.m3u8
+http://177.53.153.21:8001/play/a03a/index.m3u8
 #EXTINF:-1 tvg-id="MX | Claro Sports" tvg-name="MX | Claro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/150px-Claro_Sports_logo.svg.png" group-title="DEPORTES", 237 | Claro Sports
 http://45.228.234.162:24000/play/a08l/index.m3u8
 #EXTINF:-1 tvg-id="MX | Claro Sports 2" tvg-name="MX | Claro Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest/scale-to-width-down/250?cb=20210423191014&path-prefix=es" group-title="DEPORTES", 237.2 | Claro Sports 2
@@ -660,9 +660,9 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYSCIENCE/10-hls/live-
 #EXTINF:-1 tvg-id="USA | Discovery Turbo" tvg-name="USA | Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png" group-title="CULTURA Y EDUCACION", 318 | Discovery Turbo
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYTURBO/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYTURBO_stream_kb&_cdn_session=1009701411&_cdn_timestamp=1690972762&_cdn_token=5d8b2d4405b82fa61aa4d512fd93ca6c3a8e855e
 #EXTINF:-1 tvg-id="USA | Discovery World" tvg-name="USA | Discovery World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/245px-World_Discovery_HD_logo.svg.png" group-title="CULTURA Y EDUCACION", 319 | Discovery World
-http://181.189.243.254:8000/play/a0tc/index.m3u8
+http://177.53.153.21:8001/play/a037/index.m3u8
 #EXTINF:-1 tvg-id="USA | Discovery Theater" tvg-name="USA | Discovery Theater" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/245px-2015_Discovery_theater_HD_logo.svg.png" group-title="CULTURA Y EDUCACION", 320 | Discovery Theater
-http://181.189.243.254:8000/play/a0sr/index.m3u8
+http://177.53.153.21:8001/play/a02q/index.m3u8
 #EXTINF:-1 tvg-id="USA | Animal Planet" tvg-name="USA | Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/200px-2018_Animal_Planet_logo.svg.png" group-title="CULTURA Y EDUCACION", 321 | Animal Planet
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ANIMALPLANET/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DANIMALPLANET_stream_2n&_cdn_session=1009792195&_cdn_timestamp=1690977477&_cdn_token=d3935f5c2ff7642169d645da9b38d9c51275392c
 #EXTINF:-1 tvg-id="USA | National Geographic" tvg-name="USA | National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png" group-title="CULTURA Y EDUCACION", 322 | National Geographic
