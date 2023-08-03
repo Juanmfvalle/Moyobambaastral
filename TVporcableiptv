@@ -204,7 +204,7 @@ https://cloudvideo.servers10.com:8081/8176/index.m3u8
 #EXTINF:-1 tvg-id="ESP | A3series" tvg-name="ESP | A3series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/125px-Atreseries_2020_logo.svg.png" group-title="PELICULAS Y SERIES", Atreseries
 http://177.53.153.21:8001/play/a04t/index.m3u8
 #EXTINF:-1 tvg-id="USA | Warner Channel" tvg-name="USA | Warner Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/125px-Warner2018LA.png" group-title="PELICULAS Y SERIES", Warner Channel
-http://181.189.243.254:8000/play/a0tk/index.m3u8
+http://177.53.153.21:8001/play/a08l/index.m3u8
 #EXTINF:-1 tvg-id="USA | Tu Cine" tvg-name="USA | Tu Cine" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/TuCine_295x98.png" group-title="PELICULAS Y SERIES", Tu Cine
 https://tucine-plex.amagi.tv/TuCine-xumo/master_6.m3u8
 #EXTINF:-1 tvg-id="USA | Cine Real" tvg-name="USA | Cine Real" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/05/cinereal.png" group-title="PELICULAS Y SERIES", Cine Real
@@ -214,7 +214,7 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/EUROPAEUROPA/40-hls/live-medi
 #EXTINF:-1 tvg-id="USA | Eurochannel" tvg-name="USA | Eurochannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Eurochannel.png/150px-Logo_Eurochannel.png" group-title="PELICULAS Y SERIES", Eurochannel
 http://45.5.119.155:8000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="USA | I.Sat" tvg-name="USA | I.Sat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/150px-I.Sat_logo.svg.png" group-title="PELICULAS Y SERIES", I.Sat
-http://45.228.232.204:16000/play/a079/index.m3u8
+http://45.5.119.202:54321/play/a01v/index.m3u8
 #EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="PELICULAS Y SERIES", Star Channel
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/STARCHANNEL/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXCHANNEL_stream_1f&_cdn_session=1022150467&_cdn_timestamp=1691316397&_cdn_token=25f3e6710409aabd5455a79dc3f77bd6516aa576
 #EXTINF:-1 tvg-id="USA | FX" tvg-name="USA | FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/125px-FX_International_logo.svg.png" group-title="PELICULAS Y SERIES", FX
@@ -224,29 +224,33 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/CloverCh/40-hls/live-media.m3
 #EXTINF:-1 tvg-id="USA | Universal TV" tvg-name="USA | Universal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/167px-Universal_TV_logo.svg.png" group-title="PELICULAS Y SERIES", Universal TV
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/UNIVERSALCH/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUNIVERSAL_stream_4o&_cdn_session=1022151227&_cdn_timestamp=1691316493&_cdn_token=b1cb60c90d0de42d55b6e0f198e1dd228fdc56c5
 #EXTINF:-1 tvg-id="USA | Universal Crime" tvg-name="USA | Universal Crime" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_crime-mediano.png" group-title="PELICULAS Y SERIES", Universal Crime
-http://181.189.243.254:8000/play/a0t0/index.m3u8
+http://177.53.153.21:8001/play/a09g/index.m3u8
 #EXTINF:-1 tvg-id="USA | Universal Cinema" tvg-name="USA | Universal Cinema" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_cinema-mediano.png" group-title="PELICULAS Y SERIES", Universal Cinema
-http://181.189.243.254:8000/play/a0v2/index.m3u8
+http://177.53.153.21:8001/play/a0aw/index.m3u8
 #EXTINF:-1 tvg-id="USA | Universal Reality" tvg-name="USA | Universal Reality" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_reality-mediano.png" group-title="PELICULAS Y SERIES", Universal Reality
-http://181.189.243.254:8000/play/a0sz/index.m3u8
-#EXTINF:-1 tvg-id="USA | Universal Premiere" tvg-name="USA | Universal Premiere" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_premiere-mediano.png" group-title="PELICULAS Y SERIES", Universal Premiere
-http://181.189.243.254:8000/play/a0ui/index.m3u8
+http://177.53.153.21:8001/play/a09f/index.m3u8
+#EXTINF:-1 tvg-id="USA | Universal Comedy" tvg-name="USA | Universal Comedy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Universal_Comedy_2021.png/revision/latest/scale-to-width-down/250?cb=20220102015318&path-prefix=es" group-title="PELICULAS Y SERIES", Universal Comedy
+http://177.53.153.21:8001/play/a09h/index.m3u8
+#EXTINF:-1 tvg-id="USA | Universal Premiere" tvg-name="USA | Universal Premiere" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_premiere-mediano.png" group-title="PELICULAS Y SERIES", 107 | Universal Premiere
+http://201.218.137.232:4123/play/a042/index.m3u8
+#EXTINF:-1 tvg-id="USA | Universal Premiere Oeste" tvg-name="USA | Universal Premiere Oeste" tvg-logo="https://forounivers.com/uploads/monthly_2021_10/large.UNIVERSAL_PREMIERE.png.ec2deb44f4b6020f6b11233389b1c7fd.png" group-title="PELICULAS Y SERIES", 107.2 | Universal Premiere Oeste
+http://201.218.137.232:4123/play/a043/index.m3u8
 #EXTINF:-1 tvg-id="USA | Cinemax" tvg-name="USA | Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="PELICULAS Y SERIES", Cinemax
-http://45.5.119.155:8000/play/a0il/index.m3u8
+http://45.189.117.202:48000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", HBO
-http://181.189.243.254:8000/play/a0or/index.m3u8
+http://177.53.153.21:8001/play/a03b/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO 2" tvg-name="USA | HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" group-title="PELICULAS Y SERIES", HBO 2
-http://181.189.243.254:8000/play/a0os/index.m3u8
+http://177.53.153.21:8001/play/a03i/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO+" tvg-name="USA | HBO +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/125px-Logohboplus2019.svg.png" group-title="PELICULAS Y SERIES", HBO +
-http://181.189.243.254:8000/play/a0ot/index.m3u8
+http://201.218.137.242:8000/play/a00a
 #EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="PELICULAS Y SERIES", HBO Family
-http://181.189.243.254:8000/play/a0ou/index.m3u8
+http://177.53.153.21:8001/play/a04g/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO Xtreme" tvg-name="USA | HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" group-title="PELICULAS Y SERIES", HBO Xtreme
-http://181.189.243.254:8000/play/a0ov/index.m3u8
+http://177.53.153.21:8001/play/a04h/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO Pop" tvg-name="USA | HBO Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/130px-HBO_Pop.svg.png" group-title="PELICULAS Y SERIES", HBO Pop
 http://190.83.60.34:1414/play/a01j
 #EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", TNT
-http://181.189.243.254:8000/play/a0sq/index.m3u8
+http://177.53.153.21:8001/play/a02y/index.m3u8
 #EXTINF:-1 tvg-id="USA | TNT Series" tvg-name="USA | TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/94px-TNT_Series_Logo_2016.png" group-title="PELICULAS Y SERIES", TNT Series
 http://181.189.243.254:8000/play/a0ta/index.m3u8
 #EXTINF:-1 tvg-id="MX | Cine Latino" tvg-name="MX | Cine Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cine_Latino_logo.svg/150px-Cine_Latino_logo.svg.png" group-title="PELICULAS Y SERIES", Cine Latino
