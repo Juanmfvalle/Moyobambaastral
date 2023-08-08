@@ -424,7 +424,7 @@ http://www.onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu711/thjhg3468ihj/11.m3u8
 #EXTINF:-1 tvg-id="ESP | 24 Horas tve" tvg-name="ESP | 24 horas tve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/125px-Logo_TVE-24h.svg.png" group-title="NOTICIAS E INFORMACION", 201 | 24 horas tve
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="USA | CNN en Español" tvg-name="USA | CNN en Español" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png" group-title="NOTICIAS E INFORMACION", 202 | CNN en Español
-http://45.5.119.202:54321/play/a02h/index.m3u8
+http://45.228.234.77:3340/play/cnnespaniol/index.m3u8
 #EXTINF:-1 tvg-id="CL | CNN Chile" tvg-name="CL | CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/150px-CNN_Chile_logo_2017.svg.png" group-title="NOTICIAS E INFORMACION", 203 | CNN Chile
 http://177.53.153.21:8001/play/a01q/index.m3u8
 #EXTINF:-1 tvg-id="USA | CNN Internacional" tvg-name="USA | CNN Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/162px-CNN_International_logo.svg.png" group-title="NOTICIAS E INFORMACION", 204 | CNN Internacional
@@ -1728,7 +1728,7 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?uid=C3a7Pp
 #EXTINF:-1 tvg-id="CR | Canal 11" tvg-name="CR | Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/150px-Repretel_11_logo.png" group-title="COSTA RICA", 830 | Canal 11 || COSTA RICA
 http://45.5.118.213:16000/play/a0kq/index.m3u8
 #EXTINF:-1 tvg-id="CR | Trece Costa Rica Televisión" tvg-name="CR | Trece Costa Rica Televisión" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/canal-13-trece-costa-rica-televisin-1576.png" group-title="COSTA RICA", 831 | Trece Costa Rica Televisión || COSTA RICA
-http://181.189.243.254:8000/play/a0oh/index.m3u8
+http://45.5.117.182:8000/play/a0dI/index.m3u8
 #EXTINF:-1 tvg-id="CR | Telered" tvg-name="CR | Telered" tvg-logo="http://costaricatelevision.com/sites/default/files/2022-09/_Telered%252520Television.png" group-title="COSTA RICA", 832 | Telered || COSTA RICA
 https://video20.klm99.com:3558/live/teleredlive.m3u8
 #EXTINF:-1 tvg-id="CR | Antena Seis TV" tvg-name="CR | Antena Seis TV" tvg-logo="https://pbs.twimg.com/media/FcB8VoxXEAE5jd0?format=png&name=360x360" group-title="COSTA RICA", 833 | Antena Seis TV || COSTA RICA
@@ -1926,25 +1926,25 @@ https://emisoras.hn:8081/wtv/index.m3u8
 #EXTINF:-1 tvg-id="HN | Suyapa TV" tvg-name="HN | Suyapa TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/suyapa-tv.png" group-title="HONDURAS", 929 | Suyapa TV || HONDURAS
 http://45.5.119.202:54321/play/a066/index.m3u8
 #EXTINF:-1 tvg-id="GT | Canal 3" tvg-name="GT | Canal 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Canal3GT2022.png/800px-Canal3GT2022.png" group-title="GUATEMALA", 930 | Canal 3 el super canal || GUATEMALA
-http://45.5.119.202:54321/play/a04v/index.m3u8
+http://45.228.234.77:3340/play/canal03/index.m3u8
 #EXTINF:-1 tvg-id="GT | Televisiete" tvg-name="GT | Televisiete" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Canal7GT2022.png/1024px-Canal7GT2022.png" group-title="GUATEMALA", 931 | Televisiete || GUATEMALA
-http://45.5.119.202:54321/play/a00x/index.m3u8
+http://45.228.234.77:3340/play/canal_siete/index.m3u8
 #EXTINF:-1 tvg-id="GT | Teleonce" tvg-name="GT | Teleonce" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Canal11GT2022.png/200px-Canal11GT2022.png" group-title="GUATEMALA", 932 | Teleonce || GUATEMALA
-http://45.5.119.202:54321/play/a04z/index.m3u8
+http://45.228.234.77:3340/play/canal_once/index.m3u8
 #EXTINF:-1 tvg-id="GT | Trecevisión" tvg-name="GT | Trecevisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Canal13GT2022.png/250px-Canal13GT2022.png" group-title="GUATEMALA", 933 | Trecevisión || GUATEMALA
 http://45.5.117.182:8000/play/a0fy/index.m3u8
 #EXTINF:-1 tvg-id="GT | TN 23" tvg-name="GT | TN 23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/TN23logo2016.png/250px-TN23logo2016.png" group-title="GUATEMALA", 934 | TN 23 || GUATEMALA
 https://linear-259.frequency.stream/dist/vix/259/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="GT | Guatevisión" tvg-name="GT | Guatevisión" tvg-logo="https://www.guatevision.com/wp-content/uploads/sites/2/2019/09/logo-1.png?quality=82" group-title="GUATEMALA", 935 | Guatevisión || GUATEMALA
-http://45.5.119.202:54321/play/a02c/index.m3u8
+http://45.228.234.77:3340/play/guatevision/index.m3u8
 #EXTINF:-1 tvg-id="GT | Canal 27 El Canal de la Esperanza" tvg-name="GT | Canal 27 El Canal de la Esperanza" tvg-logo="https://www.canal27.org/wp-content/uploads/2023/04/Logo-canal-mediano-transp-1024x576.png" group-title="GUATEMALA", 936 | Canal 27 El Canal de la Esperanza || GUATEMALA
 http://45.228.234.77:3340/play/canalveintisiete/index.m3u8
 #EXTINF:-1 tvg-id="GT | Nuevo Mundo Televisión" tvg-name="GT | Nuevo Mundo Televisión" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s819cb0bb844c8380/image/i28512c8451c19f44/version/1488494562/image.png" group-title="GUATEMALA", En prueba | Nuevo Mundo Televisión || GUATEMALA
 https://tvlatina.live:1936/8008/8008/playlist.m3u8
 #EXTINF:-1 tvg-id="GT | TV Azteca Guatemala" tvg-name="GT | TV Azteca Guatemala" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Azteca_Guate_2017.png/200px-Azteca_Guate_2017.png" group-title="GUATEMALA", 937 | TV Azteca Guate || GUATEMALA
-http://45.5.119.202:54321/play/a00w/index.m3u8
+http://45.5.117.182:8000/play/a0hf/index.m3u8
 #EXTINF:-1 tvg-id="GT | Canal Antigua" tvg-name="GT | Canal Antigua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Canal_antigua_logo.png/115px-Canal_antigua_logo.png" group-title="GUATEMALA", 938 | Canal Antigua || GUATEMALA
-http://45.5.119.202:54321/play/a04s/index.m3u8
+http://45.228.234.77:3340/play/canal_antigua/index.m3u8
 #EXTINF:-1 tvg-id="GT | VEA Canal" tvg-name="GT | VEA Canal" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Vea-Canal-en-vivo-Online.png?resize=696%2C392&ssl=1" group-title="GUATEMALA", 939 | VEA Canal || GUATEMALA
 https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CsgFoHsnSRPWoDwXJma3Gd_ZyQYINdKiNCBmnnsegBVDWXd5qgykqaEGEFmLHLerO5reUxOZYUmchSCiL4oFVOEIpQ3Pai4OzInDpY1aFnwfnSxr1FqNfB5yDf49Zdi_bepiw1VhUfFG4mTc4hW3y-7AcOQ0NO_ph9wasaWL1ULf3uD5rnb4aWbLGqYxFFINYao6v6Cc1aZGywIJn9__AGjGuEVZIrufhtL5XZ_gYdRQNVNfRXjfOA_EgIf_1BCxRQ5r5k5DGx3bHJkbgvIl0vY6efUEFEsodW59fGksOVgSkzwhAYJPk7FuumvwhTV1ag_rI3Qeq7keP-feSMZwnOvG7QjR1rJngBus7xpJjmtXfOAxGMQRfQTYYHwyabcczOpOOqQoG3rq4GqpFFQWGzR313kRpV5bsRwfCVHomDQ_iYCcrcSlHzDTppJ5Aq3_42N4YnP9iAAZJrjSjOSb1IWZehTV4XkzcoAugPmJjG7_xwLAsuijIXRSDeJ-lGTS26Aiv9jGPezu-Zf8_Fk4-jrHFHNfYFtqtxG2fIxO9Iim3MUNMqaNEx3eJ5Pc0q2xsSK243yNrKjqo6ODI3xqC2F3XYbk_DtNBUZrfJQAbUQ1itVGPcXOn6913NPJ4qZy7pVMVcE_Z21pGNn0mYeM9kfc1JswKThzNlgXVVk-j6mJPQQ6Fh17SVq1R-1-TShlU_FARwQrSGO48san2zJFMzewIgYWX_hzPJ0HonwlEkIk6DGIplXNi1ItLoK1dgO0Ra_7SAy3VbRQwCJAhMsWBOVxVnzBuSr7mCQYm4KEN0J6nZ6HhqQ8mxG2290kHHVseMQdYy77NvC0yezL2UM3OrTy9eEtmd5sPMLm1Hh5CjQYCl3PwJ5vCEgvZWgjKxvTOjH0jZwQwZY2K-OZV93zSfKZ73FGRFfUQfz8rw3DrX1t_iU--MuJCbExSBoMHVL2r2UG0jx2EfYnIAEqCXVzLWVhc3QtMTDSBQ.m3u8
 #EXTINF:-1 tvg-id="GT | Canal de Gobierno" tvg-name="GT | Canal de Gobierno" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR_Hm3vKJu8-yXqyi7Q66F8ME2CsBddRLq4JnyVcQ=s88-c-k-c0x00ffffff-no-rj" group-title="GUATEMALA", 940 | Canal de Gobierno || GUATEMALA
