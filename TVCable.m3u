@@ -2054,7 +2054,7 @@ https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8
 #EXTINF:-1 tvg-id="DO | Telemicro" tvg-name="DO | Telemicro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png/revision/latest/scale-to-width-down/170?cb=20191125192220&path-prefix=es" group-title="REPUBLICA DOMINICANA", 993 | Telemicro || REPUBLICA DOMINICANA
 http://45.5.117.182:8000/play/a0hi/index.m3u8
 #EXTINF:-1 tvg-id="DO | Antena 7" tvg-name="DO | Antena 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Antena_Latina_2016.webp/270px-Antena_Latina_2016.webp.png" group-title="REPUBLICA DOMINICANA", 994 | Antena 7 || REPUBLICA DOMINICANA
-http://51.81.106.157:8084/hls/alatina.m3u8
+http://45.228.232.219:16000/play/a0li/index.m3u8
 #EXTINF:-1 tvg-id="DO | Color Visión" tvg-name="DO | Color Visión" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ec05bd74826e90977bf051086434a04d.webp" group-title="REPUBLICA DOMINICANA", 995 | Color Visión || REPUBLICA DOMINICANA
 http://45.228.234.193:16000/play/a0dp/index.m3u8
 #EXTINF:-1 tvg-id="DO | Telesistema" tvg-name="DO | Telesistema" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/telesistemac-100x70.png" group-title="REPUBLICA DOMINICANA", 996 | Telesistema || REPUBLICA DOMINICANA
@@ -2064,7 +2064,7 @@ http://45.228.234.193:16000/play/a0cy/index.m3u8
 #EXTINF:-1 tvg-id="DO | Catorce TV" tvg-name="DO | Catorce TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1zw2p9aavhzut6-I2XfjwRn5Hz8pDPd7hfurIwpP4qTqTzPp_qRridkUeGiGqae6c86c&usqp=CAU" group-title="REPUBLICA DOMINICANA", 998 | Catorce TV || REPUBLICA DOMINICANA
 https://video.misistemareseller.com/catorcetv/catorcetv/playlist.m3u8
 #EXTINF:-1 tvg-id="DO | Digital 15" tvg-name="DO | Digital 15" tvg-logo="http://festivaldecineglobal.org/2014/wp-content/uploads/Digital15-228x176.png" group-title="REPUBLICA DOMINICANA", 999 | Digital 15 || REPUBLICA DOMINICANA
-https://playback.akamaized.net/streams/27456795_10633798_lsitpoaw75djshpw3qa_1/media/27456795_10633798_lsitpoaw75djshpw3qa_1@2756000p.m3u8?dw=14400&ts=1691766000&hdnts=exp=1691939636~acl=/streams/27456795_10633798_lsitpoaw75djshpw3qa_1/media*~hmac=e14f3afe09b3a6c6084cd43b96cbcfa91cacbd0cf58b1651d167df608a44bd86
+https://playback.akamaized.net/streams/27456795_10633798_lsitpoaw75djshpw3qa_1/media/27456795_10633798_lsitpoaw75djshpw3qa_1@2756000p.m3u8?dw=14400&ts=1691769600&hdnts=exp=1691942582~acl=/streams/27456795_10633798_lsitpoaw75djshpw3qa_1/media*~hmac=2a29fed07a2a8601773fcd0fff0d5baa70c3df08f1440d4934776e41d344d623
 #EXTINF:-1 tvg-id="DO | Tele Santo Domingo" tvg-name="DO | Tele Santo Domingo" tvg-logo="https://pbs.twimg.com/media/FpQWZWmXoAIGvm4?format=png&name=small" group-title="REPUBLICA DOMINICANA", 1000 | Tele Santo Domingo || REPUBLICA DOMINICANA
 https://cdn5.streamgato.us:3315/live/telesantodomingolive.m3u8
 #EXTINF:-1 tvg-id="DO | RTVD 17" tvg-name="DO | RTVD 17" tvg-logo="https://canal17rd.com/wp-content/uploads/2020/09/cropped-logo.png" group-title="REPUBLICA DOMINICANA", 1001 | RTVD 17 || REPUBLICA DOMINICANA
