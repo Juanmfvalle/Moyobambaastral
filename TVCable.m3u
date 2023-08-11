@@ -990,7 +990,7 @@ https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
 #EXTINF:-1 tvg-id="EC | Puruwa TV" tvg-name="EC | Puruwa TV" tvg-logo="https://image.roku.com/developer_channels/prod/386a41b84216c7010cf0b4ed536fc04f74e2f936aec3509bd1e1b6fd52628f11.png" group-title="ECUADOR", 470 | Puruwa TV || ECUADOR
 https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
 #EXTINF:-1 tvg-id="EC | RTU El canal de noticias" tvg-name="EC | RTU El canal de noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_rtu.jpg/556px-Logo_rtu.jpg" group-title="ECUADOR", 471 | RTU || ECUADOR
-https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
+http://160.20.165.246:8000/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="EC | Capricho TV" tvg-name="EC | Capricho TV" tvg-logo="http://www.caprichotvradio.com/wp-content/uploads/2021/12/cropped-cropped-cropped-logo-capricho-1.png" group-title="ECUADOR", 472 | Capricho TV || ECUADOR
 https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
 #EXTINF:-1 tvg-id="EC | Multicanal" tvg-name="EC | Multicanal" tvg-logo="https://www.multicanalcatamayo.com/wp-content/uploads/2018/10/logo-final-multicanal-web-listo.png" group-title="ECUADOR", 473 | Multicanal || ECUADOR
@@ -1004,21 +1004,21 @@ https://5e2f36bc1c433.streamlock.net/lacato/lacato.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="EC | Zaracay Televisión" tvg-name="EC | Zaracay Televisión" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRrbURdrB5H3lMCizVyGzkuHp7zH9M_KXJssOsO=s88-c-k-c0x00ffffff-no-rj" group-title="ECUADOR", 477 | Zaracay Televisión || ECUADOR
 https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
 #EXTINF:-1 tvg-id="EC | Educa Televisión" tvg-name="EC | Educa Televisión" tvg-logo="http://www.educa.ec/wp-content/uploads/2018/08/Logo_Educa_Ecuador.png" group-title="ECUADOR", 478 | Educa Televisión || ECUADOR
-https://cloud7.streamingcnt.net/cnt/educa/playlist.m3u8
+https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EC | TV Color Canal 36 Cotopaxi" tvg-name="EC | TV Color Canal 36 Cotopaxi" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f6/10/4e/f6104ea0-e26c-c90f-8e4f-2267aabddbc2/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/230x0w.webp" group-title="ECUADOR", 479 | TV Color Canal 36 Cotopaxi || ECUADOR
 https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 #EXTINF:-1 tvg-id="EC | Radio y TV Alegría" tvg-name="EC | Radio y TV Alegría" tvg-logo="https://play-lh.googleusercontent.com/uRTcgaXlQIMXrtATh3tMnz39UmJ10lg8kHgJZZxMimHvIUhF6pzEckYoD8apAgZZhA=w240-h480-rw" group-title="ECUADOR", 480 | Radio y TV Alegría || ECUADOR
 https://video.compuwebecuador.com:3880/stream/play.m3u8
 #EXTINF:-1 tvg-id="EC | Loreto TV" tvg-name="EC | Loreto TV" tvg-logo="https://play-lh.googleusercontent.com/ZPjHp0gP6cPHsJeMbiFU_NNvOTQqNONaDnEeDusXjW_dsO677CfvdbQJ6QFxBzzJGrg=w240-h480-rw" group-title="ECUADOR", 481 | Loreto TV || ECUADOR
-https://stmv1.voxhdnet.com/diego7128/diego7128/chunklist_w1153100647.m3u8
+https://stmv1.voxplayer.com.br/vidieg12/vidieg12/playlist.m3u8
 #EXTINF:-1 tvg-id="EC | Nortivisión" tvg-name="EC | Nortivisión" tvg-logo="https://play-lh.googleusercontent.com/AJSl7zf1KY9UP2cM4drSQxny_drzI1YcE63YTElVAXqzW9PvCorg7iDELybfmdpQL2o" group-title="ECUADOR", 482 | Nortivisión || ECUADOR
 https://plataformavideo.com/live/nortvision.m3u8
 #EXTINF:-1 tvg-id="EC | Pasaje TV" tvg-name="EC | Pasaje TV" tvg-logo="https://yt3.ggpht.com/ggjEts4xBCx3jw0Mgy2aJTlpQjIzNBZgdg43gmqAor5mSP2dc9PKpyTCMr9C9pnIcCXqHtwsrA=s900-c-k-c0x00ffffff-no-rj" group-title="ECUADOR", 483 | Pasaje TV || ECUADOR
 http://177.234.230.226:8010/play/a00t/index.m3u8
 #EXTINF:-1 tvg-id="EC | Austral Televisión" tvg-name="EC | Austral Televisión" tvg-logo="https://pbs.twimg.com/profile_images/1550346414546456577/iF_qEJDk_400x400.jpg" group-title="ECUADOR", 484 | Austral Televisión || ECUADOR
 https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
-#EXTINF:-1 tvg-id="EC | Sonovisión" tvg-name="EC | Sonovisión" tvg-logo="https://miasonovision.ec/wp-content/uploads/2021/01/logo_sonovision_Mesa-de-trabajo-1.png" group-title="ECUADOR", 485 | Sonovisión || ECUADOR
-https://oracle.streaminghd.cl/sonovision02/sonovision02/playlist.m3u8
+#EXTINF:-1 tvg-id="EC | Naranjal TV" tvg-name="EC | Naranjal TV" tvg-logo="https://pbs.twimg.com/media/F3P_fRMWMAARF7v?format=png&name=small" group-title="ECUADOR", 485 | Naranjal TV || ECUADOR
+http://177.234.230.226:8010/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="CO | Canal Capital" tvg-name="CO | Canal Capital" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/135px-2020_Canal_Capital_logo.svg.png" group-title="COLOMBIA", 486 | Canal Capital || COLOMBIA
 https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/live-2500/index.m3u8
 #EXTINF:-1 tvg-id="CO | Eureka tu canal" tvg-name="CO | Eureka tu canal" tvg-logo="https://s3.amazonaws.com/imagenes.conexioncapital.co/wp-content/uploads/2021/06/29232153/logo-eureka-new-1.png" group-title="COLOMBIA", 487 | Eureka tu canal || COLOMBIA
