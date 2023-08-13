@@ -176,7 +176,7 @@ https://marine2.miplay.cl/old/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Classic +" tvg-name="CL | Classic +" tvg-logo="https://pbs.twimg.com/media/FvYjfCkWIAIvMGW?format=png&name=240x240" group-title="PELICULAS Y SERIES", 83 | Classic +
 http://160.20.165.246:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="MX | De Película" tvg-name="MX | De Película" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/250px-DPel%C3%ADcula_2021.svg.png" group-title="PELICULAS Y SERIES", 84 | De Película
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/3285.m3u8
+http://170.82.37.21:8000/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="CL | Retro Plus 3 TV" tvg-name="CL | Retro Plus 3 TV" tvg-logo="https://pbs.twimg.com/media/FXfp5PNWAAI0YGt?format=png&name=small" group-title="PELICULAS Y SERIES", 85 | Retro Plus 3 TV
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | Claro Cinema" tvg-name="MX | Claro Cinema" tvg-logo="https://trademarks.justia.com/media/og_image.php?serial=86830508" group-title="PELICULAS Y SERIES", 86 | Claro Cinema
@@ -260,7 +260,7 @@ http://177.53.153.21:8001/play/a054/index.m3u8
 #EXTINF:-1 tvg-id="MX | Multipremier" tvg-name="MX | Multipremier" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/150px-Multipremier_logo.svg.png" group-title="PELICULAS Y SERIES", 124 | Multipremier
 http://177.53.153.21:8001/play/a0a8/index.m3u8
 #EXTINF:-1 tvg-id="MX | Canal MC" tvg-name="MX | Canal MC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/150px-MC_logo_2022.png" group-title="PELICULAS Y SERIES", 125 | Canal MC
-http://45.5.119.202:54321/play/a06f/index.m3u8
+http://170.82.37.21:8000/play/a02s/index.m3u8
 #EXTINF:-1 tvg-id="MX | Cine Mexicano" tvg-name="MX | Cine Mexicano" tvg-logo="https://www.americatvc.com/administrador/subgrupo/3.png" group-title="PELICULAS Y SERIES", 126 | Cine Mexicano
 http://177.234.230.226:8010/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="USA | DHE" tvg-name="USA | DHE" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png" group-title="PELICULAS Y SERIES", 127 | DHE
@@ -1836,13 +1836,13 @@ https://streaming.grupocsanetwork.net:3424/canal57/canal57/playlist.m3u8
 #EXTINF:-1 tvg-id="SV | RD Click TV" tvg-name="SV | RD Click TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSoMCXVxLXziWM9-DaCj8zwCpV9-nCyTcTTRa5Jow=s88-c-k-c0x00ffffff-no-rj" group-title="EL SALVADOR", 883 | RD Click TV || EL SALVADOR
 https://cloudvideo.servers10.com:8081/8064/index.m3u8
 #EXTINF:-1 tvg-id="HN | Telesistema Informativo" tvg-name="HN | Telesistema Informativo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvqdLQlc8QobZms93gGFRZRpG0bdvso1Vkw73Z25dNd70l0qQW5ir2t6YIDBAe03x_gu8&usqp=CAU" group-title="HONDURAS", 884 | TSi Canal 3 || HONDURAS
-http://45.228.234.193:16000/play/a0ee/index.m3u8
+http://170.82.37.21:8000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="HN | Canal 5" tvg-name="HN | Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_5_HN_logo_2019.png/150px-Canal_5_HN_logo_2019.png" group-title="HONDURAS", 885 | Canal 5 El Lider || HONDURAS
 http://45.228.232.219:16000/play/a0mo/index.m3u8
 #EXTINF:-1 tvg-id="HN | Canal 6" tvg-name="HN | Canal 6" tvg-logo="https://file.canal6.com.hn//2022/03/logo_header.webp" group-title="HONDURAS", 886 | Canal 6 || HONDURAS
 http://170.82.37.21:8000/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="HN | Telecadena 7 y 4" tvg-name="HN | Telecadena 7 y 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Telecadena7y42018.png/150px-Telecadena7y42018.png" group-title="HONDURAS", 887 | Telecadena 7 y 4 || HONDURAS
-http://45.228.234.193:16000/play/a0do/index.m3u8
+http://170.82.37.21:8000/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="HN | Canal 8" tvg-name="HN | Canal 8" tvg-logo="https://tnh.gob.hn/wp-content/uploads/2022/11/cropped-285512422_431662858967024_748898711325018620_n-e1667698342409.jpg" group-title="HONDURAS", 888 | Canal 8 || HONDURAS
 http://170.82.37.21:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="HN | Mega Clásicos" tvg-name="HN | Mega Clásicos" tvg-logo="https://otv-us-web.s3-us-west-2.amazonaws.com/logos/guide/2/Open/92x36_352/Misc/megaclasicostv.png" group-title="HONDURAS", 889 | Mega Clásicos || HONDURAS
@@ -1852,7 +1852,7 @@ https://d1af06j591gh9u.cloudfront.net/VTVHN/e395935fa39597e3997b916a295f23e4.sdp
 #EXTINF:-1 tvg-id="HN | TEN Canal 10" tvg-name="HN | TEN Canal 10" tvg-logo="https://1.bp.blogspot.com/-WYepFcQLrXc/XQka9TmZ0uI/AAAAAAAAHz8/eTOqew4vGoocd66uqlPHccAeYN74huzmgCLcBGAs/w350-h350-p-k-no-nu/TEN%2BCanal%2B10.png" group-title="HONDURAS", 891 | TEN Canal 10 || HONDURAS
 https://62418d5684c12.streamlock.net/TENHD/TENLive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HN | Canal 11" tvg-name="HN | Canal 11" tvg-logo="https://pbs.twimg.com/profile_images/1615373732830142467/m_-jM18o_400x400.jpg" group-title="HONDURAS", 892 | Canal 11 || HONDURAS
-http://45.228.232.219:16000/play/a0lg/index.m3u8
+http://170.82.37.21:8000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="HN | TV Azteca Honduras" tvg-name="HN | TV Azteca Honduras" tvg-logo="https://yt3.googleusercontent.com/cyq9irLdDgryTt4fKAH3_df_Fs9sqsBReXVpK3kxpBS_I5Rv0zvSNoii0tJ3B06t7cueB1kzzw=s176-c-k-c0x00ffffff-no-rj" group-title="HONDURAS", En prueba | TV Azteca Honduras || HONDURAS
 http://170.82.37.21:8000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="HN | Girasol TV" tvg-name="HN | Girasol TV" tvg-logo="https://girasoltv.girasolradiotvhn.com/wp-content/uploads/2020/10/cropped-logo-girasoltv-400x200px963.png" group-title="HONDURAS", 893 | Girasol TV || HONDURAS
@@ -2255,7 +2255,7 @@ https://soportedvb.click:3504/live/dajabontvlive.m3u8
 https://livemediacp.com:1936/8064/8064/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | Azteca Internacional" tvg-name="MX | Azteca Internacional" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/37/8247.png" group-title="MEXICO", 1092 | Azteca Internacional || MÉXICO
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-id="MX | Las Estrellas" tvg-name="MX | Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/180px-Las_Estrellas.svg.png" group-title="MEXICO", 1093 | Las Estrellas
+#EXTINF:-1 tvg-id="MX | Las Estrellas" tvg-name="MX | Las Estrellas" tvg-logo="https://www.paredro.com/wp-content/uploads/2019/01/Asi%CC%81-evoluciono%CC%81-el-logo-de-Las-Estrellas-el-canal-2-de-Televisa.jpg" group-title="MEXICO", 1093 | Las Estrellas
 http://45.228.234.77:3340/play/lasestrellas/index.m3u8
 #EXTINF:-1 tvg-id="MX | Canal 5" tvg-name="MX | Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/120px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO", 1094 | Canal 5 || MÉXICO
 https://v3.playerlatino.live/stream/m3u8/14
@@ -2306,7 +2306,7 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/CNBC/40-hls/live-media.m3u8?_
 #EXTINF:-1 tvg-id="USA | PIX11 News" tvg-name="USA | PIX11 News" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJX9UNIXSTitdn0NXKNIqp7iyOgYCym5h6OTMmD5hT0=s88-c-k-c0x00ffffff-no-rj" group-title="ESTADOS UNIDOS DE AMÉRICA", 1118 | PIX11 News || ESTADOS UNIDOS DE AMÉRICA
 http://190.122.96.187:8888/http/005
 #EXTINF:-1 tvg-id="ES | TVE" tvg-name="ES | TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/150px-Logo_TVE-Internacional.svg.png" group-title="INTERNACIONALES", 1119 | TVE || ESPAÑA
-http://181.177.255.253:8000/play/a03v/index.m3u8
+http://170.82.37.21:8000/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="ES | Star TVE HD" tvg-name="ES | Star TVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star-TVE-logo.png/200px-Star-TVE-logo.png" group-title="ESPAÑA", 1120 | Star TVE HD || ESPAÑA
 http://177.53.153.21:8001/play/a03g/index.m3u8
 #EXTINF:-1 tvg-id="ES | La 1" tvg-name="ES | La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/125px-Logo_TVE-1.svg.png" group-title="ESPAÑA", 1121 | La 1 || ESPAÑA
