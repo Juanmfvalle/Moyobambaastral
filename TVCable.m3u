@@ -452,7 +452,7 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/HGTV/40-hls/live-media.m3u8?_
 #EXTINF:-1 tvg-id="FR | Fashion TV" tvg-name="FR | Fashion TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/150px-Fashion_TV_logo.svg.png" group-title="ESTILOS DE VIDA", 215 | Fashion TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-id="USA | E!" tvg-name="USA | E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/35px-E%21_Logo_2012.svg.png" group-title="ESTILOS DE VIDA", 216 | E! Entertainment Televisión
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/EENTRETAIMENT/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DE_CH_stream_7o&_cdn_session=1027825755&_cdn_timestamp=1691464739&_cdn_token=dee99016ebf85f8c86280f40e0200454c649cfe7
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/EENTRETAIMENT/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DE_CH_stream_7o&_cdn_session=1065190107&_cdn_timestamp=1692342952&_cdn_token=fcfce8d57c15e6d8dc31c962f0da677568d79137
 #EXTINF:-1 tvg-id="ES | ¡Hola! TV" tvg-name="ES | ¡Hola! TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/220px-%C2%A1HOLA%21TVlogo.jpg" group-title="ESTILOS DE VIDA", 217 | ¡Hola! TV
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 #EXTINF:-1 tvg-id="CL | Ladies TV" tvg-name="CL | Ladies TV" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/LADIES-FONDO-2-300x169.jpg" group-title="ESTILOS DE VIDA", 218 | Ladies TV
@@ -2387,6 +2387,8 @@ https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:21_HD.smil/man
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:22_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="ES | DMAX" tvg-name="ES | DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/250px-DMAX_BLACK.svg.png" group-title="ESPAÑA", 1148 | DMAX || ESPAÑA
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="ES | Historia" tvg-name="ES | Historia" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2022/10/2022-historia-logo-hero-3d-blk-rgb.png" group-title="ESPAÑA", En prueba | Historia || ESPAÑA
+http://svtv.xyz:8080/live/sandra30abril/CQNFV/55859.m3u8
 #EXTINF:-1 tvg-id="ES | Iberalia TV" tvg-name="ES | Iberalia TV" tvg-logo="https://www.cineytele.com/wp-content/uploads/2017/07/iberalia_tv_logo.jpg" group-title="ESPAÑA", 1149 | Iberalia TV || ESPAÑA
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:36_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="ES | Escapa TV" tvg-name="ES | Escapa TV" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=e77999&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fescapatv.png" group-title="ESPAÑA", 1150 | Escapa TV || ESPAÑA
