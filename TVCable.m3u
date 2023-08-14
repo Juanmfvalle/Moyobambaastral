@@ -130,7 +130,7 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/KANALD/20-40-hls/live.m3u8?_c
 #EXTINF:-1 tvg-id="USA | TNT Novelas" tvg-name="USA | TNT Novelas" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/TNT_Novelas_logo_2023.svg/revision/latest/scale-to-width-down/150?cb=20230621193156" group-title="NOVELAS", 62 | TNT Novelas
 http://201.218.137.232:4123/play/a04l/index.m3u8
 #EXTINF:-1 tvg-id="MX | Azteca Corazón" tvg-name="MX | Azteca Corazón" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/200px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="NOVELAS", 63 | Azteca Corazón
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AZCORAZON/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZCORAZON_stream_p3&_cdn_session=1046492931&_cdn_timestamp=1691944776&_cdn_token=f4caf89cf7517a940ed4568eb95f8075fb383dd3
+http://livex.pop-app.live/s4n/poplive/ch570/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | Tlnovelas Latinoamérica" tvg-name="MX | Tlnovelas Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="NOVELAS", 64 | Tlnovelas Latinoamérica
 http://177.53.153.21:8001/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="MX | Tlnovelas México" tvg-name="MX | Tlnovelas México" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas-mediano.png" group-title="NOVELAS", 64.2 | Tlnovelas México
@@ -243,6 +243,10 @@ http://177.53.153.21:8001/play/a04g/index.m3u8
 http://177.53.153.21:8001/play/a04h/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO Pop" tvg-name="USA | HBO Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/130px-HBO_Pop.svg.png" group-title="PELICULAS Y SERIES", 116 | HBO Pop
 http://177.53.153.21:8001/play/a01y/index.m3u8
+#EXTINF:-1 tvg-id="USA | HBO Mundi" tvg-name="USA | HBO Mundi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/125px-HBO_Mundi.svg.png" group-title="PELICULAS Y SERIES", En prueba | HBO Mundi
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/174
+#EXTINF:-1 tvg-id="USA | HBO Signature" tvg-name="USA | HBO Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/135px-HBO_Signature.svg.png" group-title="PELICULAS Y SERIES", En prueba | HBO Signature
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/175
 #EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 117 | TNT
 http://177.53.153.21:8001/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="USA | TNT Series" tvg-name="USA | TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/94px-TNT_Series_Logo_2016.png" group-title="PELICULAS Y SERIES", 118 | TNT Series
@@ -414,13 +418,15 @@ https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 tvg-id="AR | Canal 26 Noticias" tvg-name="AR | Canal 26 Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Canal_26_Argentina.png" group-title="NOTICIAS E INFORMACION", 196 | Canal 26 Noticias
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | Noticias Caracol" tvg-name="CO | Noticias Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Noticias_Caracol_imagotype.svg/150px-Noticias_Caracol_imagotype.svg.png" group-title="NOTICIAS E INFORMACION", 197 | Noticias Caracol
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/NOTICIASCARACOL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNOTICIASCARACOL_stream_93&_cdn_session=1048136059&_cdn_timestamp=1691977026&_cdn_token=22c2c4cb7f8479d199c0787d11a936471a5fb993
+https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 #EXTINF:-1 tvg-id="IRN | HispanTV" tvg-name="IRN | HispanTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/245px-HispanTv_logo.svg.png" group-title="NOTICIAS E INFORMACION", 198 | HispanTV
 https://cdnlive.presstv.ir/cdnlive/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CH | CGTN Español" tvg-name="CH | CGTN Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/180px-CGTN_Espanol.png" group-title="NOTICIAS E INFORMACION", 199 | CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="PE | Canal N" tvg-name="PE | Canal N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Canal_N_2022.png/100px-Canal_N_2022.png" group-title="NOTICIAS E INFORMACION", 200 | Canal N
 http://www.onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu711/thjhg3468ihj/11.m3u8
+#EXTINF:-1 tvg-id="PE | RPP TV" tvg-name="PE | RPP TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/RPP_TV_-_2017_logo.png" group-title="NOTICIAS E INFORMACION", En prueba | RPP TV
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/187
 #EXTINF:-1 tvg-id="ESP | 24 Horas tve" tvg-name="ESP | 24 horas tve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/125px-Logo_TVE-24h.svg.png" group-title="NOTICIAS E INFORMACION", 201 | 24 horas tve
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="USA | CNN en Español" tvg-name="USA | CNN en Español" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png" group-title="NOTICIAS E INFORMACION", 202 | CNN en Español
@@ -454,7 +460,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 #EXTINF:-1 tvg-id="USA | E!" tvg-name="USA | E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/35px-E%21_Logo_2012.svg.png" group-title="ESTILOS DE VIDA", 216 | E! Entertainment Televisión
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/EENTRETAIMENT/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DE_CH_stream_7o&_cdn_session=1065190107&_cdn_timestamp=1692342952&_cdn_token=fcfce8d57c15e6d8dc31c962f0da677568d79137
 #EXTINF:-1 tvg-id="ES | ¡Hola! TV" tvg-name="ES | ¡Hola! TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/220px-%C2%A1HOLA%21TVlogo.jpg" group-title="ESTILOS DE VIDA", 217 | ¡Hola! TV
-https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/179
 #EXTINF:-1 tvg-id="CL | Ladies TV" tvg-name="CL | Ladies TV" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/LADIES-FONDO-2-300x169.jpg" group-title="ESTILOS DE VIDA", 218 | Ladies TV
 https://panel.miplay.cl:8081/ladies/index.m3u8
 #EXTINF:-1 tvg-id="USA | TLC" tvg-name="USA | TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/150px-TLC_Logo.svg.png" group-title="ESTILOS DE VIDA", 219 | Travel & Living Channel
@@ -792,7 +798,7 @@ https://cdn.streamhispanatv.net:3533/live/penielmusicagtlive.m3u8
 #EXTINF:-1 tvg-id="PE | Bethel TV" tvg-name="PE | Bethel TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Bethel-Televisi%C3%B3n-en-vivo-Online-100x70.png" group-title="RELIGIOSOS", 374 | Bethel TV
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/BETHEL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DBETHEL_stream_wm&_cdn_session=1061187739&_cdn_timestamp=1692251274&_cdn_token=4b2ee1773ea20123debc78237a10812bfccf3bc0
 #EXTINF:-1 tvg-id="PE | Perú Mágico" tvg-name="PE | Perú Mágico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Peru_magico.png/200px-Peru_magico.png" group-title="INTERNACIONALES", 375 | Perú Mágico
-http://200.60.83.197:8000/play/a00k
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/186
 #EXTINF:-1 tvg-id="USA | TV Peruanísima" tvg-name="USA | TV Peruanísima" tvg-logo="http://tvperuanisima.com/wp-content/uploads/2021/07/cropped-Logo-150x113-1.png" group-title="INTERNACIONALES", 376 | TV Peruanísima
 https://59ef525c24caa.streamlock.net/TVperuanisima/TVperuanisima/playlist.m3u8
 #EXTINF:-1 tvg-id="BR | Perú Channel" tvg-name="BR | Perú Channel" tvg-logo="https://pbs.twimg.com/profile_images/1385792142329647107/iBTUTc12_400x400.jpg" group-title="INTERNACIONALES", 377 | Perú Channel
@@ -2268,9 +2274,9 @@ http://45.228.234.77:3340/play/lasestrellas/index.m3u8
 #EXTINF:-1 tvg-id="MX | Canal 5" tvg-name="MX | Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/120px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO", 1094 | Canal 5 || MÉXICO
 https://v3.playerlatino.live/stream/m3u8/14
 #EXTINF:-1 tvg-id="MX | Multimedios Televisión Canal 6" tvg-name="MX | Multimedios Televisión Canal 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/150px-Multimedios_Canal_Seis_Logo.svg.png" group-title="MEXICO", 1095 | Multimedios Televisión Canal 6 || MÉXICO
-http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/37796
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-id="MX | Azteca 7" tvg-name="MX | Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/150px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO", 1096 | Azteca 7 || MÉXICO
-https://v3.playerlatino.live/stream/m3u8/5
+http://166.0.208.26:4481/bodega/enco1_in04/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | Imagen Televisión" tvg-name="MX | Imagen Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/140px-Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="MEXICO", 1097 | Imagen Televisión || MÉXICO
 https://v3.playerlatino.live/stream/m3u8/341
 #EXTINF:-1 tvg-id="MX | Nu9ve" tvg-name="MX | Nu9ve" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_mexico-mediano.png" group-title="MEXICO", 1098 | Nu9ve || MÉXICO
@@ -2309,6 +2315,8 @@ https://streannliveevtv.cachefly.net/Protected/sp=1;dirmatch=true/3be25dc13406bf
 https://stream.visionglobaltv.net:1936/visionglobal/visionglobal/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | TV Hispanic" tvg-name="USA | TV Hispanic" tvg-logo="https://yt3.googleusercontent.com/bHSIL9B_UGJoqzQV5aRgQBXTIqOaxhFc1CjjfLVundh5Jt8BC_VZU1yjukEemoZonaNz-tbDBQ=s900-c-k-c0x00ffffff-no-rj" group-title="ESTADOS UNIDOS DE AMÉRICA", 1116 | TV Hispanic || ESTADOS UNIDOS DE AMÉRICA
 https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
+#EXTINF:-1 tvg-id="USA | GolTV" tvg-name="USA | GolTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/320px-GolTV_logo.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | GolTV || ESTADOS UNIDOS DE AMÉRICA
+http://livex.pop-app.live/s4n/poplive/ch552/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | CNBC" tvg-name="USA | CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/125px-CNBC_logo.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 1117 | CNBC || ESTADOS UNIDOS DE AMÉRICA
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/CNBC/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCNBC_stream_0b&_cdn_session=1048838851&_cdn_timestamp=1691984717&_cdn_token=ec5b5099cd310ccb8faf5c84d521d2139cd8a76a
 #EXTINF:-1 tvg-id="USA | PIX11 News" tvg-name="USA | PIX11 News" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJX9UNIXSTitdn0NXKNIqp7iyOgYCym5h6OTMmD5hT0=s88-c-k-c0x00ffffff-no-rj" group-title="ESTADOS UNIDOS DE AMÉRICA", 1118 | PIX11 News || ESTADOS UNIDOS DE AMÉRICA
@@ -2348,7 +2356,7 @@ https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:31_HD.smil/man
 #EXTINF:-1 tvg-id="ES | Telemadrid" tvg-name="ES | Telemadrid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/245px-TeleMadrid.svg.png" group-title="ESPAÑA", 1131 | Telemadrid || ESPAÑA
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:32_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="ES | Telemadrid Internacional" tvg-name="ES | Telemadrid Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/245px-TeleMadrid.svg.png" group-title="ESPAÑA", 1131.2 | Telemadrid Internacional || ESPAÑA
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
+https://telemadrid-23.secure2.footprint.net/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="ES | Divinity" tvg-name="ES | Divinity" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/125px-Divinity.svg.png" group-title="ESPAÑA", En prueba | Divinity || ESPAÑA
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:18_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="ES | Energy" tvg-name="ES | Energy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/125px-Energy.svg.png" group-title="ESPAÑA", En prueba | Energy || ESPAÑA
