@@ -324,7 +324,7 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PLIMPLIM/40-hls/live-media.m3
 #EXTINF:-1 tvg-id="USA | DreamWorks" tvg-name="USA | DreamWorks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/DreamWorks_Channel_Logo.svg" group-title="INFANTILES", 157 | DreamWorks
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DREAMWORKS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDREAMWORKS_stream_ge&_cdn_session=1070510227&_cdn_timestamp=1692468743&_cdn_token=943ef33c14b58f0cf9d81fd571efd86f8be176fa
 #EXTINF:-1 tvg-id="USA | Nickelodeon" tvg-name="USA | Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/245px-Nickelodeon_2009_logo.svg.png" group-title="INFANTILES", 158 | Nickelodeon
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/NICKELODEON/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKELODEON_stream_g4&_cdn_session=1070511827&_cdn_timestamp=1692468775&_cdn_token=560438dcc619a67f936c415cd50aba6c624d7c67
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/NICKELODEON/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKELODEON_stream_g4&_cdn_session=1079891907&_cdn_timestamp=1692680962&_cdn_token=a62ff8580f8247254a73b0d8d9a730f4f7232862
 #EXTINF:-1 tvg-id="USA | Nick Jr." tvg-name="USA | Nick Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/250px-Nick_Jr._logo_2009.svg.png" group-title="INFANTILES", 159 | Nick Jr.
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/NICKJR/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKJR_stream_y9&_cdn_session=1070513011&_cdn_timestamp=1692468797&_cdn_token=7d4e9d408130aa0f6dd5eba06bbbce4429d543ab
 #EXTINF:-1 tvg-id="USA | TeenNick" tvg-name="USA | TeenNick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/245px-TeenNick_2019_logo.svg.png" group-title="INFANTILES", 160 | TeenNick
@@ -481,6 +481,8 @@ http://177.53.153.21:8001/play/a00h/index.m3u8
 http://201.218.137.232:4123/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="USA | Fox Sports Premium" tvg-name="USA | Fox Sports Premium" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/PZ4AX3STGVCLLJ6NQ4BVVKJHRM.jpg" group-title="DEPORTES", 229 | Fox Sports Premium
 http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 tvg-id="USA | Fox Sports 1" tvg-name="USA | Fox Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="DEPORTES", En prueba | Fox Sports 1
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/152
 #EXTINF:-1 tvg-id="USA | Fox Sports 2" tvg-name="USA | Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/175px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES", 230 | Fox Sports 2
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=1079865035&_cdn_timestamp=1692680386&_cdn_token=506f01af95548106808fc6c36c36fe1d015ca526
 #EXTINF:-1 tvg-id="USA | Fox Sports 3" tvg-name="USA | Fox Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/180px-Fox_sports_3_logo.svg.png" group-title="DEPORTES", 231 | Fox Sports 3
@@ -541,6 +543,8 @@ http://190.83.60.34:1414/play/a05s
 https://v3.playerlatino.live/stream/m3u8/822
 #EXTINF:-1 tvg-id="MX | TVC Deportes" tvg-name="MX | TVC Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/TVCDeportes.png" group-title="DEPORTES", 255 | TVC Deportes
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16602.m3u8
+#EXTINF:-1 tvg-id="USA | ESPN 2" tvg-name="USA | ESPN 2" tvg-logo="https://futbollibre.wtf/webp/logos/optimized/espn2.webp" group-title="DEPORTES", En prueba | ESPN 2 || MÉXICO
+http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | beIN Sports Xtra ñ" tvg-name="USA | beIN Sports Xtra ñ" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTES", 256 | beIN Sports Xtra ñ
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 #EXTINF:-1 tvg-id="ES | Liga de Campeones por M+" tvg-name="ES | Liga de Campeones por M+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/250px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="DEPORTES", 257 | Liga de Campeones por M+
@@ -549,6 +553,10 @@ https://v3.playerlatino.live/stream/m3u8/890
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-id="ES | Gol Play" tvg-name="ES | Gol Play" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/GOL_PLAY.svg/250px-GOL_PLAY.svg.png" group-title="DEPORTES", 259 | Gol Play
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="CL | Canal del Deporte Olímpico" tvg-name="CL | Canal del Deporte Olímpico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CDO_Premium.png/320px-CDO_Premium.png" group-title="DEPORTES", En prueba | CDO
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/154
+#EXTINF:-1 tvg-id="CL | Canal del Deporte Olímpico Premium" tvg-name="CL | Canal del Deporte Olímpico Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CDO_Premium.png/320px-CDO_Premium.png" group-title="DEPORTES", En prueba.2 | CDO Premium
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/155
 #EXTINF:-1 tvg-id="PE | EdX TV" tvg-name="PE | EdX TV" tvg-logo="https://pbs.twimg.com/media/FVzsfVnWUAc1ffp?format=png&name=240x240" group-title="DEPORTES", 260 | EdX TV
 https://stream.plixitv.live/edx/edx/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Best Cable Music" tvg-name="PE | Best Cable Music" tvg-logo="https://bestcableperu.com.pe/img/canales/97.jpg" group-title="MUSICA Y REALITIES", 261 | Best Cable Music
@@ -1545,8 +1553,12 @@ http://www.onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu711/thjhg3468ihj/4.m3u8
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CL | Canal 13" tvg-name="CL | Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Emblema_del_Canal_13_Chile.svg/133px-Emblema_del_Canal_13_Chile.svg.png" group-title="CHILE", 741 | Canal 13 || CHILE
 http://201.222.44.220:4227/play/a02l/index.m3u8
+#EXTINF:-1 tvg-id="CL | 13C" tvg-name="CL | 13C" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/13C_2018.png/150px-13C_2018.png" group-title="CHILE", 741.2 | 13C || CHILE
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/148
+#EXTINF:-1 tvg-id="CL | Rec TV" tvg-name="CL | Rec TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Logotipo_de_Rec_TV.png/150px-Logotipo_de_Rec_TV.png" group-title="CHILE", 741.3 | Rec TV || CHILE
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/149
 #EXTINF:-1 tvg-id="CL | Tele 13" tvg-name="CL | Tele 13" tvg-logo="https://www-storage.13.cl/t13/assets/svg/logos-t13-2022-v2.svg" group-title="CHILE", 742 | Tele 13 || CHILE
-https://unlimited1-us.dps.live/t13/t13.smil/playlist.m3u8
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?did=b2104223689364b8aeeb4920b
 #EXTINF:-1 tvg-id="CL | UES TV" tvg-name="CL | UES TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCGebESilqIFPpblJE2rKuwpKhmbboSvocddiEmfqVjAwvT6UPJEzqQduS-JhQs2F5xio&usqp=CAU" group-title="CHILE", 743 | UES TV || CHILE
 https://marine2.miplay.cl/uestv/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | NTV" tvg-name="CL | NTV" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/ntv-1920-1080-300x169.jpg" group-title="CHILE", 744 | NTV || CHILE
@@ -2313,6 +2325,10 @@ http://livex.pop-app.live/s4n/poplive/ch552/playlist.m3u8
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/CNBC/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCNBC_stream_0b&_cdn_session=1070617739&_cdn_timestamp=1692471163&_cdn_token=84e941c7331f979ae3eb82cd09019c43c64e88b7
 #EXTINF:-1 tvg-id="USA | PIX11 News" tvg-name="USA | PIX11 News" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJX9UNIXSTitdn0NXKNIqp7iyOgYCym5h6OTMmD5hT0=s88-c-k-c0x00ffffff-no-rj" group-title="ESTADOS UNIDOS DE AMÉRICA", 1118 | PIX11 News || ESTADOS UNIDOS DE AMÉRICA
 http://190.122.96.187:8888/http/005
+#EXTINF:-1 tvg-id="USA | SEC Network" tvg-name="USA | SEC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/200px-SEC_Network_logo.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | SEC Network || ESTADOS UNIDOS DE AMÉRICA
+http://livex.pop-app.live/s4n/poplive/ch571/playlist.m3u8
+#EXTINF:-1 tvg-id="USA | ACC Network" tvg-name="USA | ACC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/250px-ACC_Network_ESPN_logo.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", En prueba | ACC Network || ESTADOS UNIDOS DE AMÉRICA
+http://livex.pop-app.live/s4n/poplive/ch573/playlist.m3u8
 #EXTINF:-1 tvg-id="ES | TVE" tvg-name="ES | TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/150px-Logo_TVE-Internacional.svg.png" group-title="INTERNACIONALES", 1119 | TVE || ESPAÑA
 http://170.82.37.21:8000/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="ES | Star TVE HD" tvg-name="ES | Star TVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star-TVE-logo.png/200px-Star-TVE-logo.png" group-title="ESPAÑA", 1120 | Star TVE HD || ESPAÑA
