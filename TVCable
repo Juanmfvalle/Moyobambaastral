@@ -419,8 +419,6 @@ https://cdnlive.presstv.ir/cdnlive/smil:live.smil/playlist.m3u8
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="PE | Canal N" tvg-name="PE | Canal N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Canal_N_2022.png/100px-Canal_N_2022.png" group-title="NOTICIAS E INFORMACION", 200 | Canal N
 http://www.onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu711/thjhg3468ihj/11.m3u8
-#EXTINF:-1 tvg-id="PE | RPP TV" tvg-name="PE | RPP TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/RPP_TV_-_2017_logo.png" group-title="NOTICIAS E INFORMACION", En prueba | RPP TV
-http://38.43.140.215:8000/play/a02x/index.m3u8
 #EXTINF:-1 tvg-id="ESP | 24 Horas tve" tvg-name="ESP | 24 horas tve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/125px-Logo_TVE-24h.svg.png" group-title="NOTICIAS E INFORMACION", 201 | 24 horas tve
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="USA | CNN en Español" tvg-name="USA | CNN en Español" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png" group-title="NOTICIAS E INFORMACION", 202 | CNN en Español
@@ -549,10 +547,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://v3.playerlatino.live/stream/m3u8/890
 #EXTINF:-1 tvg-id="ES | Real Madrid TV" tvg-name="ES | Real Madrid TV" tvg-logo="https://vercanalestv.online/wp-content/uploads/2021/10/realmadridtv.jpg" group-title="DEPORTES", 258 | Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-#EXTINF:-1 tvg-id="CL | Canal del Deporte Olímpico" tvg-name="CL | Canal del Deporte Olímpico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CDO_Premium.png/320px-CDO_Premium.png" group-title="DEPORTES", En prueba | CDO
-http://190.95.220.212:8000/play/a013/index.m3u8
-#EXTINF:-1 tvg-id="CL | Canal del Deporte Olímpico Premium" tvg-name="CL | Canal del Deporte Olímpico Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CDO_Premium.png/320px-CDO_Premium.png" group-title="DEPORTES", En prueba | CDO Premium
-http://190.95.220.212:8000/play/a014/index.m3u8
 #EXTINF:-1 tvg-id="PE | Taurus TV" tvg-name="PE | Taurus TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/taurustv.png" group-title="DEPORTES", 259 | Taurus TV
 https://ott1.hdlatam.tv/live/taurustv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Creo Sport" tvg-name="PE | Creo Sport" tvg-logo="http://core1.hdlatam.tv/media/images/channel/creosport.png" group-title="DEPORTES", 260 | Creo Sport
@@ -1070,7 +1064,7 @@ http://45.177.53.7:8000/play/a04m/index.m3u8
 #EXTINF:-1 tvg-id="CO | Zoom TV"  tvg-name="CO | Zoom TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/CanalZoom2018.png/revision/latest/scale-to-width-down/78?cb=20210501194343&path-prefix=es" group-title="COLOMBIA", 500 | Zoom TV || COLOMBIA
 https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
 #EXTINF:-1 tvg-id="CO | Canal C de Cali" tvg-name="CO | Canal C de Cali" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRhl94w4Xil6sWKn-TpwbBo4oDXDJ6IZdILATFNKw=s900-c-k-c0x00ffffff-no-rj" group-title="COLOMBIA", 501 | Canal C de Cali || COLOMBIA
-https://edge.teveo.com.co/live/AeAAAgAhAANnA1IAyADIUDAAAAGAAAAAAmUBr1a1sIhvAAAA/playlist.m3u8
+https://edge.teveo.com.co/live/AeAAAgAhAANnA1IAyADIUDAAAAGAAAAAAmUBw-21sIhvAAAA/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | Telecaribe" tvg-name="CO | Telecaribe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Telecaribe2017.png/150px-Telecaribe2017.png" group-title="COLOMBIA", 502 | Telecaribe || COLOMBIA
 https://tkx.mp.lura.live/rest/v2/mcp/video/adstB64MXYxqLZwy?anvack=4gXmVVoVIp3YeECJWm6af3j0mlHwl6vO&eud=SKjoH1L/9Enwo5zQBiBTRfTSNGfENMNO6udm4CQNVvix/L9XX8kucBOvzWalIghNrL5GllGH8ou17ICYGv29Rg==
 #EXTINF:-1 tvg-id="CO | Mundo +" tvg-name="CO | Mundo +" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTDVbXdzqg5wRA2IZDnWEJyezQIhnUGxI8fEuLOgA=s88-c-k-c0x00ffffff-no-rj" group-title="COLOMBIA", 503 | Mundo + || COLOMBIA
