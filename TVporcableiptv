@@ -56,7 +56,7 @@ https://live.obslivestream.com/crtvmux/index.m3u8
 #EXTINF:-1 tvg-id="PE | W Televisión" tvg-name="PE | W Televisión" tvg-logo="https://playmax.tv/wp-content/uploads/2022/11/OKLO.png" group-title="LOCALES", W Televisión || Moyobamba
 https://live.obslivestream.com/wtv/index.m3u8
 #EXTINF:-1 tvg-id="PE | Contacto Televisión" tvg-name="PE | Contacto Televisión" tvg-logo="https://pbs.twimg.com/media/FSKSw5dXIAA7yZV?format=jpg&name=240x240" group-title="LOCALES", Contacto TV || Moyobamba
-https://live.obslivestream.com/cdeportivo/index.m3u8
+https://live.obslivestream.com/cdeportivo/video.m3u8?token=ckPPAmBEYJtkr0
 #EXTINF:-1 tvg-id="PE | Mayo Televisión" tvg-name="PE | Mayo Televisión" tvg-logo="https://pbs.twimg.com/media/FmnVo8KX0AY3PZ7?format=png&name=900x900" group-title="LOCALES", Mayo Televisión || Moyobamba
 https://live.obslivestream.com/mayotv/index.m3u8
 #EXTINF:-1 tvg-id="PE | VZ TV" tvg-name="PE | VZ TV" tvg-logo="https://moyobamba.com/wp-content/uploads/2021/02/vz-nuevo.png" group-title="LOCALES", VZ Televisión || Moyobamba
@@ -68,7 +68,7 @@ https://live.obslivestream.com/mas1/index.m3u8
 #EXTINF:-1 tvg-id="PE | Sanjuanera TV" tvg-name="PE | Sanjuanera TV" tvg-logo="http://tv.10dailythings.com/images/channels/PE/sanjuaneratv-1080p-not-247/normal.png" group-title="LOCALES", Sanjuanera Televisión || Moyobamba
 https://live.obslivestream.com/sanjuanera/index.m3u8
 #EXTINF:-1 tvg-id="PE | Ok Teve" tvg-name="PE | Ok Teve" tvg-logo="https://playmax.tv/wp-content/uploads/2022/11/oktv.png" group-title="PROVINCIALES", OK Televisión || Soritor
-https://stream.plixitv.live/oktv/oktv/playlist.m3u8
+https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0
 #EXTINF:-1 tvg-id="PE | Vía Alto Mayo TV" tvg-name="PE | Vía Alto Mayo TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqOFVbZI_DEQWBcj9Fjt3OpP7xILbtOuEgaw&usqp=CAU" group-title="PROVINCIALES", Vía Alto Mayo Televisión || Rioja
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
 #EXTINF:-1 tvg-id="PE | Nor Selva TV" tvg-name="PE | Nor Selva TV" tvg-logo="https://play-lh.googleusercontent.com/w6OBzswjSQyeDBwl6z2J5pGiQjuHH3JcmLgXVxGf68WUMocekssnBW_VAZpOdMVee34=s180-rw" group-title="PROVINCIALES", Nor Selva Televisión || Rioja
@@ -148,7 +148,7 @@ http://201.222.44.220:4227/play/a02v/index.m3u8
 #EXTINF:-1 tvg-id="USA | Univisión Latinoamérica" tvg-name="USA | Univisión Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="INTERNACIONALES", Univisión Latinoamérica
 http://177.53.153.21:8001/play/a0au/index.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", Telemundo Internacional
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TELEMUNDO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEMUNDO_stream_fp&_cdn_session=1207304611&_cdn_timestamp=1695313888&_cdn_token=cde689cffd5707d0b62dc6e5238c704cb1921423
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TELEMUNDO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEMUNDO_stream_fp&_cdn_session=1226156459&_cdn_timestamp=1695680581&_cdn_token=09cbc9be546e382b83564c2035d3c14f04cd25ab
 #EXTINF:-1 tvg-id="USA | ID" tvg-name="USA | ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png" group-title="DOCUMENTALES Y SERIES", Investigation Discovery
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ID/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DID_stream_ch&_cdn_session=1207305579&_cdn_timestamp=1695313906&_cdn_token=e5e1add8603c9b7ca1595387fb9816b944eb5126
 #EXTINF:-1 tvg-id="USA | A&E" tvg-name="USA | A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/125px-A%26E_Network_logo.svg.png" group-title="DOCUMENTALES Y SERIES", A&E
