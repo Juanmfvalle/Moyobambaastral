@@ -430,7 +430,7 @@ https://marine2.miplay.cl/24horas/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Lifetime" tvg-name="USA | Lifetime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/150px-Logo_Lifetime_2020.svg.png" group-title="MISCELANEO", 210 | Lifetime
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/LIFETIME/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLIFETIME_stream_sl&_cdn_session=1338047403&_cdn_timestamp=1698661750&_cdn_token=a1ff929d3539a605e6c4165b7d232055bc108688
 #EXTINF:-1 tvg-id="VE | Ve Plus" tvg-name="VE | Ve Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ve_Plus_Logo_2019.png/130px-Ve_Plus_Logo_2019.png" group-title="MISCELANEO", 211 | Ve Plus
-http://190.122.96.187:8888/http/006
+http://38.41.8.1:8000/play/a0a0
 #EXTINF:-1 tvg-id="MX | Canal Claro" tvg-name="MX | Canal Claro" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_wMka8ic6GW1I8vfkcLln4EVGxKvqesLkuFTuI=s900-c-k-c0x00ffffff-no-rj" group-title="MISCELANEO", 212 | Canal Claro
 http://45.228.232.219:16000/play/a0le/index.m3u8
 #EXTINF:-1 tvg-id="USA | film&arts" tvg-name="USA | film&arts" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Film%26Arts2016.png/200px-Film%26Arts2016.png" group-title="MISCELANEO", 213 | Film & Arts
@@ -966,17 +966,17 @@ https://servilive.com:3281/live/antenaunotvlive.m3u8
 #EXTINF:-1 tvg-id="EC | Gamavisión" tvg-name="EC | Gamavisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ECUADOR", 466 | Gamavisión || ECUADOR
 http://160.20.165.246:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="EC | Teleamazonas" tvg-name="EC | Teleamazonas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/150px-Teleamazonas_Logo.png" group-title="ECUADOR", 467 | Teleamazonas || ECUADOR
-https://youvideostreaming.club/hls/ecutv4.m3u8
+http://160.20.165.246:8000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="EC | TVC" tvg-name="EC | TVC" tvg-logo="https://www.tvc.com.ec/wp-content/themes/albavision-theme/parts-web/9212d2e4/logo.png?ver=1.0.28" group-title="ECUADOR", 468 | TVC || ECUADOR
 https://d2vb5iv6i34lh5.cloudfront.net/TVCEC/d58f5eb5cbb9ad9c56649a0083de7c8b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="EC | Ecuador TV" tvg-name="EC | Ecuador TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/150px-EcuadorTV_logo.png" group-title="ECUADOR", 469 | Ecuador TV || ECUADOR
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ECUADORTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DECUADORTV_stream_wj&_cdn_session=1338058003&_cdn_timestamp=1698662348&_cdn_token=f9cb6b9812191444138efe6223b052ab3b66e242
 #EXTINF:-1 tvg-id="EC | Ecuavisa" tvg-name="EC | Ecuavisa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/200px-Ecuavisa_Logo_2019.png" group-title="ECUADOR", 470 | Ecuavisa || ECUADOR
-https://youvideostreaming.club/hls/ecutv1.m3u8
+http://200.59.188.3:8000/play/a08k
 #EXTINF:-1 tvg-id="EC | Red Telesistema" tvg-name="EC | Red Telesistema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/150px-Rts_logo.png" group-title="ECUADOR", 471 | RTS || ECUADOR
 https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="EC | Televisora Central Ecuatoriana" tvg-name="EC | Telecentro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png" group-title="ECUADOR", 472 | TC Televisión || ECUADOR
-https://youvideostreaming.club/hls/ecutv3.m3u8
+http://200.24.206.132:8000/play/a011/index.m3u8
 #EXTINF:-1 tvg-id="EC | Oromar TV" tvg-name="EC | Oromar TV" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="ECUADOR", 473 | Oromar Televisión || ECUADOR
 http://177.234.230.226:8010/play/a02e/index.m3u8
 #EXTINF:-1 tvg-id="EC | Telerama" tvg-name="EC | Telerama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_Telerama.png/250px-Logo_Telerama.png" group-title="ECUADOR", 474 | Telerama || ECUADOR
@@ -1040,7 +1040,7 @@ http://45.177.53.7:8000/play/a04d/index.m3u8
 #EXTINF:-1 tvg-id="CO | Canal Trece +" tvg-name="CO | Canal Trece +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/TRECE%2B.png/150px-TRECE%2B.png" group-title="COLOMBIA", 500.2 | Canal Trece + || COLOMBIA
 http://45.177.53.7:8000/play/a04e/index.m3u8
 #EXTINF:-1 tvg-id="CO | City TV" tvg-name="CO | City TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_Citytv_2023.jpg/170px-Logo_Citytv_2023.jpg" group-title="COLOMBIA", 501 | City TV || COLOMBIA
-http://186.148.183.242:5805/play/a09z/index.m3u8
+http://38.41.8.1:8000/play/a06x
 #EXTINF:-1 tvg-id="CO | Canal TRO" tvg-name="CO | Canal TRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Canal_tro_logo.PNG/150px-Canal_tro_logo.PNG" group-title="COLOMBIA", 502 | Canal TRO || COLOMBIA
 http://186.148.183.242:5805/play/a09t/index.m3u8
 #EXTINF:-1 tvg-id="CO | Telecafé" tvg-name="CO | Telecafé" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Telecaf%C3%A9_logo.svg/200px-Telecaf%C3%A9_logo.svg.png" group-title="COLOMBIA", 503 | Telecafé || COLOMBIA
@@ -1054,7 +1054,7 @@ https://edge.teveo.com.co/live/AeAAAgAhAANnA1IAyADIUDAAAAGAAAAAAmVA7qS1sIkYAAAA/
 #EXTINF:-1 tvg-id="CO | Suram TV" tvg-name="CO | Suram TV" tvg-logo="https://suram.com.co/wp-content/uploads/2020/02/LOGO-SURAM.png" group-title="COLOMBIA", 507 | Suram TV || COLOMBIA
 https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
 #EXTINF:-1 tvg-id="CO | Telecaribe" tvg-name="CO | Telecaribe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Telecaribe2017.png/150px-Telecaribe2017.png" group-title="COLOMBIA", 508 | Telecaribe || COLOMBIA
-http://186.148.183.242:5805/play/a0ax/index.m3u8
+http://38.41.8.1:8000/play/a06b
 #EXTINF:-1 tvg-id="CO | Mundo +" tvg-name="CO | Mundo +" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTDVbXdzqg5wRA2IZDnWEJyezQIhnUGxI8fEuLOgA=s88-c-k-c0x00ffffff-no-rj" group-title="COLOMBIA", 509 | Mundo + || COLOMBIA
 https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CtEFeAfkg1HdNICbQgPSp3OueQlPyg1V8W63x0knoTwd_VoLnTKRnxi-2Z-fUrthFeFOB4BXBdPuS5vzeE-gru0FX6hrOvezmrPxf0heyDDpCLmHcVGtcNNQMKQ9NUOw8Nfl7C1W56laZB--lTG4aVVgsTe8x-s3BPha76UwV7ATLVRJaYaQZifdwSxlcfzS0VjM-PfCZgoIu9cfn4iTmtbSFSO5pR1F6V02F6y8z-fqj_4NPqp1-0WWpLSCqJqhbQ55i2VimHL82AejEnu5U_rpIExU-3PZFmn2O-m-o_A9NVCO-Ojoas8L4U2uLdUW-2ohAwVcyMSLqljpPWngL_u6X_6bbmrXH_rJ2vaaqupYtwFg5oADsk9wd93DJcz3JPjSLRIfSNFzsG59bH5o5r2IUHGXCz396kFC9U3mep7bbng3h9BZll1O2OJXG64NoyhyI3hApPZGRCPRdbLoc2QOti-dGIr0RxWuA-n2PnkGUhpUKumVq8cvvbW5dd2GqA4jeO7fxFXzMONy3NrVuOenVBOhc3PUV0H0SMvp8q55_CsudPxtMTu1Cn54n6-wLgbdrC56hRz48OON_2Yf8T8VkvyW1C4zoFINv5rlq9-v2Z2rVg90lBGdcJzKKxNWXmgAsSc06bJHfgGkBqB6IE60nCvE9cPU6EGYu9mqcBjcj9V93hYa3sh2dnWQuTZ3wIonCCXdmeaublpbseqE6D4cpwzvz9ury9GBIHiW9amM_QgmTwBv_MkXI6zeyT5ij-Xvr5wVcp0Ju5NsDZsLcGLDCfvA9GXAH6w12xx_q_56BmYMz0JnpR0oUgpV-hBAkpD8c6h_QaEuZa-dqFmiRxkAk8DDI2lpr_2a7NligAbgxu3Ue80YWW5dOb_5shyi0mULlsCnXb5d1ve2Oadi025gXysAiB3o_DKKhBj2VyVUAZ5mYhF9MCbJniRZveLaB_dfjhoMUEdyXR21NsZ2tBueIAEqCXVzLWVhc3QtMTCnBg.m3u8
 #EXTINF:-1 tvg-id="CO | Canal 2 de Cali" tvg-name="CO | Canal 2 de Cali" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDCRXfpCXtQ2_9hizPm-qPLuDj_UZk7xKi2_FrCZnFCQ&s" group-title="COLOMBIA", 510 | Canal 2 de Cali || COLOMBIA
@@ -1436,7 +1436,7 @@ https://video01.soultv.com.br/noticiasagricolas/noticiasagricolas/playlist.m3u8
 #EXTINF:-1 tvg-id="BR | The Market Guide TV" tvg-name="BR | The Market Guide TV" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0002/2413/brand.gif?itok=kY7S_V8T" group-title="BRASIL", 698 | The Market Guide TV || BRASIL
 https://video01.soultv.com.br/tvmarketguide/tvmarketguide/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Unitel" tvg-name="BO | Unitel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/New_Unitel_logo_HD.jpg/200px-New_Unitel_logo_HD.jpg" group-title="BOLIVIA", 699 | Unitel || BOLIVIA
-https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZQFtmUEb5K8YlagAPxAc0gmK1JhIuA4sozjtjBAM2AIP)/dm/3/x7vsfua/d/live-3.m3u8
+http://200.59.188.3:8000/play/a09o
 #EXTINF:-1 tvg-id="BO | Radio Televisión Popular" tvg-name="BO | Radio Televisión Popular" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RTP_Bolivia_Hd.png" group-title="BOLIVIA", 700 | RTP || BOLIVIA
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Bolivisión" tvg-name="BO | Bolivisión" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Bolivisi%C3%B3nHD.png/revision/latest/scale-to-width-down/1200?cb=20220726175333&path-prefix=es" group-title="BOLIVIA", 701 | Bolivisión || BOLIVIA
@@ -2046,7 +2046,7 @@ http://45.228.232.219:16000/play/a0li/index.m3u8
 #EXTINF:-1 tvg-id="DO | Color Visión" tvg-name="DO | Color Visión" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ec05bd74826e90977bf051086434a04d.webp" group-title="REPUBLICA DOMINICANA", 1000 | Color Visión || REPUBLICA DOMINICANA
 http://45.228.232.219:16000/play/a0mt/index.m3u8
 #EXTINF:-1 tvg-id="DO | Telesistema" tvg-name="DO | Telesistema" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/telesistemac-100x70.png" group-title="REPUBLICA DOMINICANA", 1001 | Telesistema || REPUBLICA DOMINICANA
-http://45.5.117.182:8000/play/a0ek/index.m3u8
+http://38.41.8.1:8000/play/a0am
 #EXTINF:-1 tvg-id="DO | Telecentro" tvg-name="DO | Telecentro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Telecentro_ICON.jpg/125px-Telecentro_ICON.jpg" group-title="REPUBLICA DOMINICANA", 1002 | Telecentro || REPUBLICA DOMINICANA
 http://190.149.66.90:4000/play/a021/index.m3u8
 #EXTINF:-1 tvg-id="DO | Catorce TV" tvg-name="DO | Catorce TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1zw2p9aavhzut6-I2XfjwRn5Hz8pDPd7hfurIwpP4qTqTzPp_qRridkUeGiGqae6c86c&usqp=CAU" group-title="REPUBLICA DOMINICANA", 1003 | Catorce TV || REPUBLICA DOMINICANA
