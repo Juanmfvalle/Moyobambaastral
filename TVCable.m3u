@@ -456,7 +456,7 @@ https://marine2.miplay.cl/mundoysabor/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Best Cable Sports" tvg-name="PE | Best Cable Sports" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=239x10000:format=jpg/path/s86a1480785a470a0/image/i3cd2b522eae1ddb2/version/1637874672/image.jpg" group-title="DEPORTES", 223 | Best Cable Sports
 https://mi.godo.net.pe/bestcablesports/index.m3u8?token=b612e96e1dc560f44815db1dd5faada349b416a5-bf03102f20ac2e2b555c058df8bc102c-1699179566-1699168766&remote=181.176.136.120
 #EXTINF:-1 tvg-id="PE | Liga 1 Max" tvg-name="PE | Liga 1 Max" tvg-logo="https://services.nunchee.com/api/2.0/assets/images/63dd234f3f6b35001fcf78bd/view/backdrop/75" group-title="DEPORTES", 224 | Liga 1 Max
-http://187.102.208.108:50001/play/a03y/index.m3u8
+http://190.187.154.156:8000/play/a0ca/index.m3u8
 #EXTINF:-1 tvg-id="USA | Golf Channel" tvg-name="USA | Golf Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/200px-Golf_Channel_Logo_2018.png" group-title="DEPORTES", 225 | Golf Channel
 http://187.102.208.108:50001/play/a03w/index.m3u8
 #EXTINF:-1 tvg-id="USA | Fox Sports 2" tvg-name="USA | Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/175px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES", 226 | Fox Sports 2
@@ -2369,6 +2369,8 @@ https://cast10.plugstreaming.com:2000/stream/atmosfera/;
 https://conectperu.com/8390/stream
 #EXTINF:-1 tvg-id="PE | Radio Selva" tvg-name="PE | Radio Selva" tvg-logo="https://radioselvatv.pe/wp-content/uploads/2023/08/LOGO-web.png" group-title="EMISORAS LOCALES", 1162 | Radio Selva 93.7 FM || Moyobamba; Perú
 https://conectperu.com/8470//stream
+#EXTINF:-1 tvg-id="PE | Estación C La Radio" tvg-name="PE | Estación C La Radio" tvg-logo="https://pbs.twimg.com/media/F-c9OqTXIAAug_m?format=png&name=small" group-title="EMISORAS LOCALES", En prueba | Estación C La Radio 101.7 FM || Moyobamba; Perú
+https://us1freenew.listen2myradio.com/live.mp3?typeportmount=s1_4449_stream_684806792
 #EXTINF:-1 tvg-id="PE | Radio Ebenezer" tvg-name="PE | Radio Ebenezer" tvg-logo="https://graph.facebook.com/281962128599048/picture?type=large" group-title="EMISORAS LOCALES", 1163 | Radio Ebenezer 103.5 FM || Moyobamba; Perú
 https://stream-40.zeno.fm/nmx8e1y7cm0uv?zs=e2hAOnVRRs2NRTKp98xR6Q&aw_0_req_lsid=1663150054202_0.5060922715387872&an-uid=5362203318446947601&triton-uid=cookie%3A1a8575a0-a2d8-4284-a5c1-853a8ffb7673
 #EXTINF:-1 tvg-id="PE | Radio Moda Star" tvg-name="PE | Radio Moda Star" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/moda-moyobamba.png" group-title="EMISORAS LOCALES", 1164 | Radio Moda Star || Moyobamba; Perú
