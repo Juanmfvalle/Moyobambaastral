@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="PE | Willax Televisión" tvg-name="PE | Willax Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU", Willax Televisión
-http://daleplay.club:8080/live/listatbsdaleplay22/listatbsdaleplaypararepetircanales/135819.m3u8
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/WILLAX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=1472303211&_cdn_timestamp=1700380569&_cdn_token=4929d963de5986ea5302ecc1dce8f18f422c0ae6
 #EXTINF:-1 tvg-id="PE | Latina Televisión" tvg-name="PE | Latina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="PERU", Latina Televisión
-http://daleplay.club:8080/live/listatbsdaleplay22/listatbsdaleplaypararepetircanales/135821.m3u8
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/LATINA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINA_stream_hj&_cdn_session=1472303891&_cdn_timestamp=1700380574&_cdn_token=cfd6a9cd2b488f89953a0dcddb5c5bb5538c45cc
 #EXTINF:-1 tvg-id="PE | Congreso TV" tvg-name="PE | Congreso TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Congreso_TV.png/250px-Congreso_TV.png" group-title="PERU", Congreso TV
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1454394699&_cdn_timestamp=1700156503&_cdn_token=702f1062182a2fd893a3114670edd76c1d9530db
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1472307307&_cdn_timestamp=1700380604&_cdn_token=f8e47b91c58c1be756293851d3f4b814f32211bf
 #EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", América Televisión
-http://daleplay.club:8080/live/listatbsdaleplay22/listatbsdaleplaypararepetircanales/135793.m3u8
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AMERIK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=1472305195&_cdn_timestamp=1700380587&_cdn_token=bef955488afa7ac10c9b1718e08ead062bcadb80
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", Panamericana Televisión
-http://daleplay.club:8080/live/listatbsdaleplay22/listatbsdaleplaypararepetircanales/135827.m3u8
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=1472309403&_cdn_timestamp=1700380622&_cdn_token=26ffb697350b225075d33b5a827159df9f3ee36b
 #EXTINF:-1 tvg-id="PE | Exitosa Televisión" tvg-name="PE | Exitosa Televisión" tvg-logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2021/01/LOGO-EXITOSA-ROJO.png" group-title="PERU", Exitosa Televisión
-http://daleplay.club:8080/live/listatbsdaleplay22/listatbsdaleplaypararepetircanales/312787.m3u8
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/EXITOSATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DEXITOSATV_stream_o1&_cdn_session=1472311123&_cdn_timestamp=1700380638&_cdn_token=ca5b0c2c17f2505d8ab1703ef4ee5f8c480b9b3a
 #EXTINF:-1 tvg-id="PE | TV Perú" tvg-name="PE | TV Perú" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="PERU", TV Perú
-http://daleplay.club:8080/live/listatbsdaleplay22/listatbsdaleplaypararepetircanales/135833.m3u8
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TVPERU/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVPERU_stream_p5&_cdn_session=1472314147&_cdn_timestamp=1700380660&_cdn_token=46fc38b0e0db48fb0d55183ada95723101098fa4
 #EXTINF:-1 tvg-id="PE | Conectad2 TV" tvg-name="PE | Conectad2 TV" tvg-logo="https://conecta2peru.com/wp-content/uploads/2020/04/logo.png" group-title="PERU", Conectad2 Televisión
 http://190.187.154.156:8000/play/CONECTA2/index.m3u8
 #EXTINF:-1 tvg-id="PE | Andina Televisión" tvg-name="PE | Andina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" group-title="PERU", ATV
@@ -22,15 +22,15 @@ https://ott1.hdlatam.tv/live/Telelima/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Viva TV" tvg-name="PE | Viva TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/PyW6vij-.jpg/175px-PyW6vij-.jpg" group-title="PERU", Viva TV
 http://191.97.60.193:10000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="PE | USMP TV" tvg-name="PE | USMP TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/USMP_TV_2017.svg/revision/latest/scale-to-width-down/56?cb=20210504214359&path-prefix=es" group-title="PERU", USMP TV
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/USMPTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUSMPTV_stream_61&_cdn_session=1454396635&_cdn_timestamp=1700156535&_cdn_token=c78d5578189ca258b63fedb10e7a185e92000f73
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/USMPTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUSMPTV_stream_61&_cdn_session=1472316651&_cdn_timestamp=1700380683&_cdn_token=b144d3361d0b3ffd2cfd2877862c49ad408b00d1
 #EXTINF:-1 tvg-id="PE | Global Televisión" tvg-name="PE | Global Televisión" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMObN_3dPu0x6ipIMnQiPhMsWdYVDq5ZXCPA68_3m2KC_k9CT4VpttLSvI7f-mzLYi7w8&usqp=CAU" group-title="PERU", Global Televisión
-http://daleplay.club:8080/live/listatbsdaleplay22/listatbsdaleplaypararepetircanales/135826.m3u8
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=1472317267&_cdn_timestamp=1700380689&_cdn_token=df72d66ba8fa84689072b6c155c6d997529b1567
 #EXTINF:-1 tvg-id="PE | Like TV" tvg-name="PE | Like TV" tvg-logo="https://pbs.twimg.com/media/F6eCd9qWEAANnK5?format=png&name=240x240" group-title="PERU", Like TV
 https://ott1.hdlatam.tv/live/fuegotv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | La Tele" tvg-name="PE | La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/400px-LaTele_Per%C3%BA_2018_Logo.png" group-title="PERU", La Tele
 http://187.102.208.108:50001/play/a043/index.m3u8
 #EXTINF:-1 tvg-id="PE | PBO TV" tvg-name="PE | PBO TV" tvg-logo="https://pboradio.minegocio21.com/wp-content/uploads/2020/10/logo278.jpg" group-title="PERU", PBO TV
-http://daleplay.club:8080/live/listatbsdaleplay22/listatbsdaleplaypararepetircanales/312821.m3u8
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PBO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=1472318587&_cdn_timestamp=1700380702&_cdn_token=7330ae436aefcfca02e4067a8958169675391b05
 #EXTINF:-1 tvg-id="PE | Andina Televisión Plus" tvg-name="PE | Andina Televisión Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/175px-ATV%2B_logo_2020.png" group-title="PERU", ATV +
 https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Andina Televisión Sur" tvg-name="PE | Andina Televisión Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/185px-ATV_Sur_-_2018_logo_%28final%29.png" group-title="PERU", ATV Sur
@@ -138,7 +138,7 @@ http://187.102.208.108:50001/play/a01t/index.m3u8
 #EXTINF:-1 tvg-id="USA | Univisión Latinoamérica" tvg-name="USA | Univisión Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="INTERNACIONALES", Univisión Latinoamérica
 http://170.82.37.21:8000/play/a02x/index.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", Telemundo Internacional
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TELEMUNDO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEMUNDO_stream_fp&_cdn_session=1454398083&_cdn_timestamp=1700156563&_cdn_token=b91589050fe08bc725b050159074c0fec45e0f1d
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TELEMUNDO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEMUNDO_stream_fp&_cdn_session=1472323379&_cdn_timestamp=1700380744&_cdn_token=9b3e6348ec7647d8e19f633f05cbf490773fb76a
 #EXTINF:-1 tvg-id="USA | Telemundo Internacional Señal 2" tvg-name="USA | Telemundo Internacional Señal 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", Telemundo Internacional Señal 2
 http://170.82.37.21:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="USA | ID" tvg-name="USA | ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png" group-title="DOCUMENTALES Y SERIES", Investigation Discovery
@@ -188,7 +188,7 @@ https://vpngratis.win:8443/live/CineMexicano/gsL71cr7Fk/20.m3u8
 #EXTINF:-1 tvg-id="USA | Studio Universal" tvg-name="USA | Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/175px-StudioUniversal2016.png" group-title="PELICULAS Y SERIES", Studio Universal
 http://190.187.154.156:8000/play/a063/index.m3u8
 #EXTINF:-1 tvg-id="USA | USA Network" tvg-name="USA | USA Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/150px-USA_Network_logo_%282016%29.svg.png" group-title="PELICULAS Y SERIES", USA Network
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/USA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUSA_stream_97&_cdn_session=1451306355&_cdn_timestamp=1700109524&_cdn_token=a9c6ef0c009a2b994de00cb9c63f3fb7ceb67094
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/USA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUSA_stream_97&_cdn_session=1472324035&_cdn_timestamp=1700380750&_cdn_token=23b2b6a32ce09e4ae9f2af994ccd24400b0568e9
 #EXTINF:-1 tvg-id="ESP | A3series" tvg-name="ESP | A3series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/125px-Atreseries_2020_logo.svg.png" group-title="PELICULAS Y SERIES", Atreseries
 http://170.82.37.21:8000/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="USA | Warner Channel" tvg-name="USA | Warner Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/125px-Warner2018LA.png" group-title="PELICULAS Y SERIES", Warner Channel
