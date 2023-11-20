@@ -736,7 +736,7 @@ https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
 #EXTINF:-1 tvg-id="ES | Radio Televisión Vida" tvg-name="ES | Radio Televisión Vida" tvg-logo="https://vidartv.com/images/logo.png" group-title="RELIGIOSOS", 360 | Radio Televisión Vida
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvsd.m3u8
 #EXTINF:-1 tvg-id="CR | Enlace" tvg-name="CR | Enlace" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Enlace_Televisi%C3%B3n_logo.svg/320px-Enlace_Televisi%C3%B3n_logo.svg.png" group-title="RELIGIOSOS", 361 | Enlace
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141247
+http://45.228.232.219:16000/play/a0mb/index.m3u8
 #EXTINF:-1 tvg-id="EC | Asomavisión" tvg-name="EC | Asomavisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/AsomaVisi%C3%B3n.jpg/245px-AsomaVisi%C3%B3n.jpg" group-title="RELIGIOSOS", 362 | Asomavisión
 https://asomatv.duckdns.org/livestream/stream.m3u8
 #EXTINF:-1 tvg-id="USA | Tu Canal Musical" tvg-name="USA | Tu Canal Musical" tvg-logo="https://yt3.googleusercontent.com/AHw0GtBW1ZM9P6dsjjsU8m6oLo9d3TqIrlwk6BxyaM80ROAcpzHT8t1b9jmDb8cztk-CCp_TNP8=s88-c-k-c0x00ffffff-no-rj" group-title="MUSICA Y REALITIES", 363 | Tu Canal Musical
@@ -1748,7 +1748,7 @@ http://45.228.232.219:16000/play/a0lk/index.m3u8
 #EXTINF:-1 tvg-id="NI | Viva Nicaragua Canal 13" tvg-name="NI | Viva Nicaragua Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Logo_Viva_Nicaragua_Canal_13.png/200px-Logo_Viva_Nicaragua_Canal_13.png" group-title="NICARAGUA", 851 | Viva Nicaragua Canal 13 || NICARAGUA
 http://45.228.232.219:16000/play/a0kk/index.m3u8
 #EXTINF:-1 tvg-id="NI | Vos TV Canal 14" tvg-name="NI | Vos TV Canal 14" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/14_de_nicaragua-mediano.png" group-title="NICARAGUA", 852 | Vos TV || NICARAGUA
-https://streannlivevostv.cachefly.net/Protected/sp=1;dirmatch=true;ip=181.176.136.120/d08af1ad0ff8bc12dfaa9bdb2944a1669da4130846a409959d7558048ebc43a4/vostv1/vostv1_abr/playlist.m3u8
+http://45.228.232.219:16000/play/a0kf/index.m3u8
 #EXTINF:-1 tvg-id="NI | Canal 15" tvg-name="NI | Canal 15" tvg-logo="https://pbs.twimg.com/media/FgYBiv_XEAEwavW?format=png&name=small" group-title="NICARAGUA", 853 | Canal 15 || NICARAGUA
 https://cootv.cootel.com.ni:8095/Canal15_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | La Rock 22" tvg-name="NI | La Rock 22" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/LaRock22.jpg/245px-LaRock22.jpg" group-title="NICARAGUA", 854 | La Rock 22 || NICARAGUA
@@ -1894,9 +1894,9 @@ http://45.228.232.219:16000/play/a0kd/index.m3u8
 #EXTINF:-1 tvg-id="GT | Canal 3" tvg-name="GT | Canal 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Canal3GT2022.png/800px-Canal3GT2022.png" group-title="GUATEMALA", 924 | Canal 3 el super canal || GUATEMALA
 http://45.5.117.182:8000/play/a0hh/index.m3u8
 #EXTINF:-1 tvg-id="GT | Televisiete" tvg-name="GT | Televisiete" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Canal7GT2022.png/1024px-Canal7GT2022.png" group-title="GUATEMALA", 925 | Televisiete || GUATEMALA
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/115804
+http://45.228.232.219:16000/play/a0mk/index.m3u8
 #EXTINF:-1 tvg-id="GT | Teleonce" tvg-name="GT | Teleonce" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Canal11GT2022.png/200px-Canal11GT2022.png" group-title="GUATEMALA", 926 | Teleonce || GUATEMALA
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/135425
+http://45.228.232.219:16000/play/a0ka/index.m3u8
 #EXTINF:-1 tvg-id="GT | Trecevisión" tvg-name="GT | Trecevisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Canal13GT2022.png/250px-Canal13GT2022.png" group-title="GUATEMALA", 927 | Trecevisión || GUATEMALA
 http://45.5.117.182:8000/play/a0fy/index.m3u8
 #EXTINF:-1 tvg-id="GT | TN 23" tvg-name="GT | TN 23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/TN23logo2016.png/250px-TN23logo2016.png" group-title="GUATEMALA", 928 | TN 23 || GUATEMALA
