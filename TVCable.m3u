@@ -2165,8 +2165,8 @@ https://stream.visionglobaltv.net:1936/visionglobal/visionglobal/playlist.m3u8
 https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
 #EXTINF:-1 tvg-id="USA | GolTV" tvg-name="USA | GolTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/320px-GolTV_logo.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 1059 | GolTV || ESTADOS UNIDOS DE AMÉRICA
 http://livex.pop-app.live/s4n/poplive/ch552/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | PIX11 News" tvg-name="USA | PIX11 News" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJX9UNIXSTitdn0NXKNIqp7iyOgYCym5h6OTMmD5hT0=s88-c-k-c0x00ffffff-no-rj" group-title="ESTADOS UNIDOS DE AMÉRICA", 1060 | PIX11 News || ESTADOS UNIDOS DE AMÉRICA
-https://dcs-live-uc1.mp.lura.live/server/play/n0MamWDhQX6JFM60/rendition.m3u8?track=video-1&anvsid=m177626901-ne6928dd0caee33c9ebebedc6de34f108&ts=1702243302&anvtrid=f63a96c7e72d07a47f15c15dc5c34d0c
+#EXTINF:-1 tvg-id="USA | WSVN 7News" tvg-name="USA | WSVN 7News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a2c640a81167f7f8b2e608cdd11c187b.webp" group-title="ESTADOS UNIDOS DE AMÉRICA", 1060 | WSVN 7News || ESTADOS UNIDOS DE AMÉRICA
+https://dai2-playlistserver.aws.syncbak.com/media.m3u8?bitrate=3659760&session=b8ba0c3e946136d51572498ca42dbc08
 #EXTINF:-1 tvg-id="USA | SEC Network" tvg-name="USA | SEC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/200px-SEC_Network_logo.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 1061 | SEC Network || ESTADOS UNIDOS DE AMÉRICA
 http://livex.pop-app.live/s4n/poplive/ch571/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | ACC Network" tvg-name="USA | ACC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/250px-ACC_Network_ESPN_logo.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 1062 | ACC Network || ESTADOS UNIDOS DE AMÉRICA
@@ -2233,8 +2233,6 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:15_HD.smil/manif
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:31_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="ES | Telemadrid" tvg-name="ES | Telemadrid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/245px-TeleMadrid.svg.png" group-title="ESPAÑA", 1093 | Telemadrid || ESPAÑA
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:32_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="ES | Telemadrid Internacional" tvg-name="ES | Telemadrid Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/245px-TeleMadrid.svg.png" group-title="ESPAÑA", 1093.2 | Telemadrid Internacional || ESPAÑA
-https://telemadrid-23.secure2.footprint.net/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="ES | Divinity" tvg-name="ES | Divinity" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/125px-Divinity.svg.png" group-title="ESPAÑA", 1094 | Divinity || ESPAÑA
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:18_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="ES | Energy" tvg-name="ES | Energy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/125px-Energy.svg.png" group-title="ESPAÑA", 1095 | Energy || ESPAÑA
