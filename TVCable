@@ -2514,13 +2514,13 @@ https://acp4.lorini.net/proxy/ur2080?mp=/stream
 #EXTINF:-1 tvg-id="VE | La Radio del Sur" tvg-name="VE | La Radio del Sur" tvg-logo="http://www.laradiodelsur.com.ve/wp-content/uploads/2020/03/c300.png" group-title="EMISORAS INTERNACIONALES", 1233 | La Radio del Sur || VENEZUELA
 http://190.202.130.61:8000/lrds
 #EXTINF:-1 tvg-id="BO | Radio Estelar" tvg-name="BO | Radio Estelar" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-bo/estelar-fm-92-5.png" group-title="EMISORAS INTERNACIONALES", 1234 | Radio Estelar 92.5 FM || BOLIVIA
-https://turadioweb.net/radio/8070/radio
+https://turadioweb.net:8370/radio
 #EXTINF:-1 tvg-id="BO | Radio Panamericana 96.1 FM" tvg-name="BO | Radio Panamericana 96.1 FM" tvg-logo="https://www.panamericana.bo/media/radiopanamerica/images/2021/01/01/2021010100000073897.png" group-title="EMISORAS INTERNACIONALES", 1235 | Radio Panamericana 96.1 FM || BOLIVIA
 https://node-10.zeno.fm/8n08k00zveruv?rj-ttl=5&aw_0_req_lsid=d3eb6028b1b90c267d3cbbc22c579110&acu-uid=630572328206&bsw-uid=1c193f44-9191-4b67-8b70-9a52bce372e6&cto-uid=bea7dd87-5a33-45a7-acad-c6a42ee0ccd2-61b426c0-5045&adt-uid=cuid_8ce542d3-5b27-11ec-8553-12
 #EXTINF:-1 tvg-id="AR | Radio Mitre" tvg-name="AR | Radio Mitre" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Logo_Mitre_SA.svg/1200px-Logo_Mitre_SA.svg.png" group-title="EMISORAS INTERNACIONALES", 1236 | Radio Mitre 790 AM || ARGENTINA
 https://22203.live.streamtheworld.com/AM790_56AAC.aac?dist=radiomitre_webplayer&autoplay=0&tdsdk=js-2.9&swm=true&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=2db63805-11b9-4e73-f947-309fb7963469
 #EXTINF:-1 tvg-id="CR | Teletica Radio" tvg-name="CR | Teletica Radio" tvg-logo="https://cdn.webrad.io/images/logos/radios-co-cr/teletica.png" group-title="EMISORAS INTERNACIONALES", 1237 | Teletica Radio || COSTA RICA
-https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d3392.sdp/chunks.m3u8
+https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d3392.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | La Buenísima 93.1 FM" tvg-name="NI | La Buenísima 93.1 FM" tvg-logo="https://dah75mnh595dg.cloudfront.net/wp-content/uploads/sites/17/2021/10/05143231/La-Buenisima-1-300x300.png" group-title="EMISORAS INTERNACIONALES", 1238 | La Buenísima 93.1 FM || NICARAGUA
 https://cootv.cootel.com.ni:8095/Radio_LaBuenisima/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | La Picosa 97.9 FM" tvg-name="NI | La Picosa 97.9 FM" tvg-logo="https://radionicaragua.net/sites/default/files/styles/player_image/public/2022-07/La%252520Picosa%25252097.9FM.png.webp?itok=TAafnu8S" group-title="EMISORAS INTERNACIONALES", 1239 | La Picosa 97.9 FM || NICARAGUA
@@ -2532,7 +2532,7 @@ https://node-21.zeno.fm/9qt3nd2te0quv?rj-ttl=5&rj-tok=AAABfUMw5CwAR6Q_asRITIsfxg
 #EXTINF:-1 tvg-id="GT | Emisoras Unidas" tvg-name="GT | Emisoras Unidas" tvg-logo="https://emisorasunidas.com/wp-content/uploads/2020/12/logo-full-emisoras-unidas-190x60-1.png" group-title="EMISORAS INTERNACIONALES", 1242 | Radio Emisoras Unidas || GUATEMALA
 https://node-32.zeno.fm/eypgq8m08wquv?rj-ttl=5&rj-tok=AAABfUARHM4Akpk-cHiz5aAFGQ
 #EXTINF:-1 tvg-id="GT | Radio Joya" tvg-name="GT | Radio Joya" tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-gt/joya-guatemala.png" group-title="EMISORAS INTERNACIONALES", 1243 | Radio Joya 92.9 FM || GUATEMALA
-https://radios-gt.cdn.nedmedia.io/radios/gt/joya.m3u8
+https://d3baswd2guva7h.cloudfront.net/joya.m3u8
 #EXTINF:-1 tvg-id="GT | Romántica 105.3 FM" tvg-name="GT | Romántica 105.3 FM" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/bfkegbmpkwmv.jpg" group-title="EMISORAS INTERNACIONALES", 1244 | Romántica 105.3 FM || GUATEMALA
 http://54.39.106.215:9314/;
 #EXTINF:-1 tvg-id="GT | Radio Panamericana 1030 AM" tvg-name="GT | Radio Panamericana 1030 AM" tvg-logo="https://cdn-profiles.tunein.com/s138009/images/logod.png?t=156821" group-title="EMISORAS INTERNACIONALES", 1245 | Radio Panamericana 1030 AM || GUATEMALA
@@ -2559,8 +2559,10 @@ https://evcast.mediacp.eu:2060/stream
 https://server1.streamingradio.online/proxy/radio1/stream
 #EXTINF:-1 tvg-id="FR | Radio Francia Internacional" tvg-name="FR | Radio Francia Internacional" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/984.png" group-title="EMISORAS INTERNACIONALES", 1256 | Radio Francia Internacional || FRANCIA
 https://rfienespagnol64k.ice.infomaniak.ch/rfienespagnol-64.mp3
-#EXTINF:-1 tvg-id="PE | Música Libre" tvg-name="PE | Música Libre" tvg-logo="https://static.vecteezy.com/system/resources/previews/000/586/196/original/headphone-music-note-logo-vector-illustration.jpg" group-title="CANALES DE AUDIO", 1257 | Música Libre
+#EXTINF:-1 tvg-id="ES | Música Libre" tvg-name="ES | Música Libre" tvg-logo="https://static.vecteezy.com/system/resources/previews/000/586/196/original/headphone-music-note-logo-vector-illustration.jpg" group-title="CANALES DE AUDIO", 1257 | Música Libre
 https://cloudvideo.servers10.com:8081/8010/index.m3u8
+#EXTINF:-1 tvg-id="CA | Stingray iConciertos" tvg-name="CA | Stingray iConciertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Stingray_Concerts.svg/220px-Stingray_Concerts.svg.png" group-title="CANALES DE AUDIO", 1258 | Stingray iConciertos
+http://190.187.154.156:8000/play/a0d5/index.m3u8
 #EXTINF:-1 tvg-id="USA | Harry Potter y la piedra filosofal" tvg-name="USA | Harry Potter y la piedra filosofal" tvg-logo="https://play-lh.googleusercontent.com/Ttd-BrkpXdHL4JUtoVT5oC3zay8iw5mE-lTJidOLHY0RZ4bTha8XajQruOArSjNk3xjOzA=w240-h480-rw" group-title="PELÍCULAS GRABADAS", PELICULA 1 | Harry Potter y la piedra filosofal (2001)
 http://pulpo.ddns.net:25461/movie/demo/demo45/142.mkv
 #EXTINF:-1 tvg-id="USA | Madagascar" tvg-name="USA | Madagascar" tvg-logo="https://play-lh.googleusercontent.com/proxy/j9bGj4fiu-q_XGm3e1cgJ7eb715WBlWV9IfMAVbkRsuHzlm6Ux3v_2yvRwQvx6NuzjKd91yCn8Zwq5dnyF9DOqCt60kqQi3DCACZTh7KwVXjUOlgJBo8ETEyjqHLroNJ7MCFEZ0bk8FWSHFfOmzCBrTReq1QJ_ghLAExpQ=w240-h480-rw" group-title="PELÍCULAS GRABADAS", PELICULA 2 | Madagascar (2005)
