@@ -472,7 +472,7 @@ http://190.187.154.156:8000/play/a06c/index.m3u8
 #EXTINF:-1 tvg-id="USA | ESPN Extra" tvg-name="USA | ESPN Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/190px-ESPN_Extra_Logo_2022.webp.png" group-title="DEPORTES", 228 | ESPN Extra
 http://190.187.154.156:8000/play/a06p/index.m3u8
 #EXTINF:-1 tvg-id="MX | Claro Sports" tvg-name="MX | Claro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/150px-Claro_Sports_logo.svg.png" group-title="DEPORTES", 229 | Claro Sports
-http://190.6.202.162:8000/play/a014/index.m3u8
+http://181.78.105.146:2000/play/a053/index.m3u8
 #EXTINF:-1 tvg-id="MX | Claro Sports 2" tvg-name="MX | Claro Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest/scale-to-width-down/250?cb=20210423191014&path-prefix=es" group-title="DEPORTES", 230 | Claro Sports 2
 http://45.5.117.182:8000/play/a0e5/index.m3u8
 #EXTINF:-1 tvg-id="CL | TNT Sports" tvg-name="CL | TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/320px-TNT_Sports_2021_logo.svg.png" group-title="DEPORTES", 231 | TNT Sports
@@ -493,8 +493,8 @@ https://marine2.miplay.cl/fitmaxx/playlist.m3u8
 https://marine2.miplay.cl/sportext/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | Win Sports" tvg-name="CO | Win Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/WinSports2022.png/150px-WinSports2022.png" group-title="DEPORTES", 239 | Win Sports
 http://45.233.169.13:8000/play/a0c3/index.m3u8
-#EXTINF:-1 tvg-id="CO | Win Sports+" tvg-name="CO | Win Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/WinSportsM%C3%A1s2022.png/200px-WinSportsM%C3%A1s2022.png" group-title="DEPORTES", 240 | Win Sports+
-http://pulpo.ddns.net:25461/demo/demo45/431
+#EXTINF:-1 tvg-id="CO | Basquet TV" tvg-name="CO | Basquet TV" tvg-logo="https://pbs.twimg.com/media/GBeyItwX0AAGeJC?format=png&name=360x360" group-title="DEPORTES", 240 | Basquet TV
+http://191.97.60.193:10000/play/a02v/index.m3u8
 #EXTINF:-1 tvg-id="CR | FUTV" tvg-name="CR | FUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_de_FUTV.svg/200px-Logo_de_FUTV.svg.png" group-title="DEPORTES", 241 | FUTV
 http://45.5.117.182:8000/play/a0io/index.m3u8
 #EXTINF:-1 tvg-id="HN | Todo Deportes TV" tvg-name="HN | Todo Deportes TV" tvg-logo="https://dd7tel2830j4w.cloudfront.net/f1560359694028x167785582725733730/Group%2012.svg" group-title="DEPORTES", 242 | Todo Deportes TV
@@ -507,6 +507,7 @@ http://161.132.243.192:50001/play/a03p/index.m3u8
 http://187.102.208.108:50001/play/a03q/index.m3u8
 #EXTINF:-1 tvg-id="PE | GolTV" tvg-name="PE | GolTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/320px-GolTV_logo.svg.png" group-title="DEPORTES", 246 | GolTV
 http://187.102.208.108:50001/play/a01i/index.m3u8
+http://181.78.105.146:2000/play/a094/index.m3u8
 #EXTINF:-1 tvg-id="PE | Gol Perú" tvg-name="PE | Gol Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/245px-Gol_Per%C3%BA_2019.svg.png" group-title="DEPORTES", 247 | Gol Perú
 http://190.187.154.156:8000/play/a0dy/index.m3u8
 #EXTINF:-1 tvg-id="PE | Movistar Deportes" tvg-name="PE | Movistar Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/200px-Movistar_Deportes.svg.png" group-title="DEPORTES", 248 | Movistar Deportes
@@ -563,28 +564,28 @@ https://canal.mediaserver.com.co/live/telemusica.m3u8
 https://marine2.miplay.cl/oldmusic/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Memorias TV" tvg-name="USA | Memorias TV" tvg-logo="https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1-224x96.png" group-title="MUSICA Y REALITIES", 274 | Memorias TV
 https://mediacp.us:8081/8002/index.m3u8
-#EXTINF:-1 tvg-id="PE | Retro Plus TV" tvg-name="PE | Retro Plus TV" tvg-logo="https://retroplustv.com/gallery_gen/391184735541fc73f216b27309966e07_180x62_fit.jpg" group-title="MUSICA Y REALITIES", 275 | Retro Plus TV
+#EXTINF:-1 tvg-id="ES | Ritmos Inolvidables TV" tvg-name="ES | Ritmos Inolvidables TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/416d4bff6de22d61a3bc3a7b9e8aecb4.webp" group-title="MUSICA Y REALITIES", 275 | Ritmos Inolvidables TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
+#EXTINF:-1 tvg-id="PE | Retro Plus TV" tvg-name="PE | Retro Plus TV" tvg-logo="https://retroplustv.com/gallery_gen/391184735541fc73f216b27309966e07_180x62_fit.jpg" group-title="MUSICA Y REALITIES", 276 | Retro Plus TV
 https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
-#EXTINF:-1 tvg-id="CL | Retro Plus 2 TV" tvg-name="CL | Retro Plus 2 TV" tvg-logo="https://platcon.tv/img/p/1/1/8/118-large_default.jpg" group-title="MUSICA Y REALITIES", 276 | Retro Plus 2 TV
+#EXTINF:-1 tvg-id="CL | Retro Plus 2 TV" tvg-name="CL | Retro Plus 2 TV" tvg-logo="https://platcon.tv/img/p/1/1/8/118-large_default.jpg" group-title="MUSICA Y REALITIES", 277 | Retro Plus 2 TV
 https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
-#EXTINF:-1 tvg-id="CL | Retro Play TV" tvg-name="CL | Retro Play TV" tvg-logo="https://play-lh.googleusercontent.com/T4_7BFebh_PJCxdz0SJgUna1OvsqzW1ZDfw4TEYKqQNJVy9CcDNj5Oha9Uq5XOs7OZY=w600-h300-pc0xffffff-pd" group-title="MUSICA Y PELICULAS", 277 | Retro Play TV
+#EXTINF:-1 tvg-id="CL | Retro Play TV" tvg-name="CL | Retro Play TV" tvg-logo="https://play-lh.googleusercontent.com/T4_7BFebh_PJCxdz0SJgUna1OvsqzW1ZDfw4TEYKqQNJVy9CcDNj5Oha9Uq5XOs7OZY=w600-h300-pc0xffffff-pd" group-title="MUSICA Y PELICULAS", 278 | Retro Play TV
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
-#EXTINF:-1 tvg-id="CO | Amordiscos TV" tvg-name="CO | Amordiscos TV" tvg-logo="https://amordiscostv.com/wp-content/uploads/2022/08/thumbnail_Logo-Amordiscos-600x600-alpha.png" group-title="MUSICA Y PELICULAS", 278 | Amordiscos TV
+#EXTINF:-1 tvg-id="CO | Amordiscos TV" tvg-name="CO | Amordiscos TV" tvg-logo="https://amordiscostv.com/wp-content/uploads/2022/08/thumbnail_Logo-Amordiscos-600x600-alpha.png" group-title="MUSICA Y PELICULAS", 279 | Amordiscos TV
 https://canal.mediaserver.com.co/live/canalamordiscos.m3u8
-#EXTINF:-1 tvg-id="USA | Rockola Televisión" tvg-name="USA | Rockola Televisión" tvg-logo="https://pbs.twimg.com/profile_images/962425009745616896/rZ63oyzp_400x400.jpg" group-title="MUSICA Y REALITIES", 279 | Rockola Televisión
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/b5137691-a1cc-429d-89b2-6f677ad26459/0.m3u8
-#EXTINF:-1 tvg-id="CL | Radio Recuerdos Retro TV" tvg-name="CL | Radio Recuerdos Retro TV" tvg-logo="https://recuerdosretro.com/wp-content/uploads/2022/03/cropped-logo_new_web10.png" group-title="MUSICA Y REALITIES", 280 | Radio Recuerdos Retro TV
+#EXTINF:-1 tvg-id="USA | Puro Romance TV" tvg-name="USA | Puro Romance TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9424bd94fdf0c4154dff529f4fdfa9b4.webp" group-title="MUSICA Y REALITIES", 280 | Puro Romance TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
+#EXTINF:-1 tvg-id="CL | Radio Recuerdos Retro TV" tvg-name="CL | Radio Recuerdos Retro TV" tvg-logo="https://recuerdosretro.com/wp-content/uploads/2022/03/cropped-logo_new_web10.png" group-title="MUSICA Y REALITIES", 281 | Radio Recuerdos Retro TV
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Top Latino" tvg-name="PE | Top Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png/150px-LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="MUSICA Y REALITIES", 281 | Top Latino TV
+#EXTINF:-1 tvg-id="PE | Top Latino" tvg-name="PE | Top Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png/150px-LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="MUSICA Y REALITIES", 282 | Top Latino TV
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="DO | Fuego 40 El canal del pueblo" tvg-name="DO | Fuego 40 El canal del pueblo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUsURmYDu5MKZt_f59t-k2RIegQiWUbRp4X4PTLhm9BXR2qWUfuuYrCMWbaxVb3lhRhLk&usqp=CAU" group-title="MUSICA Y REALITIES", 282 | Fuego 40 TV
+#EXTINF:-1 tvg-id="DO | Fuego 40 El canal del pueblo" tvg-name="DO | Fuego 40 El canal del pueblo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUsURmYDu5MKZt_f59t-k2RIegQiWUbRp4X4PTLhm9BXR2qWUfuuYrCMWbaxVb3lhRhLk&usqp=CAU" group-title="MUSICA Y REALITIES", 283 | Fuego 40 TV
 https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Rewind TV" tvg-name="USA | Rewind TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Rewind_TV_logo.png/200px-Rewind_TV_logo.png" group-title="MUSICA Y REALITIES", 283 | Rewind TV
-https://tls-cl.cdnz.cl/rewindtv/live/chunklist_w1717563077.m3u8
-#EXTINF:-1 tvg-id="PE | Karibeña TV" tvg-name="PE | Karibeña TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Logokaribe%C3%B1atv.png/150px-Logokaribe%C3%B1atv.png" group-title="MUSICA Y REALITIES", 284 | Karibeña TV
+#EXTINF:-1 tvg-id="VE | WMTI Music TV" tvg-name="VE | WMTI Music TV" tvg-logo="https://pbs.twimg.com/media/GBe_dFjWsAA5GO5?format=png&name=240x240" group-title="MUSICA Y REALITIES", 284 | WMTI Music TV
+http://38.41.8.1:8000/play/a0au
+#EXTINF:-1 tvg-id="PE | Karibeña TV" tvg-name="PE | Karibeña TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Logokaribe%C3%B1atv.png/150px-Logokaribe%C3%B1atv.png" group-title="MUSICA Y REALITIES", 285 | Karibeña TV
 https://streamtv.onliv3.online:1936/karibtv/karibtv_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Visión TV Música" tvg-name="PE | Visión TV Música" tvg-logo="https://graph.facebook.com/visiontvmusica/picture?width=320&height=320" group-title="MUSICA Y REALITIES", 285 | Visión TV Música
-https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | 88 Stereo" tvg-name="NI | 88 Stereo" tvg-logo="http://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png" group-title="MUSICA Y REALITIES", 286 | 88 Stereo
 http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1412956051.m3u8
 #EXTINF:-1 tvg-id="AR | Music Top" tvg-name="AR | Music Top" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9512bacf6f14cf9e6a45dc35587fa12e.webp" group-title="MUSICA Y REALITIES", 287 | Music Top
@@ -627,8 +628,8 @@ http://177.234.230.226:8010/play/a021/index.m3u8
 http://177.234.230.226:8010/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="USA | Mimusica Perú" tvg-name="USA | Mimusica Perú" tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/Logo-Mimusica-Peru-Alpha-AOriginal-e1687136439515-1024x362.png" group-title="MUSICA Y REALITIES", 306 | Mimusica Perú
 http://191.97.60.193:10000/play/a030/index.m3u8
-#EXTINF:-1 tvg-id="VE | Panavisión" tvg-name="VE | Panavisión" tvg-logo="http://www.panavision.tv/panavisiontv.png" group-title="MUSICA Y REALITIES", 307 | Panavisión
-https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
+#EXTINF:-1 tvg-id="VE | Cadena Cover's Clásicos" tvg-name="VE | Cadena Cover's Clásicos" tvg-logo="" group-title="MUSICA Y REALITIES", 307 | Cadena Cover's Clásicos
+https://stmv1.cnarlatam.com/ccovers/ccovers/playlist.m3u8
 #EXTINF:-1 tvg-id="CR | VM Latino" tvg-name="CR | VM Latino" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png" group-title="MUSICA Y REALITIES", 308 | VM Latino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-id="AR | Rural TV" tvg-name="AR | Rural TV" tvg-logo="https://www.elrural.com/wp-content/themes/el-rural2016/images/canal-rural.png" group-title="CULTURA Y EDUCACION", 309 | Canal Rural
