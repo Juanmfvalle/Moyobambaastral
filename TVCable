@@ -236,7 +236,7 @@ http://45.5.117.182:8000/play/a0j5/index.m3u8
 #EXTINF:-1 tvg-id="MX | Golden" tvg-name="MX | Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/320px-Canal_Golden_logo.svg.png" group-title="PELICULAS Y SERIES", 110 | Golden
 http://45.5.117.182:8000/play/a0go/index.m3u8
 #EXTINF:-1 tvg-id="MX | Golden Plus" tvg-name="MX | Golden Plus" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus-mediano.png" group-title="PELICULAS Y SERIES", 111 | Golden Plus
-https://3.ultimate2019.com/stream/hls/58
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | Golden Premier" tvg-name="MX | Golden Premier" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="PELICULAS Y SERIES", 112 | Golden Premier
 https://3.ultimate2019.com/stream/hls/60
 #EXTINF:-1 tvg-id="MX | Golden Premier 2" tvg-name="MX | Golden Premier 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es" group-title="PELICULAS Y SERIES", 113 | Golden Premier 2
@@ -304,13 +304,13 @@ http://45.228.232.219:16000/play/a0nr/index.m3u8
 #EXTINF:-1 tvg-id="USA | Disney Channel" tvg-name="USA | Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/200px-2019_Disney_Channel_logo.svg.png" group-title="INFANTILES", 144 | Disney Channel
 http://190.187.154.156:8000/play/a068/index.m3u8
 #EXTINF:-1 tvg-id="USA | Disney Junior" tvg-name="USA | Disney Junior" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/315.png" group-title="INFANTILES", 145 | Disney Junior
-https://3.ultimate2019.com/stream/hls/30
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISNEYJR/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISNEYJUNIOR_stream_ec&_cdn_session=1656762491&_cdn_timestamp=1702802093&_cdn_token=4ef9acd9289ba177f508b44031bc3ad79d71b290
 #EXTINF:-1 tvg-id="VE | 1·2·3 TV" tvg-name="VE | 1·2·3 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/123TV_logo_2022.jpg/320px-123TV_logo_2022.jpg" group-title="INFANTILES", 146 | 1·2·3 TV
 http://38.41.8.1:8000/play/a03o
 #EXTINF:-1 tvg-id="AR | Plim Plim TV" tvg-name="AR | Plim Plim TV" tvg-logo="https://cablego.com.pe/cache/logos256/PLIMPLIM.png" group-title="INFANTILES", 147 | Plim Plim TV
 http://38.41.8.1:8000/play/a0b2
 #EXTINF:-1 tvg-id="USA | DreamWorks" tvg-name="USA | DreamWorks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/DreamWorks_Channel_Logo.svg" group-title="INFANTILES", 148 | DreamWorks
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/DREAMWORKS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDREAMWORKS_stream_ge&_cdn_session=1655898547&_cdn_timestamp=1702792368&_cdn_token=308f2dec7dbb06cf1828a93efc8128628e043dbb
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/DREAMWORKS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDREAMWORKS_stream_ge&_cdn_session=1656764003&_cdn_timestamp=1702802111&_cdn_token=0b8b3efff138796be6a164f9ffb30e5b4a151977
 #EXTINF:-1 tvg-id="USA | Nickelodeon" tvg-name="USA | Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/245px-Nickelodeon_2009_logo.svg.png" group-title="INFANTILES", 149 | Nickelodeon
 http://190.187.154.156:8000/play/a05t/index.m3u8
 #EXTINF:-1 tvg-id="USA | Nick Jr." tvg-name="USA | Nick Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/250px-Nick_Jr._logo_2009.svg.png" group-title="INFANTILES", 150 | Nick Jr.
@@ -321,20 +321,20 @@ http://190.149.66.90:4000/play/a01h/index.m3u8
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Planeta Family TV Kids" tvg-name="CL | Planeta Family TV Kids" tvg-logo="https://pbs.twimg.com/media/Frs3AxpWwAEG08o?format=png&name=240x240" group-title="INFANTILES", 153 | Planeta Family TV Kids
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
-#EXTINF:-1 tvg-id="AR | Pakapaka" tvg-name="AR | Pakapaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/320px-Paka-paka.svg.png" group-title="INFANTILES", 154 | Pakapaka
-http://200.63.95.6:8000/play/a03x/index.m3u8
-#EXTINF:-1 tvg-id="ES | TVG Xabarín" tvg-name="ES | TVG Xabarín" tvg-logo="https://tvendirecto.es/wp-content/uploads/tvg-xabarin-en-directo.png" group-title="INFANTILES", 155 | TVG Xabarín
+#EXTINF:-1 tvg-id="ES | TVG Xabarín" tvg-name="ES | TVG Xabarín" tvg-logo="https://tvendirecto.es/wp-content/uploads/tvg-xabarin-en-directo.png" group-title="INFANTILES", 154 | TVG Xabarín
 http://infantil-crtvg.flumotion.com/chunks.m3u8
-#EXTINF:-1 tvg-id="PE | Canal IPe" tvg-name="PE | Canal IPe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Canal_IPe_Abril_2022.png/190px-Canal_IPe_Abril_2022.png" group-title="INFANTILES", 156 | Canal IPe
+#EXTINF:-1 tvg-id="PE | Canal IPe" tvg-name="PE | Canal IPe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Canal_IPe_Abril_2022.png/190px-Canal_IPe_Abril_2022.png" group-title="INFANTILES", 155 | Canal IPe
 http://190.187.154.156:8000/play/IPE/index.m3u8
-#EXTINF:-1 tvg-id="PE | DM Kids TV" tvg-name="PE | DM Kids TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/logo_david_transparente.png" group-title="INFANTILES", 157 | DM Kids TV
+#EXTINF:-1 tvg-id="PE | DM Kids TV" tvg-name="PE | DM Kids TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/logo_david_transparente.png" group-title="INFANTILES", 156 | DM Kids TV
 https://ott1.hdlatam.tv/live/k1DS_tvLKENMFSRJVFB/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Canal Infantil" tvg-name="USA | Canal Infantil" tvg-logo="https://www.latingroup.us/images/logoci.png" group-title="INFANTILES", 158 | Canal Infantil
+#EXTINF:-1 tvg-id="USA | Canal Infantil" tvg-name="USA | Canal Infantil" tvg-logo="https://www.latingroup.us/images/logoci.png" group-title="INFANTILES", 157 | Canal Infantil
 http://191.97.60.193:10000/play/a02y/index.m3u8
-#EXTINF:-1 tvg-id="USA | FMH Kids" tvg-name="USA | FMH Kids" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-kids.jpg" group-title="INFANTILES", 159 | FMH Kids
+#EXTINF:-1 tvg-id="USA | FMH Kids" tvg-name="USA | FMH Kids" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-kids.jpg" group-title="INFANTILES", 158 | FMH Kids
 http://191.97.60.193:10000/play/a02q/index.m3u8
-#EXTINF:-1 tvg-id="MX | bitMe" tvg-name="MX | bitMe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/175px-BitMe_logo.svg.png" group-title="INFANTILES", 160 | bitMe
+#EXTINF:-1 tvg-id="MX | bitMe" tvg-name="MX | bitMe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/175px-BitMe_logo.svg.png" group-title="INFANTILES", 159 | bitMe
 http://livex.pop-app.live/s4n/poplive/ch555/playlist.m3u8
+#EXTINF:-1 tvg-id="AR | Cine Infantil" tvg-name="AR | Cine Infantil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTBatf2aFTdx0YoMhY3_8HTXS-w0bwDgCpJS0N01i0AG0m8NzzBMJ_Y1U9Kh6kVBLxHQ&usqp=CAU" group-title="INFANTILES", 160 | Cine Infantil
+https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Energeek Retro" tvg-name="CL | Energeek Retro" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/EnerGeek%20Retro.png?itok=JIRywtME" group-title="INFANTILES", 161 | Energeek Retro
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Energeek Fanpop" tvg-name="CL | Energeek Fanpop" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc6fbOyqJnACt2wVpVKC0JMmmELZKQN4cVk9h-LztnMWk2LX1TESycu1iJGOEtwqXwPas&usqp=CAU" group-title="INFANTILES", 162 | Energeek Fanpop
@@ -389,26 +389,26 @@ https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | Noticias Caracol" tvg-name="CO | Noticias Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Noticias_Caracol_imagotype.svg/150px-Noticias_Caracol_imagotype.svg.png" group-title="NOTICIAS E INFORMACION", 187 | Noticias Caracol
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/NOTICIASCARACOL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNOTICIASCARACOL_stream_93&_cdn_session=1655902395&_cdn_timestamp=1702792413&_cdn_token=971cd0627bc03189d7d23992761d08b80a2851a5
-#EXTINF:-1 tvg-id="CO | Cablenoticias" tvg-name="CO | Cablenoticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/175px-Cable_Noticias_logo.svg.png" group-title="NOTICIAS E INFORMACION", 188 | Cablenoticias
-http://190.102.139.244:8900/play/a0zd/index.m3u8
-#EXTINF:-1 tvg-id="IRN | HispanTV" tvg-name="IRN | HispanTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/245px-HispanTv_logo.svg.png" group-title="NOTICIAS E INFORMACION", 189 | HispanTV
+#EXTINF:-1 tvg-id="IRN | HispanTV" tvg-name="IRN | HispanTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/245px-HispanTv_logo.svg.png" group-title="NOTICIAS E INFORMACION", 188 | HispanTV
 https://cdnlive.presstv.ir/cdnlive/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CH | CGTN Español" tvg-name="CH | CGTN Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/180px-CGTN_Espanol.png" group-title="NOTICIAS E INFORMACION", 190 | CGTN Español
+#EXTINF:-1 tvg-id="CH | CGTN Español" tvg-name="CH | CGTN Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/180px-CGTN_Espanol.png" group-title="NOTICIAS E INFORMACION", 189 | CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 tvg-id="PE | Canal N" tvg-name="PE | Canal N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Canal_N_2022.png/100px-Canal_N_2022.png" group-title="NOTICIAS E INFORMACION", 191 | Canal N
+#EXTINF:-1 tvg-id="PE | Canal N" tvg-name="PE | Canal N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Canal_N_2022.png/100px-Canal_N_2022.png" group-title="NOTICIAS E INFORMACION", 190 | Canal N
 http://www.onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu711/thjhg3468ihj/11.m3u8
-#EXTINF:-1 tvg-id="PE | RPP TV" tvg-name="PE | RPP TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/RPP_TV_-_2017_logo.png" group-title="NOTICIAS E INFORMACION", 192 | RPP TV
+#EXTINF:-1 tvg-id="PE | RPP TV" tvg-name="PE | RPP TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/RPP_TV_-_2017_logo.png" group-title="NOTICIAS E INFORMACION", 191 | RPP TV
 http://187.102.208.108:50001/play/a02n/index.m3u8
-#EXTINF:-1 tvg-id="ESP | 24 Horas tve" tvg-name="ESP | 24 horas tve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/125px-Logo_TVE-24h.svg.png" group-title="NOTICIAS E INFORMACION", 193 | 24 horas tve
+#EXTINF:-1 tvg-id="ESP | 24 Horas tve" tvg-name="ESP | 24 horas tve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/125px-Logo_TVE-24h.svg.png" group-title="NOTICIAS E INFORMACION", 192 | 24 horas tve
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-id="USA | CNN en Español" tvg-name="USA | CNN en Español" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png" group-title="NOTICIAS E INFORMACION", 194 | CNN en Español
+#EXTINF:-1 tvg-id="USA | CNN en Español" tvg-name="USA | CNN en Español" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png" group-title="NOTICIAS E INFORMACION", 193 | CNN en Español
 http://45.5.117.182:8000/play/a0f6/index.m3u8
-#EXTINF:-1 tvg-id="CL | CNN Chile" tvg-name="CL | CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/150px-CNN_Chile_logo_2017.svg.png" group-title="NOTICIAS E INFORMACION", 195 | CNN Chile
+#EXTINF:-1 tvg-id="CL | CNN Chile" tvg-name="CL | CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/150px-CNN_Chile_logo_2017.svg.png" group-title="NOTICIAS E INFORMACION", 194 | CNN Chile
 http://190.102.139.244:8900/play/a0u9/index.m3u8
-#EXTINF:-1 tvg-id="USA | CNN Internacional" tvg-name="USA | CNN Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/162px-CNN_International_logo.svg.png" group-title="NOTICIAS E INFORMACION", 196 | CNN Internacional
+#EXTINF:-1 tvg-id="USA | CNN Internacional" tvg-name="USA | CNN Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/162px-CNN_International_logo.svg.png" group-title="NOTICIAS E INFORMACION", 195 | CNN Internacional
 http://138.59.177.34:8000/play/a010/index.m3u8
-#EXTINF:-1 tvg-id="UK | BBC World News" tvg-name="UK | BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/170px-BBC_World_News_2022_%28Boxed%29.svg.png" group-title="NOTICIAS E INFORMACION", 197 | BBC World News
+#EXTINF:-1 tvg-id="UK | BBC World News" tvg-name="UK | BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/170px-BBC_World_News_2022_%28Boxed%29.svg.png" group-title="NOTICIAS E INFORMACION", 196 | BBC World News
 http://45.5.117.182:8000/play/a0f7/index.m3u8
+#EXTINF:-1 tvg-id="QA | Al Jazeera" tvg-name="QA | Al Jazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1200px-Aljazeera_eng.svg.png" group-title="NOTICIAS E INFORMACION", 197 | Al Jazeera
+https://3.ultimate2019.com/stream/hls/668
 #EXTINF:-1 tvg-id="CL | Canal 24 Horas" tvg-name="CL | Canal 24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png" group-title="NOTICIAS E INFORMACION", 198 | Canal 24 Horas
 https://marine2.miplay.cl/24horas/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Lifetime" tvg-name="USA | Lifetime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/150px-Logo_Lifetime_2020.svg.png" group-title="MISCELANEO", 199 | Lifetime
@@ -1908,7 +1908,7 @@ http://svtv.xyz:8080/live/sandra30abril/CQNFV/278550.m3u8
 #EXTINF:-1 tvg-id="GT | GT Live" tvg-name="GT | GT Live" tvg-logo="https://www.hispanatv.com/img/tv/Gt-Live.png" group-title="GUATEMALA", 930 | GT Live || GUATEMALA
 https://emisoras.hn:8081/gtlive/index.m3u8
 #EXTINF:-1 tvg-id="DO | Teleantillas" tvg-name="DO | Teleantillas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/TeleAntillas.jpg/125px-TeleAntillas.jpg" group-title="REPUBLICA DOMINICANA", 931 | Teleantillas || REPUBLICA DOMINICANA
-https://cacatuaiptv.com/teleantillas2.m3u8
+http://45.228.232.219:16000/play/a0lh/index.m3u8
 #EXTINF:-1 tvg-id="DO | Si TV" tvg-name="DO | Si TV" tvg-logo="https://sitv.com.do/wp-content/uploads/2021/10/sitvlogo-1.svg" group-title="REPUBLICA DOMINICANA", 932 | Si TV || REPUBLICA DOMINICANA
 http://190.122.104.221/Player/sitv.m3u8
 #EXTINF:-1 tvg-id="DO | Canal RTVD 4" tvg-name="DO | Canal RTVD 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/RTVD_logo_2022.webp/200px-RTVD_logo_2022.webp.png" group-title="REPUBLICA DOMINICANA", 933 | Canal RTVD 4 || REPUBLICA DOMINICANA
@@ -1932,239 +1932,237 @@ http://51.81.93.29:8084/hls/d15.m3u8
 #EXTINF:-1 tvg-id="DO | Tele Santo Domingo" tvg-name="DO | Tele Santo Domingo" tvg-logo="https://pbs.twimg.com/media/FpQWZWmXoAIGvm4?format=png&name=small" group-title="REPUBLICA DOMINICANA", 942 | Tele Santo Domingo || REPUBLICA DOMINICANA
 https://cdn5.streamgato.us:3315/live/telesantodomingolive.m3u8
 #EXTINF:-1 tvg-id="DO | RTVD 17" tvg-name="DO | RTVD 17" tvg-logo="https://canal17rd.com/wp-content/uploads/2020/09/cropped-logo.png" group-title="REPUBLICA DOMINICANA", 943 | RTVD 17 || REPUBLICA DOMINICANA
-https://protvradiostream.com:1936/rtvd17/ngrp:rtvd17_all/playlist.m3u8
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="DO | Cinevisión" tvg-name="DO | Cinevisión" tvg-logo="https://canal19.do/wp-content/uploads/2021/06/cropped-Logos-Canal-19-Cinevision-1024x341.png" group-title="REPUBLICA DOMINICANA", 944 | Cinevisión || REPUBLICA DOMINICANA
 https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/mono.m3u8
 #EXTINF:-1 tvg-id="DO | Antena 21" tvg-name="DO | Antena 21" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Antena_21_2017.png/revision/latest/scale-to-width-down/300?cb=20210512152824&path-prefix=es" group-title="REPUBLICA DOMINICANA", 945 | Antena 21 || REPUBLICA DOMINICANA
 http://51.81.106.157:8084/hls/a21.m3u8
 #EXTINF:-1 tvg-id="DO | Telefuturo canal 23" tvg-name="DO | Telefuturo canal 23" tvg-logo="https://radiodigitaltv.com/wp-content/uploads/2022/01/telefuturo-canal-23-en-vivo-online.jpg" group-title="REPUBLICA DOMINICANA", 946 | Telefuturo canal 23 || REPUBLICA DOMINICANA
 https://ss9.domint.net:3054/tf_str/telefuturo/playlist.m3u8
-#EXTINF:-1 tvg-id="DO | Red Nacional de Noticias" tvg-name="DO | Red Nacional de Noticias" tvg-logo="https://i0.wp.com/rnn.com.do/wp-content/uploads/2021/11/LOGO-CUBOS-RNN-test-3.png?resize=1536%2C484&ssl=1" group-title="REPUBLICA DOMINICANA", 947 | RNN || REPUBLICA DOMINICANA
-http://cacatuaiptv.com/rnn.m3u8
-#EXTINF:-1 tvg-id="DO | Teleuniverso" tvg-name="DO | Teleuniverso" tvg-logo="https://pbs.twimg.com/profile_images/1055497104175652864/3iL8w0va_400x400.jpg" group-title="REPUBLICA DOMINICANA", 948 | Teleuniverso || REPUBLICA DOMINICANA
-http://45.228.234.193:16000/play/a0cx/index.m3u8
-#EXTINF:-1 tvg-id="DO | EN Televisión" tvg-name="DO | EN Televisión" tvg-logo="https://canalesdominicanos.live/template/images/radios/entelevision.jpg" group-title="REPUBLICA DOMINICANA", 949 | EN Televisión || REPUBLICA DOMINICANA
-https://video.misistemareseller.com/entelevision/entelevision/playlist.m3u8
-#EXTINF:-1 tvg-id="DO | Supercanal 33" tvg-name="DO | Supercanal 33" tvg-logo="https://1.bp.blogspot.com/-apCuh7ef9oo/XiMXT7DxbiI/AAAAAAAAIWY/HvhzsoeWuck0a8_58dw4TdQyWuyGCQHbgCLcBGAsYHQ/s1600/img_super%2Bcanal%2B33%2Ben%2Bvivo%2Btv%2BDom.jpg" group-title="REPUBLICA DOMINICANA", 950 | Supercanal 33 || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Teleuniverso" tvg-name="DO | Teleuniverso" tvg-logo="https://pbs.twimg.com/profile_images/1055497104175652864/3iL8w0va_400x400.jpg" group-title="REPUBLICA DOMINICANA", 947 | Teleuniverso || REPUBLICA DOMINICANA
+https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
+#EXTINF:-1 tvg-id="DO | Entelevisión" tvg-name="DO | Entelevisión" tvg-logo="https://canalesdominicanos.live/template/images/radios/entelevision.jpg" group-title="REPUBLICA DOMINICANA", 948 | Entelevisión || REPUBLICA DOMINICANA
+https://panel.streamingtv-mediacp.online:1936/8162/8162/playlist.m3u8
+#EXTINF:-1 tvg-id="DO | Supercanal 33" tvg-name="DO | Supercanal 33" tvg-logo="https://1.bp.blogspot.com/-apCuh7ef9oo/XiMXT7DxbiI/AAAAAAAAIWY/HvhzsoeWuck0a8_58dw4TdQyWuyGCQHbgCLcBGAsYHQ/s1600/img_super%2Bcanal%2B33%2Ben%2Bvivo%2Btv%2BDom.jpg" group-title="REPUBLICA DOMINICANA", 949 | Supercanal 33 || REPUBLICA DOMINICANA
 https://elgruposupercanal.streamgato.us:3658/live/supercanal33live.m3u8
-#EXTINF:-1 tvg-id="DO | Sport Visión Canal 35" tvg-name="DO | Sport Visión Canal 35" tvg-logo="https://canalesdominicanos.live/template/images/radios/small/sport-vision-canal-35.jpg" group-title="REPUBLICA DOMINICANA", 951 | Sport Visión Canal 35 || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Sport Visión Canal 35" tvg-name="DO | Sport Visión Canal 35" tvg-logo="https://canalesdominicanos.live/template/images/radios/small/sport-vision-canal-35.jpg" group-title="REPUBLICA DOMINICANA", 950 | Sport Visión Canal 35 || REPUBLICA DOMINICANA
 https://5fa5de1a545ae.streamlock.net/sportvision35tv/sportvision35tv/playlist.m3u8
-#EXTINF:-1 tvg-id="DO | CDN 37" tvg-name="DO | CDN 37" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQaFlOLf2ETBNoLvzvPfnPDmChxG7FkUQJ5DkH0fg=s900-c-k-c0x00ffffff-no-rj" group-title="REPUBLICA DOMINICANA", 952 | CDN 37 || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | CDN 37" tvg-name="DO | CDN 37" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQaFlOLf2ETBNoLvzvPfnPDmChxG7FkUQJ5DkH0fg=s900-c-k-c0x00ffffff-no-rj" group-title="REPUBLICA DOMINICANA", 951 | CDN 37 || REPUBLICA DOMINICANA
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/chunklist_b4628000.m3u8
-#EXTINF:-1 tvg-id="DO | Coral TV" tvg-name="DO | Coral TV" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_01/large.Coral2017.PNG.5f4fc1a4dfac82acd43fccd93cffb82c.PNG" group-title="REPUBLICA DOMINICANA", 953 | Coral TV || REPUBLICA DOMINICANA
-http://190.122.96.188:8888/http/005
-#EXTINF:-1 tvg-id="DO | Teleradio América" tvg-name="DO | Teleradio América" tvg-logo="https://teleradioamerica.com/wp-content/themes/tra2017/imagenes/logo.png" group-title="REPUBLICA DOMINICANA", 954 | Teleradio América || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Teleradio América" tvg-name="DO | Teleradio América" tvg-logo="https://teleradioamerica.com/wp-content/themes/tra2017/imagenes/logo.png" group-title="REPUBLICA DOMINICANA", 952 | Teleradio América || REPUBLICA DOMINICANA
 https://live.teledom.info:3625/live/tra45live.m3u8
-#EXTINF:-1 tvg-id="DO | Amé Televisión" tvg-name="DO | Amé Televisión" tvg-logo="https://www.amecanal47.com/images/ame_47_sm.jpg" group-title="REPUBLICA DOMINICANA", 955 | Amé Televisión || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Amé Televisión" tvg-name="DO | Amé Televisión" tvg-logo="https://www.amecanal47.com/images/ame_47_sm.jpg" group-title="REPUBLICA DOMINICANA", 953 | Amé Televisión || REPUBLICA DOMINICANA
 https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
-#EXTINF:-1 tvg-id="DO | Televisión La Nueva Isabela" tvg-name="DO | Televisión La Nueva Isabela" tvg-logo="https://tni51online.com/images/tni_logo_web.jpg" group-title="REPUBLICA DOMINICANA", 956 | Televisión La Nueva Isabela || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Televisión La Nueva Isabela" tvg-name="DO | Televisión La Nueva Isabela" tvg-logo="https://tni51online.com/images/tni_logo_web.jpg" group-title="REPUBLICA DOMINICANA", 954 | Televisión La Nueva Isabela || REPUBLICA DOMINICANA
 https://ss5.domint.net:3188/tni_str/tni51/playlist.m3u8
-#EXTINF:-1 tvg-id="DO | Teleimpacto" tvg-name="DO | Teleimpacto" tvg-logo="http://teleimpacto52.com.do/wp-content/uploads/2021/07/TELEIMPACTOLOGO3-e1626542642362.png" group-title="REPUBLICA DOMINICANA", 957 | Teleimpacto || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Teleimpacto" tvg-name="DO | Teleimpacto" tvg-logo="http://teleimpacto52.com.do/wp-content/uploads/2021/07/TELEIMPACTOLOGO3-e1626542642362.png" group-title="REPUBLICA DOMINICANA", 955 | Teleimpacto || REPUBLICA DOMINICANA
 http://190.122.96.188:8888/http/013
-#EXTINF:-1 tvg-id="DO | Carivisión" tvg-name="DO | Carivisión" tvg-logo="http://carivision.online/wp-content/uploads/2017/10/Sin-t%C3%ADtulo-1carivision-300x144.png" group-title="REPUBLICA DOMINICANA", 958 | Carivisión || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Carivisión" tvg-name="DO | Carivisión" tvg-logo="http://carivision.online/wp-content/uploads/2017/10/Sin-t%C3%ADtulo-1carivision-300x144.png" group-title="REPUBLICA DOMINICANA", 956 | Carivisión || REPUBLICA DOMINICANA
 https://ss5.domint.net:3174/car_str/carivision/playlist.m3u8
-#EXTINF:-1 tvg-id="DO | Teledigital" tvg-name="DO | Teledigital" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2218-294x165-FFFFFF.jpg" group-title="REPUBLICA DOMINICANA", 959 | Teledigital || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Teledigital" tvg-name="DO | Teledigital" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2218-294x165-FFFFFF.jpg" group-title="REPUBLICA DOMINICANA", 957 | Teledigital || REPUBLICA DOMINICANA
 https://cdn5.streamgato.us:3371/live/canal56live.m3u8
-#EXTINF:-1 tvg-id="DO | Digital Visión 63" tvg-name="DO | Digital Visión 63" tvg-logo="https://pbs.twimg.com/profile_images/878989434196295680/p1LEA6U4_400x400.jpg" group-title="REPUBLICA DOMINICANA", 960 | Digital Visión 63 || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Digital Visión 63" tvg-name="DO | Digital Visión 63" tvg-logo="https://pbs.twimg.com/profile_images/878989434196295680/p1LEA6U4_400x400.jpg" group-title="REPUBLICA DOMINICANA", 958 | Digital Visión 63 || REPUBLICA DOMINICANA
 https://ss3.domint.net:3120/dv6_str/digitalvision/chunklist_w1482544367.m3u8
-#EXTINF:-1 tvg-id="DO | CDN Deportes" tvg-name="DO | CDN Deportes" tvg-logo="https://cdndeportes.com.do/wp-content/uploads/2022/02/Logo_CDNDeportes.svg" group-title="REPUBLICA DOMINICANA", 961 | CDN Deportes || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | CDN Deportes" tvg-name="DO | CDN Deportes" tvg-logo="https://cdndeportes.com.do/wp-content/uploads/2022/02/Logo_CDNDeportes.svg" group-title="REPUBLICA DOMINICANA", 959 | CDN Deportes || REPUBLICA DOMINICANA
 http://181.189.243.254:8000/play/a0qq/index.m3u8
-#EXTINF:-1 tvg-id="DO | Tele Radio Norte" tvg-name="DO | Tele Radio Norte" tvg-logo="https://lh3.googleusercontent.com/p/AF1QipOwY1A-sA1J8U8Mkjs5sgVh28tkI2ibPDp0aLPO=w1080-h608-p-no-v0" group-title="REPUBLICA DOMINICANA", 962 | Tele Radio Norte || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Tele Radio Norte" tvg-name="DO | Tele Radio Norte" tvg-logo="https://lh3.googleusercontent.com/p/AF1QipOwY1A-sA1J8U8Mkjs5sgVh28tkI2ibPDp0aLPO=w1080-h608-p-no-v0" group-title="REPUBLICA DOMINICANA", 960 | Tele Radio Norte || REPUBLICA DOMINICANA
 https://angelistic.live:3785/live/tvoficiallive.m3u8
-#EXTINF:-1 tvg-id="DO | Su Mundo TV" tvg-name="DO | Su Mundo TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/su-mundo-tv.jpg" group-title="REPUBLICA DOMINICANA", 963 | Su Mundo TV || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Su Mundo TV" tvg-name="DO | Su Mundo TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/su-mundo-tv.jpg" group-title="REPUBLICA DOMINICANA", 961 | Su Mundo TV || REPUBLICA DOMINICANA
 https://vsrv2.az-streamingserver.com:3087/live/sumundotvlive.m3u8
-#EXTINF:-1 tvg-id="DO | Guaymate TV" tvg-name="DO | Guaymate TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2472-800x450-FFFFFF.jpg" group-title="REPUBLICA DOMINICANA", 964 | Guaymate TV || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Guaymate TV" tvg-name="DO | Guaymate TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2472-800x450-FFFFFF.jpg" group-title="REPUBLICA DOMINICANA", 962 | Guaymate TV || REPUBLICA DOMINICANA
 https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8
-#EXTINF:-1 tvg-id="DO | Nexxo TV" tvg-name="DO | Nexxo TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/nexxo-tv-santiago.png" group-title="REPUBLICA DOMINICANA", 965 | Nexxo TV || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Nexxo TV" tvg-name="DO | Nexxo TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/nexxo-tv-santiago.png" group-title="REPUBLICA DOMINICANA", 963 | Nexxo TV || REPUBLICA DOMINICANA
 https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
-#EXTINF:-1 tvg-id="DO | Teleunión" tvg-name="DO | Teleunión" tvg-logo="http://teleuniontvrd.com/portal/wp-content/themes/rt_manticore/images/logoteleunionsmall.png" group-title="REPUBLICA DOMINICANA", 966 | Teleunión || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Teleunión" tvg-name="DO | Teleunión" tvg-logo="http://teleuniontvrd.com/portal/wp-content/themes/rt_manticore/images/logoteleunionsmall.png" group-title="REPUBLICA DOMINICANA", 964 | Teleunión || REPUBLICA DOMINICANA
 http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
-#EXTINF:-1 tvg-id="DO | Canal 25" tvg-name="DO | Canal 25" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/27311479e30cd9bfbae59eb9854b0e2c.webp" group-title="REPUBLICA DOMINICANA", 967 | Canal 25 || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Canal 25" tvg-name="DO | Canal 25" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/27311479e30cd9bfbae59eb9854b0e2c.webp" group-title="REPUBLICA DOMINICANA", 965 | Canal 25 || REPUBLICA DOMINICANA
 https://ss3.domint.net:3150/c25_str/canal25/playlist.m3u8
-#EXTINF:-1 tvg-id="DO | Televisión del Este" tvg-name="DO | Televisión del Este" tvg-logo="https://televisiondeleste.net/wp-content/uploads/2021/04/LogoTVEste2.png" group-title="REPUBLICA DOMINICANA", 968 | Televisión del Este || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Televisión del Este" tvg-name="DO | Televisión del Este" tvg-logo="https://televisiondeleste.net/wp-content/uploads/2021/04/LogoTVEste2.png" group-title="REPUBLICA DOMINICANA", 966 | Televisión del Este || REPUBLICA DOMINICANA
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="DO | Galaxia Teve" tvg-name="DO | Galaxia Teve" tvg-logo="http://1.bp.blogspot.com/-BZ3byEaoRkE/XfwZYeUp-eI/AAAAAAAAD1E/AYwLVzCOjQkL4sAK3RuM5Vm512y9rtw5QCK4BGAYYCw/s1600/Sin%2Bt%25C3%25ADtulo-4-01.jpg" group-title="REPUBLICA DOMINICANA", 969 | Galaxia Teve || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Galaxia Teve" tvg-name="DO | Galaxia Teve" tvg-logo="http://1.bp.blogspot.com/-BZ3byEaoRkE/XfwZYeUp-eI/AAAAAAAAD1E/AYwLVzCOjQkL4sAK3RuM5Vm512y9rtw5QCK4BGAYYCw/s1600/Sin%2Bt%25C3%25ADtulo-4-01.jpg" group-title="REPUBLICA DOMINICANA", 967 | Galaxia Teve || REPUBLICA DOMINICANA
 https://vdo1.streamgato.us:3839/live/galaxiatvlive.m3u8
-#EXTINF:-1 tvg-id="DO | MegaVisión TV" tvg-name="DO | MegaVisión TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLThfHKg1wlVNDCFiAmoJXlnyziu-qyb3Z27c8kYZQ=s900-c-k-c0x00ffffff-no-rj" group-title="REPUBLICA DOMINICANA", 970 | MegaVisión TV || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | MegaVisión TV" tvg-name="DO | MegaVisión TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLThfHKg1wlVNDCFiAmoJXlnyziu-qyb3Z27c8kYZQ=s900-c-k-c0x00ffffff-no-rj" group-title="REPUBLICA DOMINICANA", 968 | MegaVisión TV || REPUBLICA DOMINICANA
 http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
-#EXTINF:-1 tvg-id="DO | TV 43" tvg-name="DO | TV 43" tvg-logo="http://www.tv43.net/wp-content/uploads/2021/09/cropped-logo-Nuevo-corto-TV43.png" group-title="REPUBLICA DOMINICANA", 971 | TV 43 || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | TV 43" tvg-name="DO | TV 43" tvg-logo="http://www.tv43.net/wp-content/uploads/2021/09/cropped-logo-Nuevo-corto-TV43.png" group-title="REPUBLICA DOMINICANA", 969 | TV 43 || REPUBLICA DOMINICANA
 https://ss5.domint.net:3058/tv43_str/tv43/playlist.m3u8
-#EXTINF:-1 tvg-id="DO | Adocco TV" tvg-name="DO | Adocco TV" tvg-logo="https://adocco.tv/wp-content/uploads/2022/03/cropped-logo_tv.png" group-title="REPUBLICA DOMINICANA", 972 | Adocco TV || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Adocco TV" tvg-name="DO | Adocco TV" tvg-logo="https://adocco.tv/wp-content/uploads/2022/03/cropped-logo_tv.png" group-title="REPUBLICA DOMINICANA", 970 | Adocco TV || REPUBLICA DOMINICANA
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="DO | Vision 3000 Canal 3" tvg-name="DO | Vision 3000 Canal 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHsrGtckQhs4siaVvTunwb0INzkcxVB_Bh1P7WdezFQbmF6WqCmoXaHNflBKIn3FNmFjw&usqp=CAU" group-title="REPUBLICA DOMINICANA", 973 | Vision 3000 Canal 3 || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Vision 3000 Canal 3" tvg-name="DO | Vision 3000 Canal 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHsrGtckQhs4siaVvTunwb0INzkcxVB_Bh1P7WdezFQbmF6WqCmoXaHNflBKIn3FNmFjw&usqp=CAU" group-title="REPUBLICA DOMINICANA", 971 | Vision 3000 Canal 3 || REPUBLICA DOMINICANA
 https://ss3.domint.net:3102/v3_str/v3000/playlist.m3u8
-#EXTINF:-1 tvg-id="DO | Peravia Visión" tvg-name="DO | Peravia Visión" tvg-logo="https://peraviavision.tv/wp-content/uploads/2018/11/cropped-Logo-PERAVIA-VISION-SOLO.png" group-title="REPUBLICA DOMINICANA", 974 | Peravia Visión || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Peravia Visión" tvg-name="DO | Peravia Visión" tvg-logo="https://peraviavision.tv/wp-content/uploads/2018/11/cropped-Logo-PERAVIA-VISION-SOLO.png" group-title="REPUBLICA DOMINICANA", 972 | Peravia Visión || REPUBLICA DOMINICANA
 https://ss5.domint.net:3048/pvv_str/peravia/playlist.m3u8
-#EXTINF:-1 tvg-id="DO | Boreal Televisión" tvg-name="DO | Boreal Televisión" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQRQnla6CN3x3X55D3yFq6VYWTrLX97te5ArEJ8=s900-c-k-c0x00ffffff-no-rj" group-title="REPUBLICA DOMINICANA", 975 | Boreal Televisión || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Boreal Televisión" tvg-name="DO | Boreal Televisión" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQRQnla6CN3x3X55D3yFq6VYWTrLX97te5ArEJ8=s900-c-k-c0x00ffffff-no-rj" group-title="REPUBLICA DOMINICANA", 973 | Boreal Televisión || REPUBLICA DOMINICANA
 https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
-#EXTINF:-1 tvg-id="DO | Telenord Canal 8" tvg-name="DO | Telenord Canal 8" tvg-logo="https://www.telenord.com.do/templates/yootheme/cache/0a/Telenordcom_-_iconos_8-0a7abf6c.webp" group-title="REPUBLICA DOMINICANA", 976 | Telenord Canal 8 || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Telenord Canal 8" tvg-name="DO | Telenord Canal 8" tvg-logo="https://www.telenord.com.do/templates/yootheme/cache/0a/Telenordcom_-_iconos_8-0a7abf6c.webp" group-title="REPUBLICA DOMINICANA", 974 | Telenord Canal 8 || REPUBLICA DOMINICANA
 http://newyorkstream.ddns.net:5854/telenord8/telenord8/telenord8.m3u8
-#EXTINF:-1 tvg-id="DO | Telenord Canal 10" tvg-name="DO | Telenord Canal 10" tvg-logo="https://www.telenord.com.do/templates/yootheme/cache/88/Telenordcom_-_iconos_10-88d88d08.webp" group-title="REPUBLICA DOMINICANA", 977 | Telenord Canal 10 || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Telenord Canal 10" tvg-name="DO | Telenord Canal 10" tvg-logo="https://www.telenord.com.do/templates/yootheme/cache/88/Telenordcom_-_iconos_10-88d88d08.webp" group-title="REPUBLICA DOMINICANA", 975 | Telenord Canal 10 || REPUBLICA DOMINICANA
 http://newyorkstream.ddns.net:5854/telenord10/telenord10/telenord10.m3u8
-#EXTINF:-1 tvg-id="DO | Telenord Canal 12" tvg-name="DO | Telenord Canal 12" tvg-logo="https://telenord.com.do/templates/yootheme/cache/f3/Telenordcom_-_iconos_12-f3ec5e84.webp" group-title="REPUBLICA DOMINICANA", 978 | Telenord Canal 12 || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Telenord Canal 12" tvg-name="DO | Telenord Canal 12" tvg-logo="https://telenord.com.do/templates/yootheme/cache/f3/Telenordcom_-_iconos_12-f3ec5e84.webp" group-title="REPUBLICA DOMINICANA", 976 | Telenord Canal 12 || REPUBLICA DOMINICANA
 http://newyorkstream.ddns.net:5854/telenord12/telenord12/telenord12.m3u8
-#EXTINF:-1 tvg-id="DO | TVO Canal 49" tvg-name="DO | TVO Canal 49" tvg-logo="https://tvo.com.do/imgs/logo.png" group-title="REPUBLICA DOMINICANA", 979 | TVO Canal 49 || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | TVO Canal 49" tvg-name="DO | TVO Canal 49" tvg-logo="https://tvo.com.do/imgs/logo.png" group-title="REPUBLICA DOMINICANA", 977 | TVO Canal 49 || REPUBLICA DOMINICANA
 https://rctvhd.net:8081/tvoromanalive/index.m3u8
-#EXTINF:-1 tvg-id="DO | TV 10 San Juan" tvg-name="DO | TV 10 San Juan" tvg-logo="https://tv10sanjuan.com.do/wp-content/uploads/2020/09/LOGO-TV10-unico-1.png" group-title="REPUBLICA DOMINICANA", 980 | TV 10 San Juan || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | TV 10 San Juan" tvg-name="DO | TV 10 San Juan" tvg-logo="https://tv10sanjuan.com.do/wp-content/uploads/2020/09/LOGO-TV10-unico-1.png" group-title="REPUBLICA DOMINICANA", 978 | TV 10 San Juan || REPUBLICA DOMINICANA
 https://cloud2.streaminglivehd.com:1936/8024/8024/playlist.m3u8
-#EXTINF:-1 tvg-id="DO | Morro TV" tvg-name="DO | Morro TV" tvg-logo="https://pbs.twimg.com/profile_images/1508441196317794306/nfsXucqo_400x400.jpg" group-title="REPUBLICA DOMINICANA", 981 | Morro TV || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Morro TV" tvg-name="DO | Morro TV" tvg-logo="https://pbs.twimg.com/profile_images/1508441196317794306/nfsXucqo_400x400.jpg" group-title="REPUBLICA DOMINICANA", 979 | Morro TV || REPUBLICA DOMINICANA
 https://cloudflare.streamgato.us:3044/live/morrotvlive.m3u8
-#EXTINF:-1 tvg-id="DO | Makao TV" tvg-name="DO | Makao TV" tvg-logo="https://makaoradio.com/wp-content/uploads/2021/06/makao_new_332.png" group-title="REPUBLICA DOMINICANA", 982 | Makao TV || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Makao TV" tvg-name="DO | Makao TV" tvg-logo="https://makaoradio.com/wp-content/uploads/2021/06/makao_new_332.png" group-title="REPUBLICA DOMINICANA", 980 | Makao TV || REPUBLICA DOMINICANA
 https://live.obslivestream.com/makaomux/index.m3u8
-#EXTINF:-1 tvg-id="DO | TV Plata" tvg-name="DO | TV Plata" tvg-logo="https://canalesdominicanos.live/template/images/radios/tv_plata_canal_3.jpg" group-title="REPUBLICA DOMINICANA", 983 | TV Plata || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | TV Plata" tvg-name="DO | TV Plata" tvg-logo="https://canalesdominicanos.live/template/images/radios/tv_plata_canal_3.jpg" group-title="REPUBLICA DOMINICANA", 981 | TV Plata || REPUBLICA DOMINICANA
 https://ss9.domint.net:3032/tvp_str/tvp2111/playlist.m3u8
-#EXTINF:-1 tvg-id="DO | Musavisión" tvg-name="DO | Musavisión" tvg-logo="https://musavision.com/wp-content/uploads/2023/03/musavision-logo-2.png" group-title="REPUBLICA DOMINICANA", 984 | Musavisión || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Musavisión" tvg-name="DO | Musavisión" tvg-logo="https://musavision.com/wp-content/uploads/2023/03/musavision-logo-2.png" group-title="REPUBLICA DOMINICANA", 982 | Musavisión || REPUBLICA DOMINICANA
 https://soportedvb.click:3827/live/musavisiontvlive.m3u8
-#EXTINF:-1 tvg-id="DO | Telecontacto" tvg-name="DO | Telecontacto" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSd3ktMHGu7sx029OZRAKLzzFmpqtkIBmOiUtw4=s900-c-k-c0x00ffffff-no-rj" group-title="REPUBLICA DOMINICANA", 985 | Telecontacto || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Telecontacto" tvg-name="DO | Telecontacto" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSd3ktMHGu7sx029OZRAKLzzFmpqtkIBmOiUtw4=s900-c-k-c0x00ffffff-no-rj" group-title="REPUBLICA DOMINICANA", 983 | Telecontacto || REPUBLICA DOMINICANA
 https://vdo1.streamgato.us:3578/live/telecontactohdlive.m3u8
-#EXTINF:-1 tvg-id="DO | Romana TV" tvg-name="DO | Romana TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/do-romana-tv-2379.jpg" group-title="REPUBLICA DOMINICANA", 986 | Romana TV || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Romana TV" tvg-name="DO | Romana TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/do-romana-tv-2379.jpg" group-title="REPUBLICA DOMINICANA", 984 | Romana TV || REPUBLICA DOMINICANA
 https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
-#EXTINF:-1 tvg-id="DO | Alegre TV" tvg-name="DO | Alegre TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2852-294x165-FFFFFF.jpg" group-title="REPUBLICA DOMINICANA", 987 | Alegre TV || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Alegre TV" tvg-name="DO | Alegre TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2852-294x165-FFFFFF.jpg" group-title="REPUBLICA DOMINICANA", 985 | Alegre TV || REPUBLICA DOMINICANA
 https://vsrv2.az-streamingserver.com:3149/live/alegretvlive.m3u8
-#EXTINF:-1 tvg-id="DO | La Ruta TV" tvg-name="DO | La Ruta TV" tvg-logo="https://yt3.ggpht.com/ZukRlhCuw6HbWdDrEqAHsoqTA6Hjjl_hWkNDlOcAOAzArBalOnV43dU0nL1s3gd6RlAb2KTFOQ=s48-c-k-c0x00ffffff-no-rj" group-title="REPUBLICA DOMINICANA", 988 | La Ruta TV || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | La Ruta TV" tvg-name="DO | La Ruta TV" tvg-logo="https://yt3.ggpht.com/ZukRlhCuw6HbWdDrEqAHsoqTA6Hjjl_hWkNDlOcAOAzArBalOnV43dU0nL1s3gd6RlAb2KTFOQ=s48-c-k-c0x00ffffff-no-rj" group-title="REPUBLICA DOMINICANA", 986 | La Ruta TV || REPUBLICA DOMINICANA
 https://vsrv2.az-streamingserver.com:3983/live/larutatvlive.m3u8
-#EXTINF:-1 tvg-id="DO | Luna TV Canal 53" tvg-name="DO | Luna TV Canal 53" tvg-logo="https://lunatvdo.b-cdn.net/wp/wp-content/uploads/2022/06/logo_new1-300x117.png" group-title="REPUBLICA DOMINICANA", 989 | Luna TV Canal 53 || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Luna TV Canal 53" tvg-name="DO | Luna TV Canal 53" tvg-logo="https://lunatvdo.b-cdn.net/wp/wp-content/uploads/2022/06/logo_new1-300x117.png" group-title="REPUBLICA DOMINICANA", 987 | Luna TV Canal 53 || REPUBLICA DOMINICANA
 https://streaming.ath.cx:1936/lunatv/lunatv/playlist.m3u8
-#EXTINF:-1 tvg-id="DO | Orbit TV" tvg-name="DO | Orbit TV" tvg-logo="https://orbitcable.com.do/wp-content/uploads/2022/05/logotipo-orbit-01-1-e1653590327142.png" group-title="REPUBLICA DOMINICANA", 990 | Orbit TV || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Orbit TV" tvg-name="DO | Orbit TV" tvg-logo="https://orbitcable.com.do/wp-content/uploads/2022/05/logotipo-orbit-01-1-e1653590327142.png" group-title="REPUBLICA DOMINICANA", 988 | Orbit TV || REPUBLICA DOMINICANA
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
-#EXTINF:-1 tvg-id="DO | Telemilenio" tvg-name="DO | Telemilenio" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1647-640x360-FFFFFF.jpg" group-title="REPUBLICA DOMINICANA", 991 | Telemilenio || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Telemilenio" tvg-name="DO | Telemilenio" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1647-640x360-FFFFFF.jpg" group-title="REPUBLICA DOMINICANA", 989 | Telemilenio || REPUBLICA DOMINICANA
 https://cm.hostlagarto.com:4445/Telemilenio/Telemilenio.myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="DO | Vegavision Canal 18" tvg-name="DO | Vegavision Canal 18" tvg-logo="https://canalesdominicanos.live/template/images/radios/vegavision-canal-18.jpg" group-title="REPUBLICA DOMINICANA", 992 | Vegavision Canal 18 || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Vegavision Canal 18" tvg-name="DO | Vegavision Canal 18" tvg-logo="https://canalesdominicanos.live/template/images/radios/vegavision-canal-18.jpg" group-title="REPUBLICA DOMINICANA", 990 | Vegavision Canal 18 || REPUBLICA DOMINICANA
 https://cdn4.hostlagarto.com:8081/static/canal18hd/playlist.m3u8
-#EXTINF:-1 tvg-id="DO | Bajo Techo TV" tvg-name="DO | Bajo Techo TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUsTZhKSXMm95tdLQTmspPc-r6sPuH6Rn72sixXAw=s900-c-k-c0x00ffffff-no-rj" group-title="REPUBLICA DOMINICANA", 993 | Bajo Techo TV || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Bajo Techo TV" tvg-name="DO | Bajo Techo TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUsTZhKSXMm95tdLQTmspPc-r6sPuH6Rn72sixXAw=s900-c-k-c0x00ffffff-no-rj" group-title="REPUBLICA DOMINICANA", 991 | Bajo Techo TV || REPUBLICA DOMINICANA
 https://cdn4.hostlagarto.com:8081/static/bajotechotv/playlist.m3u8
-#EXTINF:-1 tvg-id="DO | Delta TV" tvg-name="DO | Delta TV" tvg-logo="https://www.deltatv50.com/wp-content/uploads/2022/11/cropped-DELTA-TV-1536x1437.png" group-title="REPUBLICA DOMINICANA", 994 | Delta TV || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Delta TV" tvg-name="DO | Delta TV" tvg-logo="https://www.deltatv50.com/wp-content/uploads/2022/11/cropped-DELTA-TV-1536x1437.png" group-title="REPUBLICA DOMINICANA", 992 | Delta TV || REPUBLICA DOMINICANA
 https://cm.hostlagarto.com:4445/deltatv/deltatv50.myStream/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="DO | Ready TV" tvg-name="DO | Ready TV" tvg-logo="https://readytelevision.com/wp-content/uploads/2020/09/Readytelevision-small.png" group-title="REPUBLICA DOMINICANA", 995 | Ready TV || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Ready TV" tvg-name="DO | Ready TV" tvg-logo="https://readytelevision.com/wp-content/uploads/2020/09/Readytelevision-small.png" group-title="REPUBLICA DOMINICANA", 993 | Ready TV || REPUBLICA DOMINICANA
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="DO | Ecovisión" tvg-name="DO | Ecovisión" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/af/14/cb/af14cb9a-a6ac-2da9-8a73-2b17a450b0eb/AppIcon-1x_U007emarketing-0-7-85-220.jpeg/1200x630wa.png" group-title="REPUBLICA DOMINICANA", 996 | Ecovisión || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Ecovisión" tvg-name="DO | Ecovisión" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/af/14/cb/af14cb9a-a6ac-2da9-8a73-2b17a450b0eb/AppIcon-1x_U007emarketing-0-7-85-220.jpeg/1200x630wa.png" group-title="REPUBLICA DOMINICANA", 994 | Ecovisión || REPUBLICA DOMINICANA
 https://vdo1.streamgato.us:3014/live/ecovisionlive.m3u8
-#EXTINF:-1 tvg-id="DO | Maimon TV" tvg-name="DO | Maimon TV" tvg-logo="https://maimontv.com/images/maimon_logo_clear_lg.png" group-title="REPUBLICA DOMINICANA", 997 | Maimon TV || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Maimon TV" tvg-name="DO | Maimon TV" tvg-logo="https://maimontv.com/images/maimon_logo_clear_lg.png" group-title="REPUBLICA DOMINICANA", 995 | Maimon TV || REPUBLICA DOMINICANA
 https://ss3.domint.net:3138/mtv_str/maimon/playlist.m3u8
-#EXTINF:-1 tvg-id="DO | TV Higüey" tvg-name="DO | TV Higüey" tvg-logo="https://tvhigueydigital.com/wp-content/uploads/2021/08/preloader.png" group-title="REPUBLICA DOMINICANA", 998 | TV Higüey || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | TV Higüey" tvg-name="DO | TV Higüey" tvg-logo="https://tvhigueydigital.com/wp-content/uploads/2021/08/preloader.png" group-title="REPUBLICA DOMINICANA", 996 | TV Higüey || REPUBLICA DOMINICANA
 https://vdo1.streamgato.us:3046/live/tvhigueycanal12live.m3u8
-#EXTINF:-1 tvg-id="DO | Enntivision TV" tvg-name="DO | Enntivision TV" tvg-logo="https://yt3.googleusercontent.com/32f_5fUtqYWtAmgR-WYVRfUs_M1SHTxE33Rzypa01Y4dggQ2Is4l3PJSQ_i2N3r9BvUEidejZg=s900-c-k-c0x00ffffff-no-rj" group-title="REPUBLICA DOMINICANA", 999 | Enntivision TV || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Enntivision TV" tvg-name="DO | Enntivision TV" tvg-logo="https://yt3.googleusercontent.com/32f_5fUtqYWtAmgR-WYVRfUs_M1SHTxE33Rzypa01Y4dggQ2Is4l3PJSQ_i2N3r9BvUEidejZg=s900-c-k-c0x00ffffff-no-rj" group-title="REPUBLICA DOMINICANA", 997 | Enntivision TV || REPUBLICA DOMINICANA
 https://cdn4.hostlagarto.com:8081/static/enntivisiontv/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="DO | Bonches TV" tvg-name="DO | Bonches TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRql_yYrihFb2ifxgAKGPJEpT-ioQi3-Sx0zzIs4kFi_kq8hijrtauTQDe4cJA0OHunfJI&usqp=CAU" group-title="REPUBLICA DOMINICANA", 1000 | Bonches TV || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Bonches TV" tvg-name="DO | Bonches TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRql_yYrihFb2ifxgAKGPJEpT-ioQi3-Sx0zzIs4kFi_kq8hijrtauTQDe4cJA0OHunfJI&usqp=CAU" group-title="REPUBLICA DOMINICANA", 998 | Bonches TV || REPUBLICA DOMINICANA
 https://ss5.domint.net:3172/btv_str/bonchestv/playlist.m3u8
-#EXTINF:-1 tvg-id="DO | Constanza TV" tvg-name="DO | Constanza TV" tvg-logo="https://www.constanzatv.com/images/contanzatv_web.png" group-title="REPUBLICA DOMINICANA", 1001 | Constanza TV || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Constanza TV" tvg-name="DO | Constanza TV" tvg-logo="https://www.constanzatv.com/images/contanzatv_web.png" group-title="REPUBLICA DOMINICANA", 999 | Constanza TV || REPUBLICA DOMINICANA
 https://ss9.domint.net:3026/ctv8_str/contanzatv/playlist.m3u8
-#EXTINF:-1 tvg-id="DO | Roca Visión" tvg-name="DO | Roca Visión" tvg-logo="https://play-lh.googleusercontent.com/dsvf-PoHk6sbLCEGxTQ8eF97c1z246rUIAgIYFhFORX2NBmyBDI1Yh0yxYo_oBY-oN2X=w240-h480-rw" group-title="REPUBLICA DOMINICANA", 1002 | Roca Visión || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Roca Visión" tvg-name="DO | Roca Visión" tvg-logo="https://play-lh.googleusercontent.com/dsvf-PoHk6sbLCEGxTQ8eF97c1z246rUIAgIYFhFORX2NBmyBDI1Yh0yxYo_oBY-oN2X=w240-h480-rw" group-title="REPUBLICA DOMINICANA", 1000 | Roca Visión || REPUBLICA DOMINICANA
 https://cm.hostlagarto.com/rocavisiondominicana/Dominicanahd.myStream/chunks.m3u8
-#EXTINF:-1 tvg-id="DO | Nítida TV" tvg-name="DO | Nítida TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/nitida-tv.jpg" group-title="REPUBLICA DOMINICANA", 1003 | Nítida TV || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Nítida TV" tvg-name="DO | Nítida TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/nitida-tv.jpg" group-title="REPUBLICA DOMINICANA", 1001 | Nítida TV || REPUBLICA DOMINICANA
 https://live.teledomdr.com:3131/live/nitidatvlive.m3u8
-#EXTINF:-1 tvg-id="DO | Tu Kosita TV" tvg-name="DO | Tu Kosita TV" tvg-logo="https://tukosita.com/wp-content/uploads/2023/01/cover.png" group-title="REPUBLICA DOMINICANA", 1004 | Tu Kosita TV || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Tu Kosita TV" tvg-name="DO | Tu Kosita TV" tvg-logo="https://tukosita.com/wp-content/uploads/2023/01/cover.png" group-title="REPUBLICA DOMINICANA", 1002 | Tu Kosita TV || REPUBLICA DOMINICANA
 https://ss5.domint.net:3004/tktv_str/tukositatv/playlist.m3u8
-#EXTINF:-1 tvg-id="DO | Canal DTV" tvg-name="DO | Canal DTV" tvg-logo="https://4.bp.blogspot.com/-nhpRS1doQRI/XbhaHAcFiuI/AAAAAAAADpE/Iy1prbxqYJ0EMdGGIbnWZZmR2BhjSNxWACK4BGAYYCw/s1600/CANAL%2BDTV%2BLOGO%2BNUEVO.png" group-title="REPUBLICA DOMINICANA", 1005 | Canal DTV || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Canal DTV" tvg-name="DO | Canal DTV" tvg-logo="https://4.bp.blogspot.com/-nhpRS1doQRI/XbhaHAcFiuI/AAAAAAAADpE/Iy1prbxqYJ0EMdGGIbnWZZmR2BhjSNxWACK4BGAYYCw/s1600/CANAL%2BDTV%2BLOGO%2BNUEVO.png" group-title="REPUBLICA DOMINICANA", 1003 | Canal DTV || REPUBLICA DOMINICANA
 https://emisoras.hn:8081/dtv/index.m3u8
-#EXTINF:-1 tvg-id="DO | TV Quisqueya" tvg-name="DO | TV Quisqueya" tvg-logo="http://www.tvquisqueya.com/wp-content/uploads/2021/05/LOGO-248X100.png" group-title="REPUBLICA DOMINICANA", 1006 | TV Quisqueya || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | TV Quisqueya" tvg-name="DO | TV Quisqueya" tvg-logo="http://www.tvquisqueya.com/wp-content/uploads/2021/05/LOGO-248X100.png" group-title="REPUBLICA DOMINICANA", 1004 | TV Quisqueya || REPUBLICA DOMINICANA
 https://rctvhd.net:8081/tvquisqueyahd/index.m3u8
-#EXTINF:-1 tvg-id="DO | Latina TV Internacional" tvg-name="DO | Latina TV Internacional" tvg-logo="https://latinatvinternacional.com/images/latina_tv_int_web.png" group-title="REPUBLICA DOMINICANA", 1007 | Latina TV Internacional || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Latina TV Internacional" tvg-name="DO | Latina TV Internacional" tvg-logo="https://latinatvinternacional.com/images/latina_tv_int_web.png" group-title="REPUBLICA DOMINICANA", 1005 | Latina TV Internacional || REPUBLICA DOMINICANA
 https://ss3.domint.net:3156/ltv_str/latinatvint/playlist.m3u8
-#EXTINF:-1 tvg-id="DO | Teleoriental TV" tvg-name="DO | Teleoriental TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2244-800x450-FFFFFF.jpg" group-title="REPUBLICA DOMINICANA", 1008 | Teleoriental TV || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Teleoriental TV" tvg-name="DO | Teleoriental TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2244-800x450-FFFFFF.jpg" group-title="REPUBLICA DOMINICANA", 1006 | Teleoriental TV || REPUBLICA DOMINICANA
 https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8?DVR
-#EXTINF:-1 tvg-id="DO | Señales TV" tvg-name="DO | Señales TV" tvg-logo="https://senalestv.com/wp-content/themes/senalestv/wp/inc/images/logos/logo-senalestv.png" group-title="REPUBLICA DOMINICANA", 1009 | Señales TV || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Señales TV" tvg-name="DO | Señales TV" tvg-logo="https://senalestv.com/wp-content/themes/senalestv/wp/inc/images/logos/logo-senalestv.png" group-title="REPUBLICA DOMINICANA", 1007 | Señales TV || REPUBLICA DOMINICANA
 https://live.teledom.info:4000/live/senalestvlive.m3u8
-#EXTINF:-1 tvg-id="DO | Opción TV" tvg-name="DO | Opción TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/opcion-tv.jpg" group-title="REPUBLICA DOMINICANA", 1010 | Opción TV || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Opción TV" tvg-name="DO | Opción TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/opcion-tv.jpg" group-title="REPUBLICA DOMINICANA", 1008 | Opción TV || REPUBLICA DOMINICANA
 https://5790d294af2dc.streamlock.net/8066/8066/playlist.m3u8
-#EXTINF:-1 tvg-id="DO | TV Exitos" tvg-name="DO | TV Exitos" tvg-logo="https://image.roku.com/developer_channels/prod/071ae958bc1c7efb9e1c771865d5d4e3c1ed4ef170c77b81c8bde250ba37a4aa.png" group-title="REPUBLICA DOMINICANA", 1011 | TV Exitos || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | TV Exitos" tvg-name="DO | TV Exitos" tvg-logo="https://image.roku.com/developer_channels/prod/071ae958bc1c7efb9e1c771865d5d4e3c1ed4ef170c77b81c8bde250ba37a4aa.png" group-title="REPUBLICA DOMINICANA", 1009 | TV Exitos || REPUBLICA DOMINICANA
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
-#EXTINF:-1 tvg-id="DO | TDN Caribbean" tvg-name="DO | TDN Caribbean" tvg-logo="https://pbs.twimg.com/media/Fr3W3voXgAAIVhw?format=png&name=small" group-title="REPUBLICA DOMINICANA", 1012 | TDN Caribbean || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | TDN Caribbean" tvg-name="DO | TDN Caribbean" tvg-logo="https://pbs.twimg.com/media/Fr3W3voXgAAIVhw?format=png&name=small" group-title="REPUBLICA DOMINICANA", 1010 | TDN Caribbean || REPUBLICA DOMINICANA
 https://castv10.plugstreaming.com:19360/tdncaribbean/tdncaribbean.m3u8
-#EXTINF:-1 tvg-id="DO | TV Visión" tvg-name="DO | TV Visión" tvg-logo="https://pbs.twimg.com/media/Fr3bCYVWAAgBuvz?format=png&name=240x240" group-title="REPUBLICA DOMINICANA", 1013 | TV Visión || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | TV Visión" tvg-name="DO | TV Visión" tvg-logo="https://pbs.twimg.com/media/Fr3bCYVWAAgBuvz?format=png&name=240x240" group-title="REPUBLICA DOMINICANA", 1011 | TV Visión || REPUBLICA DOMINICANA
 https://cloudflare.streamgato.us:3691/live/tvvisionlive.m3u8
-#EXTINF:-1 tvg-id="DO | Villa Altagracia TV" tvg-name="DO | Villa Altagracia TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/villa-altagracia-tv.jpeg" group-title="REPUBLICA DOMINICANA", 1014 | Villa Altagracia TV || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Villa Altagracia TV" tvg-name="DO | Villa Altagracia TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/villa-altagracia-tv.jpeg" group-title="REPUBLICA DOMINICANA", 1012 | Villa Altagracia TV || REPUBLICA DOMINICANA
 https://inliveserver.com:1936/10016/10016/playlist.m3u8
-#EXTINF:-1 tvg-id="DO | Crom TV" tvg-name="DO | Crom TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/crom-tv-el-canal-del-siglo.png" group-title="REPUBLICA DOMINICANA", 1015 | Crom TV || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Crom TV" tvg-name="DO | Crom TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/crom-tv-el-canal-del-siglo.png" group-title="REPUBLICA DOMINICANA", 1013 | Crom TV || REPUBLICA DOMINICANA
 https://cdn4.hostlagarto.com:8081/static/cromtv/playlist.m3u8
-#EXTINF:-1 tvg-id="DO | Policía TV" tvg-name="DO | Policía TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/policia-tv.jpg" group-title="REPUBLICA DOMINICANA", 1016 | Policía TV || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Policía TV" tvg-name="DO | Policía TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/policia-tv.jpg" group-title="REPUBLICA DOMINICANA", 1014 | Policía TV || REPUBLICA DOMINICANA
 https://cdn2.streamgato.us/policiard/policiard/playlist.m3u8
-#EXTINF:-1 tvg-id="DO | TV Daja" tvg-name="DO | TV Daja" tvg-logo="https://dajatv.streamgato.us/img/load.jpg" group-title="REPUBLICA DOMINICANA", 1017 | TV Daja || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | TV Daja" tvg-name="DO | TV Daja" tvg-logo="https://dajatv.streamgato.us/img/load.jpg" group-title="REPUBLICA DOMINICANA", 1015 | TV Daja || REPUBLICA DOMINICANA
 https://cm.hostlagarto.com:4445/Dajatv/Dajatv.myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="DO | Jazmin TV" tvg-name="DO | Jazmin TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/jazmin-tv.png" group-title="REPUBLICA DOMINICANA", 1018 | Jazmin TV || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Jazmin TV" tvg-name="DO | Jazmin TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/jazmin-tv.png" group-title="REPUBLICA DOMINICANA", 1016 | Jazmin TV || REPUBLICA DOMINICANA
 https://tvdatta.com:3957/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="DO | Telever" tvg-name="DO | Telever" tvg-logo="https://telever.com.do/wp-content/uploads/2021/04/cropped-logotelever.png" group-title="REPUBLICA DOMINICANA", 1019 | Telever || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Telever" tvg-name="DO | Telever" tvg-logo="https://telever.com.do/wp-content/uploads/2021/04/cropped-logotelever.png" group-title="REPUBLICA DOMINICANA", 1017 | Telever || REPUBLICA DOMINICANA
 https://servilive.com:3758/live/televerlive.m3u8
-#EXTINF:-1 tvg-id="DO | Urbancrist TV" tvg-name="DO | Urbancrist TV" tvg-logo="https://dominicanchannels.com/wp-content/uploads/2017/10/WhatsApp-Image-2020-05-28-at-10.35.45-PM-1-300x276.jpeg" group-title="REPUBLICA DOMINICANA", 1020 | Urbancrist TV || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Urbancrist TV" tvg-name="DO | Urbancrist TV" tvg-logo="https://dominicanchannels.com/wp-content/uploads/2017/10/WhatsApp-Image-2020-05-28-at-10.35.45-PM-1-300x276.jpeg" group-title="REPUBLICA DOMINICANA", 1018 | Urbancrist TV || REPUBLICA DOMINICANA
 https://5790d294af2dc.streamlock.net/8160/8160/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="DO | Imagen Universal TV" tvg-name="DO | Imagen Universal TV" tvg-logo="https://imagenuniversaltv.com/wp-content/uploads/2022/03/Logo-imagen-Universal-TV-Horizontal-512-x-99.png" group-title="REPUBLICA DOMINICANA", 1021 | Imagen Universal TV || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Imagen Universal TV" tvg-name="DO | Imagen Universal TV" tvg-logo="https://imagenuniversaltv.com/wp-content/uploads/2022/03/Logo-imagen-Universal-TV-Horizontal-512-x-99.png" group-title="REPUBLICA DOMINICANA", 1019 | Imagen Universal TV || REPUBLICA DOMINICANA
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
-#EXTINF:-1 tvg-id="DO | Hilando Fino TV" tvg-name="DO | Hilando Fino TV" tvg-logo="http://www.hilandofinotv.com/wp-content/uploads/2020/07/cropped-Imagen1..png" group-title="REPUBLICA DOMINICANA", 1022 | Hilando Fino TV || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Hilando Fino TV" tvg-name="DO | Hilando Fino TV" tvg-logo="http://www.hilandofinotv.com/wp-content/uploads/2020/07/cropped-Imagen1..png" group-title="REPUBLICA DOMINICANA", 1020 | Hilando Fino TV || REPUBLICA DOMINICANA
 https://pop-ts.iptv-global.net/HilandoFino/index.m3u8
-#EXTINF:-1 tvg-id="DO | Bonao TV" tvg-name="DO | Bonao TV" tvg-logo="https://www.bonaotv.com/images/bonao_logo_pb_500sm.png" group-title="REPUBLICA DOMINICANA", 1023 | Bonao TV || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Bonao TV" tvg-name="DO | Bonao TV" tvg-logo="https://www.bonaotv.com/images/bonao_logo_pb_500sm.png" group-title="REPUBLICA DOMINICANA", 1021 | Bonao TV || REPUBLICA DOMINICANA
 https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8
-#EXTINF:-1 tvg-id="DO | Vallevisión" tvg-name="DO | Vallevisión" tvg-logo="https://vallevision.com.do/wp-content/uploads/2020/09/Vallevision-logo200.png" group-title="REPUBLICA DOMINICANA", 1024 | Vallevisión || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Vallevisión" tvg-name="DO | Vallevisión" tvg-logo="https://vallevision.com.do/wp-content/uploads/2020/09/Vallevision-logo200.png" group-title="REPUBLICA DOMINICANA", 1022 | Vallevisión || REPUBLICA DOMINICANA
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
-#EXTINF:-1 tvg-id="DO | Telecanal 12" tvg-name="DO | Telecanal 12" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1662-800x450-FFFFFF.jpg" group-title="REPUBLICA DOMINICANA", 1025 | Telecanal 12 || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Telecanal 12" tvg-name="DO | Telecanal 12" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1662-800x450-FFFFFF.jpg" group-title="REPUBLICA DOMINICANA", 1023 | Telecanal 12 || REPUBLICA DOMINICANA
 https://cdn4.hostlagarto.com:8081/static/telecanal12/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="DO | Cotunanama TV 36" tvg-name="DO | Cotunanama TV 36" tvg-logo="https://cotubanamadigital.net/wp-content/uploads/2023/01/cotubanamatv.png" group-title="REPUBLICA DOMINICANA", 1026 | Cotunanama TV 36 || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Cotunanama TV 36" tvg-name="DO | Cotunanama TV 36" tvg-logo="https://cotubanamadigital.net/wp-content/uploads/2023/01/cotubanamatv.png" group-title="REPUBLICA DOMINICANA", 1024 | Cotunanama TV 36 || REPUBLICA DOMINICANA
 https://cdn4.hostlagarto.com:8081/static/cotubanamatv/playlist.m3u8
-#EXTINF:-1 tvg-id="DO | TRA Noticias" tvg-name="DO | TRA Noticias" tvg-logo="https://teleradioamerica.com/wp-content/themes/tra2017/imagenes/logo2023.png" group-title="REPUBLICA DOMINICANA", 1027 | TRA Noticias || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | TRA Noticias" tvg-name="DO | TRA Noticias" tvg-logo="https://teleradioamerica.com/wp-content/themes/tra2017/imagenes/logo2023.png" group-title="REPUBLICA DOMINICANA", 1025 | TRA Noticias || REPUBLICA DOMINICANA
 https://live.teledom.info:3625/live/tra45live.m3u8
-#EXTINF:-1 tvg-id="DO | Buena TV" tvg-name="DO | Buena TV" tvg-logo="https://pbs.twimg.com/media/Fr4MryZWIAMLXPf?format=png&name=small" group-title="REPUBLICA DOMINICANA", 1028 | Buena TV || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Buena TV" tvg-name="DO | Buena TV" tvg-logo="https://pbs.twimg.com/media/Fr4MryZWIAMLXPf?format=png&name=small" group-title="REPUBLICA DOMINICANA", 1026 | Buena TV || REPUBLICA DOMINICANA
 https://cdn4.hostlagarto.com:8081/static/buenatv/playlist.m3u8
-#EXTINF:-1 tvg-id="DO | Digital 809 TV" tvg-name="DO | Digital 809 TV" tvg-logo="https://digital809tv.com/wp-content/uploads/2019/02/cropped-DIGITAL809TV-teless-245-1.png" group-title="REPUBLICA DOMINICANA", 1029 | Digital 809 TV || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Digital 809 TV" tvg-name="DO | Digital 809 TV" tvg-logo="https://digital809tv.com/wp-content/uploads/2019/02/cropped-DIGITAL809TV-teless-245-1.png" group-title="REPUBLICA DOMINICANA", 1027 | Digital 809 TV || REPUBLICA DOMINICANA
 https://inliveserver.com:1936/digital809tv/digital809tv/playlist.m3u8
-#EXTINF:-1 tvg-id="DO | HMTV Canal 33" tvg-name="DO | HMTV Canal 33" tvg-logo="https://1.bp.blogspot.com/-Qy2L6hvtw0A/XxOKynZNkfI/AAAAAAAAKRw/JLV3iuecs5sbafhXGsPxrxYg8PXnynbmwCLcBGAsYHQ/s1600/hmtv.png" group-title="REPUBLICA DOMINICANA", 1030 | HMTV Canal 33 || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | HMTV Canal 33" tvg-name="DO | HMTV Canal 33" tvg-logo="https://1.bp.blogspot.com/-Qy2L6hvtw0A/XxOKynZNkfI/AAAAAAAAKRw/JLV3iuecs5sbafhXGsPxrxYg8PXnynbmwCLcBGAsYHQ/s1600/hmtv.png" group-title="REPUBLICA DOMINICANA", 1028 | HMTV Canal 33 || REPUBLICA DOMINICANA
 https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="DO | Megacine TV" tvg-name="DO | Megacine TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/mega-cine-tv.png" group-title="REPUBLICA DOMINICANA", 1031 | Megacine TV || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Megacine TV" tvg-name="DO | Megacine TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/mega-cine-tv.png" group-title="REPUBLICA DOMINICANA", 1029 | Megacine TV || REPUBLICA DOMINICANA
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
-#EXTINF:-1 tvg-id="DO | Dajabon TV Canal 6" tvg-name="DO | Dajabon TV Canal 6" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/canal6rd.png" group-title="REPUBLICA DOMINICANA", 1032 | Dajabon TV Canal 6 || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Dajabon TV Canal 6" tvg-name="DO | Dajabon TV Canal 6" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/canal6rd.png" group-title="REPUBLICA DOMINICANA", 1030 | Dajabon TV Canal 6 || REPUBLICA DOMINICANA
 https://soportedvb.click:3504/live/dajabontvlive.m3u8
-#EXTINF:-1 tvg-id="DO | Unción TV" tvg-name="DO | Unción TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/uncion-tv.png" group-title="REPUBLICA DOMINICANA", 1033 | Unción TV || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Unción TV" tvg-name="DO | Unción TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/uncion-tv.png" group-title="REPUBLICA DOMINICANA", 1031 | Unción TV || REPUBLICA DOMINICANA
 https://livemediacp.com:1936/8064/8064/playlist.m3u8
-#EXTINF:-1 tvg-id="DO | Tele Siglo" tvg-name="DO | Tele Siglo" tvg-logo="https://pbs.twimg.com/media/GBgiu3IWwAA3itZ?format=png&name=small" group-title="REPUBLICA DOMINICANA", En prueba | Tele Siglo || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Tele Siglo" tvg-name="DO | Tele Siglo" tvg-logo="https://pbs.twimg.com/media/GBgiu3IWwAA3itZ?format=png&name=small" group-title="REPUBLICA DOMINICANA", 1032 | Tele Siglo || REPUBLICA DOMINICANA
 https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
-#EXTINF:-1 tvg-id="CU | Canal Clave" tvg-name="CU | Canal Clave" tvg-logo="https://pbs.twimg.com/profile_images/1589839999205359617/fAfsI8AI_400x400.jpg" group-title="CUBA", 1034 | Canal Clave || CUBA
+#EXTINF:-1 tvg-id="CU | Canal Clave" tvg-name="CU | Canal Clave" tvg-logo="https://pbs.twimg.com/profile_images/1589839999205359617/fAfsI8AI_400x400.jpg" group-title="CUBA", 1033 | Canal Clave || CUBA
 http://181.78.78.105:8000/play/a029/index.m3u8
-#EXTINF:-1 tvg-id="MX | Azteca Uno" tvg-name="MX | Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/260px-Azteca_Uno_%282020%29.svg.png" group-title="MEXICO", 1035 | Azteca Uno || MÉXICO
+#EXTINF:-1 tvg-id="MX | Azteca Uno" tvg-name="MX | Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/260px-Azteca_Uno_%282020%29.svg.png" group-title="MEXICO", 1034 | Azteca Uno || MÉXICO
 https://3.ultimate2019.com/stream/hls/4
-#EXTINF:-1 tvg-id="MX | Azteca Internacional" tvg-name="MX | Azteca Internacional" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/37/8247.png" group-title="MEXICO", 1036 | Azteca Internacional || MÉXICO
+#EXTINF:-1 tvg-id="MX | Azteca Internacional" tvg-name="MX | Azteca Internacional" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/37/8247.png" group-title="MEXICO", 1035 | Azteca Internacional || MÉXICO
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-id="MX | Las Estrellas" tvg-name="MX | Las Estrellas" tvg-logo="https://www.paredro.com/wp-content/uploads/2019/01/Asi%CC%81-evoluciono%CC%81-el-logo-de-Las-Estrellas-el-canal-2-de-Televisa.jpg" group-title="MEXICO", 1037 | Las Estrellas
+#EXTINF:-1 tvg-id="MX | Las Estrellas" tvg-name="MX | Las Estrellas" tvg-logo="https://www.paredro.com/wp-content/uploads/2019/01/Asi%CC%81-evoluciono%CC%81-el-logo-de-Las-Estrellas-el-canal-2-de-Televisa.jpg" group-title="MEXICO", 1036 | Las Estrellas
 http://138.59.177.34:8000/play/a07k/index.m3u8
-#EXTINF:-1 tvg-id="MX | Canal 5" tvg-name="MX | Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/120px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO", 1038 | Canal 5 || MÉXICO
+#EXTINF:-1 tvg-id="MX | Canal 5" tvg-name="MX | Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/120px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO", 1037 | Canal 5 || MÉXICO
 https://3.ultimate2019.com/stream/hls/14
-#EXTINF:-1 tvg-id="MX | Multimedios Televisión Canal 6" tvg-name="MX | Multimedios Televisión Canal 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/150px-Multimedios_Canal_Seis_Logo.svg.png" group-title="MEXICO", 1039 | Multimedios Televisión Canal 6 || MÉXICO
+#EXTINF:-1 tvg-id="MX | Multimedios Televisión Canal 6" tvg-name="MX | Multimedios Televisión Canal 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/150px-Multimedios_Canal_Seis_Logo.svg.png" group-title="MEXICO", 1038 | Multimedios Televisión Canal 6 || MÉXICO
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 tvg-id="MX | Azteca 7" tvg-name="MX | Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/150px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO", 1040 | Azteca 7 || MÉXICO
+#EXTINF:-1 tvg-id="MX | Azteca 7" tvg-name="MX | Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/150px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO", 1039 | Azteca 7 || MÉXICO
 https://3.ultimate2019.com/stream/hls/5
-#EXTINF:-1 tvg-id="MX | Unicable" tvg-name="MX | Unicable" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/100px-Unicable_logo.svg.png" group-title="MEXICO", 1041 | Unicable || MÉXICO
+#EXTINF:-1 tvg-id="MX | Unicable" tvg-name="MX | Unicable" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/100px-Unicable_logo.svg.png" group-title="MEXICO", 1040 | Unicable || MÉXICO
 http://181.78.105.146:2000/play/a08f/index.m3u8
-#EXTINF:-1 tvg-id="MX | ADN 40" tvg-name="MX | ADN 40" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adn40_2022.png/245px-Adn40_2022.png" group-title="MEXICO", 1042 | ADN 40 || MÉXICO
+#EXTINF:-1 tvg-id="MX | ADN 40" tvg-name="MX | ADN 40" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adn40_2022.png/245px-Adn40_2022.png" group-title="MEXICO", 1041 | ADN 40 || MÉXICO
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-id="MX | N+ Media" tvg-name="MX | N+ Media" tvg-logo="https://img.asmedia.epimg.net/resizer/__0kSWQYeMV8ePRtOMVM_gEfza0=/1952x1098/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/EW3U7NAIBNCOZCYGAGD3NYY54A.jpg" group-title="MEXICO", 1043 | N+ Media || MÉXICO
+#EXTINF:-1 tvg-id="MX | N+ Media" tvg-name="MX | N+ Media" tvg-logo="https://img.asmedia.epimg.net/resizer/__0kSWQYeMV8ePRtOMVM_gEfza0=/1952x1098/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/EW3U7NAIBNCOZCYGAGD3NYY54A.jpg" group-title="MEXICO", 1042 | N+ Media || MÉXICO
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_4.m3u8
-#EXTINF:-1 tvg-id="MX | Milenio Televisión" tvg-name="MX | Milenio Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Milenio_Television.png/150px-Milenio_Television.png" group-title="MEXICO", 1044 | Milenio Televisión || MÉXICO
+#EXTINF:-1 tvg-id="MX | Milenio Televisión" tvg-name="MX | Milenio Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Milenio_Television.png/150px-Milenio_Television.png" group-title="MEXICO", 1043 | Milenio Televisión || MÉXICO
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-#EXTINF:-1 tvg-id="MX | TV Cuatro de Guanajuato" tvg-name="MX | TV Cuatro de Guanajuato" tvg-logo="https://www.tvcuatro.com/logo%201024.png" group-title="MEXICO", 1045 | TV Cuatro de Guanajuato || MÉXICO
+#EXTINF:-1 tvg-id="MX | TV Cuatro de Guanajuato" tvg-name="MX | TV Cuatro de Guanajuato" tvg-logo="https://www.tvcuatro.com/logo%201024.png" group-title="MEXICO", 1044 | TV Cuatro de Guanajuato || MÉXICO
 https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MX | Capital 21" tvg-name="MX | Capital 21" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Capital-21-TV-en-vivo-Online.png" group-title="MEXICO", 1046 | Capital 21 || MÉXICO
-https://video.cdmx.gob.mx/livestream/stream.m3u8
-#EXTINF:-1 tvg-id="PR | TeleOnce" tvg-name="PR | TeleOnce" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Teleonce_Logo_2021.png/220px-Teleonce_Logo_2021.png" group-title="PUERTO RICO", 1047 | TeleOnce || PUERTO RICO
+#EXTINF:-1 tvg-id="MX | TV UNAM" tvg-name="MX | TV UNAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Logo_Tv_UNAM.png/100px-Logo_Tv_UNAM.png" group-title="MEXICO", 1045 | TV UNAM || MÉXICO
+https://3.ultimate2019.com/stream/hls/653
+#EXTINF:-1 tvg-id="PR | TeleOnce" tvg-name="PR | TeleOnce" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Teleonce_Logo_2021.png/220px-Teleonce_Logo_2021.png" group-title="PUERTO RICO", 1046 | TeleOnce || PUERTO RICO
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
-#EXTINF:-1 tvg-id="PR | Telemundo" tvg-name="PR | Telemundo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png" group-title="PUERTO RICO", 1048 | Telemundo || PUERTO RICO
+#EXTINF:-1 tvg-id="PR | Telemundo" tvg-name="PR | Telemundo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png" group-title="PUERTO RICO", 1047 | Telemundo || PUERTO RICO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
-#EXTINF:-1 tvg-id="USA | Stream Uno TV" tvg-name="USA | Stream Uno TV" tvg-logo="https://play-lh.googleusercontent.com/gBsGCIfU_w3CAVGpDoruLQjppjeRAJQoKja0p1kciAGdWHMudwjWfwUvN_3iNdP8BCs" group-title="ESTADOS UNIDOS DE AMÉRICA", 1049 | Stream Uno TV || ESTADOS UNIDOS DE AMÉRICA
+#EXTINF:-1 tvg-id="USA | Stream Uno TV" tvg-name="USA | Stream Uno TV" tvg-logo="https://play-lh.googleusercontent.com/gBsGCIfU_w3CAVGpDoruLQjppjeRAJQoKja0p1kciAGdWHMudwjWfwUvN_3iNdP8BCs" group-title="ESTADOS UNIDOS DE AMÉRICA", 1048 | Stream Uno TV || ESTADOS UNIDOS DE AMÉRICA
 https://vsrv2.az-streamingserver.com:3201/live/streamunotvlive.m3u8
-#EXTINF:-1 tvg-id="USA | Tribuna TV" tvg-name="USA | Tribuna TV" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/9f/4c/f9/9f4cf9e4-8bc2-5ddd-e8be-057e688065e5/mzl.ztmkjvqb.jpg/230x0w.webp" group-title="ESTADOS UNIDOS DE AMÉRICA", 1050 | Tribuna TV || ESTADOS UNIDOS DE AMÉRICA
+#EXTINF:-1 tvg-id="USA | Tribuna TV" tvg-name="USA | Tribuna TV" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/9f/4c/f9/9f4cf9e4-8bc2-5ddd-e8be-057e688065e5/mzl.ztmkjvqb.jpg/230x0w.webp" group-title="ESTADOS UNIDOS DE AMÉRICA", 1049 | Tribuna TV || ESTADOS UNIDOS DE AMÉRICA
 https://cloudflare.streamgato.us:3204/live/tribunatvlive.m3u8
-#EXTINF:-1 tvg-id="USA | Mun2 TV" tvg-name="USA | Mun2 TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2122-294x165-FFFFFF.jpg" group-title="ESTADOS UNIDOS DE AMÉRICA", 1051 | Mun2 TV || ESTADOS UNIDOS DE AMÉRICA
+#EXTINF:-1 tvg-id="USA | Mun2 TV" tvg-name="USA | Mun2 TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2122-294x165-FFFFFF.jpg" group-title="ESTADOS UNIDOS DE AMÉRICA", 1050 | Mun2 TV || ESTADOS UNIDOS DE AMÉRICA
 https://play.amelbasoluciones.co:3309/live/mun2tvlive.m3u8
-#EXTINF:-1 tvg-id="USA | Estrella TV" tvg-name="USA | Estrella TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 1052 | Estrella TV || ESTADOS UNIDOS DE AMÉRICA
+#EXTINF:-1 tvg-id="USA | Estrella TV" tvg-name="USA | Estrella TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 1051 | Estrella TV || ESTADOS UNIDOS DE AMÉRICA
 https://estrellatv-oando.amagi.tv/playlistR720P.m3u8
-#EXTINF:-1 tvg-id="USA | El Venezolano TV" tvg-name="USA | El Venezolano TV" tvg-logo="https://evtv.online/wp-content/uploads/2023/05/cropped-evtv-WebGuidelines-1-300x183-1.webp" group-title="ESTADOS UNIDOS DE AMÉRICA", 1053 | El Venezolano TV || ESTADOS UNIDOS DE AMÉRICA
+#EXTINF:-1 tvg-id="USA | El Venezolano TV" tvg-name="USA | El Venezolano TV" tvg-logo="https://evtv.online/wp-content/uploads/2023/05/cropped-evtv-WebGuidelines-1-300x183-1.webp" group-title="ESTADOS UNIDOS DE AMÉRICA", 1052 | El Venezolano TV || ESTADOS UNIDOS DE AMÉRICA
 https://streannliveevtv.cachefly.net/Protected/sp=1;dirmatch=true/3be25dc13406bf70ff0208230e6fa803b88b95013fad257c025e481e2be3e214/evtv1/evtv1/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Visión Global TV" tvg-name="USA | Visión Global TV" tvg-logo="https://pbs.twimg.com/profile_images/1271993632573267969/iebucZUM_400x400.jpg" group-title="ESTADOS UNIDOS DE AMÉRICA", 1054 | Visión Global TV || ESTADOS UNIDOS DE AMÉRICA
+#EXTINF:-1 tvg-id="USA | Visión Global TV" tvg-name="USA | Visión Global TV" tvg-logo="https://pbs.twimg.com/profile_images/1271993632573267969/iebucZUM_400x400.jpg" group-title="ESTADOS UNIDOS DE AMÉRICA", 1053 | Visión Global TV || ESTADOS UNIDOS DE AMÉRICA
 https://stream.visionglobaltv.net:1936/visionglobal/visionglobal/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | TV Hispanic" tvg-name="USA | TV Hispanic" tvg-logo="https://yt3.googleusercontent.com/bHSIL9B_UGJoqzQV5aRgQBXTIqOaxhFc1CjjfLVundh5Jt8BC_VZU1yjukEemoZonaNz-tbDBQ=s900-c-k-c0x00ffffff-no-rj" group-title="ESTADOS UNIDOS DE AMÉRICA", 1055 | TV Hispanic || ESTADOS UNIDOS DE AMÉRICA
+#EXTINF:-1 tvg-id="USA | TV Hispanic" tvg-name="USA | TV Hispanic" tvg-logo="https://yt3.googleusercontent.com/bHSIL9B_UGJoqzQV5aRgQBXTIqOaxhFc1CjjfLVundh5Jt8BC_VZU1yjukEemoZonaNz-tbDBQ=s900-c-k-c0x00ffffff-no-rj" group-title="ESTADOS UNIDOS DE AMÉRICA", 1054 | TV Hispanic || ESTADOS UNIDOS DE AMÉRICA
 https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
-#EXTINF:-1 tvg-id="USA | Miami TV" tvg-name="USA | Miami TV" tvg-logo="https://miamitv.com/images/logo-miamitv.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 1056 | Miami TV || ESTADOS UNIDOS DE AMÉRICA
+#EXTINF:-1 tvg-id="USA | Miami TV" tvg-name="USA | Miami TV" tvg-logo="https://miamitv.com/images/logo-miamitv.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 1055 | Miami TV || ESTADOS UNIDOS DE AMÉRICA
 http://191.97.60.193:10000/play/a045/index.m3u8
-#EXTINF:-1 tvg-id="USA | Galavisión" tvg-name="USA | Galavisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/160px-Galavision_Logo_2013.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 1057 | Galavisión || ESTADOS UNIDOS DE AMÉRICA
+#EXTINF:-1 tvg-id="USA | Galavisión" tvg-name="USA | Galavisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/160px-Galavision_Logo_2013.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 1056 | Galavisión || ESTADOS UNIDOS DE AMÉRICA
 https://3.ultimate2019.com/stream/hls/56
-#EXTINF:-1 tvg-id="USA | Telemundo Chicago" tvg-name="USA | Telemundo Chicago" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/TelemundoChicago2019.svg/210px-TelemundoChicago2019.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 1058 | Telemundo Chicago || ESTADOS UNIDOS DE AMÉRICA
+#EXTINF:-1 tvg-id="USA | Telemundo Chicago" tvg-name="USA | Telemundo Chicago" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/TelemundoChicago2019.svg/210px-TelemundoChicago2019.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 1057 | Telemundo Chicago || ESTADOS UNIDOS DE AMÉRICA
 https://3.ultimate2019.com/stream/hls/92
+#EXTINF:-1 tvg-id="USA | Telemundo Florida" tvg-name="USA | Telemundo Florida" tvg-logo="https://image.xumo.com/v1/channels/channel/99951227/600x337.webp?type=channelTile" group-title="ESTADOS UNIDOS DE AMÉRICA", 1058 | Telemundo Florida || ESTADOS UNIDOS DE AMÉRICA
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 #EXTINF:-1 tvg-id="USA | GolTV" tvg-name="USA | GolTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/320px-GolTV_logo.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 1059 | GolTV || ESTADOS UNIDOS DE AMÉRICA
 http://livex.pop-app.live/s4n/poplive/ch552/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | SEC Network" tvg-name="USA | SEC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/200px-SEC_Network_logo.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 1060 | SEC Network || ESTADOS UNIDOS DE AMÉRICA
