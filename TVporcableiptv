@@ -14,7 +14,7 @@ https://live-zlr1.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8?manifestfilter=
 #EXTINF:-1 tvg-id="PE | TV Perú" tvg-name="PE | TV Perú" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="PERU", TV Perú
 https://live-zlr1.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-id="PE | Conectad2 TV" tvg-name="PE | Conectad2 TV" tvg-logo="https://conecta2peru.com/wp-content/uploads/2020/04/logo.png" group-title="PERU", Conectad2 Televisión
-https://live-zlr1.tv360.bitel.com.pe/bitel/conectados/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+https://ott1.hdlatam.tv/live/conect2tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Andina Televisión" tvg-name="PE | Andina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" group-title="PERU", ATV
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Tele Lima" tvg-name="PE | Tele Lima" tvg-logo="https://pbs.twimg.com/media/FwOtdL0XoAAV01H?format=png&name=small" group-title="PERU", Tele Lima
@@ -458,21 +458,21 @@ http://190.187.154.156:8000/play/a077/index.m3u8
 #EXTINF:-1 tvg-id="CL | Mundo & Sabor" tvg-name="CL | Mundo & Sabor" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MUNDO-Y-SABOR-FONDO-2-300x169.jpg" group-title="GASTRONOMÍA", Mundo & Sabor
 https://marine2.miplay.cl/mundoysabor/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Liga 1 Max" tvg-name="PE | Liga 1 Max" tvg-logo="https://services.nunchee.com/api/2.0/assets/images/63dd234f3f6b35001fcf78bd/view/backdrop/75" group-title="DEPORTES", Liga 1 Max
-http://190.187.154.156:8000/play/a0ca/index.m3u8
+http://190.102.139.244:8900/play/a12f/index.m3u8
 #EXTINF:-1 tvg-id="USA | Golf Channel" tvg-name="USA | Golf Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/200px-Golf_Channel_Logo_2018.png" group-title="DEPORTES", Golf Channel
 http://187.102.208.108:50001/play/a03w/index.m3u8
 #EXTINF:-1 tvg-id="USA | Fox Sports 2" tvg-name="USA | Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/175px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES", Fox Sports 2
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=1630108891&_cdn_timestamp=1702501813&_cdn_token=2f795830e804a230ed9f602ab2462f2dab04dc6a
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=1695437108&_cdn_timestamp=1703616699&_cdn_token=ea4b1d830092b9e65cfc6d7255b987686220dc05
 #EXTINF:-1 tvg-id="USA | Fox Sports 3" tvg-name="USA | Fox Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/180px-Fox_sports_3_logo.svg.png" group-title="DEPORTES", Fox Sports 3
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS3_stream_b7&_cdn_session=1630109219&_cdn_timestamp=1702501818&_cdn_token=2c6c3a2ca9e140a48c654b1a632cc2b919ed691d
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS3_stream_b7&_cdn_session=1684372957&_cdn_timestamp=1703616705&_cdn_token=b96572d49580d82fad3cc09764cb35af2897a270
 #EXTINF:-1 tvg-id="USA | ESPN" tvg-name="USA | ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="DEPORTES", ESPN
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=1630110947&_cdn_timestamp=1702501842&_cdn_token=92138e908697be4733dcf80c0cb0a99efd4b9f66
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ESPN/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=1684373077&_cdn_timestamp=1703616716&_cdn_token=9768412437d5d60ef67b1ad10934e9b079deb587
 #EXTINF:-1 tvg-id="USA | ESPN 2" tvg-name="USA | ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="DEPORTES", ESPN 2
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPN2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=1630111491&_cdn_timestamp=1702501851&_cdn_token=00523a83bcfc9cfd04358c85adbead35288cb8e2
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ESPN2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=1695438156&_cdn_timestamp=1703616728&_cdn_token=0f686e9dee7bd4b1426f61d26f23826e85e42a68
 #EXTINF:-1 tvg-id="USA | ESPN 3" tvg-name="USA | ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="DEPORTES", ESPN 3
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPN3/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN3_stream_yi&_cdn_session=1630112651&_cdn_timestamp=1702501871&_cdn_token=e5ef388a8e84c7f0f0dde995c0581fd0545be0ef
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ESPN3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN3_stream_yi&_cdn_session=1695438580&_cdn_timestamp=1703616739&_cdn_token=130c6926a67c8dad80e9a3b3712d5dc20b8aff7f
 #EXTINF:-1 tvg-id="USA | ESPN 4" tvg-name="USA | ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/180px-ESPN_4_logo.svg.png" group-title="DEPORTES", ESPN 4
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN4/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS_stream_ml&_cdn_session=1630113691&_cdn_timestamp=1702501889&_cdn_token=05b7e1c4a4a8745ae6ca0371782ca58bb6eb28df
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ESPN4/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS_stream_ml&_cdn_session=1683001643&_cdn_timestamp=1703616750&_cdn_token=4f7560ed79b29bd5b509a1530050be2042303cee
 #EXTINF:-1 tvg-id="MX | Claro Sports" tvg-name="MX | Claro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/150px-Claro_Sports_logo.svg.png" group-title="DEPORTES", Claro Sports
 http://190.6.202.162:8000/play/a014/index.m3u8
 #EXTINF:-1 tvg-id="MX | Claro Sports 2" tvg-name="MX | Claro Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest/scale-to-width-down/250?cb=20210423191014&path-prefix=es" group-title="DEPORTES", Claro Sports 2
