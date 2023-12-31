@@ -4,7 +4,7 @@ https://live-zlr1.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=v
 #EXTINF:-1 tvg-id="PE | Latina Televisión" tvg-name="PE | Latina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="PERU", Latina Televisión
 https://live-zlr1.tv360.bitel.com.pe/bitel/latina/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-id="PE | Congreso TV" tvg-name="PE | Congreso TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Congreso_TV.png/250px-Congreso_TV.png" group-title="PERU", Congreso TV
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1684864707&_cdn_timestamp=1703747316&_cdn_token=bb811fabc6a5feaf34480f7c59b0a15f8c81cac6
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1689289715&_cdn_timestamp=1704059717&_cdn_token=9f406613c40d6e3c4fd4fa5b7ae81f15e5bcf585
 #EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", América Televisión
 https://live-zlr1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", Panamericana Televisión
@@ -24,13 +24,13 @@ http://191.97.60.193:10000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="PE | USMP TV" tvg-name="PE | USMP TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/USMP_TV_2017.svg/revision/latest/scale-to-width-down/56?cb=20210504214359&path-prefix=es" group-title="PERU", USMP TV
 https://streamusmptv.ddns.net/live/stream.m3u8
 #EXTINF:-1 tvg-id="PE | Global Televisión" tvg-name="PE | Global Televisión" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMObN_3dPu0x6ipIMnQiPhMsWdYVDq5ZXCPA68_3m2KC_k9CT4VpttLSvI7f-mzLYi7w8&usqp=CAU" group-title="PERU", Global Televisión
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=1686426581&_cdn_timestamp=1703747329&_cdn_token=e03cfeed22f49368aaca0af4aff93510562719d3
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=1691088269&_cdn_timestamp=1704059638&_cdn_token=3278d46222613e72b9036dd9ffd33fae8731f9a2
 #EXTINF:-1 tvg-id="PE | Like TV" tvg-name="PE | Like TV" tvg-logo="https://pbs.twimg.com/media/F6eCd9qWEAANnK5?format=png&name=240x240" group-title="PERU", Like TV
 https://ott1.hdlatam.tv/live/fuegotv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | La Tele" tvg-name="PE | La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/400px-LaTele_Per%C3%BA_2018_Logo.png" group-title="PERU", La Tele
 http://187.102.208.108:50001/play/a043/index.m3u8
 #EXTINF:-1 tvg-id="PE | PBO TV" tvg-name="PE | PBO TV" tvg-logo="https://pboradio.minegocio21.com/wp-content/uploads/2020/10/logo278.jpg" group-title="PERU", PBO TV
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/PBO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=1700114620&_cdn_timestamp=1703747342&_cdn_token=a1807b3cfef6f5f5dc34d3229d07e570943f1c32
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/PBO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=1689289243&_cdn_timestamp=1704059685&_cdn_token=c6289083aaf488da6cf04cb7510ae3b414378990
 #EXTINF:-1 tvg-id="PE | Andina Televisión Plus" tvg-name="PE | Andina Televisión Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/175px-ATV%2B_logo_2020.png" group-title="PERU", ATV +
 https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Andina Televisión Sur" tvg-name="PE | Andina Televisión Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/185px-ATV_Sur_-_2018_logo_%28final%29.png" group-title="PERU", ATV Sur
