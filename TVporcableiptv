@@ -4,7 +4,7 @@ https://live-zlr1.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=v
 #EXTINF:-1 tvg-id="PE | Latina Televisión" tvg-name="PE | Latina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="PERU", Latina Televisión
 https://live-zlr1.tv360.bitel.com.pe/bitel/latina/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-id="PE | Congreso TV" tvg-name="PE | Congreso TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Congreso_TV.png/250px-Congreso_TV.png" group-title="PERU", Congreso TV
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1712364571&_cdn_timestamp=1704104755&_cdn_token=cd0d213ea4574d68fa65cd5c1a78013e50f33d18
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1717417373&_cdn_timestamp=1704513997&_cdn_token=d24bf250e5746aa5c41d1ed0871b52c88eeacbe1
 #EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", América Televisión
 https://live-zlr1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", Panamericana Televisión
@@ -24,13 +24,13 @@ http://191.97.60.193:10000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="PE | USMP TV" tvg-name="PE | USMP TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/USMP_TV_2017.svg/revision/latest/scale-to-width-down/56?cb=20210504214359&path-prefix=es" group-title="PERU", USMP TV
 https://streamusmptv.ddns.net/live/stream.m3u8
 #EXTINF:-1 tvg-id="PE | Global Televisión" tvg-name="PE | Global Televisión" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMObN_3dPu0x6ipIMnQiPhMsWdYVDq5ZXCPA68_3m2KC_k9CT4VpttLSvI7f-mzLYi7w8&usqp=CAU" group-title="PERU", Global Televisión
-http://191.97.60.193:10000/play/a008/index.m3u8
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=1718657972&_cdn_timestamp=1704514052&_cdn_token=92d132ab248e13ce53e81e3b7b50a43189e639dd
 #EXTINF:-1 tvg-id="PE | Like TV" tvg-name="PE | Like TV" tvg-logo="https://pbs.twimg.com/media/F6eCd9qWEAANnK5?format=png&name=240x240" group-title="PERU", Like TV
 https://ott1.hdlatam.tv/live/fuegotv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | La Tele" tvg-name="PE | La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/400px-LaTele_Per%C3%BA_2018_Logo.png" group-title="PERU", La Tele
 http://187.102.208.108:50001/play/a043/index.m3u8
 #EXTINF:-1 tvg-id="PE | PBO TV" tvg-name="PE | PBO TV" tvg-logo="https://pboradio.minegocio21.com/wp-content/uploads/2020/10/logo278.jpg" group-title="PERU", PBO TV
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/PBO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=1711561261&_cdn_timestamp=1704104771&_cdn_token=223e9156bad9b894b9932f496dc4dcd42f10839e
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/PBO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=1718658756&_cdn_timestamp=1704514079&_cdn_token=3ca64cf18f2bf6f05fb95ac4a9e6fa88d2fd89f1
 #EXTINF:-1 tvg-id="PE | Andina Televisión Plus" tvg-name="PE | Andina Televisión Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/175px-ATV%2B_logo_2020.png" group-title="PERU", ATV +
 https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Andina Televisión Sur" tvg-name="PE | Andina Televisión Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/185px-ATV_Sur_-_2018_logo_%28final%29.png" group-title="PERU", ATV Sur
@@ -63,6 +63,8 @@ https://live.obslivestream.com/mayotv/index.m3u8
 https://live.obslivestream.com/reddigital/index.m3u8
 #EXTINF:-1 tvg-id="PE | VZ TV" tvg-name="PE | VZ TV" tvg-logo="https://moyobamba.com/wp-content/uploads/2021/02/vz-nuevo.png" group-title="LOCALES", VZ Televisión || Moyobamba
 https://live.obslivestream.com/vztv/index.m3u8
+#EXTINF:-1 tvg-id="PE | Cumo TV" tvg-name="PE | Cumo TV" tvg-logo="https://pbs.twimg.com/media/F68ylFIW0AAVofQ?format=png&name=360x360" group-title="LOCALES", Cumo TV || Moyobamba
+https://live.obslivestream.com/cumo/index.m3u8
 #EXTINF:-1 tvg-id="PE | Sanjuanera TV" tvg-name="PE | Sanjuanera TV" tvg-logo="http://tv.10dailythings.com/images/channels/PE/sanjuaneratv-1080p-not-247/normal.png" group-title="LOCALES", Sanjuanera Televisión || Moyobamba
 https://live.obslivestream.com/sanjuanera/index.m3u8
 #EXTINF:-1 tvg-id="PE | Vía Alto Mayo TV" tvg-name="PE | Vía Alto Mayo TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqOFVbZI_DEQWBcj9Fjt3OpP7xILbtOuEgaw&usqp=CAU" group-title="PROVINCIALES", Vía Alto Mayo Televisión || Rioja
@@ -120,9 +122,9 @@ https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 #EXTINF:-1 tvg-id="CO | RCN Novelas" tvg-name="CO | RCN Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/205px-RCN_Novelas_logo_2019.png" group-title="NOVELAS", RCN Novelas
 http://138.59.177.34:8000/play/a040/index.m3u8
 #EXTINF:-1 tvg-id="USA | Pasiones" tvg-name="USA | Pasiones" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQgm8S3Mil5Ktp0FUdBBNl7hfDdzPq3eIrNKWgy=s900-c-k-c0x00ffffff-no-rj" group-title="NOVELAS", Pasiones
-http://190.102.139.244:8900/play/a0mv/index.m3u8
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/PASIONES/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPASIONES_stream_42&_cdn_session=1725508483&_cdn_timestamp=1704514148&_cdn_token=bcb65a65ee7093f1c625d8acf12a6f94cad67283
 #EXTINF:-1 tvg-id="TR | Kanal D Drama" tvg-name="TR | Kanal D Drama" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Kanal_D_Drama_%28Latin_America%29.png/revision/latest/scale-to-width-down/200?cb=20200317052444&path-prefix=es" group-title="NOVELAS", Kanal D Drama
-http://190.102.139.244:8900/play/a0o2/index.m3u8
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/KANALD/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DKANALD_stream_b7&_cdn_session=1725508323&_cdn_timestamp=1704514131&_cdn_token=df4babf93dbb191a79eff1e0c2ebf7eeb2fd197e
 #EXTINF:-1 tvg-id="USA | TNT Novelas" tvg-name="USA | TNT Novelas" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/TNT_Novelas_logo_2023.svg/revision/latest/scale-to-width-down/150?cb=20230621193156" group-title="NOVELAS", TNT Novelas
 http://190.102.139.244:8900/play/a11y/index.m3u8
 #EXTINF:-1 tvg-id="MX | Azteca Corazón" tvg-name="MX | Azteca Corazón" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/200px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="NOVELAS", Azteca Corazón
@@ -136,7 +138,7 @@ http://190.102.139.244:8900/play/a0xj/index.m3u8
 #EXTINF:-1 tvg-id="USA | Univisión Latinoamérica" tvg-name="USA | Univisión Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="INTERNACIONALES", Univisión Latinoamérica
 http://138.59.177.34:8000/play/a07a/index.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", Telemundo Internacional
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/TELEMUNDO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEMUNDO_stream_fp&_cdn_session=1711561756&_cdn_timestamp=1704104802&_cdn_token=bc8ff452dd4c97f2bdfe2e5b047041e0a24473f4
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/TELEMUNDO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEMUNDO_stream_fp&_cdn_session=1718659676&_cdn_timestamp=1704514107&_cdn_token=f621aa5949423c968d1ed697c2c30da57ff5e4a7
 #EXTINF:-1 tvg-id="USA | ID" tvg-name="USA | ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png" group-title="DOCUMENTALES Y SERIES", Investigation Discovery
 http://190.102.139.244:8900/play/a0n7/index.m3u8
 #EXTINF:-1 tvg-id="USA | A&E" tvg-name="USA | A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/125px-A%26E_Network_logo.svg.png" group-title="DOCUMENTALES Y SERIES", A&E
@@ -2687,28 +2689,6 @@ https://evcast.mediacp.eu:2060/stream
 https://server1.streamingradio.online/proxy/radio1/stream
 #EXTINF:-1 tvg-id="FR | Radio Francia Internacional" tvg-name="FR | Radio Francia Internacional" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/984.png" group-title="EMISORAS INTERNACIONALES", Radio Francia Internacional || FRANCIA
 https://rfienespagnol64k.ice.infomaniak.ch/rfienespagnol-64.mp3
-#EXTINF:-1 tvg-id="CA | Stingray Music 70's Hits" tvg-name="CA | Stingray Music 70's Hits" tvg-logo="https://static.claro.com.pe/img/logos/logo-stingray-music.jpg" group-title="CANALES DE AUDIO", Stingray Music 70's Hits
-http://190.102.139.244:8900/play/a0wn/index.m3u8
-#EXTINF:-1 tvg-id="CA | Stingray Music 80's Hits" tvg-name="CA | Stingray Music 80's Hits" tvg-logo="https://static.claro.com.pe/img/logos/logo-stingray-music.jpg" group-title="CANALES DE AUDIO", Stingray Music 80's Hits
-http://190.102.139.244:8900/play/a0wo/index.m3u8
-#EXTINF:-1 tvg-id="CA | Stingray Music Classic Rock" tvg-name="CA | Stingray Music Classic Rock" tvg-logo="https://static.claro.com.pe/img/logos/logo-stingray-music.jpg" group-title="CANALES DE AUDIO", Stingray Music Classic Rock
-http://190.102.139.244:8900/play/a0wm/index.m3u8
-#EXTINF:-1 tvg-id="CA | Stingray Music Love Music" tvg-name="CA | Stingray Music Love Music" tvg-logo="https://static.claro.com.pe/img/logos/logo-stingray-music.jpg" group-title="CANALES DE AUDIO", Stingray Music Love Music
-http://190.102.139.244:8900/play/a0wl/index.m3u8
-#EXTINF:-1 tvg-id="CA | Stingray Music New Age" tvg-name="CA | Stingray Music New Age" tvg-logo="https://static.claro.com.pe/img/logos/logo-stingray-music.jpg" group-title="CANALES DE AUDIO", Stingray Music New Age
-http://190.102.139.244:8900/play/a0wk/index.m3u8
-#EXTINF:-1 tvg-id="CA | Stingray Music Reggae" tvg-name="CA | Stingray Music Reggae" tvg-logo="https://static.claro.com.pe/img/logos/logo-stingray-music.jpg" group-title="CANALES DE AUDIO", Stingray Music Reggae
-http://190.102.139.244:8900/play/a0wp/index.m3u8
-#EXTINF:-1 tvg-id="CA | Stingray Music Reggaeton" tvg-name="CA | Stingray Music Reggaeton" tvg-logo="https://static.claro.com.pe/img/logos/logo-stingray-music.jpg" group-title="CANALES DE AUDIO", Stingray Music Reggaeton
-http://190.102.139.244:8900/play/a0wq/index.m3u8
-#EXTINF:-1 tvg-id="CA | Stingray Music Rock Latino" tvg-name="CA | Stingray Music Rock Latino" tvg-logo="https://static.claro.com.pe/img/logos/logo-stingray-music.jpg" group-title="CANALES DE AUDIO", Stingray Music Rock Latino
-http://190.102.139.244:8900/play/a0wr/index.m3u8
-#EXTINF:-1 tvg-id="CA | Stingray Music Regional Mexicana" tvg-name="CA | Stingray Music Regional Mexicana" tvg-logo="https://static.claro.com.pe/img/logos/logo-stingray-music.jpg" group-title="CANALES DE AUDIO", Stingray Music Regional Mexicana
-http://190.102.139.244:8900/play/a0ws/index.m3u8
-#EXTINF:-1 tvg-id="CA | Stingray Music Symphonic" tvg-name="CA | Stingray Music Symphonic" tvg-logo="https://static.claro.com.pe/img/logos/logo-stingray-music.jpg" group-title="CANALES DE AUDIO", Stingray Music Symphonic
-http://190.102.139.244:8900/play/a0wj/index.m3u8
-#EXTINF:-1 tvg-id="CA | Stingray iConciertos" tvg-name="CA | Stingray iConciertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Stingray_Concerts.svg/220px-Stingray_Concerts.svg.png" group-title="CANALES DE AUDIO CON VIDEO", Stingray iConciertos
-http://190.102.139.244:8900/play/a0ol/index.m3u8
 #EXTINF:-1 tvg-id="ES | Música Libre" tvg-name="ES | Música Libre" tvg-logo="https://static.vecteezy.com/system/resources/previews/000/586/196/original/headphone-music-note-logo-vector-illustration.jpg" group-title="CANALES DE AUDIO CON VIDEO", Música Libre
 https://cloudvideo.servers10.com:8081/8010/index.m3u8
 #EXTINF:-1 tvg-id="PE | Cantos Cristianos" tvg-name="PE | Cantos Cristianos" tvg-logo="https://yt3.googleusercontent.com/X3FUhRiuoGMlcbtEFkx5vS0EQRN62JtKsarLsyGHE2TBjFiDGVxtptp7F-F6OTEsooFZOdN-cg=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE AUDIO CON VIDEO", Cantos Cristianos
