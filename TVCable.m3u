@@ -314,7 +314,7 @@ http://go.iptvhn.net:25461/7680/7680/79
 #EXTINF:-1 tvg-id="USA | Disney Channel" tvg-name="USA | Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/200px-2019_Disney_Channel_logo.svg.png" group-title="INFANTILES", 143 | Disney Channel
 http://177.234.230.226:8010/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="USA | Disney Junior" tvg-name="USA | Disney Junior" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/315.png" group-title="INFANTILES", 144 | Disney Junior
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/DISNEYJR/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISNEYJUNIOR_stream_ec&_cdn_session=1726591429&_cdn_timestamp=1704974897&_cdn_token=22621223e5129c1186fcf9d4186b7122037c58d3
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/DISNEYJR/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISNEYJUNIOR_stream_ec&_cdn_session=1729013868&_cdn_timestamp=1704980505&_cdn_token=5be760a2d65edf94047f85ce22631f579e09fd76
 #EXTINF:-1 tvg-id="VE | 1·2·3 TV" tvg-name="VE | 1·2·3 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/123TV_logo_2022.jpg/320px-123TV_logo_2022.jpg" group-title="INFANTILES", 145 | 1·2·3 TV
 http://38.41.8.1:8000/play/a03o
 #EXTINF:-1 tvg-id="AR | Plim Plim TV" tvg-name="AR | Plim Plim TV" tvg-logo="https://cablego.com.pe/cache/logos256/PLIMPLIM.png" group-title="INFANTILES", 146 | Plim Plim TV
@@ -682,7 +682,7 @@ http://168.227.22.18:1935/live/mobile-058/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | History 2" tvg-name="USA | History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png" group-title="CULTURA Y EDUCACION", 322 | History 2
 http://168.227.22.18:1935/live/mobile-157/playlist.m3u8
 #EXTINF:-1 tvg-id="CA | Love Nature" tvg-name="CA | Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2019/11/love_nature_logo_rgb_colour.png" group-title="CULTURA Y EDUCACION", 323 | Love Nature
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/LOVENATURE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLOVENATURE_stream_0s&_cdn_session=1726569587&_cdn_timestamp=1704593887&_cdn_token=be058f633473a2957887dcdfd6cdfbb2577d0eff
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/LOVENATURE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLOVENATURE_stream_0s&_cdn_session=1726625637&_cdn_timestamp=1704980549&_cdn_token=816133012138b1391d1d86d899cd2370b796a932
 #EXTINF:-1 tvg-id="CL | Atlas" tvg-name="CL | Atlas" tvg-logo="https://pbs.twimg.com/media/FvKvGG_WIAIXoG5?format=png&name=240x240" group-title="CULTURA Y EDUCACION", 324 | Atlas
 http://191.97.60.193:10000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-id="CO | Avivamiento TV" tvg-name="CO | Avivamiento TV" tvg-logo="https://avivamiento.com/images/all-images/tv/tv.png" group-title="RELIGIOSOS", 325 | Avivamiento Televisión
@@ -2175,10 +2175,10 @@ https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_4.m3u8
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-id="MX | TV Cuatro de Guanajuato" tvg-name="MX | TV Cuatro de Guanajuato" tvg-logo="https://www.tvcuatro.com/logo%201024.png" group-title="MEXICO", 1046 | TV Cuatro de Guanajuato || MÉXICO
 https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MX | TV UNAM" tvg-name="MX | TV UNAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Logo_Tv_UNAM.png/100px-Logo_Tv_UNAM.png" group-title="MEXICO", 1047 | TV UNAM || MÉXICO
-https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDI0IDc6MDQ6NDkgQU0maGFzaF92YWx1ZT0zS0RhUHdZeUJ2YllxTDFnMDFnd1VBPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==&DVR
-#EXTINF:-1 tvg-id="MX | Canal 13" tvg-name="MX | Canal 13" tvg-logo="https://www.canal13mexico.com/wp-content/uploads/2022/10/logo-canal13-mx-150x150.png" group-title="MEXICO", 1048 | Canal 13 || MÉXICO
+#EXTINF:-1 tvg-id="MX | Canal 13" tvg-name="MX | Canal 13" tvg-logo="https://www.canal13mexico.com/wp-content/uploads/2022/10/logo-canal13-mx-150x150.png" group-title="MEXICO", 1047 | Canal 13 || MÉXICO
 https://dbdfj5y8nz2u4.cloudfront.net/c13guadalajara/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="MX | TRC Televisión" tvg-name="MX | TRC Televisión" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/TRC-Television-en-vivo-Online.png?resize=696%2C392&ssl=1" group-title="MEXICO", 1048 | TRC Televisión || MÉXICO
+https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
 #EXTINF:-1 tvg-id="PR | TeleOnce" tvg-name="PR | TeleOnce" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Teleonce_Logo_2021.png/220px-Teleonce_Logo_2021.png" group-title="PUERTO RICO", 1049 | TeleOnce || PUERTO RICO
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 #EXTINF:-1 tvg-id="PR | Telemundo" tvg-name="PR | Telemundo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png" group-title="PUERTO RICO", 1050 | Telemundo || PUERTO RICO
