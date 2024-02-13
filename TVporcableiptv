@@ -19,8 +19,8 @@ https://ott1.hdlatam.tv/live/conect2tv/playlist.m3u8
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Tele Lima" tvg-name="PE | Tele Lima" tvg-logo="https://pbs.twimg.com/media/FwOtdL0XoAAV01H?format=png&name=small" group-title="PERU", Tele Lima
 https://mserver.latincable.net/TeleLima/index.m3u8
-#EXTINF:-1 tvg-id="PE | Viva TV" tvg-name="PE | Viva TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/PyW6vij-.jpg/175px-PyW6vij-.jpg" group-title="PERU", Viva TV
-http://191.97.60.193:10000/play/a00p/index.m3u8
+#EXTINF:-1 tvg-id="PE | Canal J" tvg-name="PE | Canal J" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/131214018_3866423700047988_8558381379666563264_n.jpg/revision/latest/scale-to-width-down/48?cb=20211025171017&path-prefix=es" group-title="PERU", Canal J
+http://191.97.60.193:10000/play/a04w/index.m3u8
 #EXTINF:-1 tvg-id="PE | USMP TV" tvg-name="PE | USMP TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/USMP_TV_2017.svg/revision/latest/scale-to-width-down/56?cb=20210504214359&path-prefix=es" group-title="PERU", USMP TV
 https://streamusmptv.ddns.net/live/stream.m3u8
 #EXTINF:-1 tvg-id="PE | Global Televisión" tvg-name="PE | Global Televisión" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMObN_3dPu0x6ipIMnQiPhMsWdYVDq5ZXCPA68_3m2KC_k9CT4VpttLSvI7f-mzLYi7w8&usqp=CAU" group-title="PERU", Global Televisión
@@ -171,8 +171,6 @@ https://marine2.miplay.cl/mxclassic/playlist.m3u8
 https://marine2.miplay.cl/mxprime/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Old" tvg-name="CL | Old" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/OLD-FONDO-2-300x169.jpg" group-title="PELICULAS Y SERIES", Old
 https://marine2.miplay.cl/old/playlist.m3u8
-#EXTINF:-1 tvg-id="CL | Classic +" tvg-name="CL | Classic +" tvg-logo="https://pbs.twimg.com/media/FvYjfCkWIAIvMGW?format=png&name=240x240" group-title="PELICULAS Y SERIES", Classic +
-http://45.173.201.50:4000/play/a01t
 #EXTINF:-1 tvg-id="MX | Claro Cinema" tvg-name="MX | Claro Cinema" tvg-logo="https://trademarks.justia.com/media/og_image.php?serial=86830508" group-title="PELICULAS Y SERIES", Claro Cinema
 http://138.59.177.34:8000/play/a05b/index.m3u8
 #EXTINF:-1 tvg-id="MX | De Película" tvg-name="MX | De Película" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula-mediano.png" group-title="PELICULAS Y SERIES", De Película
