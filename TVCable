@@ -420,7 +420,7 @@ http://45.5.117.182:8000/play/a0f7/index.m3u8
 #EXTINF:-1 tvg-id="FR | Euronews" tvg-name="FR | Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/320px-Euronews_2022.svg.png" group-title="NOTICIAS E INFORMACION", 197 | Euronews
 https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Canal 24 Horas" tvg-name="CL | Canal 24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png" group-title="NOTICIAS E INFORMACION", 198 | Canal 24 Horas
-http://201.222.44.220:4227/play/a02s/index.m3u8
+https://marine2.miplay.cl/24horas/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Lifetime" tvg-name="USA | Lifetime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/150px-Logo_Lifetime_2020.svg.png" group-title="MISCELANEO", 199 | Lifetime
 http://168.227.22.18:1935/live/mobile-154/playlist.m3u8
 #EXTINF:-1 tvg-id="VE | Ve Plus" tvg-name="VE | Ve Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ve_Plus_Logo_2019.png/130px-Ve_Plus_Logo_2019.png" group-title="MISCELANEO", 200 | Ve Plus
@@ -804,7 +804,7 @@ https://ott1.hdlatam.tv/live/CanalB/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Monterrico TV" tvg-name="PE | Monterrico TV" tvg-logo="https://hipodromodemonterrico.com.pe/generales_logos_hipodromos/logo_mont.gif" group-title="REGIONALES", 386 | Monterrico TV || Lima
 https://h.jcp.live.opencaster.com/play_src/index.m3u8
 #EXTINF:-1 tvg-id="PE | Tele Lima" tvg-name="PE | Tele Lima" tvg-logo="https://pbs.twimg.com/media/FwOtdL0XoAAV01H?format=png&name=small" group-title="REGIONALES", 387 | Tele Lima
-https://ott1.hdlatam.tv/live/T3l3_KnufrnedxgL1m4/playlist.m3u8
+http://191.97.60.193:10000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="PE | Red de Comunicación Regional" tvg-name="PE | Red de Comunicación Regional" tvg-logo="https://www.rcrperu.com/wp-content/uploads/2019/10/logo-rcr.png" group-title="REGIONALES", 388 | RCR TV || Lima
 https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Central TV" tvg-name="PE | Central TV" tvg-logo="https://graph.facebook.com/CentralTVperuLima/picture?width=320&height=320" group-title="REGIONALES", 389 | Central TV || Lima
@@ -1487,6 +1487,8 @@ http://201.222.44.220:4227/play/a02l/index.m3u8
 https://marine2.miplay.cl/uestv/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | NTV" tvg-name="CL | NTV" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/ntv-1920-1080-300x169.jpg" group-title="CHILE", 712 | NTV || CHILE
 https://marine2.miplay.cl/ntv/playlist.m3u8
+#EXTINF:-1 tvg-id="CL | Suyai tv" tvg-name="CL | Suyai tv" tvg-logo="http://core1.hdlatam.tv/media/images/channel/suyaitv.jpg" group-title="CHILE", En prueba | Suyai tv || CHILE
+https://ott1.hdlatam.tv/live/SuyaiTV/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Wapp TV" tvg-name="CL | Wapp TV" tvg-logo="https://ott-assets.mdstrm.com/51tv/assets/images/logo-light-white.png" group-title="CHILE", 713 | Wapp TV || CHILE
 https://marine2.miplay.cl/wapp/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | TVU" tvg-name="CL | TVU" tvg-logo="https://www.tvu.cl/_templates/desktop/includes/img/LOGO-TVU-AZUL.png" group-title="CHILE", 714 | TVU || CHILE
