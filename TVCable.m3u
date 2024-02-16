@@ -4,7 +4,7 @@ https://live-zlr1.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=v
 #EXTINF:-1 tvg-id="PE | Latina Televisión" tvg-name="PE | Latina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="PERU", 2 | Latina Televisión
 https://live-zlr1.tv360.bitel.com.pe/bitel/latina/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-id="PE | La Tele" tvg-name="PE | La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/400px-LaTele_Per%C3%BA_2018_Logo.png" group-title="PERU", 3 | La Tele
-http://bantel.iptvperu.tv:1935/transcoderip/latele_t1.stream/chunks.m3u8?nimblesessionid=21094540
+http://bantel.iptvperu.tv:1935/transcoderip/latele_t1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | América Televisión
 https://live-zlr1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana Televisión
@@ -16,7 +16,7 @@ https://live-zlr1.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8?manifestfilter=v
 #EXTINF:-1 tvg-id="PE | TV Perú Internacional" tvg-name="PE | TV Perú Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/250px-TV_Per%C3%BA_Internacional_2019_-_copia.png" group-title="PERU", 7.2 | TV Perú Internacional
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 #EXTINF:-1 tvg-id="PE | TV Perú Noticias" tvg-name="PE | TV Perú Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/250px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="PERU", 7.3 | TV Perú Noticias
-http://bantel.iptvperu.tv:1935/transcoderip/tvperunoticias_t1.stream/chunks.m3u8?nimblesessionid=21111272
+http://bantel.iptvperu.tv:1935/transcoderip/tvperunoticias_t1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Congreso TV" tvg-name="PE | Congreso TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Congreso_TV.png/250px-Congreso_TV.png" group-title="PERU", 7.4 | Congreso TV
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1776226539&_cdn_timestamp=1708140666&_cdn_token=9bde0d75d59509598de2ce9996ba57af4f7aafa5
 #EXTINF:-1 tvg-id="PE | Conectad2 TV" tvg-name="PE | Conectad2 TV" tvg-logo="https://cablego.com.pe/cache/logos256/CONECTA2.png" group-title="PERU", 8 | Conectad2 Televisión
@@ -26,17 +26,17 @@ https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp
 #EXTINF:-1 tvg-id="PE | Andina Televisión Plus" tvg-name="PE | Andina Televisión Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/175px-ATV%2B_logo_2020.png" group-title="PERU", 9.2 | ATV +
 https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Andina Televisión Sur" tvg-name="PE | Andina Televisión Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/185px-ATV_Sur_-_2018_logo_%28final%29.png" group-title="PERU", 9.3 | ATV Sur
-http://bantel.iptvperu.tv:1935/transcoderip/atvsurmovil_t6.stream/chunks.m3u8?nimblesessionid=21093720
+http://bantel.iptvperu.tv:1935/transcoderip/atvsurmovil_t6.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | PBO TV" tvg-name="PE | PBO TV" tvg-logo="https://pboradio.minegocio21.com/wp-content/uploads/2020/10/logo278.jpg" group-title="PERU", 10 | PBO TV
-http://bantel.iptvperu.tv:1935/bantel/PBO/chunks.m3u8?nimblesessionid=21108182
+http://bantel.iptvperu.tv:1935/bantel/PBO/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Viva TV" tvg-name="PE | Viva TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/PyW6vij-.jpg/175px-PyW6vij-.jpg" group-title="PERU", 11 | Viva TV
-http://bantel.iptvperu.tv:1935/transcoderip/rbc_t1.stream/chunks.m3u8?nimblesessionid=21092250
+http://bantel.iptvperu.tv:1935/transcoderip/rbc_t1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | USMP TV" tvg-name="PE | USMP TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/USMP_TV_2017.svg/revision/latest/scale-to-width-down/56?cb=20210504214359&path-prefix=es" group-title="PERU", 12 | USMP TV
 https://streamusmptv.ddns.net/live/stream.m3u8
 #EXTINF:-1 tvg-id="PE | USMP TV Música" tvg-name="PE | USMP TV Música" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/USMP_TV_M%C3%BAsica.png" group-title="MUSICA Y REALITIES", 12.2 | USMP TV Música
-http://bantel.iptvperu.tv:1935/transcoderip/usmptvmusicamovil_t6.stream/chunks.m3u8?nimblesessionid=21129262
+http://bantel.iptvperu.tv:1935/transcoderip/usmptvmusicamovil_t6.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Global Televisión" tvg-name="PE | Global Televisión" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMObN_3dPu0x6ipIMnQiPhMsWdYVDq5ZXCPA68_3m2KC_k9CT4VpttLSvI7f-mzLYi7w8&usqp=CAU" group-title="PERU", 13 | Global Televisión
-http://bantel.iptvperu.tv:1935/transcoderip/global_t1.stream/chunks.m3u8?nimblesessionid=21094951
+http://bantel.iptvperu.tv:1935/transcoderip/global_t1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Vinilos TV" tvg-name="PE | Vinilos TV" tvg-logo="https://playmax.tv/wp-content/uploads/2023/05/vinilostv-bn.png" group-title="LOCALES", 14 | Vinilos TV || Moyobamba
 https://live.obslivestream.com/controversiatv/index.m3u8
 #EXTINF:-1 tvg-id="PE | Moyobamba Televisión" tvg-name="PE | Moyobamba Televisión" tvg-logo="https://pbs.twimg.com/media/F-c9_loWcAAiEOL?format=png&name=small" group-title="LOCALES", 15 | Moyobamba Televisión || Moyobamba
@@ -136,13 +136,13 @@ http://190.90.154.73:8080/play/a08z/index.m3u8
 #EXTINF:-1 tvg-id="MX | Azteca Corazón" tvg-name="MX | Azteca Corazón" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/200px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="NOVELAS", 58 | Azteca Corazón
 http://livex.pop-app.live/s4n/poplive/ch570/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | Tlnovelas Latinoamérica" tvg-name="MX | Tlnovelas Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="NOVELAS", 59 | Tlnovelas Latinoamérica
-http://bantel.iptvperu.tv:1935/transcoder4-srt/TL_Novelas.stream/chunks.m3u8?nimblesessionid=21132646
+http://bantel.iptvperu.tv:1935/transcoder4-srt/TL_Novelas.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | Las Estrellas Latinoamérica" tvg-name="MX | Las Estrellas Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/154px-Las_Estrellas_logo_%282016%29.svg.png" group-title="INTERNACIONALES", 60 | Las Estrellas Latinoamérica
 http://190.90.154.73:8080/play/a097/index.m3u8
 #EXTINF:-1 tvg-id="USA | Univisión Latinoamérica" tvg-name="USA | Univisión Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="INTERNACIONALES", 61 | Univisión Latinoamérica
-http://bantel.iptvperu.tv:1935/transcoder4-srt/Univision.stream/chunks.m3u8?nimblesessionid=21131895
+http://bantel.iptvperu.tv:1935/transcoder4-srt/Univision.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", 62 | Telemundo Internacional
-http://bantel.iptvperu.tv:1935/transcoder4-srt/telemundo.stream/chunks.m3u8?nimblesessionid=21130388
+http://bantel.iptvperu.tv:1935/transcoder4-srt/telemundo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | ID" tvg-name="USA | ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png" group-title="DOCUMENTALES Y SERIES", 63 | Investigation Discovery
 http://138.59.177.34:8000/play/a06g/index.m3u8
 #EXTINF:-1 tvg-id="USA | A&E" tvg-name="USA | A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/125px-A%26E_Network_logo.svg.png" group-title="DOCUMENTALES Y SERIES", 64 | A&E
@@ -182,7 +182,7 @@ https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | TCM" tvg-name="USA | TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/120px-TCM_Latam_logo.svg.png" group-title="PELICULAS Y SERIES", 80 | TCM
 http://190.149.66.90:4000/play/a02m/index.m3u8
 #EXTINF:-1 tvg-id="CL | Classic +" tvg-name="CL | Classic +" tvg-logo="https://pbs.twimg.com/media/FvYjfCkWIAIvMGW?format=png&name=240x240" group-title="PELICULAS Y SERIES", En prueba | Classic +
-http://bantel.iptvperu.tv:1935/bantel/classic.stream/chunks.m3u8?nimblesessionid=21109943
+http://bantel.iptvperu.tv:1935/bantel/classic.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Studio Universal" tvg-name="USA | Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/175px-StudioUniversal2016.png" group-title="PELICULAS Y SERIES", 81 | Studio Universal
 http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | USA Network" tvg-name="USA | USA Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/150px-USA_Network_logo_%282016%29.svg.png" group-title="PELICULAS Y SERIES", 82 | USA Network
@@ -314,7 +314,7 @@ http://190.90.154.73:8080/play/a02n/index.m3u8
 #EXTINF:-1 tvg-id="USA | Disney Channel" tvg-name="USA | Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/200px-2019_Disney_Channel_logo.svg.png" group-title="INFANTILES", 144 | Disney Channel
 http://177.234.230.226:8010/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="USA | Disney Junior" tvg-name="USA | Disney Junior" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/315.png" group-title="INFANTILES", 145 | Disney Junior
-http://bantel.iptvperu.tv:1935/transcoder2-srt/DisneyJR.stream/chunks.m3u8?nimblesessionid=21109305
+http://bantel.iptvperu.tv:1935/transcoder2-srt/DisneyJR.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="VE | 1·2·3 TV" tvg-name="VE | 1·2·3 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/123TV_logo_2022.jpg/320px-123TV_logo_2022.jpg" group-title="INFANTILES", 146 | 1·2·3 TV
 http://38.41.8.1:8000/play/a03o
 #EXTINF:-1 tvg-id="AR | Plim Plim TV" tvg-name="AR | Plim Plim TV" tvg-logo="https://cablego.com.pe/cache/logos256/PLIMPLIM.png" group-title="INFANTILES", 147 | Plim Plim TV
@@ -600,7 +600,7 @@ https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="DO | Fuego 40 El canal del pueblo" tvg-name="DO | Fuego 40 El canal del pueblo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUsURmYDu5MKZt_f59t-k2RIegQiWUbRp4X4PTLhm9BXR2qWUfuuYrCMWbaxVb3lhRhLk&usqp=CAU" group-title="MUSICA Y REALITIES", 286 | Fuego 40 TV
 https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Karibeña TV" tvg-name="PE | Karibeña TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Logokaribe%C3%B1atv.png/150px-Logokaribe%C3%B1atv.png" group-title="MUSICA Y REALITIES", 287 | Karibeña TV
-http://bantel.iptvperu.tv:1935/transcoderip/karibena_t1.stream/chunks.m3u8?nimblesessionid=21126496
+http://bantel.iptvperu.tv:1935/transcoderip/karibena_t1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | TV One" tvg-name="PE | TV One" tvg-logo="https://pbs.twimg.com/media/GGfL6P_XcAAfZSB?format=png&name=240x240" group-title="MUSICA Y REALITIES", En prueba | TV One
 https://streamtv.onliv3.online:1936/karibtv/karibtv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | 88 Stereo" tvg-name="NI | 88 Stereo" tvg-logo="http://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png" group-title="MUSICA Y REALITIES", 288 | 88 Stereo
@@ -792,7 +792,7 @@ https://v4.tustreaming.cl/odtv2/index.m3u8
 #EXTINF:-1 tvg-id="PE | Canal J" tvg-name="PE | Canal J" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/131214018_3866423700047988_8558381379666563264_n.jpg/revision/latest/scale-to-width-down/48?cb=20211025171017&path-prefix=es" group-title="REGIONALES", En prueba | Canal J || Lima
 http://191.97.60.193:10000/play/a04w/index.m3u8
 #EXTINF:-1 tvg-id="PE | Like TV" tvg-name="PE | Like TV" tvg-logo="https://pbs.twimg.com/media/F6eCd9qWEAANnK5?format=png&name=240x240" group-title="REGIONALES", 378 | Like TV || Lima
-http://bantel.iptvperu.tv:1935/Astralocal/fuegotv/chunks.m3u8?nimblesessionid=21098039
+https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
 #EXTINF:-1 tvg-id="PE | Bh TV" tvg-name="PE | Bh TV" tvg-logo="https://pbs.twimg.com/media/FSXrlXTWQAEGTSu?format=jpg&name=medium" group-title="REGIONALES", 379 | BH Televisión || Lima
 https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Visión Noticias Perú" tvg-name="PE | Visión Noticias Perú" tvg-logo="https://pbs.twimg.com/profile_images/1422217356932222981/7x6h0HiY_400x400.jpg" group-title="REGIONALES", 380 | VNP || Lima
@@ -806,7 +806,7 @@ https://cloud.live.opencaster.com/playlist_src/index.m3u8
 #EXTINF:-1 tvg-id="PE | Vamisa TV" tvg-name="PE | Vamisa TV" tvg-logo="https://radiovamisa.tv/wp-content/uploads/2020/03/logo-1.png" group-title="REGIONALES", 384 | Vamisa TV || Lima
 https://inliveserver.com:1936/10044/10044/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Canal B" tvg-name="PE | Canal B" tvg-logo="http://core1.hdlatam.tv/media/images/channel/WhatsApp_Image_2022-11-10_at_6.03.46_PM.jpeg" group-title="REGIONALES", 385 | Canal B || Lima
-http://bantel.iptvperu.tv:1935/bantel/Canal-B/chunks.m3u8?nimblesessionid=21108736
+http://bantel.iptvperu.tv:1935/bantel/Canal-B/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Monterrico TV" tvg-name="PE | Monterrico TV" tvg-logo="https://hipodromodemonterrico.com.pe/generales_logos_hipodromos/logo_mont.gif" group-title="REGIONALES", 386 | Monterrico TV || Lima
 https://h.jcp.live.opencaster.com/play_src/index.m3u8
 #EXTINF:-1 tvg-id="PE | Tele Lima" tvg-name="PE | Tele Lima" tvg-logo="https://pbs.twimg.com/media/FwOtdL0XoAAV01H?format=png&name=small" group-title="REGIONALES", 387 | Tele Lima
