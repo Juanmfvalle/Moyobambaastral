@@ -18,7 +18,7 @@ https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 #EXTINF:-1 tvg-id="PE | TV Perú Noticias" tvg-name="PE | TV Perú Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/250px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="PERU", 7.3 | TV Perú Noticias
 http://bantel.iptvperu.tv:1935/transcoderip/tvperunoticias_t1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Congreso TV" tvg-name="PE | Congreso TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Congreso_TV.png/250px-Congreso_TV.png" group-title="PERU", 7.4 | Congreso TV
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1771792285&_cdn_timestamp=1708147055&_cdn_token=f267c796f980a14ac0256b7f1e2bcab7179c501e
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1773538173&_cdn_timestamp=1708253399&_cdn_token=63066138294563bdd4b8d1a9eaca544968c9774b
 #EXTINF:-1 tvg-id="PE | Conectad2 TV" tvg-name="PE | Conectad2 TV" tvg-logo="https://cablego.com.pe/cache/logos256/CONECTA2.png" group-title="PERU", 8 | Conectad2 Televisión
 https://live-zlr1.tv360.bitel.com.pe/bitel/conectados/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-id="PE | Andina Televisión" tvg-name="PE | Andina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" group-title="PERU", 9 | ATV
@@ -73,6 +73,8 @@ https://live.obslivestream.com/sanjuanera/index.m3u8
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
 #EXTINF:-1 tvg-id="PE | Nor Selva TV" tvg-name="PE | Nor Selva TV" tvg-logo="https://play-lh.googleusercontent.com/w6OBzswjSQyeDBwl6z2J5pGiQjuHH3JcmLgXVxGf68WUMocekssnBW_VAZpOdMVee34=s180-rw" group-title="PROVINCIALES", 31 | Nor Selva Televisión || Rioja
 https://live.obslivestream.com/norselvatv/index.m3u8
+#EXTINF:-1 tvg-id="PE | California TV" tvg-name="PE | California TV" tvg-logo="https://play-lh.googleusercontent.com/0PDtlaDTl0SA3nFeDgS-RBurAzJHt4jUAUJi9zYOTdjCvZzNdiMoILTdgYM9I42llPM=w240-h480-rw" group-title="PROVINCIALES", En prueba | California TV || Nueva Cajamarca
+https://vdo.grupolimalive.com:3576/live/californiatvlive.m3u8
 #EXTINF:-1 tvg-id="PE | Antares TV Tarapoto" tvg-name="PE | Antares TV Tarapoto" tvg-logo="https://www.coolstreaming.us/img/ch/image88527916465.jpg" group-title="PROVINCIALES", 32 | Antares Televisión || Tarapoto
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | TV Tarapoto" tvg-name="PE | TV Tarapoto" tvg-logo="https://www.televisiontarapoto.pe/wp-content/uploads/2019/05/logo_tv_tarapoto.png" group-title="PROVINCIALES", 33 | Televisión Tarapoto || Tarapoto
@@ -376,7 +378,7 @@ http://45.5.117.182:8000/play/ihf9/index.m3u8
 #EXTINF:-1 tvg-id="USA | Comedy Central" tvg-name="USA | Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/250px-Comedy_Central_2018.svg.png" group-title="ENTRETENIMIENTO", 175 | Comedy Central 
 http://168.227.22.18:1935/live/mobile-001/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | QUVO Teve Empresa" tvg-name="PE | QUVO Teve Empresa" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQHBJhDs6-ZbNQ/company-logo_200_200/0/1589815974379?e=2147483647&v=beta&t=EHFypU7gpyeZEF2o92AzGgeJ8HDQwbIaURH-yVEY15w" group-title="EMPRENDIMIENTO", 176 | QUVO Teve Empresa
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TVEMPRESA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVEMPRESA_stream_yi&_cdn_session=1771789853&_cdn_timestamp=1708146938&_cdn_token=5e9fac40494f9bf046cf29f119ff1835b8068e4f
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/TVEMPRESA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVEMPRESA_stream_yi&_cdn_session=1774979732&_cdn_timestamp=1708253462&_cdn_token=ad2e58564076ea8360d5d33c790e571352ac5980
 #EXTINF:-1 tvg-id="EC | Inti TV" tvg-name="EC | Inti TV" tvg-logo="https://i.imgur.com/2WirGqb.png" group-title="EMPRENDIMIENTO", 177 | Inti TV
 https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
 #EXTINF:-1 tvg-id="RU | RT" tvg-name="RU | RT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png" group-title="NOTICIAS E INFORMACION", 178 | RT Noticias
@@ -399,6 +401,8 @@ https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 tvg-id="CO | Noticias Caracol" tvg-name="CO | Noticias Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Noticias_Caracol_imagotype.svg/150px-Noticias_Caracol_imagotype.svg.png" group-title="NOTICIAS E INFORMACION", 187 | Noticias Caracol
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/NOTICIASCARACOL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNOTICIASCARACOL_stream_93&_cdn_session=1776323419&_cdn_timestamp=1708147010&_cdn_token=a5da9f5db2792b6f79c4f0a927da5408745863f0
+#EXTINF:-1 tvg-id="CO | Cablenoticias" tvg-name="CO | Cablenoticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/175px-Cable_Noticias_logo.svg.png" group-title="NOTICIAS E INFORMACION", En prueba | Cablenoticias
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 #EXTINF:-1 tvg-id="IRN | HispanTV" tvg-name="IRN | HispanTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/245px-HispanTv_logo.svg.png" group-title="NOTICIAS E INFORMACION", 188 | HispanTV
 https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CH | CGTN Español" tvg-name="CH | CGTN Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/180px-CGTN_Espanol.png" group-title="NOTICIAS E INFORMACION", 189 | CGTN Español
@@ -428,7 +432,7 @@ http://168.227.22.18:1935/live/mobile-154/playlist.m3u8
 #EXTINF:-1 tvg-id="VE | Ve Plus" tvg-name="VE | Ve Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ve_Plus_Logo_2019.png/130px-Ve_Plus_Logo_2019.png" group-title="MISCELANEO", 200 | Ve Plus
 http://181.78.8.90:16123/play/ch36
 #EXTINF:-1 tvg-id="MX | Canal Claro" tvg-name="MX | Canal Claro" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_wMka8ic6GW1I8vfkcLln4EVGxKvqesLkuFTuI=s900-c-k-c0x00ffffff-no-rj" group-title="MISCELANEO", 201 | Canal Claro
-http://45.228.232.219:16000/play/a0le/index.m3u8
+http://138.59.177.34:8000/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="USA | film&arts" tvg-name="USA | film&arts" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Film%26Arts2016.png/200px-Film%26Arts2016.png" group-title="MISCELANEO", 202 | Film & Arts
 http://168.227.22.18:1935/live/mobile-142/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Canal DOS" tvg-name="CL | Canal DOS" tvg-logo="https://pbs.twimg.com/media/Fm4LCw_WYAESJ5v?format=png&name=small" group-title="MISCELANEO", 203 | Canal DOS
@@ -448,7 +452,7 @@ http://168.227.22.18:1935/live/mobile-013/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Ladies TV" tvg-name="CL | Ladies TV" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/LADIES-FONDO-2-300x169.jpg" group-title="ESTILOS DE VIDA", 210 | Ladies TV
 https://panel.miplay.cl:8081/ladies/index.m3u8
 #EXTINF:-1 tvg-id="USA | TLC" tvg-name="USA | TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/150px-TLC_Logo.svg.png" group-title="ESTILOS DE VIDA", 211 | Travel & Living Channel
-http://45.228.232.219:16000/play/a0n6/index.m3u8
+http://138.59.177.34:8000/play/a057/index.m3u8
 #EXTINF:-1 tvg-id="USA | Discovery Home & Health" tvg-name="USA | Discovery Home & Health" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png" group-title="ESTILOS DE VIDA", 212 | Discovery Home & Health
 http://168.227.22.18:1935/live/mobile-107/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | On Tour Channel" tvg-name="CL | On Tour Channel" tvg-logo="https://pbs.twimg.com/media/FSiiFtPXIAAjZZ8?format=png&name=120x120" group-title="ESTILOS DE VIDA", 213 | On Tour Channel
@@ -466,7 +470,7 @@ https://marine2.miplay.cl/mundoysabor/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Golf Channel" tvg-name="USA | Golf Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/200px-Golf_Channel_Logo_2018.png" group-title="DEPORTES", 219 | Golf Channel
 http://138.59.177.34:8000/play/a03b/index.m3u8
 #EXTINF:-1 tvg-id="USA | Fox Sports 1" tvg-name="USA | Fox Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/175px-Fox_Sports_1_logo.svg.png" group-title="DEPORTES", 220 | Fox Sports 1
-http://190.61.55.186:1010/play/a019/index.m3u8
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4294
 #EXTINF:-1 tvg-id="USA | Fox Sports 2" tvg-name="USA | Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/175px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES", 221 | Fox Sports 2
 http://190.90.154.73:8080/play/a02t/index.m3u8
 #EXTINF:-1 tvg-id="USA | Fox Sports 3" tvg-name="USA | Fox Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/180px-Fox_sports_3_logo.svg.png" group-title="DEPORTES", 222 | Fox Sports 3
@@ -508,7 +512,7 @@ http://191.97.60.193:10000/play/a02v/index.m3u8
 #EXTINF:-1 tvg-id="CR | FUTV" tvg-name="CR | FUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_de_FUTV.svg/200px-Logo_de_FUTV.svg.png" group-title="DEPORTES", 240 | FUTV
 http://45.5.117.182:8000/play/a0io/index.m3u8
 #EXTINF:-1 tvg-id="HN | Todo Deportes TV" tvg-name="HN | Todo Deportes TV" tvg-logo="https://dd7tel2830j4w.cloudfront.net/f1560359694028x167785582725733730/Group%2012.svg" group-title="DEPORTES", 241 | Todo Deportes TV
-https://5fe2654d6127d.streamlock.net/tododeportesplus/smil:tododeportesplus.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDI0IDEyOjIwOjU3IFBNJmhhc2hfdmFsdWU9ajdnbm1iK2Y0RW1lWWpReUZndlVOdz09JnZhbGlkbWludXRlcz0zNjAwJmlkPQ==
+https://5fe2654d6127d.streamlock.net/tododeportesplus/smil:tododeportesplus.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDI0IDU6NTI6MzMgQU0maGFzaF92YWx1ZT05bjdWRW90UUt3dXNhaC9YVTN1dnRRPT0mdmFsaWRtaW51dGVzPTM2MDAmaWQ9
 #EXTINF:-1 tvg-id="CO | Win Sports" tvg-name="CO | Win Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/WinSports2022.png/150px-WinSports2022.png" group-title="DEPORTES", 242 | Win Sports
 http://190.90.154.73:8080/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="CO | Win Sports+" tvg-name="CO | Win Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/WinSportsM%C3%A1s2022.png/200px-WinSportsM%C3%A1s2022.png" group-title="DEPORTES", 243 | Win Sports+
@@ -576,7 +580,7 @@ https://canal.mediaserver.com.co/live/telemusica.m3u8
 #EXTINF:-1 tvg-id="CL | Old Music TV" tvg-name="CL | Old Music TV" tvg-logo="https://pbs.twimg.com/media/FSimCx8X0AI_8QI?format=png&name=small" group-title="MUSICA Y REALITIES", 274 | Old Music Televisión
 https://marine2.miplay.cl/oldmusic/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Memorias TV" tvg-name="USA | Memorias TV" tvg-logo="https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1-224x96.png" group-title="MUSICA Y REALITIES", 275 | Memorias TV
-https://mediacp.us:8081/8002/index.m3u8
+https://stmv6.voxtvhd.com.br/memoriastv/memoriastv/playlist.m3u8
 #EXTINF:-1 tvg-id="ES | Ritmos Inolvidables TV" tvg-name="ES | Ritmos Inolvidables TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/416d4bff6de22d61a3bc3a7b9e8aecb4.webp" group-title="MUSICA Y REALITIES", 276 | Ritmos Inolvidables TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
 #EXTINF:-1 tvg-id="PE | Retro Plus TV" tvg-name="PE | Retro Plus TV" tvg-logo="https://retroplustv.com/gallery_gen/391184735541fc73f216b27309966e07_180x62_fit.jpg" group-title="MUSICA Y REALITIES", 277 | Retro Plus TV
@@ -1394,7 +1398,7 @@ https://d3mghbm9e5zfap.cloudfront.net/Bolivision/2af819d7c8ab1c07658d1575e55800e
 #EXTINF:-1 tvg-id="BO | Bolivia TV" tvg-name="BO | Bolivia TV" tvg-logo="https://play-lh.googleusercontent.com/dX47fheQl_3mwitKaPpE2W--3jNwf498GQF7-Wvt70nUht6sHhRAq9_RySAeBcHyC2M=w240-h480-rw" group-title="BOLIVIA", 668 | Bolivia TV || BOLIVIA
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Asociación de Teledifusoras Bolivianas" tvg-name="BO | Asociación de Teledifusoras Bolivianas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/ATBBo2020Logo.png/150px-ATBBo2020Logo.png" group-title="BOLIVIA", 669 | ATB || BOLIVIA
-https://stream-04.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOiHwP_w3sFD-qBcaoOydny-nX0Nncl4NGCWwgOB8RUVn)/dm/3/x84eirw/s/live-3.m3u8
+https://stream-01.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOkpgffo8tpvAMywDQ_97h2m9Sn4lIquj79mzlfgWmXzD)/dm/3/x84eirw/s/live-3.m3u8
 #EXTINF:-1 tvg-id="BO | Red Uno" tvg-name="BO | Red Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/245px-Uno_logo.svg.png" group-title="BOLIVIA", 670 | Red Uno || BOLIVIA
 https://stream-04.nyc.dailymotion.com/sec(RAgBiwkvDxA3k2daAQfIDvrPgGiKiFF0PB5IuPv9wpSrHHgSpIz9fC_10Md-tZOp)/dm/3/x8ko1ix/d/live-3.m3u8
 #EXTINF:-1 tvg-id="BO | Red Periodistas Asociados Televisión" tvg-name="BO | Red Periodistas Asociados Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Red_pat_new.jpg/220px-Red_pat_new.jpg" group-title="BOLIVIA", 671 | PAT || BOLIVIA
@@ -1838,7 +1842,7 @@ http://138.59.177.34:8000/play/a04j/index.m3u8
 #EXTINF:-1 tvg-id="GT | La Red TV" tvg-name="GT | La Red TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/la_red_tv_guatemala-mediano.png" group-title="GUATEMALA", 879 | La Red TV || GUATEMALA
 http://138.59.177.34:8000/play/a062/index.m3u8
 #EXTINF:-1 tvg-id="GT | VEA Canal" tvg-name="GT | VEA Canal" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Vea-Canal-en-vivo-Online.png?resize=696%2C392&ssl=1" group-title="GUATEMALA", 880 | VEA Canal || GUATEMALA
-https://video-weaver.sao03.hls.ttvnw.net/v1/playlist/CsgF1v84zRk2PJvjyBP_PK7whHmVK80wnJPvjRKLgSvbihX-6FCo15FMTl-9j-Ln2YFii6Ho6WhUxzwQ6HosgyjWNL7_GTJ854L1LKZulaFy3ceY0Xd8Cbw0XnaTPg8U3XsOdDQCCLry505M1YP2Abo3kqX2HZdlVqkWjjp_swC-2dHnsc5BuVtCwc931uHA4Q-AJCPaULWzH122BpZ0fMYuQvTFmrVKFIFtquEuq9GmTOgfzVXhWeMN0c7N7Y0kvJbbggXliBnJ9syK3gTCkphzDLaqiTXKI3E9mBsdGCQLX7ZSZFfv-5TEre1rUGUuYcBh-0j6X4ezJpriLwC-umGF8Zx7QO0clm1xzUePOM7UYWIWQe3U8zX4sbTqVFVt6izAqIVz4cz8R4YscWJQmWnwQmVW918GwbVH3sTwHZY3TeLgkDLkTI4j_N-QkpWJ5qnx15jehW3ixWKsEnjxZuaWjUC0hNsc6K56GSL1Iq7c5aYl4PJEz_IRz8tHm0fK2D4u1HYsS2GNI2IW1DSHZcBbsA5ISyv5iZEa-XJuZkBQciA6Pt2HtQ9BjxAdsK_3h5tDEH49Y7Eb19y4ulB7QOqmvMaL5Sv1w52IY4EZ61AFvhb6V49zKvs3QFlxw6foxhm8NZ8097UKWjLCz30zDsl7kb0DDAuffuGsn9h8xP60MAQbaqYbI5Dci57MmV0UhJInTJ5q7hpg-yn-45Wxc0UviBs48rASxOSYgKG-ZZSOBi-BHmGTVvr6jjGTdXrHAKO-u5pRU6eJVCtHsWRKmpqCcUvgsFlhNf63c6lrq4VxxEC-1uMgVq8I5Y7L0-K8yjdeIxskWjQDWArqyzpjPNqZ5ILXGJicxh_f_vq9dPYikWmvHsFxJuH_EyO4sSW2e0J0YFpWO-AgmlMjVYUbalTzz3FEYK03VtlRwxbj5jrpUiZAQofBbhbsXhoMhq4UkJBc9_rkG9lcIAEqCXVzLWVhc3QtMTCTBw.m3u8
+https://video-weaver.sao03.hls.ttvnw.net/v1/playlist/CsYFMGRyz5sxTJuILTFE3nAgJmu3AecU6KGAen34vomsI7wTqc6ZF1ChwqbuERs0-hlR4nmJMcasq6GVc6R-sl1MwiTmSdz7QUNRf7HY55CdoRCH-ezA06nG3Le7xnVF0EPd91UcQI1dpqVfB3OXnj--Mrgurz9OQlyQs-hEkNh-kZCFkO5f9fULki0zm90_kXhdfa4dW3OAtjkUEjfGi2WuY0TqJLjVS8j-7M0bjh8GogeTZKpUrxqVGIkkQ-VPSSrlt3I06jWyee2q3Hm4D4l8xjV8abp1M2nGsGy8ed57Yu8F11L40ulzDRnpnRJeWdv8cKDX0GxT5lMJAnqg9Dkcc-Zky7AHgNzGVR4wVUB3hL6eNgz7m6R7LWtzeMiRZ2QQBHOEC2NKxYgF5_JDHtTsjVwN6XsaYQI3p5upSr0JWpLue_dR0myb9cPHGWHLkPmi_2KGE1gIYO43JXemZ7A4JJXXC39x8_6KcZueLD5pddrJMFOfycd2EpgAf5LzCY0_NXTit1mTw3UD0q7xJi0HNRE8MxOW4W5Rx1mMttS0euhgDdJ5LEiNYLxc5-hPLvzpCdz8JDNck4Yd2GRNb-l3HkyKBYTz0Q4cs3HbcEb-liyM2-CJYHCzOUAzEnOP7DiV3TGBhr0b4dOn_yCsp8SYjeU903vX5r2wrEdEKxnMkZ6OjhksffJUpuyHQhfrGTZgBWnjfeCCEQWr46N5LREVWX9YPlcPxDNvNNthKxTWZInS51eWT5WBJRzbiUB3D3CRMtlchsBVRoxmrvpzTnPfIuiNIbIhYrb3yugDeDVkfufNGah9617WRnKvdNjCfMVkfeV7Zy5B39JV-t-UzFWKgZ4kPKE4IQb1bR0GhXZlqHHIObNATIwH3HJvdcgCE_0O3iqmgUMDB-pvUuk0FvYTuQ4JvR3zEyyF-0yBIuPmM9VUf77ESPMaDCcT-d86ckBxVyAs1CABKgl1cy1lYXN0LTEwlQc.m3u8
 #EXTINF:-1 tvg-id="GT | Canal de Gobierno" tvg-name="GT | Canal de Gobierno" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR_Hm3vKJu8-yXqyi7Q66F8ME2CsBddRLq4JnyVcQ=s88-c-k-c0x00ffffff-no-rj" group-title="GUATEMALA", 881 | Canal de Gobierno || GUATEMALA
 https://video-weaver.sao03.hls.ttvnw.net/v1/playlist/CtYF7NojSvyFbS87pDvWaWTI80F5bXnJasZJ2tALPA189yeMpZqWMUQeAha6JXJJq5i54kmo0zYYz1QCL4O8fSOcLgdPUwkQeVZDUFhjqCIXiD9cAl5yhvIbGY6KzsF4yn9VDuDjux1eqir0ljQf-Pta5uaqli51U3L0ZWzqzId4qljBIh6Dk516sBsCNtrz0xAviV7sNWafYbmTXs_pzuX5OXJxjVoZAUpbhVExZjbVvFEDTZoPEhhgIUpsnmYVkMtUfkNPd1UgkSzsQPov3GyEv49owkdrubnxhOdYqFfXFwb-jds1McdorWQL-Dp8ZAe-tpm3th3K49JSeE2wbGOa8cyhz7-BzAsXz4dDLddCDxrLg80IpIEwCDn_nXxkgdC0y3v199PvF4cvZomMwR1iq3r0USe0F2UDVCCehzew9gbWk3WQvHzs-rJD47D8HwzkneNKg_bMNSkY6UzsIhQxO_y9H_VnzzJvvffzHsePOgfFpdqHt7A114FQTOJtwxNvFt7qSnGUyedzixsuV9AX_fY9Xnr5A3w6-stvsBchhoHKmFSXwtBJ7wxEVZ6pe-oFgnw83UJ-YC5YgCdESfUxVc5q-Xl1NqS0EUxcxTMUvzwi6hMf2AAtdSXICtY3I02CTBPSQnAfh0AvuCNYyq_DpmBmwIpxhWYapJMjMa8fjjhwKBOG9g57E2QA4IKDFSjuC7cNWpeL6ZZwRd6lXHGIqIMiYFB_PLwNy3MnhRHYvUWFo_HXPVSBVaezok6J2wtX0assuZ_Z5Tf7nelJJB9_Z0t_-ESv-PoCAqVJn6BGvj2j8HlBhHqATMySRMtQj2IADFHvTzHrgFm8reOQWyKtK4w6F__dxlumAHZAAmbRGniorCeS8a_k9kyXTKPS83MtJA5svlIBfMjQW7zInBfaclaBnfV186-39MyOK7BnCVjwNIvkke8yh7PKpldfIhkZ_3egWgo6GgxgFebxMjzB2yHBPCEgASoJdXMtZWFzdC0xMJMH.m3u8
 #EXTINF:-1 tvg-id="GT | Canal 5 Sololá" tvg-name="GT | Canal 5 Sololá" tvg-logo="https://play-lh.googleusercontent.com/nM4lpY-B8PmfTf61UOpV2wSHLKD02F7stYKL36nzjs5OT6QXTF4dEsyoCVJVW4KlXg=w526-h296-rw" group-title="GUATEMALA", 882 | Canal 5 Sololá || GUATEMALA
@@ -1848,7 +1852,7 @@ https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="GT | Televisión Departamental Sololá" tvg-name="GT | Televisión Departamental Sololá" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSty18cfbX8fc5AhCUoQNosfvdF6OUGS7XfObo7WA=s900-c-k-c0x00ffffff-no-rj" group-title="GUATEMALA", 884 | TDS || GUATEMALA
 https://tv.ideskhn.com:3343/live/tdssololalive.m3u8
 #EXTINF:-1 tvg-id="GT | TV Paisaje" tvg-name="GT | TV Paisaje" tvg-logo="https://tvguatemala.net/wp-content/uploads/2023/02/TV-Paisaje-Solola-En-Vivo.webp" group-title="GUATEMALA", 885 | TV Paisaje || GUATEMALA
-https://video-weaver.sao03.hls.ttvnw.net/v1/playlist/CtIFXQc-agM0sUvbekhBHWeR_xudhk7x_HP9qNkKViJFpXZntcTdLcqS2ER7bq5u0qWNCGlr4gzbjK7Xuo3LeYgR-fmM78ZeljL0pN9Ih1rH9-fN91hkeDreP1KcsrhKDy3WQgQVMWGwCxJoPMNf_LbYEFR1aq9vZSUi_Y5sjwIGw-A_i4PAv5aFVbX_cwYsDn0C_2uSBG46RBeALcwjluCpfwhPyLhyslwUJlskBu350YH4Gj0Jtg2qlMmDRSCG42LjSDDuGqBjNeXagXggZ07Jyq7aYDT6EcLpL7zPo9x_iw_gU7cmh-nNRmeVBcKPlXc7yaFEPYW2L9R6qy_TbP3i50IhjBqkk4WcGnyNVH09VVpNTQQXGQkEcy-g1Sc0HsVExoRGLVyWBz2BbHUDjNNJo0DphfoHXu_h39LcgEIoBrl4LCtKdPwJZJlj0BSHqSIOhemk1UfdGish6Awxml6QCHQEso3JMFR6IRmFAFvnCRRcK4J1C8B0kfnOf3fUop9S9hWDf_DuIbSaLDn5rVjJfdK6-lPbGj063vrig-NcdE3HrpCvJcvGs838V0INXtwflPrmzum2vaK2LF3kyFgjNAtYF1BFhYanVG267TvjeXDcV0mjiGCfJKE8RHnH6BjHP1xq3u-UL_M-bKQGetjGDcqP8a4QbMf0BCCQJj-UqCyMuI1fQ291z4msEZq-H_z8AeG-Qj2iWqlCaEvI7CKnfcOHKa5j9QEQspLEjEMezyyjwdfQLBJ_iTmoiV7jOO6n9uyucCnefbXkwSQmuKN1i5mgTelghJcYvm8t_okUkE6v1fEVvuw4xj6SLmvCpltpt7GG_SvkdoNXCF4p1JPGkAdWXR-LB2FSZGf8xLozcUwwmTxh8x0xggyzQPB7jV5wHr3qCfbFIiz2Jo87HtQHadQcGRXZbOyub2NvTsemf3OnOZ3lr63qs3o5S5AghNzwsf0aDBNIAhGV4a8U0mL8oyABKgl1cy1lYXN0LTEwkwc.m3u8
+https://video-weaver.sao03.hls.ttvnw.net/v1/playlist/CtAFd16Glw_Yk2anakrnYd3P8hGSQBGw1A7R-akYYq6x1PKKmdgZTkYn3utejWjfuhlnRpPVuKw2K0Ty8k23IpdqaaeWtzRLTZ8hjkpZr2eauFx7FJ72uVIut4_ruyJoedn7s7UPXWE3HcHUk2QgdtMZUM3bENTNSk6aMiX0Pt6YE6HNn8bS40O99jn_NcH98mxSQz13irdoX0docRPaCt4g47trXqRKMU-G9-G50v-KqBV06cRHtAOBCECwBu4pFe5RRMPXxxQLL1SaZDvef-tuKEWqsz8zuazufQLUclDrj2GpUx_hdfMFcWjonvgnmb7Bn8-g4rK7sayZeZSE0LvqXmCEYqYOMaczpdEa-un9NBBA80uffYMvUnTDr8DVbrb--Ohbf5AjgHtcNrhsbnM6Dk_vH-ToJKNldTmNDsmNf2I3FLgbJnnOzpJfT48Xlfa6rwfbt8PeHYpxuww1FfQBTwv3WKbh9LvYYxvL5UbybCe-808K0aZ9sEQZUiUNylyjcE1Q1cE-KjCtlYkH4xSCSrz6GHrxiM0IRgxlPr7E9hDQAAF4gZzRnY4o9ky_Txl19I-jUGHLp1H6_3dZdzWIcQ0wspkwxyBPJpDrOStpctZgO7GdXSZG3vJw9ls63G7LFq1Z5YWFlUu0RHljPqqeKmECqkk6L7tHQdeyUBzGHOjT3gtCrEgQaP7ZxJzNxXIjtWzXWYj11M6XRvDjBtK4eSu_VFxPCzX5Z6iD11UPFLaHdlKMBanrBDVqPTJnyFuqzbRJG7TOoVKmhjAhoHbXI6DeUltzv---HIH4g3ASVKr9FeOGUcORNZehFfNnRL3zBKUvJxYiYEqlWEsXzPf368iIncLtw5ut69tr_HI3tblJDYueW0rSvdOskymIYw-IuMTvyLxMILCewNkvlqy9e2neFmsEmUi5jMjLUEX2VFsmUZehapG5XSW-V_JhqnZ6Ggzyh0zlWpT6VOuklXkgASoJdXMtZWFzdC0xMJUH.m3u8
 #EXTINF:-1 tvg-id="GT | Canal 9 Sololá" tvg-name="GT | Canal 9 Sololá" tvg-logo="https://static.wixstatic.com/media/7acae1_af8e141a8b0641ba8b1f6e818ed47357~mv2.png" group-title="GUATEMALA", 886 | Canal 9 Sololá || GUATEMALA
 https://cdn.streamhispanatv.net:3237/live/canal9tvgtlive.m3u8
 #EXTINF:-1 tvg-id="GT | Canal CXN" tvg-name="GT | Canal CXN" tvg-logo="https://www.hispanatv.com/img/tv/Canal-CXN-GT.png" group-title="GUATEMALA", 887 | Canal CXN || GUATEMALA
