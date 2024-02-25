@@ -1730,13 +1730,13 @@ https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/0/streamPlayl
 #EXTINF:-1 tvg-id="SV | Canal 21" tvg-name="SV | Canal 21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Canal-21.png/245px-Canal-21.png" group-title="EL SALVADOR", 823 | Canal 21 Megavisión || EL SALVADOR
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="SV | TVO Canal 23" tvg-name="SV | TVO Canal 23" tvg-logo="https://tvocanal23.com/wp-content/uploads/2020/10/logo.png" group-title="EL SALVADOR", 824 | TVO Canal 23 || EL SALVADOR
-http://45.228.232.219:16000/play/a0nh/index.m3u8
+http://168.227.22.18:1935/live/mobile-071/playlist.m3u8
 #EXTINF:-1 tvg-id="SV | WOW TV Canal 24" tvg-name="SV | WOW TV Canal 24" tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="EL SALVADOR", 825 | WOW TV || EL SALVADOR
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SV | TVM" tvg-name="SV | TVM" tvg-logo="https://tvm.com.sv/wp-content/uploads/2021/07/TVM_Design-01.png" group-title="EL SALVADOR", 826 | Televisión Migueleña || EL SALVADOR
 http://45.228.232.219:16000/play/a0no/index.m3u8
 #EXTINF:-1 tvg-id="SV | TCS+" tvg-name="SV | TCS+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TCS_35_2017.png/245px-TCS_35_2017.png" group-title="EL SALVADOR", 827 | TCS+ || EL SALVADOR
-http://45.228.232.219:16000/play/a0ks/index.m3u8
+https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live-video=2000000-audio_0=64000.m3u8
 #EXTINF:-1 tvg-id="SV | Canal 57 Apopa TV" tvg-name="SV | Canal 57 Apopa TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/sv-canal-57-6594-300x225.jpg" group-title="EL SALVADOR", 828 | Canal 57 Apopa TV || EL SALVADOR
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
 #EXTINF:-1 tvg-id="SV | RD Click TV" tvg-name="SV | RD Click TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSoMCXVxLXziWM9-DaCj8zwCpV9-nCyTcTTRa5Jow=s88-c-k-c0x00ffffff-no-rj" group-title="EL SALVADOR", 829 | RD Click TV || EL SALVADOR
