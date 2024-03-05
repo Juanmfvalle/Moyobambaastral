@@ -472,7 +472,7 @@ https://marine2.miplay.cl/sportext/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | ESPN" tvg-name="USA | ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="DEPORTES", 221 | ESPN
 http://bantel.iptvperu.tv:1935/deportes_ll/ESPN_t2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | ESPN 2" tvg-name="USA | ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="DEPORTES", 222 | ESPN 2
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ESPN2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=1805148605&_cdn_timestamp=1709659071&_cdn_token=6b8f56704244a52fb79a0d2ae306087d8a8344e6
+http://bantel.iptvperu.tv:1935/transcoderip/espn2bk_t2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | ESPN 3" tvg-name="USA | ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="DEPORTES", 223 | ESPN 3
 http://bantel.iptvperu.tv:1935/deportes_ll/ESPN3_t2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | ESPN 4" tvg-name="USA | ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/180px-ESPN_4_logo.svg.png" group-title="DEPORTES", 224 | ESPN 4
@@ -1400,9 +1400,9 @@ https://d3mghbm9e5zfap.cloudfront.net/Bolivision/2af819d7c8ab1c07658d1575e55800e
 #EXTINF:-1 tvg-id="BO | Bolivia TV" tvg-name="BO | Bolivia TV" tvg-logo="https://play-lh.googleusercontent.com/dX47fheQl_3mwitKaPpE2W--3jNwf498GQF7-Wvt70nUht6sHhRAq9_RySAeBcHyC2M=w240-h480-rw" group-title="BOLIVIA", 668 | Bolivia TV || BOLIVIA
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Asociación de Teledifusoras Bolivianas" tvg-name="BO | Asociación de Teledifusoras Bolivianas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/ATBBo2020Logo.png/150px-ATBBo2020Logo.png" group-title="BOLIVIA", 669 | ATB || BOLIVIA
-https://stream-01.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOnOrTSWTryL79JjDb0GCkmCtw2Qx8YEgC5hDa5EEm1Xc)/dm/3/x84eirw/s/live-3.m3u8
+https://stream-02.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOpiQ-fWw72z6Mt2yOVvdC5kRQLAjasX_B7HIKhSjbGZN)/dm/3/x84eirw/s/live-3.m3u8
 #EXTINF:-1 tvg-id="BO | Red Uno" tvg-name="BO | Red Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/245px-Uno_logo.svg.png" group-title="BOLIVIA", 670 | Red Uno || BOLIVIA
-https://stream-01.nyc.dailymotion.com/sec(RAgBiwkvDxA3k2daAQfIDgUWE-UfMvkV6roH4PvVb_54BjCX4EbzLqu8yKNlIHSO)/dm/3/x8ko1ix/d/live-3.m3u8
+https://stream-01.nyc.dailymotion.com/sec(RAgBiwkvDxA3k2daAQfIDq3tdEtNI_NUBiObiTv30HfUp7YEkW4rmFf-18TI1iLK)/dm/3/x8ko1ix/d/live-3.m3u8
 #EXTINF:-1 tvg-id="BO | Red Periodistas Asociados Televisión" tvg-name="BO | Red Periodistas Asociados Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Red_pat_new.jpg/220px-Red_pat_new.jpg" group-title="BOLIVIA", 671 | PAT || BOLIVIA
 https://w8.redpat.tv:7777/play/110/index.m3u8
 #EXTINF:-1 tvg-id="BO | Tele Estrella" tvg-name="BO | Tele Estrella" tvg-logo="https://teleestrella.tv.bo/wp-content/uploads/2023/02/Imagen1-4-1024x336.png" group-title="BOLIVIA", 672 | Tele Estrella || BOLIVIA
@@ -1750,9 +1750,9 @@ http://200.52.148.194:8000/play/a04p/index.m3u8
 #EXTINF:-1 tvg-id="HN | Canal 6" tvg-name="HN | Canal 6" tvg-logo="https://file.canal6.com.hn//2022/03/logo_header.webp" group-title="HONDURAS", 832 | Canal 6 || HONDURAS
 https://envivo.canal6.com.hn/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="HN | Telecadena 7 y 4" tvg-name="HN | Telecadena 7 y 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Telecadena7y42018.png/150px-Telecadena7y42018.png" group-title="HONDURAS", 833 | Telecadena 7 y 4 || HONDURAS
-http://170.82.37.21:8000/play/a008/index.m3u8
+http://200.52.148.194:8000/play/a04q/index.m3u8
 #EXTINF:-1 tvg-id="HN | Canal 8" tvg-name="HN | Canal 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Canal8hn2023.png/300px-Canal8hn2023.png" group-title="HONDURAS", 834 | Canal 8 || HONDURAS
-https://video-weaver.sao03.hls.ttvnw.net/v1/playlist/CtIF8zUPFQ-h81-HgBzTKXxRcxwqrqoFBV5_4Aj8EdUbo0C_Ypju7nWwYtckoZDK8w2hM21oM8sv8Kpg4J9aiW2YYukJUba7Arjai8UvSkG5Fv-k7IfadAuxQaDEwSVwCCxdjx5u1YB9r45HrsGF0AffC7IGZLI9WJuFQUXN4Yv0OUzTA5w0ZaPMB5eFkRN_MuNU4NwLIby0yrMqYdfZkhRLqQ8jvZu5h-qqkw40Nt0ijJBAWp1HToInBTcao72Vih370_hV_FI0SVv4YFNMn6dJP37CIx2lIJgSLt6ga6icK5StytXr14aRbfFFoh9hqqAOe1U-Jrin1ScwlWpWb4K8YI2FzYmZ1hUo8m8jLPc0yWdABrcB_hlEw9iwIZ1kfaXAnYA-w-3KTK_TmDxmvtFuHjEDpVIW_nQMkVWZg8KSBX2Z8ESijt4SsVb4Ic4AEwOHmnKekLtuFSYM8GqILYKjqvn8XXUoQ5tuMD63tqI1w8jsm9zWaXzA2tqPElHv5HvwPCrFAK3KtXIlawIpYL5TrhBKOJPoIlNGXwBvtAfjA2Kio69rHv7g79cAlteyLZnhB6yy1qV4P4upscj-iA3PO146Dj_rgiKxF6pMXO6gGnsrz_q3CeSNuP3ZbgJanoLp0lVA16uvw3unIfwxLveF0WnXSytxI6Wd0DRyK-KX5rI4HtdmGCxbR5zKP2HGhdzPWVTwuL3jbbQ2olw6c7E1MIdEZ5hsP_gEMqwJIg2UVqxk_p90tvhrT5-dTsYCreaqfKoHE91DbECRo9xdtzzaECxkzNLINAMB9-RxlQN6tZ2vnnZWUp0FjOfv3KV0TzJCXjtPB_4AAmWxijUMxwT_BbRuFkiG-rNxu8gODlvRB0AprTGeFkwNmkIrfyqVvkgpzBw69RCjzsfjnqsZUB4dDIMdu0NdFsDnHGQg7Gq74gcNR8UdWGOow3oGTX8yjUsrO00aDKeyXpRpJnyYYOWR4SABKgl1cy1lYXN0LTEwpQc.m3u8
+http://200.52.148.194:8000/play/a0ah/index.m3u8
 #EXTINF:-1 tvg-id="HN | Mega Clásicos" tvg-name="HN | Mega Clásicos" tvg-logo="https://otv-us-web.s3-us-west-2.amazonaws.com/logos/guide/2/Open/92x36_352/Misc/megaclasicostv.png" group-title="HONDURAS", 835 | Mega Clásicos || HONDURAS
 http://170.82.37.21:8000/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="HN | Vica TV" tvg-name="HN | Vica TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/VTV_HN_logo_2019.png/210px-VTV_HN_logo_2019.png" group-title="HONDURAS", 836 | VTV || HONDURAS
