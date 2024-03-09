@@ -20,19 +20,19 @@ http://bantel.iptvperu.tv:1935/prueba/atvmovil_t6.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Tele Lima" tvg-name="PE | Tele Lima" tvg-logo="https://pbs.twimg.com/media/FwOtdL0XoAAV01H?format=png&name=small" group-title="PERU", Tele Lima
 http://bantel.iptvperu.tv:1935/miscelaneos/tllima.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Viva TV" tvg-name="PE | Viva TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/PyW6vij-.jpg/175px-PyW6vij-.jpg" group-title="PERU", Viva TV
-http://bantel.iptvperu.tv:1935/transcoderip/rbc_t1.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/vivatv_t1/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | USMP TV" tvg-name="PE | USMP TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/USMP_TV_2017.svg/revision/latest/scale-to-width-down/56?cb=20210504214359&path-prefix=es" group-title="PERU", USMP TV
 http://bantel.iptvperu.tv:1935/transcoderip/usmpmovil_t6.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Global Televisión" tvg-name="PE | Global Televisión" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMObN_3dPu0x6ipIMnQiPhMsWdYVDq5ZXCPA68_3m2KC_k9CT4VpttLSvI7f-mzLYi7w8&usqp=CAU" group-title="PERU", Global Televisión
-http://bantel.iptvperu.tv:1935/transcoderip/global_t1.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/global_t1/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Like TV" tvg-name="PE | Like TV" tvg-logo="https://pbs.twimg.com/media/F6eCd9qWEAANnK5?format=png&name=240x240" group-title="PERU", Like TV
 http://bantel.iptvperu.tv:1935/Astralocal/fuegotv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | La Tele" tvg-name="PE | La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/400px-LaTele_Per%C3%BA_2018_Logo.png" group-title="PERU", La Tele
-http://bantel.iptvperu.tv:1935/transcoderip/latele_t1.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/latele_t1/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | PBO TV" tvg-name="PE | PBO TV" tvg-logo="https://pboradio.minegocio21.com/wp-content/uploads/2020/10/logo278.jpg" group-title="PERU", PBO TV
 http://bantel.iptvperu.tv:1935/bantel/PBO/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Andina Televisión Plus" tvg-name="PE | Andina Televisión Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/175px-ATV%2B_logo_2020.png" group-title="PERU", ATV +
-http://bantel.iptvperu.tv:1935/transcoderip/atvnoticias_t1.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/atvnoticias_t1/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Andina Televisión Sur" tvg-name="PE | Andina Televisión Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/185px-ATV_Sur_-_2018_logo_%28final%29.png" group-title="PERU", ATV Sur
 http://bantel.iptvperu.tv:1935/transcoderip/atvsurmovil_t6.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Nativa TV" tvg-name="PE | Nativa TV" tvg-logo="https://ntv.pe/wp-content/uploads/2022/05/LOGO-NATIVA-RETINA-300x99.png" group-title="PERU", Nativa Televisión
@@ -513,8 +513,6 @@ http://190.90.154.73:8080/play/a00w/index.m3u8
 http://190.90.154.73:8080/play/a03l/index.m3u8
 #EXTINF:-1 tvg-id="PE | GolTV" tvg-name="PE | GolTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/320px-GolTV_logo.svg.png" group-title="DEPORTES", GolTV
 http://190.90.154.73:8080/play/a08t/index.m3u8
-#EXTINF:-1 tvg-id="PE | Gol Perú" tvg-name="PE | Gol Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/245px-Gol_Per%C3%BA_2019.svg.png" group-title="DEPORTES", Gol Perú
-http://201.218.150.34:8000/play/a0qv/index.m3u8
 #EXTINF:-1 tvg-id="PE | Movistar Deportes" tvg-name="PE | Movistar Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/200px-Movistar_Deportes.svg.png" group-title="DEPORTES", Movistar Deportes
 http://190.61.55.186:1010/play/a00q/index.m3u8
 #EXTINF:-1 tvg-id="EC | El Canal del Fútbol" tvg-name="EC | El Canal del Fútbol" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwzWYSdZCspsQKxcVfO05M-kTMsA9kY76v-7hw5szdpg&s" group-title="DEPORTES", El Canal del Fútbol
