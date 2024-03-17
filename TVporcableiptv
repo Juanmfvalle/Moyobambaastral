@@ -18,7 +18,7 @@ http://bantel.iptvperu.tv:1935/miscelaneos/conecta2TV/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Andina Televisión" tvg-name="PE | Andina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" group-title="PERU", ATV
 http://bantel.iptvperu.tv:1935/prueba/atvmovil_t6.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Tele Lima" tvg-name="PE | Tele Lima" tvg-logo="https://pbs.twimg.com/media/FwOtdL0XoAAV01H?format=png&name=small" group-title="PERU", Tele Lima
-http://bantel.iptvperu.tv:1935/miscelaneos/tllima.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/astralocal/TeleLima/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Viva TV" tvg-name="PE | Viva TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/PyW6vij-.jpg/175px-PyW6vij-.jpg" group-title="PERU", Viva TV
 http://bantel.iptvperu.tv:1935/transcoderip/vivatv_t1/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | USMP TV" tvg-name="PE | USMP TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/USMP_TV_2017.svg/revision/latest/scale-to-width-down/56?cb=20210504214359&path-prefix=es" group-title="PERU", USMP TV
@@ -30,7 +30,7 @@ http://bantel.iptvperu.tv:1935/Astralocal/fuegotv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | La Tele" tvg-name="PE | La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/400px-LaTele_Per%C3%BA_2018_Logo.png" group-title="PERU", La Tele
 http://bantel.iptvperu.tv:1935/transcoderip/latele_t1/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | PBO TV" tvg-name="PE | PBO TV" tvg-logo="https://pboradio.minegocio21.com/wp-content/uploads/2020/10/logo278.jpg" group-title="PERU", PBO TV
-http://bantel.iptvperu.tv:1935/bantel/PBO/playlist.m3u8
+http://bantel.iptvperu.tv:1935/astralocal/PBO/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Andina Televisión Plus" tvg-name="PE | Andina Televisión Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/175px-ATV%2B_logo_2020.png" group-title="PERU", ATV +
 http://bantel.iptvperu.tv:1935/transcoderip/atvnoticias_t1/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Andina Televisión Sur" tvg-name="PE | Andina Televisión Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/185px-ATV_Sur_-_2018_logo_%28final%29.png" group-title="PERU", ATV Sur
@@ -312,7 +312,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
 #EXTINF:-1 tvg-id="USA | Discovery Kids" tvg-name="USA | Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/125px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="INFANTILES", Discovery Kids
 http://190.90.154.73:8080/play/a02n/index.m3u8
 #EXTINF:-1 tvg-id="USA | Disney Channel" tvg-name="USA | Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/200px-2019_Disney_Channel_logo.svg.png" group-title="INFANTILES", Disney Channel
-http://bantel.iptvperu.tv:1935/transcoder2-srt/DisneyChannel.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/disneychannel_t2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Disney Junior" tvg-name="USA | Disney Junior" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/315.png" group-title="INFANTILES", Disney Junior
 http://bantel.iptvperu.tv:1935/transcoderip/disneyjr_t2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="VE | 1·2·3 TV" tvg-name="VE | 1·2·3 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/123TV_logo_2022.jpg/320px-123TV_logo_2022.jpg" group-title="INFANTILES", 1·2·3 TV
@@ -2479,8 +2479,6 @@ https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fad731fcf097a068af3c8
 https://stream-156.zeno.fm/n0fc3vk78ehvv?zs=o9LAymxmR4SvSeTlWMOFpA
 #EXTINF:-1 tvg-id="PE | Radio La Zona" tvg-name="PE | Radio La Zona" tvg-logo="https://eaudioplayer.radio-grpp.io/static/dist/img/logo_lazona.png" group-title="EMISORAS NACIONALES", Radio La Zona 90.5 FM || Lima; Perú
 https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fada54116646e098d97e6a5?aid=5faaeb72f92d7b07dfe10181&pid=sV9sFat6DZCsvL6yFENcp7n1eAygjKn8&sid=1sjbP1nzkSfBs73atL3RhVGhIou9pSWw&uid=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1697712081985&ot=94-ySQ45D-482GsTuxZkAg&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada54116646e098d97e6a5&referer=https%3A%2F%2Fradiosperu.pe%2F&listenerId=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq
-#EXTINF:-1 tvg-id="PE | Radio La Zona Salsa" tvg-name="PE | Radio La Zona Salsa" tvg-logo="https://eaudioplayer.radio-grpp.io/static/dist/img/logo_la_zona_salsa.png" group-title="EMISORAS NACIONALES", Radio La Zona Salsa || Lima; Perú
-https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fada59e471e070829a79443/playlist.m3u8?listeningSessionID=646ef88900a9f392_8838054_Yqq4qEe6__0000009XeOz&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq&sid=RpfpIUxqFMtgps7QHlhM9OWg5zaypr6H&pid=yUDKLYZhdP1iNYyFrQNGrnvAsXwyw1zK&ref=audioplayer.pe&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1693918639368&ot=q6ac08PtiF3CVRMfX4I2sA&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5fada59e471e070829a79443&referer=https%3A%2F%2Faudioplayer.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=vv0.1.8&listenerId=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq
 #EXTINF:-1 tvg-id="PE | Radio San Borja" tvg-name="PE | Radio San Borja" tvg-logo="https://radiosinlive.com/assets/img/san-borja.webp" group-title="EMISORAS NACIONALES", Radio San Borja 91.1 FM || Lima; Perú
 https://5c3fb01839654.streamlock.net:1963/ipradiosanborja/livesanborjaradio/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Radio PBO" tvg-name="PE | Radio PBO" tvg-logo="https://pboradio.minegocio21.com/wp-content/uploads/2020/10/logo.jpg" group-title="EMISORAS NACIONALES", Radio PBO 91.9 FM || Lima; Perú
@@ -2523,6 +2521,8 @@ https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/6598b76c6c07d80644b732
 https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6598b751261d9e088a6deadd?aid=658ddcc0b2c7835d48fee06d&pid=6hRKrHk5qyo8GVmHnCsqXFEFQ2yq3LDz&sid=szMPnhKaCzsJF37AFsd2H4Jr2LSPHcNe&uid=s9LqhBwXv83c5vm1f637JwIm99YIcmRU&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1708170005674&ot=65WRuj3Eu0Xad73NMR_53Q&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b751261d9e088a6deadd&referer=https%3A%2F%2Fwww.epafm.pe%2F&listenerId=s9LqhBwXv83c5vm1f637JwIm99YIcmRU
 #EXTINF:-1 tvg-id="PE | Radio Oxigeno" tvg-name="PE | Radio Oxigeno" tvg-logo="https://eaudioplayer.radio-grpp.io/static/dist/img/logo_oxigeno.png" group-title="EMISORAS NACIONALES", Radio Oxígeno 102.1 FM || Lima; Perú
 https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5fab0687bcd6c2389ee9480c?aid=5faaeb72f92d7b07dfe10181&pid=8TD4BjLtTRIbPonKF6KyduDZnjLlB5om&sid=1sjbP1nzkSfBs73atL3RhVGhIou9pSWw&uid=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1697712512294&ot=U8AeRv4mLd7-P_rGE56axA&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fab0687bcd6c2389ee9480c&referer=https%3A%2F%2Fradiosperu.pe%2F&listenerId=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq
+#EXTINF:-1 tvg-id="PE | Radio Oxigeno Classics" tvg-name="PE | Radio Oxigeno Classics" tvg-logo="https://static.wikia.nocookie.net/tvpedia-peru/images/5/50/Radio_Ox%C3%ADgeno_Classics_1470_AM.jpg/revision/latest?cb=20240228142830&path-prefix=es" group-title="EMISORAS NACIONALES", Radio Oxígeno Classics || Lima; Perú
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fada59e471e070829a79443/playlist.m3u8?listeningSessionID=646ef88900a9f392_8838054_Yqq4qEe6__0000009XeOz&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq&sid=RpfpIUxqFMtgps7QHlhM9OWg5zaypr6H&pid=yUDKLYZhdP1iNYyFrQNGrnvAsXwyw1zK&ref=audioplayer.pe&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1693918639368&ot=q6ac08PtiF3CVRMfX4I2sA&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5fada59e471e070829a79443&referer=https%3A%2F%2Faudioplayer.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=vv0.1.8&listenerId=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq
 #EXTINF:-1 tvg-id="PE | Radio Filarmonía" tvg-name="PE | Radio Filarmonía" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Radio_filarmon%C3%ADa_2020.png/200px-Radio_filarmon%C3%ADa_2020.png" group-title="EMISORAS NACIONALES", Radio Filarmonía 102.7 FM || Lima; Perú
 http://c22.radioboss.fm:8100/stream
 #EXTINF:-1 tvg-id="PE | Radio Unión" tvg-name="PE | Radio Unión" tvg-logo="https://cdn-profiles.tunein.com/s86043/images/bannerx.jpg?t=636734949083400000" group-title="EMISORAS NACIONALES", Radio Unión 103.3 FM y 880 AM || Lima; Perú
