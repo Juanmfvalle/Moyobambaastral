@@ -182,7 +182,7 @@ https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | TCM" tvg-name="USA | TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/120px-TCM_Latam_logo.svg.png" group-title="PELICULAS Y SERIES", TCM
 http://190.149.66.90:4000/play/a02m/index.m3u8
 #EXTINF:-1 tvg-id="CL | Classic +" tvg-name="CL | Classic +" tvg-logo="https://pbs.twimg.com/media/FvYjfCkWIAIvMGW?format=png&name=240x240" group-title="PELICULAS Y SERIES", Classic +
-http://bantel.iptvperu.tv:1935/bantel/classic.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/astralocal/Classic/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Studio Universal" tvg-name="USA | Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/175px-StudioUniversal2016.png" group-title="PELICULAS Y SERIES", Studio Universal
 http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | USA Network" tvg-name="USA | USA Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/150px-USA_Network_logo_%282016%29.svg.png" group-title="PELICULAS Y SERIES", USA Network
@@ -500,7 +500,7 @@ https://marine2.miplay.cl/fitmaxx/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | PX Sports" tvg-name=MX | PX Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/PX_Sports_-_Logo.png/300px-PX_Sports_-_Logo.png" group-title="DEPORTES", PX Sports
 http://138.59.177.34:8000/play/a048/index.m3u8
 #EXTINF:-1 tvg-id="USA | Sports Max News" tvg-name="USA | Sports Max News" tvg-logo="https://loopnewslive.blob.core.windows.net/liveimage/sites/default/files/2022-04/c0905f3c2a67827ed63557ed907d927csportsmax-logo.jpg" group-title="DEPORTES", Sports Max News
-http://bantel.iptvperu.tv:1935/bantel/sportmax/playlist.m3u8
+http://bantel.iptvperu.tv:1935/astralocal/SportMax/playlist.m3u8
 #EXTINF:-1 tvg-id="AR | Basquet Pass TV" tvg-name="AR | Basquet Pass TV" tvg-logo="https://pbs.twimg.com/media/GBeyItwX0AAGeJC?format=png&name=360x360" group-title="DEPORTES", Basquet Pass TV
 http://191.97.60.193:10000/play/a02v/index.m3u8
 #EXTINF:-1 tvg-id="CR | FUTV" tvg-name="CR | FUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_de_FUTV.svg/200px-Logo_de_FUTV.svg.png" group-title="DEPORTES", FUTV
@@ -538,7 +538,7 @@ https://ott1.hdlatam.tv/live/taurustv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Creo Sport" tvg-name="PE | Creo Sport" tvg-logo="http://core1.hdlatam.tv/media/images/channel/creosport.png" group-title="DEPORTES", Creo Sport
 https://ott1.hdlatam.tv/live/Creosport/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | E Sports Max" tvg-name="USA | E Sports Max" tvg-logo="https://play-lh.googleusercontent.com/DeDOZbtJt_WwCe5SmLQoIt9zurIgnq7nOzZlGjanVAaDfnDRiK3v4JOF1jyYw5WU7MSx" group-title="DEPORTES", E Sports Max
-http://bantel.iptvperu.tv:1935/bantel/esportsmax/playlist.m3u8
+http://bantel.iptvperu.tv:1935/astralocal/ESport_MAX/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | Mi Gente TV" tvg-name="CO | Mi Gente TV" tvg-logo="https://cdn.mitvstatic.com/channels/pe_mi-gente_m.png" group-title="MUSICA Y REALITIES", Mi Gente TV
 https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/index.m3u8
 #EXTINF:-1 tvg-id="PY | E40 TV" tvg-name="PY | E40 TV" tvg-logo="https://estacion40.com.py/wp-content/uploads/2023/12/logo-e40-verano-23-24.png" group-title="MUSICA Y REALITIES", E40 TV
@@ -802,7 +802,7 @@ https://cloud.live.opencaster.com/multi_web/play_480.m3u8
 #EXTINF:-1 tvg-id="PE | Vamisa TV" tvg-name="PE | Vamisa TV" tvg-logo="https://radiovamisa.tv/wp-content/uploads/2020/03/logo-1.png" group-title="REGIONALES", Vamisa TV || Lima
 https://inliveserver.com:1936/10044/10044/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Canal B" tvg-name="PE | Canal B" tvg-logo="http://core1.hdlatam.tv/media/images/channel/WhatsApp_Image_2022-11-10_at_6.03.46_PM.jpeg" group-title="REGIONALES", Canal B || Lima
-https://ott1.hdlatam.tv/live/CanalB/playlist.m3u8
+http://bantel.iptvperu.tv:1935/Server_OTT/CanalB/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Monterrico TV" tvg-name="PE | Monterrico TV" tvg-logo="https://hipodromodemonterrico.com.pe/generales_logos_hipodromos/logo_mont.gif" group-title="REGIONALES", Monterrico TV || Lima
 https://h.jcp.live.opencaster.com/play_src/index.m3u8
 #EXTINF:-1 tvg-id="PE | Red de Comunicación Regional" tvg-name="PE | Red de Comunicación Regional" tvg-logo="https://www.rcrperu.com/wp-content/uploads/2019/10/logo-rcr.png" group-title="REGIONALES", RCR TV || Lima
