@@ -14,7 +14,7 @@ http://bantel.iptvperu.tv:1935/transcoderip/exitosamovil_t6.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | TV Perú" tvg-name="PE | TV Perú" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="PERU", TV Perú
 http://bantel.iptvperu.tv:1935/transcoderip/tvperumovil_t6.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Conectad2 TV" tvg-name="PE | Conectad2 TV" tvg-logo="https://conecta2peru.com/wp-content/uploads/2020/04/logo.png" group-title="PERU", Conectad2 Televisión
-http://bantel.iptvperu.tv:1935/Server_OTT/Conecta2tv/playlist.m3u8
+http://bantel.iptvperu.tv:1935/astralocal/conecta2tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Andina Televisión" tvg-name="PE | Andina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" group-title="PERU", ATV
 http://bantel.iptvperu.tv:1935/prueba/atvmovil_t6.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Tele Lima" tvg-name="PE | Tele Lima" tvg-logo="https://pbs.twimg.com/media/FwOtdL0XoAAV01H?format=png&name=small" group-title="PERU", Tele Lima
@@ -36,7 +36,7 @@ http://bantel.iptvperu.tv:1935/transcoderip/atvnoticias_t1/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Andina Televisión Sur" tvg-name="PE | Andina Televisión Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/185px-ATV_Sur_-_2018_logo_%28final%29.png" group-title="PERU", ATV Sur
 http://bantel.iptvperu.tv:1935/transcoderip/atvsurmovil_t6.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Nativa TV" tvg-name="PE | Nativa TV" tvg-logo="https://ntv.pe/wp-content/uploads/2022/05/LOGO-NATIVA-RETINA-300x99.png" group-title="PERU", Nativa Televisión
-http://bantel.iptvperu.tv:1935/astralocal/nativa.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/astralocal/NativaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Vinilos TV" tvg-name="PE | Vinilos TV" tvg-logo="https://playmax.tv/wp-content/uploads/2023/05/vinilostv-bn.png" group-title="LOCALES", Vinilos TV || Moyobamba
 https://live.obslivestream.com/controversiatv/index.m3u8
 #EXTINF:-1 tvg-id="PE | Moyobamba Televisión" tvg-name="PE | Moyobamba Televisión" tvg-logo="https://pbs.twimg.com/media/F-c9_loWcAAiEOL?format=png&name=small" group-title="LOCALES", Moyobamba Televisión || Moyobamba
@@ -2624,7 +2624,7 @@ https://inliveserver.com:1936/10048/10048/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Radio Conecta2" tvg-name="PE | Radio Conecta2" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/4ypbsuzfwput.png" group-title="EMISORAS DE RADIO CON VIDEO", Radio Conecta2 || Lima; Perú
 https://servilive.com:3696/live/enlacetxlive.m3u8
 #EXTINF:-1 tvg-id="EC | Radio Fabu" tvg-name="EC | Radio Fabu" tvg-logo="https://cdn-profiles.tunein.com/s111123/images/logog.png" group-title="EMISORAS INTERNACIONALES", Radio Fabu 105.7 FM || ECUADOR
-https://d24f4m5860jcuo.cloudfront.net/fabugy.m3u8
+https://alba-ec-fabu-fabuguayaquil.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="EC | Radio Atalaya" tvg-name="EC | Radio Atalaya" tvg-logo="https://radioatalaya.net/wp-content/uploads/2017/08/cropped-LOGO-ATALAYA.png" group-title="EMISORAS INTERNACIONALES", Radio Atalaya 680 AM || ECUADOR
 https://streaming.ecuastreaming.com/9978/stream
 #EXTINF:-1 tvg-id="EC | Radio Sucre" tvg-name="EC | Radio Sucre" tvg-logo="https://radiosucre.com.ec/wp-content/uploads/2020/07/OK.png" group-title="EMISORAS INTERNACIONALES", Radio Sucre 700 AM || ECUADOR
