@@ -24,7 +24,7 @@ http://bantel.iptvperu.tv:1935/transcoder_t1/vivatv_t1/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | USMP TV" tvg-name="PE | USMP TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/USMP_TV_2017.svg/revision/latest/scale-to-width-down/56?cb=20210504214359&path-prefix=es" group-title="PERU", USMP TV
 http://bantel.iptvperu.tv:1935/transcoder_t6/usmpmovil_t6.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Global Televisión" tvg-name="PE | Global Televisión" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMObN_3dPu0x6ipIMnQiPhMsWdYVDq5ZXCPA68_3m2KC_k9CT4VpttLSvI7f-mzLYi7w8&usqp=CAU" group-title="PERU", Global Televisión
-http://bantel.iptvperu.tv:1935/transcoderip/global_t1/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoder_t1/global_t1/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Like TV" tvg-name="PE | Like TV" tvg-logo="https://pbs.twimg.com/media/F6eCd9qWEAANnK5?format=png&name=240x240" group-title="PERU", Like TV
 http://bantel.iptvperu.tv:1935/astralocal/FuegoTV/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | La Tele" tvg-name="PE | La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/400px-LaTele_Per%C3%BA_2018_Logo.png" group-title="PERU", La Tele
@@ -39,15 +39,13 @@ http://bantel.iptvperu.tv:1935/transcoderip/atvsurmovil_t6.stream/playlist.m3u8
 http://bantel.iptvperu.tv:1935/astralocal/NativaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Vinilos TV" tvg-name="PE | Vinilos TV" tvg-logo="https://playmax.tv/wp-content/uploads/2023/05/vinilostv-bn.png" group-title="LOCALES", Vinilos TV || Moyobamba
 https://live.obslivestream.com/controversiatv/index.m3u8
-#EXTINF:-1 tvg-id="PE | Moyobamba Televisión" tvg-name="PE | Moyobamba Televisión" tvg-logo="https://pbs.twimg.com/media/F-c9_loWcAAiEOL?format=png&name=small" group-title="LOCALES", Moyobamba Televisión || Moyobamba
-https://live.obslivestream.com/mtv/index.m3u8
-#EXTINF:-1 tvg-id="PE | Planeta TV" tvg-name="PE | Planeta TV" tvg-logo="" group-title="LOCALES", Planeta TV || Moyobamba
+#EXTINF:-1 tvg-id="PE | Planeta TV" tvg-name="PE | Planeta TV" tvg-logo="https://pbs.twimg.com/media/GIQ--qBWkAAUYm7?format=png&name=small" group-title="LOCALES", Planeta TV || Moyobamba
 https://live.obslivestream.com/planetatv/index.m3u8
 #EXTINF:-1 tvg-id="PE | Radio Selva TV" tvg-name="PE | Radio Selva TV" tvg-logo="https://pbs.twimg.com/media/FjqTml3XEAIyjNN?format=png&name=small" group-title="LOCALES", Radio Selva Televisión || Moyobamba
 https://live.obslivestream.com/selvatv/index.m3u8
 #EXTINF:-1 tvg-id="PE | Atmosfera TV" tvg-name="PE | Atmosfera TV" tvg-logo="https://i0.wp.com/plugmedia.co/play/wp-content/uploads/2023/04/ATMOSFERA-LOGO.png?resize=300%2C79&ssl=1" group-title="LOCALES", Atmosfera TV || Moyobamba
 http://sv-xyeia5stvh.cloud.elastika.pe:5080/LiveApp/streams/atmos2023.m3u8
-#EXTINF:-1 tvg-id="PE | Genios TV" tvg-name="PE | Genios TV" tvg-logo="https://geniostv.pe/wp-content/uploads/elementor/thumbs/logo1-owwv8s2bj3n5pt0mp3hyr19gl2fgmiryif81auhse8.png" group-title="LOCALES", Genios Televisión || Moyobamba
+#EXTINF:-1 tvg-id="PE | Genios TV" tvg-name="PE | Genios TV" tvg-logo="https://geniostv.pe/wp-content/uploads/2023/11/logo.png" group-title="LOCALES", Genios Televisión || Moyobamba
 https://live.obslivestream.com/geniostvmux/index.m3u8
 #EXTINF:-1 tvg-id="PE | Autentica TV" tvg-name="PE | Autentica TV" tvg-logo="https://autenticatv.pe/wp-content/uploads/elementor/thumbs/logo-web-p0scrodaccuo3azseya6goo9amqk8hdut43cbpqb5s.png" group-title="LOCALES", Auténtica Televisión || Moyobamba
 https://live.obslivestream.com/autenticatvmux/index.m3u8
@@ -65,7 +63,7 @@ https://ott1.hdlatam.tv/live/moyobamba/StudioTV/playlist.m3u8
 https://live.obslivestream.com/mayotv/index.m3u8
 #EXTINF:-1 tvg-id="PE | Red Digital TV" tvg-name="PE | Red Digital TV" tvg-logo="https://playmax.tv/wp-content/uploads/2023/02/red-digitatvl.png" group-title="LOCALES", Red Digital TV || Moyobamba
 https://live.obslivestream.com/reddigital/index.m3u8
-#EXTINF:-1 tvg-id="PE | VZ TV" tvg-name="PE | VZ TV" tvg-logo="https://moyobamba.com/wp-content/uploads/2021/02/vz-nuevo.png" group-title="LOCALES", VZ Televisión || Moyobamba
+#EXTINF:-1 tvg-id="PE | VZ TV" tvg-name="PE | VZ TV" tvg-logo="https://playmax.tv/wp-content/uploads/2023/07/VZ.gif" group-title="LOCALES", VZ Televisión || Moyobamba
 https://live.obslivestream.com/vztv/index.m3u8
 #EXTINF:-1 tvg-id="PE | Cumo TV" tvg-name="PE | Cumo TV" tvg-logo="https://pbs.twimg.com/media/F68ylFIW0AAVofQ?format=png&name=360x360" group-title="LOCALES", Cumo TV || Moyobamba
 https://live.obslivestream.com/cumo/index.m3u8
@@ -832,7 +830,7 @@ https://servilive.com:3757/live/regiontvlive.m3u8
 #EXTINF:-1 tvg-id="PE | Tumpis TV" tvg-name="PE | Tumpis TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTZD3NA2RjS1ingWVBdTcATdEzv-tn3NgdLTjZr=s88-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", Tumpis TV || Tumbes
 https://servilive.com:3531/stream/play.m3u8
 #EXTINF:-1 tvg-id="PE | Piura TV" tvg-name="PE | Piura TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/PiuraTVCanal.png" group-title="REGIONALES", Piura TV || Piura
-https://ott1.hdlatam.tv/live/SRT_PiuraTV/playlist.m3u8
+https://live.obslivestream.com/piuratv/index.m3u8
 #EXTINF:-1 tvg-id="PE | Piura Plus TV" tvg-name="PE | Piura Plus TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/LogoOficialPiuraPlusTv.png" group-title="REGIONALES", Piura Plus TV || Piura
 https://s.piuraplustv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PE | Radio TV Catacaos" tvg-name="PE | Radio TV Catacaos" tvg-logo="https://play-lh.googleusercontent.com/VLpL-p1oz2SxYaweCoRufLeV6DjCt4zqE5PHZeDGpGGcwgkYg0imxolbEFLd75ZqDFs=w240-h480-rw" group-title="REGIONALES", Radio TV Catacaos || Catacaos; Piura
