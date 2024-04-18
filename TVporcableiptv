@@ -344,7 +344,7 @@ http://bantel.iptvperu.tv:1935/transcoderip/canalinfantil_t1/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | FMH Kids" tvg-name="USA | FMH Kids" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-kids.jpg" group-title="INFANTILES", FMH Kids
 http://bantel.iptvperu.tv:1935/bantel/fmhkids/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | bitMe" tvg-name="MX | bitMe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/175px-BitMe_logo.svg.png" group-title="INFANTILES", bitMe
-http://livex.pop-app.live/s4n/poplive/ch555/playlist.m3u8
+https://linear-401.frequency.stream/dist/studio/401/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="AR | Cine Infantil" tvg-name="AR | Cine Infantil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTBatf2aFTdx0YoMhY3_8HTXS-w0bwDgCpJS0N01i0AG0m8NzzBMJ_Y1U9Kh6kVBLxHQ&usqp=CAU" group-title="INFANTILES", Cine Infantil
 https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Energeek Retro" tvg-name="CL | Energeek Retro" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/EnerGeek%20Retro.png?itok=JIRywtME" group-title="INFANTILES", Energeek Retro
@@ -747,6 +747,8 @@ https://asomatv.duckdns.org/livestream/stream.m3u8
 https://streamingwowza.com:19360/universal/universal.m3u8
 #EXTINF:-1 tvg-id="PE | La Luz Televisión" tvg-name="PE | La Luz Televisión" tvg-logo="http://radiolaluz.com/wp-content/themes/laluz/images/logo_tv.png" group-title="RELIGIOSOS", La Luz Televisión
 http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8
+#EXTINF:-1 tvg-id="AR | Canal Luz" tvg-name="AR | Canal Luz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Canal_Luz_actual.png/125px-Canal_Luz_actual.png" group-title="RELIGIOSOS", Canal Luz
+http://bantel.iptvperu.tv:1935/cristianos/canalluz/playlist.m3u8
 #EXTINF:-1 tvg-id="CR | Extrema TV" tvg-name="CR | Extrema TV" tvg-logo="http://radioextremacr.com/img/logo.png" group-title="RELIGIOSOS", Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="VE | Nubeh TV" tvg-name="VE | Nubeh TV" tvg-logo="https://play-lh.googleusercontent.com/CxJIcLj5Wkxn-iGk6F68U2aHDovJ_r9HFfBFxSDqE1bFN9rMbYEAjfMyeCUPmxis7Q=w240-h480-rw" group-title="RELIGIOSOS", Nubeh TV
@@ -776,13 +778,11 @@ https://cdn.streamhispanatv.net:3155/live/penielkidslive.m3u8
 #EXTINF:-1 tvg-id="GT | Peniel Musical TV" tvg-name="GT | Peniel Musical TV" tvg-logo="https://static.wixstatic.com/media/7acae1_4de9f35196f946b396cb18a58fb9c041~mv2.png" group-title="RELIGIOSOS", Peniel Musical TV
 https://cdn.streamhispanatv.net:3533/live/penielmusicagtlive.m3u8
 #EXTINF:-1 tvg-id="PE | Bethel TV" tvg-name="PE | Bethel TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Bethel-Televisi%C3%B3n-en-vivo-Online-100x70.png" group-title="RELIGIOSOS", Bethel TV
-https://live-zlr1.tv360.bitel.com.pe/bitel/bethel/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+http://bantel.iptvperu.tv:1935/transcoderip/bethelmovil_t6.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | TV Peruanísima" tvg-name="USA | TV Peruanísima" tvg-logo="http://tvperuanisima.com/wp-content/uploads/2021/07/cropped-Logo-150x113-1.png" group-title="INTERNACIONALES", TV Peruanísima
 https://62fc643fbf1aa.streamlock.net/TVperuanisima/TVperuanisima/playlist.m3u8
 #EXTINF:-1 tvg-id="BR | Perú Channel" tvg-name="BR | Perú Channel" tvg-logo="https://pbs.twimg.com/profile_images/1385792142329647107/iBTUTc12_400x400.jpg" group-title="INTERNACIONALES", Perú Channel
 https://a.cdni.live/peruchanel/peruchanel/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Canal J" tvg-name="PE | Canal J" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/131214018_3866423700047988_8558381379666563264_n.jpg/revision/latest/scale-to-width-down/48?cb=20211025171017&path-prefix=es" group-title="REGIONALES", Canal J
-http://191.97.60.193:10000/play/a04w/index.m3u8
 #EXTINF:-1 tvg-id="PE | Justicia TV" tvg-name="PE | Justicia TV" tvg-logo="https://justiciatv.pj.gob.pe/wp-content/uploads/2016/05/logo.png" group-title="REGIONALES", Justicia TV
 http://bantel.iptvperu.tv:1935/transcoderip/justiciatv_t1/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Onda Digital" tvg-name="PE | Onda Digital" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQRrS2R_HFcGI0RVqhw9IN02y3s05eq4oq10yZ5UQ=s88-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", Onda Digital Noticias
