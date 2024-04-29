@@ -1578,7 +1578,7 @@ https://deh05ueq91v6s.cloudfront.net/SNTPY/0bd4cfaf086c4ac0ce0101172a42ba20.sdp/
 #EXTINF:-1 tvg-id="PY | La Tele" tvg-name="PY | La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Latele_Paraguay.jpg" group-title="PARAGUAY", 763 | La Tele || PARAGUAY
 http://177.234.230.226:8010/play/a034/index.m3u8
 #EXTINF:-1 tvg-id="PY | Trece" tvg-name="PY | Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/100px-Logotrececanal.png" group-title="PARAGUAY", 764 | Trece || PARAGUAY
-http://186.103.142.222:8000/play/a0ay/index.m3u8
+https://rds3gen.desdeparaguay.net/trecetv/trecetv_baja/playlist.m3u8?k=642f86c31b9f6efa31c4c7f5d94f2e682d2df5bb79b33138abda6f6740368a3a&exp=1700094217
 #EXTINF:-1 tvg-id="PY | Unicanal" tvg-name="PY | Unicanal" tvg-logo="https://television.com.py/wp-content/uploads/2015/03/UnicanalLogotvpy.jpg" group-title="PARAGUAY", 765 | Unicanal || PARAGUAY
 https://rds3gen.desdeparaguay.net/unicanal/unicanal_baja/playlist.m3u8?k=d6cb4f4a6901fc85c9b8fe88f6622db6a090b5a4c76a3d6df34efe8e26619f0d&exp=1699015632
 #EXTINF:-1 tvg-id="PY | ABC TV" tvg-name="PY | ABC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Abc_color.PNG/245px-Abc_color.PNG" group-title="PARAGUAY", 766 | ABC TV || PARAGUAY
@@ -2553,7 +2553,7 @@ https://streamingecuador.net:8076/radiosucre
 https://streamingecuador.net:7078/stream
 #EXTINF:-1 tvg-id="EC | Radio Cristal" tvg-name="EC | Radio Cristal" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-ec/cristal.png" group-title="EMISORAS INTERNACIONALES", 1243 | Radio Cristal 870 AM || ECUADOR
 http://78.47.60.149/9958/;
-#EXTINF:-1 tvg-id="EC | Radio Sistema 2" tvg-name="EC | Radio Sistema 2" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-ec/sistema-2-1080-am.png" group-title="EMISORAS INTERNACIONALES", 1244 | Radio Sistema 2 1080 AM || ECUADOR
+#EXTINF:-1 tvg-id="EC | Radio Sistema 2" tvg-name="EC | Radio Sistema 2" tvg-logo="https://play-lh.googleusercontent.com/btUZExyzwDJm77WZtsyY8saNMlUSigX7keJviQIHZHEK6LlSkZXT4SKYeetJ1DU_R6Y" group-title="EMISORAS INTERNACIONALES", 1244 | Radio Sistema 2 1080 AM || ECUADOR
 https://streamingecuador.net:8052/radiosistema2
 #EXTINF:-1 tvg-id="EC | Radio Popular" tvg-name="EC | Radio Popular" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/k2dyp3rzuap3.png" group-title="EMISORAS INTERNACIONALES", 1245 | Radio Popular de Cuenca 1290 AM || ECUADOR
 https://stream-50.zeno.fm/py6f6znfntzuv?zs=kYEzAzomTc-ju220HEsXzg
