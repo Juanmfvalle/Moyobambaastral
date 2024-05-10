@@ -450,7 +450,7 @@ http://190.61.55.186:1010/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="CL | Mundo & Sabor" tvg-name="CL | Mundo & Sabor" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MUNDO-Y-SABOR-FONDO-2-300x169.jpg" group-title="GASTRONOMÍA", 218 | Mundo & Sabor
 https://marine2.miplay.cl/mundoysabor/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Golf Channel" tvg-name="USA | Golf Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/200px-Golf_Channel_Logo_2018.png" group-title="DEPORTES", 219 | Golf Channel
-http://138.59.177.34:8000/play/a03b/index.m3u8
+http://177.53.153.20:8001/play/a06m/index.m3u8
 #EXTINF:-1 tvg-id="CL | Sport Ext" tvg-name="CL | Sport Ext" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/SPORT-EXT-FONDO-2-300x169.jpg" group-title="DEPORTES", 220 | Sport Ext
 https://marine2.miplay.cl/sportext/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | ESPN" tvg-name="USA | ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="DEPORTES", 221 | ESPN
@@ -471,16 +471,16 @@ http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN7_t2.stream/playlist.m3u8
 http://138.59.177.34:8000/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="MX | Claro Sports 2" tvg-name="MX | Claro Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest/scale-to-width-down/250?cb=20210423191014&path-prefix=es" group-title="DEPORTES", 229 | Claro Sports 2
 http://138.59.177.34:8000/play/a01j/index.m3u8
-#EXTINF:-1 tvg-id="CL | TNT Sports" tvg-name="CL | TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/320px-TNT_Sports_2021_logo.svg.png" group-title="DEPORTES", 230 | TNT Sports
-http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
+#EXTINF:-1 tvg-id="CL | TNT Sports Premium" tvg-name="CL | TNT Sports Premium" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzQwVnPyY2n5zg9-urirfC0xWQKvTvaxg_-_S51G7B&s" group-title="DEPORTES", 230 | TNT Sports Premium
+http://177.53.153.20:8001/play/a01x/index.m3u8
 #EXTINF:-1 tvg-id="AR | TyC Sports" tvg-name="AR | TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/245px-TyC_Sports_logo.svg.png" group-title="DEPORTES", 231 | TyC Sports
-http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
+http://177.53.153.20:8001/play/a03y/index.m3u8
 #EXTINF:-1 tvg-id="AR | El Garage TV" tvg-name="AR | El Garage TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS-T1STlbnBP1FvFZIpa4XY9LsYWzX0KuHw72YVeg=s88-c-k-c0x00ffffff-no-rj" group-title="DEPORTES", 232 | El Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-id="USA | Latin América Sport" tvg-name="USA | Latin América Sport" tvg-logo="https://pbs.twimg.com/media/F7kw9GuWsAAmPrJ?format=png&name=small" group-title="DEPORTES", 233 | Latin América Sport
-http://138.59.177.34:8000/play/a049/index.m3u8
-#EXTINF:-1 tvg-id="CR | Tigo Sports Costa Rica" tvg-name="CR | Tigo Sports Costa Rica" tvg-logo="https://play-lh.googleusercontent.com/6hNBaZu9_Ss-aBT6NOib7gTdU6fokNFqhOVCvGkIBjuLKXK6USX5fBfWsDfQjrD0L-A" group-title="DEPORTES", 235 | Tigo Sports Costa Rica
-http://138.59.177.34:8000/play/a05i/index.m3u8
+http://177.53.153.20:8001/play/a07i/index.m3u8
+#EXTINF:-1 tvg-id="CR | Tigo Sports" tvg-name="CR | Tigo Sports" tvg-logo="https://play-lh.googleusercontent.com/6hNBaZu9_Ss-aBT6NOib7gTdU6fokNFqhOVCvGkIBjuLKXK6USX5fBfWsDfQjrD0L-A" group-title="DEPORTES", 235 | Tigo Sports
+http://177.53.153.20:8001/play/a094/index.m3u8
 #EXTINF:-1 tvg-id="CL | Fitmaxx TV" tvg-name="CL | Fitmaxx TV" tvg-logo="https://pbs.twimg.com/media/FSk6Zq7WQAA7Cp8?format=png&name=240x240" group-title="DEPORTES", 236 | Fitmaxx TV
 https://marine2.miplay.cl/fitmaxx/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | PX Sports" tvg-name=MX | PX Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/PX_Sports_-_Logo.png/300px-PX_Sports_-_Logo.png" group-title="DEPORTES", 237 | PX Sports
