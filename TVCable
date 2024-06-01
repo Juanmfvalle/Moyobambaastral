@@ -4,7 +4,7 @@ https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=v
 #EXTINF:-1 tvg-id="PE | Latina Televisión" tvg-name="PE | Latina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="PERU", 2 | Latina Televisión
 https://live-evg4.tv360.bitel.com.pe/bitel/latina/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-id="PE | La Tele" tvg-name="PE | La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/400px-LaTele_Per%C3%BA_2018_Logo.png" group-title="PERU", 3 | La Tele
-http://bantel.iptvperu.tv:1935/transcoder_t1/latele_t1/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdnery/latele.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | América Televisión
 https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana Televisión
@@ -30,11 +30,11 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnery/atvsur.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | PBO TV" tvg-name="PE | PBO TV" tvg-logo="https://pboradio.minegocio21.com/wp-content/uploads/2020/10/logo278.jpg" group-title="PERU", 10 | PBO TV
 http://bantel.iptvperu.tv:1935/astra/PBO/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Viva TV" tvg-name="PE | Viva TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/PyW6vij-.jpg/175px-PyW6vij-.jpg" group-title="PERU", 11 | Viva TV
-http://bantel.iptvperu.tv:1935/transcoder_t1/vivatv_t1/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdnery/vivatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | USMP TV" tvg-name="PE | USMP TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/USMP_TV_2017.svg/revision/latest/scale-to-width-down/56?cb=20210504214359&path-prefix=es" group-title="PERU", 12 | USMP TV
 http://bantel-cdn1.iptvperu.tv:1935/cdnery/usmp.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | USMP TV Música" tvg-name="PE | USMP TV Música" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/USMP_TV_M%C3%BAsica.png" group-title="MUSICA Y REALITIES", 12.2 | USMP TV Música
-http://bantel.iptvperu.tv:1935/transcoder_t6/usmptvmusicamovil_t6.stream/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdnery/usmptv_musica.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Global Televisión" tvg-name="PE | Global Televisión" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMObN_3dPu0x6ipIMnQiPhMsWdYVDq5ZXCPA68_3m2KC_k9CT4VpttLSvI7f-mzLYi7w8&usqp=CAU" group-title="PERU", 13 | Global Televisión
 http://bantel-cdn1.iptvperu.tv:1935/cdnery/global.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Vinilos TV" tvg-name="PE | Vinilos TV" tvg-logo="https://playmax.tv/wp-content/uploads/2023/05/vinilostv-bn.png" group-title="LOCALES", 14 | Vinilos TV || Moyobamba
